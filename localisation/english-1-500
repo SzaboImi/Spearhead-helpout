@@ -1,0 +1,500 @@
+1	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 30% reduced sight radius, and disabled weapons while moving.
+2	Duration 15s.
+3	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 60% suppression resistance, 30% reduced sight radius, and disabled weapons while moving.
+4	Duration: 20 seconds. Infantry move at maximum speed.
+5	Duration 20s. Cannot fire weapons while moving, sight radius reduced.
+6	Soldiers seek ground for protection but will not move.
+7	Player triggered.
+8	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice. Guaranteed to destroy bridges.
+9	Plant Demolition Charge
+10	Plant Demolition Charge
+11	Plant Demolition Charge
+12	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice.
+13	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice.
+14	Player triggered.
+15	Player triggered.
+16	Can only field 2 600th SS-Fallschirmjäger Squads at a time.
+17	Effective at close range.
+18	Armaments: (K98s, MP40), *MP40s x2, *StG44s x2/4, *FmW 35, Skill: Elite, Role: Assault.
+19	Extensively trained to treat any wound their fanatical brethren sustained, medical personnel of the Waffen-SS ranged from field medics and stretcher bearers to professional surgeons and doctors. Gains veterancy from nearby allies.
+20	SS-Stoßtruppen
+21	Carries troops across forbidding battlefields, protecting against small arms and weather exposure.
+22	The SdKfz 251 Half-track is a robust and reliable MG-armed vehicle that offers good protection against small-arms fire and provides a stable firing platform for troops inside.
+23	Transports two squads of infantry. Weak to anti-tank guns, mortars, infantry anti-tank.
+24	Division Großdeutschland Panzergrenadiere
+25	SS-Fallschirmjäger-Bataillon 600 Fallschirmjäger
+26	SdKfz 251 Half-track
+27	Select infantry, right-click on abandoned vehicle to re-crew.
+28	(2) -The number on the abandoned vehicle indicates required infantry needed to capture.
+29	Abandoned 251 Half-track; re-crew with infantry
+30	SdKfz 251 Half-track
+31	SdKfz 251 Half-track
+32	Already upgraded with a Panzerschreck.
+33	Already upgraded with an MG34 LMG
+34	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+35	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+36	Maschinengewehr 34 LMG
+37	Already upgraded with a PzB 39 AT Rifle.
+38	Conditioning allows troops to sprint at full speed, but also recover their stamina faster.
+39	Weapon Inventory Full. 
+40	Already upgraded with a DP-28 Light Machinegun.
+41	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Capacity: 47 Rounds. Effective at long range vs. infantry.
+42	Nicknamed the "record player" due to its outlandish design, the DP provides Soviet troops a steady rate of suppressive fire down range.
+43	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
+44	Degtyaryov (DPM)
+45	Veterancy 1
+46	Utility vehicle, (Traits: + Highly Mobile, - Easily Decrewed, - Unarmed): Can be equipped to bring in reinforcements, medical aid, or repair stations.
+47	Armaments: None, Armor: None, Role: Utility, Capacity: 12, Speed: 80 km/h. Transports infantry, crewed weapons, and large guns. Gains veterancy from nearby allies.
+48	The workhorse of the Waffen-SS, the dependable Opel not only transported troops to the front but also supplies and weapons.
+49	Four infantry squads can be carried. Protects against cold weather.
+50	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
+51	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+52	Type: Submachine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.62x25mm, Quantity: 3, Effective at close range vs. infantry.
+53	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+54	PPSh-41 Submachine Gun Package
+55	PPSh-41 SMG Package
+56	1 Weapon Inventory Spaces
+57	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+58	Panzerbüchse 39 Shipment
+59	PzB 39 AT Rifles.
+60	Medium tank, (Traits: + Accurate, + Cheaper, - Slow Turret Traverse): Multiple retrofit options, use for infantry support, or engaging other tanks.
+61	Armaments: 7.5 cm KwK 40 L/48, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 80mm, Role: General Purpose, Speed: 42 km/h.
+62	Designed for faster production, the retrograde Ausf. J was meant to hastily replenish the shattered SS Panzer divisions. Kept frontline viable due to its unerring 7.5 cm KwK 40 L/48, it suffered from a sluggish hand cranked turret traverse.
+63	Panzerkampfwagen IV Ausf. J
+64	Pz.Kpfw. IV Ausf. J
+65	Battle Phase 1
+66	Fast Sprint
+67	The Volksgrenadiers gain 40% resistance against blizzards and handheld anti-vehicle weaponry.
+68	The Volksgrenadiers gain 40% resistance against blizzards and handheld anti-vehicle weaponry.
+69	SS-Sturmbannführer Retinue
+70	Armaments: (K98s, Luger), *G43s x2, *StG44s x2, Skill: Experienced, Role: Strategic Support.
+71	Officer, (Multiple Sector Aura: +50% Capture Rate, +33% Ability Cooldown), brings in a formidable array tactical support to the field. Limit of 1 Squad.
+72	SS-Sturmbannführers (Majors) are high-ranking field officers within the Nazi Party, commanding their men with ruthless efficiency, and ferocity. Gains veterancy from nearby allies. 
+73	SS-Sturmgrenadiere
+74	101st Airborne Division Assault Team
+75	101st Airborne Divsion Paratrooper Squad
+76	101st Airborne Divsion Paratrooper Squad
+77	101st Airborne Divsion Pathfinder Team
+78	83rd Infantry Division Recon Squad
+79	5th Battalion Ranger Assault Team
+80	Truck, Cargo, ¾, 4x4 Weapons Carrier, WC51
+81	SS-Sturmpioniere
+82	Pioniere
+83	Oberstleutnant Retinue
+84	Oberstleutnant
+85	This "Lieutenant Colonel" and his retinue provide artillery support in the form of flares, Stuka Smoke Bombs, victor target, and sector artillery.
+86	Soldiers lay down a volume of suppressive fire with their rapid-firing rifles. 
+87	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+88	Designed ahead of its time, the Maschinengewehr 34 provides portability, firepower, and reliability on a single weapons platform.
+89	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry.
+90	Veterancy 3
+91	Frag Grenade, the Model 39 'Egg Grenade', a cheap but unremarkable grenade with minimal blast radius and throwing range. 
+92	Throw Model 39 Eierhandgranate
+93	Throws a Model 39 Eierhandgranate, an inexpensive grenade with a small blast radius, and short throw distance.
+94	Armaments: (K98s, StG44) *StG44s x2, *G43-Zf4, *MG42, Training: Elite, Role: Assault. Effective at medium range vs. infantry.
+95	Strong anti-tank infantry, ideal for ambushing armor and light vehicles at close range.
+96	The Stoßtruppen have access to a wide variety of close quarter weapons and grenades to assault enemy positions.
+97	Can only field 2 Panzerjäger Squads at a time
+98	352. Infanterie-Division Stoßtruppen
+99	Veterancy 2
+100	Veterancy 2
+101	Veterancy 1
+102	Panzer III Medium Tank
+103	Panzer III
+104	Effective against infantry targets. Weak to heavy anti-tank, assault guns.
+105	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry.
+106	Designed ahead of its time, the Maschinengewehr 34 provides portability, firepower, and reliability on a single weapons platform.
+107	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+108	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
+109	StG 44 Assault Rifles
+110	Veterancy 3
+111	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Quantity: 4, Effective at medium range vs. infantry. 
+112	StG 44 Assault Rifles
+113	Veterancy 2
+114	Veterancy 2
+115	Submachine guns increase short-range combat effectiveness.
+116	Type: Submachine Gun, Rate of Fire: 700 rounds per minute, Cartridge: 11.43×23mm, Capacity: 30 Rounds, Quantity: 4. Effective at close range vs. infantry.
+117	The iconic, and infamous Thompson became popular by soldiers for its thunderous rate of fire and powerful .45 ACP rounds.
+118	Submachine Gun, Cal .45, M1A1 (x4)
+119	Thompson SMG Package
+120	Veterancy 5
+121	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Effective at medium range vs. infantry. 
+122	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
+123	4x Sturmgewehr 44 'Assault Rifles'
+124	StG 44 Assault Rifles
+125	SS-Panzer
+126	Anti-tank infantry, (Traits: + Camouflage): Terrifyingly lethal with their Panzerschreck, these anti-tank teams can obliterate any tank within range, or used against infantry cowering behind cover. Limit of 2.
+127	Armaments: (K98, StG44, Panzerschreck), Skill: Regular, Role: Anti-Armour.
+128	SS-Panzerjäger
+129	Leichtes Maschinengewehr 34
+130	Anti-Tank Rocket, a single-use 149mm rocket that deals an exceptional amount of damage against tanks from a moderate distance.
+131	Left-click ability, left-click target vehicle. Effective at medium range vs. armour & emplacements.
+132	Fire Panzerfaust-100
+133	Hit the Dirt!
+134	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 30% reduced sight radius, and disabled weapons while moving.
+135	Armaments: (K98, StG44), *MP40s x2, *StG44s x2, *MG34, *Panzerschreck, Skill: Regular, Role: Frontline. 
+136	Armaments: (K98s/Lugers, StG44), *MP40s x2, *MG42, *StG44s x2, *FG42s-Zf4 x2, Skill: Elite, Role: Assault.
+137	6th SS-Gerbirgsdivsion Light Infantry Squad
+138	Großdeutschland Division Panzergrenadier Squad
+139	Großdeutschland Division Panzergrenadier Squad
+140	Großdeutschland Division Panzergrenadier Squad
+141	Großdeutschland Division Panzergrenadier Squad
+142	Waffen-SS Grenadier Squad
+143	Waffen-SS Grenadier Squad
+144	Waffen-SS Grenadier Squad
+145	Waffen-SS Grenadier Squad
+146	3rd Fallschirmjägers Divsion Paratrooper Squad
+147	3rd Fallschirmjägers Divsion Paratrooper Squad
+148	3rd Fallschirmjägers Divsion Paratrooper Squad
+149	3rd Fallschirmjägers Divsion Paratrooper Squad
+150	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
+151	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
+152	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
+153	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
+154	New weapon team - MG42 HMG - available for deployment. Click and select location to deploy.
+155	A MG42 Heavy Machine Gun Team can be deployed to the battlefield. This weapon is effective at suppressing massed infantry.
+156	MG42 Heavy Machine Gun Team
+157	Cold Weather Gear
+158	The squad is issued cold weather gear for increased surivability in cold weather conditions. It provides 60% reduced effects from the cold.
+159	Soviet tankers can use their own tank as a thirty-ton battering ram, smashing into enemy tanks with the hope of disabling them.
+160	Soviet tankers can use their own tank as a thirty-ton battering ram, smashing into enemy tanks with the hope of disabling them.
+161	Rapid fire from the rifle will force enemy units to the ground and keep them moving slowly for a short period of time.
+162	Veterancy 1
+163	Assault rifles increases short to mid-range combat effectiveness, at the cost of slightly reduced long-range effectiveness.
+164	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
+165	2x Sturmgewehr 44 'Assault Rifles'
+166	StG 44 Assault Rifles
+167	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like paper.
+168	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry. 
+169	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like mere paper.
+170	The MG-42 is one of the best machine guns in the war, offering an unparalleled rate of fire.
+171	The MG-42 is one of the best machine guns in the war, offering an unparalleled rate of fire.
+172	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
+173	Assault rifles increases short to mid range combat effectiveness, at the cost of slightly reduced long range effectiveness.
+174	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
+175	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Effective at medium range vs. infantry. 
+176	StG 44 Assault Rifles
+177	Sturmgewehr 44 Assault Rifles
+178	The Panzerbusche 39 rifle fires high velocity 14.5mm rounds that can pierce light armor and smash defenses.
+179	The Panzerbusche 39 rifle fires high velocity 14.5mm rounds that can pierce light armor and smash defenses.
+180	Two heavy Pzb. 39 rifles improve anti-vehicle and anti-structure capability.
+181	Panzerbusche 39 Anti-tank Rifles
+182	Pzb. 39 Anti-tank Rifles
+183	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Effective at medium range vs. vehicles. Must be stationary.
+184	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+185	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+186	Panzerbüchse 39 Anti-tank Rifles
+187	Pzb. 39 Anti-tank Rifles
+188	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
+189	Gewehr 43 (Zf.4)
+190	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
+191	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+192	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+193	MG34 LMG
+194	Maschinengewehr 34 LMG
+195	MG34 LMG
+196	Maschinengewehr 34 Shipment
+197	MG34 LMG
+198	MG34 LMG
+199	Leichtes Maschinengewehr 42
+200	MG42 LMG
+201	Maschinengewehr 42 Shipment
+202	MG42 LMG
+203	Maschinengewehr 42 LMG
+204	MG42 LMG
+205	Sturmgewehr 44 (x2)
+206	Already upgraded with Gewehr 43 rifles.
+207	Already upgraded with Gewehr 43 rifles.
+208	Already upgraded with Sturmgewehr 44 rifles.
+209	Already upgraded with Panzerbusche 39 rifles.
+210	Already upgraded with Gewehr 43 rifles.
+211	Already upgraded with a Machinegewehr 42 LMG.
+212	Already upgraded with Gewehr 43 rifles.
+213	Already upgraded with Panzerbusche 39 rifles.
+214	Already upgraded with Sturmgewehr 44 rifles.
+215	Left-click ability, left-click target vehicle. Duration: 10s, or until fire is interrupted.
+216	Machine gun fire blocks the vehicle's viewport and optics, reducing movement speed and rate of fire.
+217	Veterancy 2
+218	RPzB 54 "Panzerschreck"
+219	Panzerschreck
+220	Meaning 'tank terror', the Panzerschreck gives infantry a very credible, powerful anti-tank weapon.
+221	Meaning 'tank terror', the Panzerschreck gives infantry a very credible, powerful anti-tank weapon.
+222	Type: Rocket Launcher, Cartridge: 88mm, Penetration: 210mm Steel, Effective at close range vs armor.
+223	Already upgraded with a Machinegewehr 42 LMG.
+224	Already upgraded with Gewehr 43 rifles.
+225	Already upgraded with Panzerbusche 39 rifles.
+226	Veterancy 3
+227	Panzerwurfmine Anti-Tank Grenade Assault
+228	Left-click ability, left-click target position. Effective at medium range vs. emplacements & vehicles. Duration: 30s.
+229	Throw Model 24 Smoke Grenade
+230	Model 24 Smoke Grenade discharges a thick gray smoke cloud, which obscures line of sight.
+231	Veterancy 1
+232	Already upgraded with a Machinegewehr 42 LMG.
+233	Already upgraded with Sturmgewehr 44 rifles.
+234	Pzb. 39 Anti-tank Rifles
+235	Panzerbüchse 39 (x2)
+236	The Panzerbüchse 39 (Tank Hunting Rifle) fires heavy 7.92x94mm rounds that can take on armoured vehicles. A secondary magazine near the breech aided reload times.
+237	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+238	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Effective at long range vs. vehicles. Must be stationary.
+239	Maschinengewehr 42
+240	8.14 cm Granatwerfer 34
+241	M1910 Maxim Machine Gun Team
+242	HM-38 120mm Mortar Team
+243	82-mm Minomet Obraztsa 1941 Goda
+244	DShK 38 Heavy Machine Gun Team
+245	Granatwerfer 378 (r) 12 cm Mortar Team
+246	3rd Fallschirmjäger MG42 Team
+247	Maschinengewehr 34
+248	82-mm Minomet Obraztsa 1941 Goda
+249	8.14 cm GrW 34
+250	IS-2 M1943 Heavy Tank
+251	IS-2 M1943 Heavy Tank
+252	Crew switches to armor piercing BR-350SP shells.
+253	Fire BR-350SP Armor-Piercing Rounds
+254	Load BR-350SP Armor-Piercing Rounds
+255	Crew switches to armor piercing BR-350SP shells.
+256	Crew switches to armor piercing BR-350SP shells.
+257	Crew switches to armor piercing Pzgr. 40 shells.
+258	Crew switches to armor piercing Pzgr. 40 shells.
+259	Duration 30s.
+260	Load Pzgr. 40 Armor-Piercing Rounds
+261	Crew switches to armor piercing Pzgr. 40 shells.
+262	Pzgr. 40 Armor-Piercing Rounds
+263	Switch to firing Pzgr. 40 APCR Rounds, which have increased accuracy and armor penetration
+264	Load Pzgr. 40 APCR Rounds
+265	Switch to firing Pzgr. 40 APCR Rounds, which have increased accuracy and armor penetration
+266	Pzgr. 40 APCR Rounds
+267	Flakpanzer IV Ostwind Anti-Aircaft Gun
+268	Flakpanzer IV/3.7 cm Ostwind
+269	Flakpanzer IV Ostwind Anti-Aircaft Gun
+270	Flakpanzer IV Ostwind Anti-Aircaft Gun
+271	Flakpanzer IV Ostwind Anti-Aircaft Gun
+272	Panzer IV Ausf J. Medium Tank
+273	Panzer IV
+274	Panzerkampfwagen IV Ausf. H
+275	Pz.Kpfw. IV Ausf. H
+276	Pz.Kpfw. Ausf. F IV Command Tank
+277	9. SS-Panzer-Division Pz.Bfw. IV Ausf. J
+278	Panzerkampfwagen IV Ausf. F1
+279	Pz.Kpfw. IV Ausf. F1
+280	Panzerjäger Tiger (P) ‘Ferdinand’
+281	Sonderkraftfahrzeug 234/2 'Puma'
+282	Panzerspähwagen Sonderkraftfahrzeug 221
+283	Panzerkampfwagen V Ausf. G ‘Panther’
+284	Panzerkampfwagen V Ausf. G ‘Panther’
+285	Armaments: (Mosin-Nagants, PPSh-41, PTRS-41), *M1A1 Bazooka, *PTRS-41-PU, Skill: Experienced, Role: Anti-Armour. 
+286	Protivotankovaya Zveno
+287	Protivotankovaya Zveno
+288	Anti-tank infantry, (Traits: + Camouflage): Equipped with a PTRS-41 anti-tank rifle, these hunters can snipe out armored cars from afar, or assault enemy tanks with grenades. Limit of 2.
+289	The Red Army's anti-tank teams are equipped with the large-caliber PTRS-41 anti-tank rifle; great for any target short of an actual medium tank. Powerful hollow charge weapons, such as the RPG-43, and explosives were expended on heavier targets.
+290	Left-click ability, left-click target vehicle.
+291	Anti-Tank Rocket, a single-use 149mm rocket that deals an exceptional amount of damage against tanks from a moderate distance. These potent weapons were frequently obtained from dead German soldiers.
+292	Fire Captured Panzerfaust-100
+293	Veterancy 2
+294	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
+295	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
+296	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Effective at medium range vs. infantry. Must be stationary.
+297	DP Light Machine Gun
+298	Armaments: (Mosin-Nagants, PPSh-41), *DP-28 x1/2, *PTRS-41, *PPSh-41s x2, *M91/30-PU, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+299	Armaments: (Mosin-Nagants, PPSh-41) *DP-28, *ROKS-35, *ZB vz. 30, *PPSh-41s x2/4, Training: Elite, Role: General Purpose. Effective at medium range vs. infantry.
+300	13-ya Gvardeyskaya Strelkovaya Diviziya Gvardeytsy
+301	166-ya sd. Frontoviki
+302	8th Guards Motor Rifle Division Frontoviki
+303	8th Guards Rifle Frontoviki
+304	Already upgraded with a Machinegewehr 34 LMG.
+305	Already upgraded with Gewehr 43 Rifles.
+306	Line infantry, (Traits: + Interrogation, + Doctrinal Upgrades): Extensive training, and fanatical devotion allows for a distinct edge against other infantry.
+307	Ideologically motivated and tactically capable, Waffen-SS Sturmgrenadiere could tackle a variety of combat situations. Heavily indoctrinated into the Nazi Party, these men were ready and willing to sacrifice their lives to defend the Reich.
+308	Pz.Kpfw. IV Tank Crew
+309	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+310	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+311	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+312	Vehicle Crews can do limited repairs to any damaged structure, vehicle, or bridge.
+313	The Vehicle Crew are armed with pistols and submachine guns, can repair vehicles and structures or capture territory.
+314	Repair vehicles, structures, or bridges.
+315	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+316	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+317	StuG III Tank Crew
+318	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+319	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+320	Ostwind Tank Crew
+321	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+322	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+323	Panther Tank Crew
+324	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+325	Armaments: (M1895s, PPSh-41) *PPSh-41s x2, Training: Experienced, Role: Vehicle Crew. Direct Combat is not advised.
+326	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+327	Armaments: (M1895s, PPSh-41) *Mosin-Nagant M44s x2, *PPSh-41s x2, Training: Experienced, Role: Vehicle Crew. Direct Combat is not advised.
+328	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+329	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+330	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+331	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+332	Despite the self-less, and heroic actions of many Soviet tankers throughout the war, the official stance was held that they were merely infantry support. Thus, they didn't not receive as much recognition for their sacrifices.
+333	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+334	Despite the self-less, and heroic actions of many Soviet tankers throughout the war, the official stance was held that they were merely infantry support. Thus, they didn't not receive as much recognition for their sacrifices.
+335	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+336	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+337	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+338	The Panzer Crews are the force behind Germany's armoured war machines. Disciplined, and highly coordinated, their tactics & strategies shaped the modern view of tank combat.
+339	Armaments: (Lugers, MP40), *MP40s x2, Training: Experienced, Role: Vehicle Crew. Direct Combat is not advised.
+340	Armaments: (Lugers, MP40), *MP40s x2, Training: Experienced, Role: Vehicle Crew. Direct Combat is not advised.
+341	Armaments: (Lugers, MP40), *MP40s x2, Training: Experienced, Role: Vehicle Crew. Direct Combat is not advised.
+342	Armaments: (Lugers, MP40), *MP40s x2, Training: Experienced, Role: Vehicle Crew. Direct Combat is not advised.
+343	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+344	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+345	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+346	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+347	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+348	Wehrmacht's Panzer crews developed a stern reputation as skilled, and disciplined men that brought the most out of their tanks. However, over-engineered tanks made field repairs extremely difficult in most cases.
+349	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+350	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+351	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+352	Armaments: (Lugers, MP40), *MP40s x2, Training: Experienced, Role: Vehicle Crew. Direct Combat is not advised.
+353	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+354	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+355	Armaments: (K98s, MP40), *MP40s x2, *StG44s x2, Skill: Poor, Role: Tactical Support.
+356	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+357	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+358	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+359	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+360	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+361	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+362	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+363	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+364	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+365	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+366	Tank Crew
+367	Panzer Ace Crew
+368	Panzer Command Crew
+369	Vehicle Crew
+370	Veteran Panzer Crew
+371	Vehicle Crew
+372	Vehicle Crew
+373	Vehicle Crew
+374	Vehicle Crew
+375	Vehicle Crew
+376	Veteran SS-Panzer Crew
+377	Command Tank Crew
+378	Ace Tank Crew
+379	Tank Crew
+380	Tank Crew
+381	Tankmen
+382	Command Tank Crew
+383	Veteran Tankmen
+384	Vehicle Crew
+385	Vehicle Crew
+386	Vehicle Crew
+387	Weak support infantry. Good for crewing vehicles and emergency battlefield repairs.
+388	Vehicle crews have limited combat capability but are able to perform emergency repairs on vehicles.
+389	Tank Crew
+390	Panzerhalle
+391	Few in number but larger than life, Wehrmacht heavy Panzers were renowned for holding against waves of Allied tanks. Fusing unerringly accurate main guns with thick armored plating, these legendary tanks dominated the battlefield.
+392	Deploy Heavy Tanks, Tank Destroyers, and Self-Propelled Howitzers.
+393	Provides heavily armored vehicles capable of turning the tide of the battle, as well as upgrades for cheaper infantry costs.
+394	Fahrzeughalle
+395	The backbone of Wehrmacht armored forces, medium Panzers were the true strength behind their mightier siblings. Better armed and armored than their Allied counterparts, these Panzers had a marginal but noticeable advantage in combat.
+396	Waffenkammer
+397	Throughout the war the Wehrmacht developed a vast array of crewed-weapons and light vehicles to augment its infantry. Versatile and reliable, these weapons and vehicles provided invaluable support against the overwhelming Allies.
+398	Deploy Light Vehicles, Halftracks, Anti-Tank Guns, and Rocket Artillery. 
+399	Baracken
+400	Highly motivated veterans of countless battles, Wehrmacht troops learned how to fight in a host of environments. Steadfast, courageous and loyal, these men were prepared to fight by any means necessary to protect their beloved Fatherland.
+401	Battle Phase 1
+402	Battle Phase 1
+403	Battle Phase 2
+404	Excellent armor and an even better gun. The Tiger can tackle any foe on the battlefield.
+405	Armaments: 8.8 cm KwK 36 L/56, Hull MG34, *Pintle MG42, Armor: 120mm, Role: General Purpose, Speed: 45 km/h. Effective at long range vs. armor. 
+406	The most well-rounded heavy tank in the war, the Tiger's mix of armor, mobility, and firepower is legendary. The deadly 88mm KwK 36 gun can crush the armor of any enemy tank.
+407	Panzerkampfwagen 'Tiger' Ausf. E Heavy Tank
+408	Tiger PzKpfw VI
+409	The early model of the IS-2, it marries a heavy but slow-firing 122mm gun, however lacks a machine gun turret and has slightly inferior armor.
+410	Scharfschütze
+411	Armaments: (M1C Garand-M84), Skill: Elite, Role: Sniper.
+412	Sniper infantry, (Traits: + High Detection Range): Useful for taking out specific infantry targets at extreme range. Limit of 2 Squads.
+413	American sniper school prioritized marksmanship above all else, making them invaluable for taking out entrenched German positions. Snipers frequently removed the semi-automatic gas system from their rifles to avoid wasting ammo.
+414	Sniper
+415	Frontoviki
+416	Armaments: (Mosin-Nagants, PPSh-41), *SVT-40s x2, *PPSh-41s x2, *DP-28, *M91/30-PU, Skill: Regular, Role: Frontline.
+417	Line infantry, (Traits: + Doctrinal Upgrades): Reasonably trained soldiers that can be armed to fight against most enemies of the Motherland.
+418	While the Red Army was known for its heavy use of conscripted troops, Strelki were trained, disciplined, and ready to give their lives for the Motherland.
+419	Loads and fires a Gr. 38 high-explosive anti-tank round that deals heavy damage and a chance of stunning the enemy vehicle crew.
+420	Load Pzgr. 38 HEAT Round
+421	Gr. 38 HEAT round stuns the enemy vehicle crew.
+422	Load Pzgr. 38 HEAT Round
+423	Load Gr.38 HEAT Round
+424	Gr. 38 HEAT round stuns the enemy vehicle crew.
+425	Loads and fires a high-explosive anti-tank round that deals high damage, penetration, and moderate blast radius.
+426	Loads and fires a Gr. 38 high-explosive anti-tank round that deals heavy damage and a chance of stunning the enemy vehicle crew.
+427	Select infantry, right-click on abandoned vehicle to re-crew.
+428	(2) -The number on the abandoned vehicle indicates required infantry needed to capture.
+429	Abandoned 250 Half-track; re-crew with infantry
+430	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Speed: 76 km/h. Direct combat is not advised.
+431	The Sdkfz 250 Haltrack is a fast moving light vehicle that can garrison one squad of infantry. The units stationed inside can fire out of the halftrack while benefiting from its protection.
+432	SdKfz 250 Half-track
+433	Toggle ability. Increases sight radius in front of the sniper, reducing max speed as well as peripheral vision.
+434	Sniper zooms in to reveal distant targets, disabling his peripheral vision. 
+435	Return to 360-degree observation.
+436	SVT-40 Rifle
+437	Abandoned SVT-40 Rifle; pick up with infantry.
+438	Tokarev SVT-40 (x2)
+439	SVT-40 Rifles
+440	Type: Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.62x54mm, Capacity: 10 Rounds, Quantity: 2. Effective at medium range vs. infantry.
+441	The semi-automatic SVT-40 allows for a higher volume of fire over the Mosin-Nagant rifle. 
+442	Tokarev's SVT-40 is the Red Army's premier semi-automatic rifle, providing infantrymen a substantial firepower increase at most ranges.
+443	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+444	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+445	Type: Submachine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.62x25mm, Quantity: 2, Effective at close range vs. infantry.
+446	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
+447	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
+448	DP Light Machine Gun
+449	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
+450	Already upgraded with PPsh-41 Submachine guns. 
+451	Already upgraded with a DP-28 machine gun.
+452	PPSh-41 Submachine Gun Package
+453	PPSh-41 SMG Package
+454	Weapon Inventory Full. 
+455	Already upgraded with a Machinegewehr 34 LMG.
+456	Already upgraded with a Machinegewehr 42 LMG.
+457	Anti-Tank Gun Camouflage
+458	Crew puts camouflage training into practice. 
+459	Toggle ability. Detection Range: 25m. Delay: 5s. Attacking from camouflage grants increased damage, accuracy & penetration.
+460	Veterancy 2
+461	Fire OF-350 High Explosive Barrage
+462	Fire OF-350 High Explosive Barrage
+463	The SU-76M can fire its ZiS-3 76mm gun in an artillery role, delivering a quick barrage of OF-350 high-explosive shells.
+464	The SU-76M can fire its ZiS-3 76mm gun in an artillery role, delivering a quick barrage of OF-350 high-explosive shells.
+465	Click to activate, duration 20s.
+466	Switch to firing BR-350P Armor-Piercing Rounds, which have increased accuracy and armor penetration
+467	Load BR-350P Armor-Piercing Rounds
+468	Already upgraded with Gewehr 43 rifles.
+469	Already upgraded with Panzerbusche 39 rifles.
+470	Already upgraded with Machinepistole 40s.
+471	Already upgraded with PPsh-41 Submachine guns. 
+472	Already upgraded with a DP-28 machine gun.
+473	Already upgraded with Gewehr 43 rifles.
+474	Already upgraded with Gewehr 43 rifles.
+475	Already upgraded with a Mashinengewehr 34.
+476	Already upgraded with a Machinegewehr 42 LMG.
+477	Already upgraded with Gewehr 43 rifles.
+478	Combat experience leads to 8% increased accuracy, 10% faster ability recharge times, 5% faster reloads, 4% increased weapon penetration, 3% faster rotation speed, 4% faster acceleration, +3 sight radius, +2 range, and 5% reduced hit chance.
+479	The Panzer IV has access to Radio Net, which increases the tank's rate of fire and line of sight range when allied tanks are nearby.
+480	The Panzer IV has access to Radio Net, which increases the tank's rate of fire and line of sight range when allied tanks are nearby.
+481	The Panzer IV has access to Radio Net, which increases the tank's rate of fire and line of sight range when allied tanks are nearby.
+482	A T-34/85, with a powerful 85mm gun, can be requisitioned for the battlefield at reduced cost.
+483	A T-34/85, with a powerful 85mm gun, can be requisitioned for the battlefield at reduced cost.
+484	T-34/85s, with powerful 85mm guns, can be requisitioned for the battlefield at reduced cost.
+485	T-34/85s, with powerful 85mm guns, can be requisitioned for the battlefield at reduced cost.
+486	Load Armor-Piercing Discarding Sabot Rounds
+487	Switch to firing High-Velocity Armor-Piercing Rounds, which have increased accuracy and armor penetration
+488	Click to activate, duration 30s. 
+489	Leutnants command platoon-sized elements within the Wehrmacht, and are most frequently the ones seen fighting alongside their men. Gains veterancy from nearby allies.  
+490	Leutnant Retinue
+491	Armaments: (K98s, Luger), *G43s x2, *MP40s x2, Skill: Experienced, Role: Tactical Support.
+492	Already upgraded with Gewehr 43 rifles.
+493	Already upgraded with Gewehr 43 rifles.
+494	Veterancy 1
+495	Type: Submachine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 9x19mm, Capacity: 32 Rounds, Quantity: 2. Effective at close range vs. infantry.
+496	Regarded as the weapon of choice for the infantry, the MP40's ergonomic build, and steady rate-of-fire allows it to reliably hit enemies at range.
+497	Regarded as the weapon of choice for the infantry, the MP40's ergonomic build, and steady rate-of-fire allows it to reliably hit enemies at range.
+498	Maschinenpistole 40 Shipment (x2)
+499	Already upgraded with Gewehr 43 rifles.
+500	Already upgraded with SVT-40 rifles.
