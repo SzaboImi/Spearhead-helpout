@@ -102,110 +102,110 @@
 	Armaments: (MG42, K98s, MP40), Crew: 5, Skill: Regular, Role: Suppression.
 	Armaments: (12 cm GrW 378 (r), K98s, MP40), Crew: 4, Skill: Regular, Role: Indirect Fire.
 	Armaments: K98, *MG34, *Pzb. 39, Training: Varied, Role: General Purpose. Effective at medium range vs. infantry.
-604	Armaments: (K98s), *K98-Trench x2, *G.259(r)s x2, *MG34, *Pzb. 39, Skill: Poor, Role: Static Defense.
-605	Armaments: (K98s, StG44), *StG44s-Zf4 x2, *G43-Zf4, *MG42, *RPzB-54/1, Skill: Experienced, Role: Frontline.
-606	Armaments: (K98s, MP40), *MP40s x2, *FmW 35, *Pzb. 39, Skill: Regular, Role: Engineer.
-607	Armaments: (G43-Zf4), Skill: Ace, Role: Sniper.
-608	Armaments: (K98s, MP40, Luger), Training: Experienced, Role: Support. Effective at long range vs. static targets and defenses.
-609	Armaments: (Mosin-Nagants, M1895), *ROKS-35, *PPSh-41s x2, Skill: Poor, Role: Engineer.
-610	Armaments: (Mosin-Nagants, PPSh-41) *SVT-40s x2, *PPSh-41s x2, *DP-28, Skill: Poor, Role: Assault.
-611	Armaments: Mosin-Nagant, *DP-28, *SVT-40, Training: Poor, Role: General Purpose. Effective at medium range vs. infantry.
-612	Armaments: (12.7 mm DShK, Mosin-Nagants, PPSh-41), Crew: 6, Skill: Regular, Role: Suppression.
-613	Armaments: (M1910 Maxim, Mosin-Nagants, PPSh-41), Crew: 6, Training: Regular, Role: Suppression. Effective vs. massed infantry.
-614	Armaments: (120 mm HM-38, Mosin-Nagants, PPSh-41), Crew: 5, Skill: Regular, Role: Indirect Fire.
-615	Armaments: (82 mm PM-41, Mosin-Nagants, PPSh-41), Crew: 5, Skill: Regular, Role: Indirect Fire.
-616	Armaments: (K98s, MG34s), MG42, DP28, Training: None, Role: Guerilla. Effective at medium range vs. infantry.
-617	Armaments: (K98s, Panzerschrecks x2), M1 Bazooka, Training: None, Role: Anti-Armor. Effective at medium range vs. armor.
-618	Armaments: (K98s, PTRS-41s x2), Pzb. 39, Training: None, Role: Anti-Armor. Effective at long range vs. light vehicles.
-619	Armaments: (SVT-40), Training: None, Role: Guerilla. Effective at medium range vs. infantry.
-620	Armaments: (PPSh-41), Training: None, Role: Assault. Effective at close range vs. infantry.
-621	Armaments: (K98s), *SVT-40, *PPSh-41, Training: None, Role: Guerilla. Effective at medium range vs. infantry.
-622	Armaments: (K98s, PPS-43), *SVT-40s x2, *PPS-43s x2, *ROKS-3, *PIAT, Skill: Poor, Role: Guerilla.
-623	Armaments: (Mosin-Nagant M91/30-PU, Mosin-Nagant), *Mosin-Nagant M91/30-PU, Skill: Elite, Role: Sniper.
-624	Kommissars are stern political officers in charge of enforcing discipline and patriotism, ensuring their troops are ready to make the ultimate sacrifice. Gains veterancy from nearby allies. 
-625	Armaments: (Mosin-Nagants, PPSh-41, M1895), *PPSh-41s x2, *ROKS-3, Training: Elite, Role: Tactical Support. 
-626	Stabskapitäns (Staff Captains) maintain an iron grip on their subordinates and often have to make life-or-death decisions at a moment's notice. Gains veterancy from nearby allies. 
-627	Armaments: (Mosin-Nagants), *ROKS-35 x1/2, *PPSh-41s x2, Training: Varied, Role: Distraction. Effective at medium range vs. infantry.
-628	Armaments: (SVT-40s, PPSh-41), *ROKS-35, *DP-28, *PPSh-41s x2, Training: Elite, Role: Assault. Effective at close range vs. infantry.
-629	Armaments: (M1 Garands, M3A1 Grease Gun), *M1 Carbines x2, *M1A1 Thompsons x2, *M2 Flamethrower, *M9 Bazooka, Skill: Poor, Role: Assault.
-630	Armaments: (M1 Garands, M1A1 Thompson), *M1918 BAR, *M1919A6 Browning, *M1A1 Thompsons x2, *M9 Bazooka, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
-631	Armaments: (M1903 Springfields/M1911s, M1A1 Thompson), *M1 Garands x2, *M1A1 Thompsons x2, *M1903A4-M73, *M1919A6 Browning, *M18 Recoilless, Skill: Elite, Role: Scout. 
-632	Armaments: (M1 Carbines, M3A1 Grease Gun), *M1 Garands x2, *M3 Grease Guns x2, *M1918A2 BAR, Skill: Poor, Role: Engineer.
-633	Armaments: (M1A1 Carbines/M1911s, M1A1 Thompson (20rd.)), *M1 Garands x2, *M1A1 Thompsons (20rd.) x2, M1903A4-M73, Skill: Ace, Role: Recon.
-634	Armaments: (M1 Carbines, M1C Garand), Training: Experienced, Role: Recon. Effective at long range vs. infantry.
-635	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M1A1 Thompsons x2, *M2 Flamethrower, *M18 Recoilless Rifle, Skill: Experienced, Role: Tactical Support.
-636	The Captain is an experienced field officer in charge of the company, having to weigh between completing the unit's mission, and the lives of his men. Gains veterancy from nearby allies. 
-637	The Lieutenant bridges the line between the enlisted men and the officers, providing their men both stern leadership, and tactical support. Most are the same, or younger age than the men the are leading. Gains veterancy from nearby allies. 
-638	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M1903A4-M73, *M1919A6, Skill: Experienced, Role: Strategic/Tactical Support.
-639	Armaments: (M1 Garands, M3 Grease Gun), *M1 Carbines, *M3 Grease Guns x2, *M2 Flamethrower, *M9 Bazooka w. M6A3, Skill: Experienced, Role: Assault. 
-640	Armaments: M3 Grease, *M1918 BAR, *M2 Flamethrower, Training: Experienced, Role: Assault. Effective at close range vs. infantry.
-641	Armaments: (M1 Carbines, M1911), *M3 Grease Guns x2, *M1A1 Thompsons x2, Skill: Poor, Role: Strategic Support.
-642	The Major's past experience leading from the front, and authority allows him to call-in an unprecedented amount of battlefield support . Gains veterancy from nearby allies. 
-643	Armaments: StG44, *FmW 35, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
-644	Armaments: K98, *G43, *MG34, Training: Experienced, Role: Recon. Effective at long range vs. infantry.
-645	Armaments: (K98s, StG44), *MG42, *G43-Zf4, Skill: Experienced, Role: Frontline.
-646	Armaments: (K98s, StG44), *G43-Sturm x2, *G43-Zf4, *MG42, *Panzerschreck, Skill: Experienced, Role: Recon.
-647	Armaments: (MG42 GPMG, K98, MP40), Skill: Regular, Role: Suppression.
-648	Armaments: (MG34, K98s, MP40), Crew: 5, Skill: Regular, Role: Suppression.
-649	Armaments: 8.1 cm GrW 34 Mortar, MP40, Crew: 4, Skill: Regular, Role: Indirect Fire.
-650	HQ
-651	Field Medic Squad
-652	16-ya Armiya Detashement Shtrafnoy Batal'on Shtrafniki
-653	'Independent thinkers', vicious criminals, and former prisoners of war serving time for minor offenses. These Shtrafbat (Penal) legions are used as sacrificial soldiers, to clear minefields and draw enemy fire. They were never expected to redeem themselves.
-654	Combat experience leads to 5% increased accuracy.
-655	Combat experience leads to 5% increased accuracy and 5% reduced hit chance.
-656	Combat experience leads to 5% increased accuracy and 5% reduced hit chance.
-657	Combat experience leads to 2.5% increased accuracy and 2.5% reduced hit chance.
-658	Combat experience reaches its peak at a total of 20% increased accuracy and 15% reduced hit chance.
-659	Combat experience leads to 10% increased accuracy, 6% reduced suppression, 6% faster reload times.
-660	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times.
-661	Combat experience leads to 20% increased accuracy, 5% reduced hit chance, 12% reduced suppression, 20% faster ability recharge time.
-662	Combat experience leads to 40% increased accuracy, 12.5% reduced hit chance, 24% reduced suppression, 40% faster ability recharge time.
-663	Combat experience reaches its peak at a total of 40% increased accuracy, 15% reduced hit chance, 30% reduced suppression, 30% faster reload times.
-664	Armaments: 15 cm StuH 43 L/12, MG34 (Hull), *MG42 Pintle), Armor: 100mm, Role: Assault, Speed: 24 km/h.
-665	Armaments: 8.8 cm Pak 43/2 L/71, *MG34 (Hull), Armor: 240mm, Role: Tank Destroyer, Speed: 30 km/h.
-666	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Speed: 76 km/h. Direct combat is not advised.
-667	Armaments: 8 cm GrW 34, Armor: 14.5mm, Role: Indirect Fire, Speed: 76 km/h. Effective vs. static infantry and structures.
-668	Armaments: MG42 (Frontal/Rear), Armor: 12mm, Role: Transport, Capacity: 12, Speed: 52.5 km/h.
-669	Armaments: 3.7 cm FlaK 43 L/89, Hull MG34, Armor: 50mm, Role: Anti-Aircraft, Speed: 38 km/h. Effective at medium range vs. infantry & aircraft. 
-670	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *Pintle MG42, Armor: 160mm (Sloped), Role: General Purpose, Speed: 55 km/h.
-671	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Coaxial MG34, Armor: 80mm, Role: Infantry Support, Speed: 42 km/h. Effective at medium range vs. infantry & structures.
-672	Armaments: 7.5 cm KwK 40 L/48, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 80mm, Role: Tactical Support, Speed: 42 km/h.
-673	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Armor: 80mm, Role: Infantry Support, Speed: 42 km/h. Effective at medium range vs. infantry & structures.
-674	Armaments: 15 cm NbW 41, MG42 (Pintle), Armor: 20mm, Role: Indirect Fire, Speed: 40 km/h.
-675	Armaments: 5 cm KwK 39/1 L/60, MG42 (Coaxial), Armor: 32mm, Role: Tank Destroyer, Speed: 80 km/h.
-676	Armaments: MG42 (Pintle), *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h.
-677	Armaments: 7.5 cm KwK 37 L/24, *MG42 (Pintle), Armor: 80mm, Role: Infantry Support, Speed: 40 km/h.
-678	Armaments: 7.5 cm KwK 40 L/48, *Pintle MG42, Armor: 82mm, Role: Tank Destroyer, Speed: 40 km/h. Effective at long range vs. armor. 
-679	Armaments: 8.8 cm KwK 36 L/56, Hull MG34, Coaxial MG34, *Pintle MG42, Armor: 125mm, Role: General Purpose, Speed: 45 km/h. Effective at long range vs. armor. 
-680	Armaments: 8.8 cm KwK 36 L/56, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 125mm, Role: General Purpose, Speed: 45 km/h.
-681	Toggle from High Explosive to Armor Piercing rounds. Increased Penetration.
-682	The 75mm M48 High Explosive round is effective against infantry and other soft targets.
-683	Toggle from Armor Piercing to High Explosive rounds. Increased Area of Effect.
-684	The 75mm M61 Armor Piercing round has a better chance of penetrating the armor of enemy tanks.
-685	Increases the durability of the unit. Upgrade leads to +20 increased health, & 5% increased armor value.
-686	Equips the tank with armor side skirts improving its durability.
-687	Armored Skirts
-688	Increases the durability of the unit. Upgrade leads to 25% increased health.
-689	Increases the durability of the unit. Upgrade leads to 25% increased health.
-690	Increases the durability of the unit. Upgrade leads to 30% increased armor.
-691	Equips the tank with armor side skirts improving its durability.
-692	Equips the tank with armor side skirts improving its durability.
-693	Equips the tank with armor side skirts improving its durability.
-694	Fallschirmjäger-Division (Versatile/Airborne)
-695	Leichte-Division (Assault/Mechanized)
-696	Provides access to Luftwaffe Field Division Abilities.
-697	Relay Beacon
-698	Already upgraded with an Machinegewehr 34 LMG.
-699	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
-700	Gewehr 43 rifles for increased firepower. Interrogation of enemy casualties to reveal positions.
-701	Armaments: M2HB .50 Cal (Pintle), Armor: None, Role: Recon, Speed: 86 km/h.
-702	Armaments: 3-inch M1918, Armor: 60mm, Role: Tank Destroyer, Speed: 51 km/h.
-703	Armaments: M2HB .50 Cal (Pintle), M9 Bazooka (Crew), Armor: 14.5mm, Role: Recon, Speed: 88.5 km/h.
-704	With its signature reverse-mount air-cooled M2 brownings, the A1 was popular for close action support and road patrols. Deadly on unarmored targets, it saw Allied action from European Italy to the Pacific liberation of the Philippines.
-705	The M21 mounts the M1 81mm mortar on the chassis of a lightly armored half-track. The mortar can fire a variety of barrage rounds.
-706	Armaments: M1A2 Autocannon, Pintle M2HB .50 Cal, Armor: 12mm, Role: Anti-Aircraft, Speed: 72 km/h. Effective at medium range vs. infantry & aircraft. Fires in a large arc from the rear against ground targets.
-707	Armaments: 81mm M1 Mortar, Armor: 8mm, Role: Indirect Fire, Speed: 72 km/h.
+	Armaments: (K98s), *K98-Trench x2, *G.259(r)s x2, *MG34, *Pzb. 39, Skill: Poor, Role: Static Defense.
+	Armaments: (K98s, StG44), *StG44s-Zf4 x2, *G43-Zf4, *MG42, *RPzB-54/1, Skill: Experienced, Role: Frontline.
+	Armaments: (K98s, MP40), *MP40s x2, *FmW 35, *Pzb. 39, Skill: Regular, Role: Engineer.
+	Armaments: (G43-Zf4), Skill: Ace, Role: Sniper.
+	Armaments: (K98s, MP40, Luger), Training: Experienced, Role: Support. Effective at long range vs. static targets and defenses.
+	Armaments: (Mosin-Nagants, M1895), *ROKS-35, *PPSh-41s x2, Skill: Poor, Role: Engineer.
+	Armaments: (Mosin-Nagants, PPSh-41) *SVT-40s x2, *PPSh-41s x2, *DP-28, Skill: Poor, Role: Assault.
+	Armaments: Mosin-Nagant, *DP-28, *SVT-40, Training: Poor, Role: General Purpose. Effective at medium range vs. infantry.
+	Armaments: (12.7 mm DShK, Mosin-Nagants, PPSh-41), Crew: 6, Skill: Regular, Role: Suppression.
+	Armaments: (M1910 Maxim, Mosin-Nagants, PPSh-41), Crew: 6, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+	Armaments: (120 mm HM-38, Mosin-Nagants, PPSh-41), Crew: 5, Skill: Regular, Role: Indirect Fire.
+	Armaments: (82 mm PM-41, Mosin-Nagants, PPSh-41), Crew: 5, Skill: Regular, Role: Indirect Fire.
+	Armaments: (K98s, MG34s), MG42, DP28, Training: None, Role: Guerilla. Effective at medium range vs. infantry.
+	Armaments: (K98s, Panzerschrecks x2), M1 Bazooka, Training: None, Role: Anti-Armor. Effective at medium range vs. armor.
+	Armaments: (K98s, PTRS-41s x2), Pzb. 39, Training: None, Role: Anti-Armor. Effective at long range vs. light vehicles.
+	Armaments: (SVT-40), Training: None, Role: Guerilla. Effective at medium range vs. infantry.
+	Armaments: (PPSh-41), Training: None, Role: Assault. Effective at close range vs. infantry.
+	Armaments: (K98s), *SVT-40, *PPSh-41, Training: None, Role: Guerilla. Effective at medium range vs. infantry.
+	Armaments: (K98s, PPS-43), *SVT-40s x2, *PPS-43s x2, *ROKS-3, *PIAT, Skill: Poor, Role: Guerilla.
+	Armaments: (Mosin-Nagant M91/30-PU, Mosin-Nagant), *Mosin-Nagant M91/30-PU, Skill: Elite, Role: Sniper.
+	Kommissars are stern political officers in charge of enforcing discipline and patriotism, ensuring their troops are ready to make the ultimate sacrifice. Gains veterancy from nearby allies. 
+	Armaments: (Mosin-Nagants, PPSh-41, M1895), *PPSh-41s x2, *ROKS-3, Training: Elite, Role: Tactical Support. 
+	Stabskapitäns (Staff Captains) maintain an iron grip on their subordinates and often have to make life-or-death decisions at a moment's notice. Gains veterancy from nearby allies. 
+	Armaments: (Mosin-Nagants), *ROKS-35 x1/2, *PPSh-41s x2, Training: Varied, Role: Distraction. Effective at medium range vs. infantry.
+	Armaments: (SVT-40s, PPSh-41), *ROKS-35, *DP-28, *PPSh-41s x2, Training: Elite, Role: Assault. Effective at close range vs. infantry.
+	Armaments: (M1 Garands, M3A1 Grease Gun), *M1 Carbines x2, *M1A1 Thompsons x2, *M2 Flamethrower, *M9 Bazooka, Skill: Poor, Role: Assault.
+	Armaments: (M1 Garands, M1A1 Thompson), *M1918 BAR, *M1919A6 Browning, *M1A1 Thompsons x2, *M9 Bazooka, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
+	Armaments: (M1903 Springfields/M1911s, M1A1 Thompson), *M1 Garands x2, *M1A1 Thompsons x2, *M1903A4-M73, *M1919A6 Browning, *M18 Recoilless, Skill: Elite, Role: Scout. 
+	Armaments: (M1 Carbines, M3A1 Grease Gun), *M1 Garands x2, *M3 Grease Guns x2, *M1918A2 BAR, Skill: Poor, Role: Engineer.
+	Armaments: (M1A1 Carbines/M1911s, M1A1 Thompson (20rd.)), *M1 Garands x2, *M1A1 Thompsons (20rd.) x2, M1903A4-M73, Skill: Ace, Role: Recon.
+	Armaments: (M1 Carbines, M1C Garand), Training: Experienced, Role: Recon. Effective at long range vs. infantry.
+	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M1A1 Thompsons x2, *M2 Flamethrower, *M18 Recoilless Rifle, Skill: Experienced, Role: Tactical Support.
+	The Captain is an experienced field officer in charge of the company, having to weigh between completing the unit's mission, and the lives of his men. Gains veterancy from nearby allies. 
+	The Lieutenant bridges the line between the enlisted men and the officers, providing their men both stern leadership, and tactical support. Most are the same, or younger age than the men the are leading. Gains veterancy from nearby allies. 
+	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M1903A4-M73, *M1919A6, Skill: Experienced, Role: Strategic/Tactical Support.
+	Armaments: (M1 Garands, M3 Grease Gun), *M1 Carbines, *M3 Grease Guns x2, *M2 Flamethrower, *M9 Bazooka w. M6A3, Skill: Experienced, Role: Assault. 
+	Armaments: M3 Grease, *M1918 BAR, *M2 Flamethrower, Training: Experienced, Role: Assault. Effective at close range vs. infantry.
+	Armaments: (M1 Carbines, M1911), *M3 Grease Guns x2, *M1A1 Thompsons x2, Skill: Poor, Role: Strategic Support.
+	The Major's past experience leading from the front, and authority allows him to call-in an unprecedented amount of battlefield support . Gains veterancy from nearby allies. 
+	Armaments: StG44, *FmW 35, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
+	Armaments: K98, *G43, *MG34, Training: Experienced, Role: Recon. Effective at long range vs. infantry.
+	Armaments: (K98s, StG44), *MG42, *G43-Zf4, Skill: Experienced, Role: Frontline.
+	Armaments: (K98s, StG44), *G43-Sturm x2, *G43-Zf4, *MG42, *Panzerschreck, Skill: Experienced, Role: Recon.
+	Armaments: (MG42 GPMG, K98, MP40), Skill: Regular, Role: Suppression.
+	Armaments: (MG34, K98s, MP40), Crew: 5, Skill: Regular, Role: Suppression.
+	Armaments: 8.1 cm GrW 34 Mortar, MP40, Crew: 4, Skill: Regular, Role: Indirect Fire.
+	HQ
+	Field Medic Squad
+	16-ya Armiya Detashement Shtrafnoy Batal'on Shtrafniki
+	'Independent thinkers', vicious criminals, and former prisoners of war serving time for minor offenses. These Shtrafbat (Penal) legions are used as sacrificial soldiers, to clear minefields and draw enemy fire. They were never expected to redeem themselves.
+	Combat experience leads to 5% increased accuracy.
+	Combat experience leads to 5% increased accuracy and 5% reduced hit chance.
+	Combat experience leads to 5% increased accuracy and 5% reduced hit chance.
+	Combat experience leads to 2.5% increased accuracy and 2.5% reduced hit chance.
+	Combat experience reaches its peak at a total of 20% increased accuracy and 15% reduced hit chance.
+	Combat experience leads to 10% increased accuracy, 6% reduced suppression, 6% faster reload times.
+	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times.
+	Combat experience leads to 20% increased accuracy, 5% reduced hit chance, 12% reduced suppression, 20% faster ability recharge time.
+	Combat experience leads to 40% increased accuracy, 12.5% reduced hit chance, 24% reduced suppression, 40% faster ability recharge time.
+	Combat experience reaches its peak at a total of 40% increased accuracy, 15% reduced hit chance, 30% reduced suppression, 30% faster reload times.
+	Armaments: 15 cm StuH 43 L/12, MG34 (Hull), *MG42 Pintle), Armor: 100mm, Role: Assault, Speed: 24 km/h.
+	Armaments: 8.8 cm Pak 43/2 L/71, *MG34 (Hull), Armor: 240mm, Role: Tank Destroyer, Speed: 30 km/h.
+	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Speed: 76 km/h. Direct combat is not advised.
+	Armaments: 8 cm GrW 34, Armor: 14.5mm, Role: Indirect Fire, Speed: 76 km/h. Effective vs. static infantry and structures.
+	Armaments: MG42 (Frontal/Rear), Armor: 12mm, Role: Transport, Capacity: 12, Speed: 52.5 km/h.
+	Armaments: 3.7 cm FlaK 43 L/89, Hull MG34, Armor: 50mm, Role: Anti-Aircraft, Speed: 38 km/h. Effective at medium range vs. infantry & aircraft. 
+	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *Pintle MG42, Armor: 160mm (Sloped), Role: General Purpose, Speed: 55 km/h.
+	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Coaxial MG34, Armor: 80mm, Role: Infantry Support, Speed: 42 km/h. Effective at medium range vs. infantry & structures.
+	Armaments: 7.5 cm KwK 40 L/48, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 80mm, Role: Tactical Support, Speed: 42 km/h.
+	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Armor: 80mm, Role: Infantry Support, Speed: 42 km/h. Effective at medium range vs. infantry & structures.
+	Armaments: 15 cm NbW 41, MG42 (Pintle), Armor: 20mm, Role: Indirect Fire, Speed: 40 km/h.
+	Armaments: 5 cm KwK 39/1 L/60, MG42 (Coaxial), Armor: 32mm, Role: Tank Destroyer, Speed: 80 km/h.
+	Armaments: MG42 (Pintle), *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h.
+	Armaments: 7.5 cm KwK 37 L/24, *MG42 (Pintle), Armor: 80mm, Role: Infantry Support, Speed: 40 km/h.
+	Armaments: 7.5 cm KwK 40 L/48, *Pintle MG42, Armor: 82mm, Role: Tank Destroyer, Speed: 40 km/h. Effective at long range vs. armor. 
+	Armaments: 8.8 cm KwK 36 L/56, Hull MG34, Coaxial MG34, *Pintle MG42, Armor: 125mm, Role: General Purpose, Speed: 45 km/h. Effective at long range vs. armor. 
+	Armaments: 8.8 cm KwK 36 L/56, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 125mm, Role: General Purpose, Speed: 45 km/h.
+	Toggle from High Explosive to Armor Piercing rounds. Increased Penetration.
+	The 75mm M48 High Explosive round is effective against infantry and other soft targets.
+	Toggle from Armor Piercing to High Explosive rounds. Increased Area of Effect.
+	The 75mm M61 Armor Piercing round has a better chance of penetrating the armor of enemy tanks.
+	Increases the durability of the unit. Upgrade leads to +20 increased health, & 5% increased armor value.
+	Equips the tank with armor side skirts improving its durability.
+	Armored Skirts
+	Increases the durability of the unit. Upgrade leads to 25% increased health.
+	Increases the durability of the unit. Upgrade leads to 25% increased health.
+	Increases the durability of the unit. Upgrade leads to 30% increased armor.
+	Equips the tank with armor side skirts improving its durability.
+	Equips the tank with armor side skirts improving its durability.
+	Equips the tank with armor side skirts improving its durability.
+	Fallschirmjäger-Division (Versatile/Airborne)
+	Leichte-Division (Assault/Mechanized)
+	Provides access to Luftwaffe Field Division Abilities.
+	Relay Beacon
+	Already upgraded with an Machinegewehr 34 LMG.
+	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
+	Gewehr 43 rifles for increased firepower. Interrogation of enemy casualties to reveal positions.
+	Armaments: M2HB .50 Cal (Pintle), Armor: None, Role: Recon, Speed: 86 km/h.
+	Armaments: 3-inch M1918, Armor: 60mm, Role: Tank Destroyer, Speed: 51 km/h.
+	Armaments: M2HB .50 Cal (Pintle), M9 Bazooka (Crew), Armor: 14.5mm, Role: Recon, Speed: 88.5 km/h.
+	With its signature reverse-mount air-cooled M2 brownings, the A1 was popular for close action support and road patrols. Deadly on unarmored targets, it saw Allied action from European Italy to the Pacific liberation of the Philippines.
+	The M21 mounts the M1 81mm mortar on the chassis of a lightly armored half-track. The mortar can fire a variety of barrage rounds.
+	Armaments: M1A2 Autocannon, Pintle M2HB .50 Cal, Armor: 12mm, Role: Anti-Aircraft, Speed: 72 km/h. Effective at medium range vs. infantry & aircraft. Fires in a large arc from the rear against ground targets.
+	Armaments: 81mm M1 Mortar, Armor: 8mm, Role: Indirect Fire, Speed: 72 km/h.
 708	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
 709	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
 710	Armaments: 90mm M3, Armor: 70mm, Role: Tank Destroyer, Speed: 48 km/h.
