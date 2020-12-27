@@ -306,196 +306,196 @@
 	Favored by Wehrmacht light units for its low weight, the ‘Puppchen’ fired the same 8.8 cm rocket as its conventional cousin, the Panzerschreck. More accurate due to its mounted design, it could penetrate 160 mm of armor out to 700 m.
 	Armaments: (7.5 cm le.IG 18, K98s, MP40), Crew: 5, Skill: Regular, Role: Artillery.
 	Armaments: 5 cm KwK 39/1 L/60, MG42 (Coaxial), Armor: 32mm, Role: Tank Destroyer, Speed: 80 km/h.
-808	Armaments: 8.8 cm KwK 43 L/71, MG34 (Coaxial/Hull), *MG42 Pintle, Armor: 280mm (Sloped), Role: General Purpose, Speed: 41 km/h.
-809	Armaments: 2 cm KwK 30, MG34 (Coaxial), Armor: 50mm, Role: Recon, Speed: 60 km/h.
-810	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 160mm (Sloped), Role: General Purpose, Speed: 55 km/h.
-811	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), Armor: 160mm (Sloped), Role: Tactical Support, Speed: 55 km/h.
-812	Armaments: 3.7 cm FlaK 43 L/89, MG34 (Hull), Armor: 50mm, Role: Anti-Aircraft, Speed: 38 km/h.
-813	Armaments: MG34 (Pintle), Armor: None, Role: Utility, Speed: 80 km/h.
-814	Armaments: 12.8 cm PaK 44 L/55, MG34 (Hull), Armor: 310mm (Sloped), Role: Tank Destroyer, Speed: 34 km/h.
-815	Armaments: 7.5 cm Pak 39 L/48, *Periscope MG34 (Pintle) Armor: 95mm (Sloped), Role: Tank Destroyer, Speed: 42 km/h.
-816	Armaments: Wurfrahmen 40, MG42 (Pintle), Armor: 12mm, Role: Indirect Fire, Speed: 40 km/h.
-817	Armaments: None, Armor: 12mm, Role: Surveillance, Speed: 52.5 km/h.
-818	Armaments: 2 cm Flak 38, Armor: 14.5mm, Role: Anti-Aircraft, Speed: 52.5 km/h. Effective at medium range vs. infantry & aircraft.
-819	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Capacity: 5, Speed: 76 km/h. Direct combat is not advised.
-820	The Sdkfz 250 Halftrack is a fast-moving light vehicle that can garrison one squad of infantry. The units stationed inside can fire out of the halftrack while benefiting from its protection.
-821	Sonderkraftfahrzeug 250 Half-track
-822	Use the full might of the Third Reich's air forces, and elite Fallschirmjägers to outmaneuver and outmatch your enemies.
-823	Allows access to air supply drops, paratroopers, and airstrikes. Only ONE Division can be chosen in a single match.
-824	Adopt mechanized tactics to outmaneuver and destroy your enemy.
-825	Click and select location within HQ territory to deploy.
-826	A cargo plane will deliver available fuel to the target location, varying in amount based on availability. The cargo plane is highly vulnerable to anti-air units.
-827	Luftwaffe Supply Drop
-828	A cargo plane will deliver available fuel to the target location, varying in amount based on availability. The cargo plane is highly vulnerable to anti-air units.
-829	Call-in 5th Fallschirmjäger Battalion Paratroopers
-830	Armaments: FG42, Panzerschreck, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
-831	Elite Paratrooper infantry who can deploy behind enemy lines. These units are very disciplined, combining excellent offense and defense but with a high cost.
-832	3rd Fallschirmjägers Division Paratrooper Squad
-833	Can only field 2 Fallschirmjager Squads at a time.
-834	Requires the Luftwaffe Feld Division.
-835	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Speed: 76 km/h. Direct combat is not advised.
-836	The Sdkfz 250 Halftrack is a fast moving light vehicle that can garrison one squad of infantry. The units stationed inside can fire out of the halftrack while benefiting from its protection.
-837	SdKfz 250 Half-track
-838	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Capacity: 5, Speed: 76 km/h. Direct combat is not advised.
-839	Lighter but just as versatile, the Sdkfz. 250 was built to supplement the 251 ‘Hanomag’. Modified throughout the war to perform various tasks, it was an invaluable asset of the Wehrmacht’s highly mechanized recon formations.
-840	Sonderkraftfahrzeug 250
-841	Requisition SdKfz 250 Half-tracks to the frontline. These vehicles are fast, light, and allow for troops to fire from within.
-842	Costs 1 Command Point to unlock.
-843	Costs 1 Command Point to unlock.
-844	Costs 2 Command Points to unlock.
-845	Costs 2 Command Points to unlock.
-846	Costs 2 Command Points to unlock.
-847	Costs 2 Command Points to unlock.
-848	All infantry are ordered to move at their fastest available speed for the duration of the ability. Timed ability, affecting all player infantry. Duration: 20s
-849	All infantry are ordered to move at their fastest available speed for the duration of the ability. Timed ability, affecting all player infantry. Duration: 20s
-850	Costs 3 Command Points to unlock.
-851	Slightly improves the speed of all vehicle units and allows them to decapture points very rapidly.
-852	Provides access to Leitchte Divsion Abilities.
-853	Relay Beacon
-854	New units available in the Forward Supply Station & Mobile Radio (Built by SS-Sturmpioneres). Only ONE Kampfgruppe can be chosen in a single match.
-855	Requires Puma Dispatch from the Leichte Division.
-856	Requires the Infantrie Division.
-857	Requires 250 Halftrack Dispatch from the Leichte Division.
-858	Costs 1 Command Point to unlock.
-859	Costs 3 Command Points to unlock.
-860	Call-in Sturmpanzer IVs
-861	Requisition Sturmpanzer IV Assault Guns to the frontline. They are short-range heavy assault guns designed for smashing infantry, buildings, and the occasional tank.
-862	Costs 2 Command Points to unlock.
-863	Requisition Panzer II Ausf. L Light Tanks to the frontline. These are light reconnaissance tanks with a 2cm rapid-firing cannon can tackle infantry and light vehicles.
-864	Call-in Panzer II Ausf. L 'Luchs' Light Tank
-865	Requires Infantrie Division.
-866	Costs 3 Command Points to unlock.
-867	Requisitions a Panzer IV Command Tank. The crew's radio equipment allows them to better coordinate with troops within the same territory.
-868	Costs 2 Command Points to unlock.
-869	Click to activate, Duration 15s. Ability leads to 30% faster movement speed, 50% reduced hit chance, 30% reduced sight radius, and 20% reduced weapon accuracy while moving.
-870	Duration 15s.
-871	Accelerate
-872	Costs 2 Command Points to unlock.
-873	Requisition StuG III Ausf. E Tanks to the frontline. StuG IIIs are effective mobile artillery pieces, designed to support infantry forces against almost any obstacle they encounter.
-874	Call-in StuG III Ausf. E Tanks
-875	The JU-87D will patrol overhead with its two MG-17 machine guns to target enemy infantry and suppress them.
-876	The JU-87D will patrol overhead with its two MG-17 machine guns to target enemy infantry and suppress them.
-877	Costs 3 Command Points to unlock.
-878	Costs 6 Command Points to unlock.
-879	JU-87D Strafing Run
-880	JU-87D Close Air Support
-881	JU-87D Bombing Strike
-882	Heinkel Strategic Bombing
-883	Costs 2 Command Points to unlock.
-884	Defensive structure. The 20mm flak emplacement is equally effective against aircraft, infantry and light vehicles.
-885	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
-886	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. 
-887	Flak 38 2cm Anti-Aircraft Gun
-888	Call-in SdKfz 251/17 Flak Half-tracks
-889	Requisition SdKfz 251/17 Flak Half-tracks to the frontline. These vehicles serve as mobile anti-aircraft platforms.
-890	SD2 'Butterfly' Bombs
-891	The target area is scattered with SD2 bombs. These mines explode on impact.
-892	The target area is scattered with SD2 bombs. These mines explode on impact.
-893	Costs 2 Command Points to unlock.
-894	The target area is scattered with SD2 bombs. Each bomb is set to explode directly on impact.
-895	SD2 'Butterfly' Bombs
-896	Load V-patronen Armor Piercing Rounds
-897	Combat experience leads to 10% increased accuracy, 6% reduced suppression, 6% faster reload times and 6% more weapon suppression.
-898	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
-899	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
-900	Combat experience leads to 5% increased accuracy, 2.5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
-901	Combat experience reaches its peak at a total of 40% increased accuracy, 15% reduced hit chance, 30% reduced suppression, 30% more weapon suppression, and 30% faster reload times.
-902	Pinned
-903	The .30 cal M1919A4 Browning machine gun can suppress large groups of infantry. Easier to deploy than other team MGs.
-904	M1919A4 .30 cal Machine Gun Team
-905	Toggle on/off
-906	Hit the dirt and take up strong firing positions. The squad has improved cover and accuracy, the M1919A6 Browning LMG will suppress enemies.
-907	Get up and become mobile, M1919A6 Browning LMG can no longer suppress.
-908	Pinned.
-909	Setup Light Machine Gun
-910	Can only field 2 M1919 Machine Gun Squads a time.
-911	Currently Unreleased Doctrine
-912	Disabled.
-913	Volksgrenadiere
-914	Combat veterans, recovering wounded and raw recruits, Volksgrenadiere were formed to replace the heavy losses sustained on the Ostfront. Varied in experience but well-armed, they were issued large quantities of deadly automatic weapons.
-915	Armaments: (K98s, MP40), *MP40s x2, *FmW 35, *Panzerschreck, Skill: Regular, Role: Assault.
-916	Battle Phase 2
-917	Can only field 2 leFH 18 Howitzers at a time.
-918	Can only field 2 leFH 18 Howitzers at a time.
-919	Ost Division
-920	Can only field 2 ML-20 Howitzers at a time.
-921	Provides access to Airborne Company Abilities.
-922	Relay Beacon
-923	Airborne Company (Assault/Airborne)
-924	Take advantage of Allied air superiority to wreak havoc upon enemy lines. 
-925	Allows access to airdropped weapons, paratroopers, and airstrikes. Only ONE Company can be chosen in a single match.
-926	P-47 Strafing Run
-927	A P-47 will drop incendiary bombs on the target location.
-928	Costs 3 Command Points to unlock.
-929	Costs 2 Command Points to unlock.
-930	Costs 2 Command Points to unlock.
-931	Costs 2 Command Points to unlock.
-932	Costs 2 Command Points to unlock.
-933	Costs 1 Command Point to unlock.
-934	Costs 2 Command Points to unlock.
-935	Costs 3 Command Points to unlock.
-936	Costs 1 Command Point to unlock.
-937	Left-click target. Deals damage over time, effective against infantry.
-938	A bomber will drop incendiary bombs on the target location.
-939	B-17 Incendiary Bomb
-940	Allows access to white phosphorus smoke, reconnaissance tools, and armored vehicles. Only ONE Company can be chosen in a single match.
-941	Mechanized Company (Assault/Mechanized)
-942	Armaments: (M1 Garands/M1911s, M1A1 Thompson), *M1A1 Thompsons x2, *M2 Carbines, x2, *M9 Bazooka w. M6A3, *M2 Flamethrower, Skill: Experienced, Role: Assault.
-943	Provides access to Cavalry Company Abilities.
-944	Relay Beacon
-945	Costs 2 Command Points to unlock.
-946	Requisition 5th Infantry Division Mechanized Troops. The 'Red Devils' are armed with Thompson Submachine Guns and are trained for close-quarters combat and taking out or crippling enemy vehicles and tanks.
-947	Costs 2 Command Points to unlock.
-948	Costs 2 Command Points to unlock.
-949	Costs 1 Command Point to unlock.
-950	Costs 1 Command Point to unlock.
-951	Costs 2 Command Points to unlock.
-952	Costs 2 Command Points to unlock.
-953	Costs 2 Command Points to unlock.
-954	Riflemen squads now have increased line of sight when out of combat, stopped, and in cover or garrisoned.
-955	Costs 1 Command Point to unlock.
-956	Mechanized Company
-957	Commander
-958	Commander
-959	Requires the Mechanized Company.
-960	Airborne Company.
-961	Call-in 5th Infantry Division Riflemen
-962	Can only field 2 leFH 18 Howitzers at a time.
-963	Armaments: 7.5 cm Pak 40, K98, Crew: 5, Skill: Regular, Role: Anti-Tank.
-964	Increase Zoom
-965	Reset Zoom
-966	The squad is given additional concealment training, coupled with their camouflage uniforms, allows them to blend in with their environment.
-967	Concealment Training
-968	Ambushing enemy units while camouflaged will briefly increase the squads damage.
-969	Veterancy 1
-970	The Flammenwerfer 35 is an excellent trench-clearing weapon, reducing enemies to screaming torches from an extended range.
-971	The Flammenwerfer 35 is an excellent trench-clearing weapon, reducing enemies to screaming torches from an extended range.
-972	Flamethrowers add a risk of explosive death to the soldiers if hit by incoming projectiles.
-973	Flamethrowers add a risk of explosive death to the soldiers if hit by incoming projectiles.
-974	Type: Flamethrower, Effective at close range vs. infantry & emplacements.
-975	Veterancy 1
-976	Flammenwerfer 35 Flamethrower
-977	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
-978	Tankovaya Diviziya (Assault/Tank)
-979	Use the might of the Soviet Union’s war machine to overwhelm the enemy with tanks.
-980	Stronger vs. Infantry, Mechanized, & Defensive. Weaker vs. Anti-Tank, Artillery, & Airborne. Only ONE Division can be chosen.
-981	Costs 2 Command Points to unlock.
-982	Costs 2 Command Points to unlock.
-983	Costs 2 Command Points to unlock.
-984	Costs 2 Command Points to unlock.
-985	Costs 1 Command Point to unlock.
-986	Costs 1 Command Point to unlock.
-987	Costs 1 Command Point to unlock.
-988	Panzer-Division (Assault/Tanks)
-989	Ost-Division (Defensive/Anti-Tank)
-990	Armor Company (Assault/Tank)
-991	Rifle Company (Versatile/Infantry)
-992	Defensive Tactics
-993	Panzer Tactics (Assault/Tanks)
-994	Panzerjäger Tactics (Versatile/Anti-Tank)
-995	Propaganda Tactics (Versatile/Infantry)
-996	Jäger Tactics (Versatile/Infiltration)
-997	Artilleriyskaya Diviziya (Assault/Artillery)
-998	Infantry Doctrine
-999	Support Corps
-1000	Istrebitel Tankovaya Diviziya (Assault/Anti-Tank)
+	Armaments: 8.8 cm KwK 43 L/71, MG34 (Coaxial/Hull), *MG42 Pintle, Armor: 280mm (Sloped), Role: General Purpose, Speed: 41 km/h.
+	Armaments: 2 cm KwK 30, MG34 (Coaxial), Armor: 50mm, Role: Recon, Speed: 60 km/h.
+	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 160mm (Sloped), Role: General Purpose, Speed: 55 km/h.
+	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), Armor: 160mm (Sloped), Role: Tactical Support, Speed: 55 km/h.
+	Armaments: 3.7 cm FlaK 43 L/89, MG34 (Hull), Armor: 50mm, Role: Anti-Aircraft, Speed: 38 km/h.
+	Armaments: MG34 (Pintle), Armor: None, Role: Utility, Speed: 80 km/h.
+	Armaments: 12.8 cm PaK 44 L/55, MG34 (Hull), Armor: 310mm (Sloped), Role: Tank Destroyer, Speed: 34 km/h.
+	Armaments: 7.5 cm Pak 39 L/48, *Periscope MG34 (Pintle) Armor: 95mm (Sloped), Role: Tank Destroyer, Speed: 42 km/h.
+	Armaments: Wurfrahmen 40, MG42 (Pintle), Armor: 12mm, Role: Indirect Fire, Speed: 40 km/h.
+	Armaments: None, Armor: 12mm, Role: Surveillance, Speed: 52.5 km/h.
+	Armaments: 2 cm Flak 38, Armor: 14.5mm, Role: Anti-Aircraft, Speed: 52.5 km/h. Effective at medium range vs. infantry & aircraft.
+	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Capacity: 5, Speed: 76 km/h. Direct combat is not advised.
+	The Sdkfz 250 Halftrack is a fast-moving light vehicle that can garrison one squad of infantry. The units stationed inside can fire out of the halftrack while benefiting from its protection.
+	Sonderkraftfahrzeug 250 Half-track
+	Use the full might of the Third Reich's air forces, and elite Fallschirmjägers to outmaneuver and outmatch your enemies.
+	Allows access to air supply drops, paratroopers, and airstrikes. Only ONE Division can be chosen in a single match.
+	Adopt mechanized tactics to outmaneuver and destroy your enemy.
+	Click and select location within HQ territory to deploy.
+	A cargo plane will deliver available fuel to the target location, varying in amount based on availability. The cargo plane is highly vulnerable to anti-air units.
+	Luftwaffe Supply Drop
+	A cargo plane will deliver available fuel to the target location, varying in amount based on availability. The cargo plane is highly vulnerable to anti-air units.
+	Call-in 5th Fallschirmjäger Battalion Paratroopers
+	Armaments: FG42, Panzerschreck, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
+	Elite Paratrooper infantry who can deploy behind enemy lines. These units are very disciplined, combining excellent offense and defense but with a high cost.
+	3rd Fallschirmjägers Division Paratrooper Squad
+	Can only field 2 Fallschirmjager Squads at a time.
+	Requires the Luftwaffe Feld Division.
+	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Speed: 76 km/h. Direct combat is not advised.
+	The Sdkfz 250 Halftrack is a fast moving light vehicle that can garrison one squad of infantry. The units stationed inside can fire out of the halftrack while benefiting from its protection.
+	SdKfz 250 Half-track
+	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Capacity: 5, Speed: 76 km/h. Direct combat is not advised.
+	Lighter but just as versatile, the Sdkfz. 250 was built to supplement the 251 ‘Hanomag’. Modified throughout the war to perform various tasks, it was an invaluable asset of the Wehrmacht’s highly mechanized recon formations.
+	Sonderkraftfahrzeug 250
+	Requisition SdKfz 250 Half-tracks to the frontline. These vehicles are fast, light, and allow for troops to fire from within.
+	Costs 1 Command Point to unlock.
+	Costs 1 Command Point to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	All infantry are ordered to move at their fastest available speed for the duration of the ability. Timed ability, affecting all player infantry. Duration: 20s
+	All infantry are ordered to move at their fastest available speed for the duration of the ability. Timed ability, affecting all player infantry. Duration: 20s
+	Costs 3 Command Points to unlock.
+	Slightly improves the speed of all vehicle units and allows them to decapture points very rapidly.
+	Provides access to Leitchte Divsion Abilities.
+	Relay Beacon
+	New units available in the Forward Supply Station & Mobile Radio (Built by SS-Sturmpioneres). Only ONE Kampfgruppe can be chosen in a single match.
+	Requires Puma Dispatch from the Leichte Division.
+	Requires the Infantrie Division.
+	Requires 250 Halftrack Dispatch from the Leichte Division.
+	Costs 1 Command Point to unlock.
+	Costs 3 Command Points to unlock.
+	Call-in Sturmpanzer IVs
+	Requisition Sturmpanzer IV Assault Guns to the frontline. They are short-range heavy assault guns designed for smashing infantry, buildings, and the occasional tank.
+	Costs 2 Command Points to unlock.
+	Requisition Panzer II Ausf. L Light Tanks to the frontline. These are light reconnaissance tanks with a 2cm rapid-firing cannon can tackle infantry and light vehicles.
+	Call-in Panzer II Ausf. L 'Luchs' Light Tank
+	Requires Infantrie Division.
+	Costs 3 Command Points to unlock.
+	Requisitions a Panzer IV Command Tank. The crew's radio equipment allows them to better coordinate with troops within the same territory.
+	Costs 2 Command Points to unlock.
+	Click to activate, Duration 15s. Ability leads to 30% faster movement speed, 50% reduced hit chance, 30% reduced sight radius, and 20% reduced weapon accuracy while moving.
+	Duration 15s.
+	Accelerate
+	Costs 2 Command Points to unlock.
+	Requisition StuG III Ausf. E Tanks to the frontline. StuG IIIs are effective mobile artillery pieces, designed to support infantry forces against almost any obstacle they encounter.
+	Call-in StuG III Ausf. E Tanks
+	The JU-87D will patrol overhead with its two MG-17 machine guns to target enemy infantry and suppress them.
+	The JU-87D will patrol overhead with its two MG-17 machine guns to target enemy infantry and suppress them.
+	Costs 3 Command Points to unlock.
+	Costs 6 Command Points to unlock.
+	JU-87D Strafing Run
+	JU-87D Close Air Support
+	JU-87D Bombing Strike
+	Heinkel Strategic Bombing
+	Costs 2 Command Points to unlock.
+	Defensive structure. The 20mm flak emplacement is equally effective against aircraft, infantry and light vehicles.
+	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. 
+	Flak 38 2cm Anti-Aircraft Gun
+	Call-in SdKfz 251/17 Flak Half-tracks
+	Requisition SdKfz 251/17 Flak Half-tracks to the frontline. These vehicles serve as mobile anti-aircraft platforms.
+	SD2 'Butterfly' Bombs
+	The target area is scattered with SD2 bombs. These mines explode on impact.
+	The target area is scattered with SD2 bombs. These mines explode on impact.
+	Costs 2 Command Points to unlock.
+	The target area is scattered with SD2 bombs. Each bomb is set to explode directly on impact.
+	SD2 'Butterfly' Bombs
+	Load V-patronen Armor Piercing Rounds
+	Combat experience leads to 10% increased accuracy, 6% reduced suppression, 6% faster reload times and 6% more weapon suppression.
+	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
+	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
+	Combat experience leads to 5% increased accuracy, 2.5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
+	Combat experience reaches its peak at a total of 40% increased accuracy, 15% reduced hit chance, 30% reduced suppression, 30% more weapon suppression, and 30% faster reload times.
+	Pinned
+	The .30 cal M1919A4 Browning machine gun can suppress large groups of infantry. Easier to deploy than other team MGs.
+	M1919A4 .30 cal Machine Gun Team
+	Toggle on/off
+	Hit the dirt and take up strong firing positions. The squad has improved cover and accuracy, the M1919A6 Browning LMG will suppress enemies.
+	Get up and become mobile, M1919A6 Browning LMG can no longer suppress.
+	Pinned.
+	Setup Light Machine Gun
+	Can only field 2 M1919 Machine Gun Squads a time.
+	Currently Unreleased Doctrine
+	Disabled.
+	Volksgrenadiere
+	Combat veterans, recovering wounded and raw recruits, Volksgrenadiere were formed to replace the heavy losses sustained on the Ostfront. Varied in experience but well-armed, they were issued large quantities of deadly automatic weapons.
+	Armaments: (K98s, MP40), *MP40s x2, *FmW 35, *Panzerschreck, Skill: Regular, Role: Assault.
+	Battle Phase 2
+	Can only field 2 leFH 18 Howitzers at a time.
+	Can only field 2 leFH 18 Howitzers at a time.
+	Ost Division
+	Can only field 2 ML-20 Howitzers at a time.
+	Provides access to Airborne Company Abilities.
+	Relay Beacon
+	Airborne Company (Assault/Airborne)
+	Take advantage of Allied air superiority to wreak havoc upon enemy lines. 
+	Allows access to airdropped weapons, paratroopers, and airstrikes. Only ONE Company can be chosen in a single match.
+	P-47 Strafing Run
+	A P-47 will drop incendiary bombs on the target location.
+	Costs 3 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 1 Command Point to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 3 Command Points to unlock.
+	Costs 1 Command Point to unlock.
+	Left-click target. Deals damage over time, effective against infantry.
+	A bomber will drop incendiary bombs on the target location.
+	B-17 Incendiary Bomb
+	Allows access to white phosphorus smoke, reconnaissance tools, and armored vehicles. Only ONE Company can be chosen in a single match.
+	Mechanized Company (Assault/Mechanized)
+	Armaments: (M1 Garands/M1911s, M1A1 Thompson), *M1A1 Thompsons x2, *M2 Carbines, x2, *M9 Bazooka w. M6A3, *M2 Flamethrower, Skill: Experienced, Role: Assault.
+	Provides access to Cavalry Company Abilities.
+	Relay Beacon
+	Costs 2 Command Points to unlock.
+	Requisition 5th Infantry Division Mechanized Troops. The 'Red Devils' are armed with Thompson Submachine Guns and are trained for close-quarters combat and taking out or crippling enemy vehicles and tanks.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 1 Command Point to unlock.
+	Costs 1 Command Point to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Riflemen squads now have increased line of sight when out of combat, stopped, and in cover or garrisoned.
+	Costs 1 Command Point to unlock.
+	Mechanized Company
+	Commander
+	Commander
+	Requires the Mechanized Company.
+	Airborne Company.
+	Call-in 5th Infantry Division Riflemen
+	Can only field 2 leFH 18 Howitzers at a time.
+	Armaments: 7.5 cm Pak 40, K98, Crew: 5, Skill: Regular, Role: Anti-Tank.
+	Increase Zoom
+	Reset Zoom
+	The squad is given additional concealment training, coupled with their camouflage uniforms, allows them to blend in with their environment.
+	Concealment Training
+	Ambushing enemy units while camouflaged will briefly increase the squads damage.
+	Veterancy 1
+	The Flammenwerfer 35 is an excellent trench-clearing weapon, reducing enemies to screaming torches from an extended range.
+	The Flammenwerfer 35 is an excellent trench-clearing weapon, reducing enemies to screaming torches from an extended range.
+	Flamethrowers add a risk of explosive death to the soldiers if hit by incoming projectiles.
+	Flamethrowers add a risk of explosive death to the soldiers if hit by incoming projectiles.
+	Type: Flamethrower, Effective at close range vs. infantry & emplacements.
+	Veterancy 1
+	Flammenwerfer 35 Flamethrower
+	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
+	Tankovaya Diviziya (Assault/Tank)
+	Use the might of the Soviet Union’s war machine to overwhelm the enemy with tanks.
+	Stronger vs. Infantry, Mechanized, & Defensive. Weaker vs. Anti-Tank, Artillery, & Airborne. Only ONE Division can be chosen.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 1 Command Point to unlock.
+	Costs 1 Command Point to unlock.
+	Costs 1 Command Point to unlock.
+	Panzer-Division (Assault/Tanks)
+	Ost-Division (Defensive/Anti-Tank)
+	Armor Company (Assault/Tank)
+	Rifle Company (Versatile/Infantry)
+	Defensive Tactics
+	Panzer Tactics (Assault/Tanks)
+	Panzerjäger Tactics (Versatile/Anti-Tank)
+	Propaganda Tactics (Versatile/Infantry)
+	Jäger Tactics (Versatile/Infiltration)
+	Artilleriyskaya Diviziya (Assault/Artillery)
+	Infantry Doctrine
+	Support Corps
+	Istrebitel Tankovaya Diviziya (Assault/Anti-Tank)
