@@ -30,7 +30,7 @@
 	SdKfz 251 Half-track
 	SdKfz 251 Half-track
 	Already upgraded with a Panzerschreck.
-  Already upgraded with an MG34 LMG
+  	Already upgraded with an MG34 LMG
 	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
 	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
 	Maschinengewehr 34 LMG
@@ -132,73 +132,73 @@
 	Fire Panzerfaust-100
 	Hit the Dirt!
 	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 30% reduced sight radius, and disabled weapons while moving.
-  Armaments: (K98, StG44), *MP40s x2, *StG44s x2, *MG34, *Panzerschreck, Skill: Regular, Role: Frontline. 
-136	Armaments: (K98s/Lugers, StG44), *MP40s x2, *MG42, *StG44s x2, *FG42s-Zf4 x2, Skill: Elite, Role: Assault.
-137	6th SS-Gerbirgsdivsion Light Infantry Squad
-138	Großdeutschland Division Panzergrenadier Squad
-139	Großdeutschland Division Panzergrenadier Squad
-140	Großdeutschland Division Panzergrenadier Squad
-141	Großdeutschland Division Panzergrenadier Squad
-142	Waffen-SS Grenadier Squad
-143	Waffen-SS Grenadier Squad
-144	Waffen-SS Grenadier Squad
-145	Waffen-SS Grenadier Squad
-146	3rd Fallschirmjägers Divsion Paratrooper Squad
-147	3rd Fallschirmjägers Divsion Paratrooper Squad
-148	3rd Fallschirmjägers Divsion Paratrooper Squad
-149	3rd Fallschirmjägers Divsion Paratrooper Squad
-150	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
-151	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
-152	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
-153	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
-154	New weapon team - MG42 HMG - available for deployment. Click and select location to deploy.
-155	A MG42 Heavy Machine Gun Team can be deployed to the battlefield. This weapon is effective at suppressing massed infantry.
-156	MG42 Heavy Machine Gun Team
-157	Cold Weather Gear
-158	The squad is issued cold weather gear for increased surivability in cold weather conditions. It provides 60% reduced effects from the cold.
-159	Soviet tankers can use their own tank as a thirty-ton battering ram, smashing into enemy tanks with the hope of disabling them.
-160	Soviet tankers can use their own tank as a thirty-ton battering ram, smashing into enemy tanks with the hope of disabling them.
-161	Rapid fire from the rifle will force enemy units to the ground and keep them moving slowly for a short period of time.
-162	Veterancy 1
-163	Assault rifles increases short to mid-range combat effectiveness, at the cost of slightly reduced long-range effectiveness.
-164	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
-165	2x Sturmgewehr 44 'Assault Rifles'
-166	StG 44 Assault Rifles
-167	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like paper.
-168	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry. 
-169	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like mere paper.
-170	The MG-42 is one of the best machine guns in the war, offering an unparalleled rate of fire.
-171	The MG-42 is one of the best machine guns in the war, offering an unparalleled rate of fire.
-172	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
-173	Assault rifles increases short to mid range combat effectiveness, at the cost of slightly reduced long range effectiveness.
-174	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
-175	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Effective at medium range vs. infantry. 
-176	StG 44 Assault Rifles
-177	Sturmgewehr 44 Assault Rifles
-178	The Panzerbusche 39 rifle fires high velocity 14.5mm rounds that can pierce light armor and smash defenses.
-179	The Panzerbusche 39 rifle fires high velocity 14.5mm rounds that can pierce light armor and smash defenses.
-180	Two heavy Pzb. 39 rifles improve anti-vehicle and anti-structure capability.
-181	Panzerbusche 39 Anti-tank Rifles
-182	Pzb. 39 Anti-tank Rifles
-183	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Effective at medium range vs. vehicles. Must be stationary.
-184	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
-185	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
-186	Panzerbüchse 39 Anti-tank Rifles
-187	Pzb. 39 Anti-tank Rifles
-188	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
-189	Gewehr 43 (Zf.4)
-190	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
-191	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
-192	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
-193	MG34 LMG
-194	Maschinengewehr 34 LMG
-195	MG34 LMG
-196	Maschinengewehr 34 Shipment
-197	MG34 LMG
-198	MG34 LMG
-199	Leichtes Maschinengewehr 42
-200	MG42 LMG
-201	Maschinengewehr 42 Shipment
+ 	 Armaments: (K98, StG44), *MP40s x2, *StG44s x2, *MG34, *Panzerschreck, Skill: Regular, Role: Frontline. 
+	Armaments: (K98s/Lugers, StG44), *MP40s x2, *MG42, *StG44s x2, *FG42s-Zf4 x2, Skill: Elite, Role: Assault.
+	6th SS-Gerbirgsdivsion Light Infantry Squad
+	Großdeutschland Division Panzergrenadier Squad
+	Großdeutschland Division Panzergrenadier Squad
+	Großdeutschland Division Panzergrenadier Squad
+	Großdeutschland Division Panzergrenadier Squad
+	Waffen-SS Grenadier Squad
+	Waffen-SS Grenadier Squad
+	Waffen-SS Grenadier Squad
+	Waffen-SS Grenadier Squad
+	3rd Fallschirmjägers Divsion Paratrooper Squad
+	3rd Fallschirmjägers Divsion Paratrooper Squad
+	3rd Fallschirmjägers Divsion Paratrooper Squad
+	3rd Fallschirmjägers Divsion Paratrooper Squad
+	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
+	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
+	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
+	Armed with FG 42 Battle Rifles, these units are effective against infantry at all ranges.
+	New weapon team - MG42 HMG - available for deployment. Click and select location to deploy.
+	A MG42 Heavy Machine Gun Team can be deployed to the battlefield. This weapon is effective at suppressing massed infantry.
+	MG42 Heavy Machine Gun Team
+	Cold Weather Gear
+	The squad is issued cold weather gear for increased surivability in cold weather conditions. It provides 60% reduced effects from the cold.
+	Soviet tankers can use their own tank as a thirty-ton battering ram, smashing into enemy tanks with the hope of disabling them.
+	Soviet tankers can use their own tank as a thirty-ton battering ram, smashing into enemy tanks with the hope of disabling them.
+	Rapid fire from the rifle will force enemy units to the ground and keep them moving slowly for a short period of time.
+	Veterancy 1
+	Assault rifles increases short to mid-range combat effectiveness, at the cost of slightly reduced long-range effectiveness.
+	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
+	2x Sturmgewehr 44 'Assault Rifles'
+	StG 44 Assault Rifles
+	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like paper.
+	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry. 
+	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like mere paper.
+	The MG-42 is one of the best machine guns in the war, offering an unparalleled rate of fire.
+	The MG-42 is one of the best machine guns in the war, offering an unparalleled rate of fire.
+	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
+	Assault rifles increases short to mid range combat effectiveness, at the cost of slightly reduced long range effectiveness.
+	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
+	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Effective at medium range vs. infantry. 
+	StG 44 Assault Rifles
+	Sturmgewehr 44 Assault Rifles
+	The Panzerbusche 39 rifle fires high velocity 14.5mm rounds that can pierce light armor and smash defenses.
+	The Panzerbusche 39 rifle fires high velocity 14.5mm rounds that can pierce light armor and smash defenses.
+	Two heavy Pzb. 39 rifles improve anti-vehicle and anti-structure capability.
+	Panzerbusche 39 Anti-tank Rifles
+	Pzb. 39 Anti-tank Rifles
+	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Effective at medium range vs. vehicles. Must be stationary.
+	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+	Panzerbüchse 39 Anti-tank Rifles
+	Pzb. 39 Anti-tank Rifles
+	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
+	Gewehr 43 (Zf.4)
+	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
+	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+	MG34 LMG
+	Maschinengewehr 34 LMG
+	MG34 LMG
+	Maschinengewehr 34 Shipment
+	MG34 LMG
+	MG34 LMG
+	Leichtes Maschinengewehr 42
+	MG42 LMG
+	Maschinengewehr 42 Shipment
 202	MG42 LMG
 203	Maschinengewehr 42 LMG
 204	MG42 LMG
