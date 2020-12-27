@@ -24,84 +24,84 @@
 	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 76mm Steel, Effective at close range vs armor & emplacements.
 	The M9 Bazooka was created to combat heavier German armor, such as the Panther and Tiger. Rear hits are still advised.
 	Nicknamed after a musical instrument, the Bazooka provides infantry a dependable, mid-range anti-tank weapon.
-526	One of the first shoulder-fired rocket launchers, the 'Bazooka' provides a means to defend against medium and heavy armor.
-527	One of the first shoulder-fired rocket launchers, the 'Bazooka' provides a means to defend against medium and heavy armor.
-528	Initially developed as a portable light machine gun, the M1918A2 served mostly as an automatic rifle. 
-529	Designed for the battlefields of World War I, the M1918A2 is a versatile automatic rifle that performs admirably in most infantry firefights.
-530	The M1 Carbine's light weight and small frame allowed for soldiers to fire exceptionally well while on the move, and in close quarters.
-531	Lightweight, and compact, the M1 Carbine fired intermediate cartridges from a large magazine; perfect for close quarters.
-532	The Garand's semi-automatic capability granted a distinct advantage in close quarters over the K98, while still being as effective at range.
-533	Arguably the most successful semi-automatic rifle of the war, the M1 Garand provides American soldiers unprecedented combat effectiveness across all ranges. 
-534	Veterancy 1
-535	Veterancy 1
-536	IS-2 M1943 Heavy Tank
-537	IS-2 M1943 Heavy Tank
-538	Powerful but slow loading 122mm gun is good against all targets. The Model 1943 did not have a machine gun turret, and had inferior armor compared to later variants.
-539	Armaments: (M1 Carbines, M3 Grease Gun, M9 Bazooka), Skill: Regular, Role: Anti-Tank.
-540	Anti-Tank Team
-541	The M18 smoke grenade discharges a smoke cloud, blocking the vision in the area.
-542	Left-click ability, left-click target. Smoke lasts for about 30s.
-543	The M18 smoke grenade discharges a smoke cloud, blocking the vision in the area.
-544	Left-click ability, left-click target. Smoke lasts for about 30s.
-545	2 Weapon Inventory Space
-546	Nearby squads are ordered to focus their fire on the specified target. Enemy units are more susceptible to being hit, but will retaliate ferociously.
-547	The Hauptmann is unable to move while the ability is active. Infantry retreat to the nearest retreat point or HQ.
-548	The Hauptmann acts as a retreat point, allowing other soldiers to retreat to his position.
-549	Hauptmann Retinue
-550	The German Army called for a versatile command structure; all men were expected to know the responsibilities of their superiors should they fall in combat. Gains veterancy from nearby allies. 
-551	Armaments: (K98s, MP40), *MG30, *MG42, Skill: Experienced, Role: Tactical/Strategic Support.
-552	Can only field (1) Leutnant at a time
-553	Can only field (1) Hauptmann at a time
-554	Veterancy 2
-555	Stabskapitän Retinue
-556	Officer, (Sector Aura: +5% Reduced Hit Chance, +33% Capture Rate, +10% Accuracy), able to coordinate field artillery, and provide long range support. Limit of 1 Squad.
-557	Armaments: (Mosin-Nagants, M1895), *SVT-40s x2, *Maxim-Tokarev, Training: Experienced, Role: Strategic\Tactical Support. 
-558	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
-559	The Browning M1919A6 was created in response to the German MG42 and provides mobile fire support.
-560	The Browning M1919A6 was created in response to the German MG42 and provides mobile fire support.
-561	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x63mm, Effective at medium range vs. infantry. 
-562	Infantry Company
-563	Already upgraded with an M1918A2 BAR.
-564	The squad will halt the retreat of any nearby squads. This does NOT cancel his squad from retreating.
-565	Load BR-365P Armor-Piercing Rounds
-566	Click to activate, duration 20s.
-567	Switch to firing BR-365P Armor-Piercing Rounds, which have increased accuracy and armor penetration
-568	Veterancy 2
-569	Veterancy 3
-570	Use equipped smoke dischargers to block the enemy's line of sight.
-571	Smoke blocks line of sight. Use smoke to reposition or cover a retreat.
-572	Veterancy 2
-573	SS-Hauptsturmführer Retinue
-574	Waffen-SS Hauptsturmführer
-575	Waffen-SS Hauptsturmführer
-576	Waffen-SS Hauptsturmführer
-577	Waffen-SS Hauptsturmführer
-578	Veterancy 2
-579	Veterancy 3
-580	SS-Standartenführer Retinue
-581	Armaments: (K98s, Sturmpistole), *MP34s x2, *G43-Zf4, Skill: Experienced, Role: Tactical/Strategic Support.
-582	Armaments: K98, Luger, *MP40, Training: Experienced, Role: Strategic Support. Direct Combat is not advised.
-583	The Hauptsturmführer (Captain) is the most ubiquitous position held by Waffen-SS officers, fostering a reputation of both bravery and lethality in combat. Gains veterancy from nearby allies. 
-584	The "Colonel" provides strategical support and inspiration to nearby men.
-585	Veterancy 3
-586	Load V-patronen Armor Piercing Rounds
-587	Load B-30 Armor Piercing Rounds
-588	Crew switches to armor-piercing, hardened steel core ammunition for better armor penetration.
-589	Primary defensive structure.
-590	Click and target position. 
-591	Flares are able to illuminate a designated area, revealing enemy positions. While it has a relatively small radius, flares cannot be shot down, and will also detect camouflaged units.
-592	10.5cm Illumination Barrage
-593	Left-click ability, left-click target area. Effective against Infantry and Team Weapons.
-594	The Model 39 Eierhandgranate often referred to as the "egg" grenade can kill or injure infantry in a 4m radius.
-595	Model 39 Grenade
-596	Left-click ability, left-click target squad. Effective against infantry.
-597	Snipe Turret Gunner
-598	Armaments: (K98s, MP40), *G43s x2, *G43-Zf4, *MG42, Skill: Regular, Role: Frontline.
-599	Armaments: K98, MG42, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
-600	Armaments: (K98s/Lugers, MP40), *MP40s x2, *MP717(r)s x2, *G43s x2, *FmW 35, Skill: Elite, Role: Assault.
-601	Armaments: (MG42, K98s, MP40), Crew: 5, Skill: Regular, Role: Suppression.
-602	Armaments: (12 cm GrW 378 (r), K98s, MP40), Crew: 4, Skill: Regular, Role: Indirect Fire.
-603	Armaments: K98, *MG34, *Pzb. 39, Training: Varied, Role: General Purpose. Effective at medium range vs. infantry.
+	One of the first shoulder-fired rocket launchers, the 'Bazooka' provides a means to defend against medium and heavy armor.
+	One of the first shoulder-fired rocket launchers, the 'Bazooka' provides a means to defend against medium and heavy armor.
+	Initially developed as a portable light machine gun, the M1918A2 served mostly as an automatic rifle. 
+	Designed for the battlefields of World War I, the M1918A2 is a versatile automatic rifle that performs admirably in most infantry firefights.
+	The M1 Carbine's light weight and small frame allowed for soldiers to fire exceptionally well while on the move, and in close quarters.
+	Lightweight, and compact, the M1 Carbine fired intermediate cartridges from a large magazine; perfect for close quarters.
+	The Garand's semi-automatic capability granted a distinct advantage in close quarters over the K98, while still being as effective at range.
+	Arguably the most successful semi-automatic rifle of the war, the M1 Garand provides American soldiers unprecedented combat effectiveness across all ranges. 
+	Veterancy 1
+	Veterancy 1
+	IS-2 M1943 Heavy Tank
+	IS-2 M1943 Heavy Tank
+	Powerful but slow loading 122mm gun is good against all targets. The Model 1943 did not have a machine gun turret, and had inferior armor compared to later variants.
+	Armaments: (M1 Carbines, M3 Grease Gun, M9 Bazooka), Skill: Regular, Role: Anti-Tank.
+	Anti-Tank Team
+	The M18 smoke grenade discharges a smoke cloud, blocking the vision in the area.
+	Left-click ability, left-click target. Smoke lasts for about 30s.
+	The M18 smoke grenade discharges a smoke cloud, blocking the vision in the area.
+	Left-click ability, left-click target. Smoke lasts for about 30s.
+	2 Weapon Inventory Space
+	Nearby squads are ordered to focus their fire on the specified target. Enemy units are more susceptible to being hit, but will retaliate ferociously.
+	The Hauptmann is unable to move while the ability is active. Infantry retreat to the nearest retreat point or HQ.
+	The Hauptmann acts as a retreat point, allowing other soldiers to retreat to his position.
+	Hauptmann Retinue
+	The German Army called for a versatile command structure; all men were expected to know the responsibilities of their superiors should they fall in combat. Gains veterancy from nearby allies. 
+	Armaments: (K98s, MP40), *MG30, *MG42, Skill: Experienced, Role: Tactical/Strategic Support.
+	Can only field (1) Leutnant at a time
+	Can only field (1) Hauptmann at a time
+	Veterancy 2
+	Stabskapitän Retinue
+	Officer, (Sector Aura: +5% Reduced Hit Chance, +33% Capture Rate, +10% Accuracy), able to coordinate field artillery, and provide long range support. Limit of 1 Squad.
+	Armaments: (Mosin-Nagants, M1895), *SVT-40s x2, *Maxim-Tokarev, Training: Experienced, Role: Strategic\Tactical Support. 
+	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
+	The Browning M1919A6 was created in response to the German MG42 and provides mobile fire support.
+	The Browning M1919A6 was created in response to the German MG42 and provides mobile fire support.
+	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x63mm, Effective at medium range vs. infantry. 
+	Infantry Company
+	Already upgraded with an M1918A2 BAR.
+	The squad will halt the retreat of any nearby squads. This does NOT cancel his squad from retreating.
+	Load BR-365P Armor-Piercing Rounds
+	Click to activate, duration 20s.
+	Switch to firing BR-365P Armor-Piercing Rounds, which have increased accuracy and armor penetration
+	Veterancy 2
+	Veterancy 3
+	Use equipped smoke dischargers to block the enemy's line of sight.
+	Smoke blocks line of sight. Use smoke to reposition or cover a retreat.
+	Veterancy 2
+	SS-Hauptsturmführer Retinue
+	Waffen-SS Hauptsturmführer
+	Waffen-SS Hauptsturmführer
+	Waffen-SS Hauptsturmführer
+	Waffen-SS Hauptsturmführer
+	Veterancy 2
+	Veterancy 3
+	SS-Standartenführer Retinue
+	Armaments: (K98s, Sturmpistole), *MP34s x2, *G43-Zf4, Skill: Experienced, Role: Tactical/Strategic Support.
+	Armaments: K98, Luger, *MP40, Training: Experienced, Role: Strategic Support. Direct Combat is not advised.
+	The Hauptsturmführer (Captain) is the most ubiquitous position held by Waffen-SS officers, fostering a reputation of both bravery and lethality in combat. Gains veterancy from nearby allies. 
+	The "Colonel" provides strategical support and inspiration to nearby men.
+	Veterancy 3
+	Load V-patronen Armor Piercing Rounds
+	Load B-30 Armor Piercing Rounds
+	Crew switches to armor-piercing, hardened steel core ammunition for better armor penetration.
+	Primary defensive structure.
+	Click and target position. 
+	Flares are able to illuminate a designated area, revealing enemy positions. While it has a relatively small radius, flares cannot be shot down, and will also detect camouflaged units.
+	10.5cm Illumination Barrage
+	Left-click ability, left-click target area. Effective against Infantry and Team Weapons.
+	The Model 39 Eierhandgranate often referred to as the "egg" grenade can kill or injure infantry in a 4m radius.
+	Model 39 Grenade
+	Left-click ability, left-click target squad. Effective against infantry.
+	Snipe Turret Gunner
+	Armaments: (K98s, MP40), *G43s x2, *G43-Zf4, *MG42, Skill: Regular, Role: Frontline.
+	Armaments: K98, MG42, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+	Armaments: (K98s/Lugers, MP40), *MP40s x2, *MP717(r)s x2, *G43s x2, *FmW 35, Skill: Elite, Role: Assault.
+	Armaments: (MG42, K98s, MP40), Crew: 5, Skill: Regular, Role: Suppression.
+	Armaments: (12 cm GrW 378 (r), K98s, MP40), Crew: 4, Skill: Regular, Role: Indirect Fire.
+	Armaments: K98, *MG34, *Pzb. 39, Training: Varied, Role: General Purpose. Effective at medium range vs. infantry.
 604	Armaments: (K98s), *K98-Trench x2, *G.259(r)s x2, *MG34, *Pzb. 39, Skill: Poor, Role: Static Defense.
 605	Armaments: (K98s, StG44), *StG44s-Zf4 x2, *G43-Zf4, *MG42, *RPzB-54/1, Skill: Experienced, Role: Frontline.
 606	Armaments: (K98s, MP40), *MP40s x2, *FmW 35, *Pzb. 39, Skill: Regular, Role: Engineer.
