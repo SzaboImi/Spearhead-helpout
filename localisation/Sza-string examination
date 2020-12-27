@@ -206,106 +206,106 @@
 	The M21 mounts the M1 81mm mortar on the chassis of a lightly armored half-track. The mortar can fire a variety of barrage rounds.
 	Armaments: M1A2 Autocannon, Pintle M2HB .50 Cal, Armor: 12mm, Role: Anti-Aircraft, Speed: 72 km/h. Effective at medium range vs. infantry & aircraft. Fires in a large arc from the rear against ground targets.
 	Armaments: 81mm M1 Mortar, Armor: 8mm, Role: Indirect Fire, Speed: 72 km/h.
-708	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
-709	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
-710	Armaments: 90mm M3, Armor: 70mm, Role: Tank Destroyer, Speed: 48 km/h.
-711	Armaments: 105 mm M52, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 51mm, Role: Infantry Support, Speed: 48 km/h.
-712	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
-713	Armaments: 75 mm M3 L/40, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 51mm, Role: Infantry Support, Speed: 48 km/h.
-714	Armaments: 76 mm M1, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 80mm, Role: General Purpose, Speed: 48 km/h.
-715	Armaments: 37 mm M6, M1919 .30 Cal (Coaxial/Hull), Armor: 45mm, Role: Infantry Support, Speed: 58 km/h.
-716	Armaments: 105 mm M2, Pintle M2HB .50 Cal, Armor: 51mm, Role: Artillery, Speed: 39 km/h. Effective at long range vs. infantry & structures.
-717	Armaments: 37 mm M6, M1919 .30 Cal (Coaxial), M2HB .50 Cal (Pintle), Armor: 14.5mm, Role: Recon, Speed: 88.5 km/h.
-718	Armaments: 75 mm M2, Armor: 40mm, Role: Indirect Fire, Speed: 58 km/h.
-719	Left-click to select ability, left-click on target. Effective at short range vs. vehicles & crewed weapons.
-720	The US-made Sticky Bomb is an improvised anti-tank grenade made by loading explosives into a sock, and covered in tar to stick to vehicles. . Meant to immobilize rather than cause any serious damage.
-721	Throw Sticky Bomb
-722	Bring a squad up to full strength. Cannot merge with Sniper Squads.
-723	Left-click on target squad. Merged infantry use the weapons of the target squad.
-724	Bring a squad up to full strength by filling their ranks with another squad. Cannot merge with Sniper Squads.
-725	Can only field (2) Anti-Tank Teams at a time.
-726	Bazooka teams are considered the first line of defense against enemy tanks, though being assigned the role was typically considered a death sentence. The M9 Bazooka is a dependable anti-tank rocket launcher, though tends to be less accurate when fired at a distance.
-727	The US M2 Anti-Personnel Mine is cheap and can be planted quickly. While the mine can be triggered by infantry or vehicles, the mine is not effective against vehicles.
-728	Type: Anti-Personnel Mine, Filling: 154g TNT, Penetration: Low, Effective vs. infantry. 
-729	Type: Anti-Personnel Mine, Filling: 154g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry.
-730	Armaments: Passengers, Armor: None, Role: Transport, Capacity: 6, Speed: 86 km/h.
-731	Truck, Cargo, ¾, 4x4 Weapons Carrier, WC51
-732	Dodge’s military contract has its roots in the 1916 “Pancho Villa” Expedition, America’s first motorized campaign. Recognizing the need for mobile attacks, Dodge designed the WC-51 to carry heavy weapon squads in WW2. 
-733	M2 Anti-Personnel Mines
-734	Anti-Personnel M16s are based off the German S-Mine, they are randomly planted in a large radius; includes warning points on boundaries of radius.
-735	Effective against infantry.
-736	Anti-Personnel M16s are based off the German S-Mine, they are randomly planted in a large radius; includes warning points on boundaries of radius.
-737	M16 'Bouncing Betty' Mine Field
-738	Sandbags
-739	Sandbags
-740	Sandbags
-741	Sandbags
-742	Trench
-743	Type: Bunker, Durability: Moderate, Armor Rating: Low, Provided Cover: Heavy, Firing Positions: 5, includes machineguns, & anti-tank guns. 
-744	This trench provides good protection to infantry, snipers, mortars, and heavy machine guns. Can be crossed by tanks.
-745	Fortified Trench
-746	This fortified trench provides good protection to infantry, snipers, mortars, and heavy machine guns.
-747	Can only field (2) Snipers at a time.
-748	Armaments: (G43-Zf4), *StG44-Zf4, Skill: Ace, Role: Sniper.
-749	Sniper infantry, (Traits: + Camouflage, + High Detection Range): Excellent at eliminating priority infantry targets at range, or other snipers with ease. Limit of 2 Squads.
-750	German snipers are well trained, armed with accurate G43 rifles with high-quality optics, and issued specially made ammunition for improved hit probability. They can spot camouflaged troops at very long distances.
-751	SS-Scharfschütze
-752	Requires Tankoviy Battalion Command.
-753	Already upgraded with a Gewehr 43.
-754	Already upgraded with Sturmgewehr 44s.
-755	Already upgraded with a Machinegewehr 42.
-756	Left-click to target. Low damage, but better range than thrown grenade.
-757	Soldiers fire a 30mm high-explosive Gewehrsprenggranate rifle grenade.
-758	Soldiers fire a 30mm high-explosive Gewehrsprenggranate rifle grenade.
-759	Fire Gewehrsprenggranate 30
-760	Costs 1 Command Point to unlock.
-761	Costs 1 Command Point to unlock.
-762	Costs 3 Command Points to unlock.
-763	Costs 2 Command Points to unlock.
-764	Costs 1 Command Point to unlock.
-765	Costs 3 Command Points to unlock.
-766	Costs 3 Command Point to unlock.
-767	Costs 5 Command Points to unlock.
-768	Costs 1 Command Point to unlock.
-769	22mm High-Explosive Rifle Grenade
-770	Improves anti-infantry capability at long ranges. Replaces the current grenade ability.
-771	Rifle grenades provides longer range over regular grenades, at the cost of a smaller payload.
-772	Panzerfaust upgrade
-773	Panzerfaust-100
-774	Type: Recoilless Gun, Cartridge: 150mm, Penetration: 220mm Steel, Effective at close range vs armor.
-775	The Panzerfaust is a single-use anti-tank weapon that deals heavy damage.
-776	Armaments: Flamethrower, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium range vs. infantry & structures.
-777	Bulldozer equipped Sherman M4A3 armed with a flamethrower for destroying buildings and infantry.
-778	The M4A3 Sherman Bulldozer tank is equipped with a 105mm howitzer for engaging infantry and structures. Barriers can be created or destroyed with the bulldozer blade.
-779	M4A3 'Zippo' Medium Tank
-780	Armaments: 122 mm D25-T, Hull DT, Coaxial DT, *Pintle DShK, Armor: 120mm, Role: General Purpose, Speed: 37 km/h. Effective at long range vs. armor. 
-781	Armaments: 125 mm D25-T, Hull DT, Coaxial DT, Armor: 100mm, Role: General Purpose, Speed: 37 km/h. Effective at long range vs. armor. 
-782	Armaments: 152.4 mm ML-20S, *DShK (Pintle), Armor: 105mm, Role: Infantry Support, Speed: 37 km/h.
-783	Armaments: 132 mm BM-13-16, Armor: None, Role: Indirect Fire, Speed: 45 km/h.
-784	Armaments: 76.2 mm M1941 ZiS-5, DT (Coaxial/Hull/Rear), Armor: 90mm, Role: General Purpose, Speed: 35 km/h.
-785	Armaments: 152 mm M10, DT (Hull/Rear), Armor: 90mm, Role: Infantry Support, Speed: 25.6 km/h.
-786	Armaments: ATO-41, 45 mm M1932, DT (Hull/Rear), Armor: 90mm, Role: Infantry Support, Speed: 35 km/h.
-787	Armaments: Front M2HB .50 Cal, Rear M1919 .30 Cal, Passengers, Armor: 13mm, Role: Recon, Capacity: 6, Speed: 89 km/h. Effective at medium range vs. infantry & aircraft.
-788	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
-789	Armaments: Pintle M2HB .50 Cal, Passengers, *M45 Quad Mount, Armor: 12mm, Role: Transport, Capacity: 10, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
-790	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
-791	Armaments: 76.2 mm ZIS-3Sh, Armor: 30mm (Sloped), Role: Infantry Support, Speed: 45 km/h.
-792	Armaments: 85 mm M1939 D-5T, Armor: 45mm, Role: Tank Destroyer, Speed: 51 km/h. Effective at long range vs. armor. 
-793	Armaments: 76.2 mm M1940 F-34, DT (Coaxial/Hull), Passengers, Armor: 65mm (Sloped), Role: Infantry Support, Speed: 53 km/h.
-794	Armaments: 85 mm M1939 D-5T, DT (Coaxial/Hull), Armor: 85mm (Sloped), Role: General Purpose, Speed: 53 km/h.
-795	Armaments: 45 mm M1938, DT (Coaxial), Armor: 50mm (Sloped), Role: Recon, Speed: 45 km/h.
-796	Armaments: Passengers, Armor: None, Role: Transport, Capacity: 12, Speed: 55 km/h. Transports infantry, crewed weapons, and large guns.
-797	Armaments: 76.2 mm M1942 ZiS-3, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank. Effective at long range vs. infantry & emplacements. 
-798	Armaments: 45 mm M1938, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank.  Effective at medium range vs. light vehicles & emplacements.
-799	Anti-tank gun, (Traits: + Accurate, + High Damage, - Slow Reload): Use to engage any sort of enemy vehicle or armor at long range.
-800	Armaments: (7.5 cm Pak 40, K98s, MP40), Crew: 5, Skill: Regular, Role: Anti-Tank.
-801	Armaments: M2HB .50 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
-802	Armaments: (60 mm M2, M1 Garands, M3A1 Grease Gun), Crew: 3, Skill: Regular, Role: Indirect Fire.
-803	Armaments: (57 mm M1, M1 Garands, M3A1 Grease Gun) Crew: 5, Skill: Regular, Role: Anti-Tank.
-804	Armaments: 8.8 cm Raketenwerfer 43, K98, Crew: 5, Skill: Regular, Role: Anti-Tank. 
-805	Favored by Wehrmacht light units for its low weight, the ‘Puppchen’ fired the same 8.8 cm rocket as its conventional cousin, the Panzerschreck. More accurate due to its mounted design, it could penetrate 160 mm of armor out to 700 m.
-806	Armaments: (7.5 cm le.IG 18, K98s, MP40), Crew: 5, Skill: Regular, Role: Artillery.
-807	Armaments: 5 cm KwK 39/1 L/60, MG42 (Coaxial), Armor: 32mm, Role: Tank Destroyer, Speed: 80 km/h.
+	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
+	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
+	Armaments: 90mm M3, Armor: 70mm, Role: Tank Destroyer, Speed: 48 km/h.
+	Armaments: 105 mm M52, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 51mm, Role: Infantry Support, Speed: 48 km/h.
+	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
+	Armaments: 75 mm M3 L/40, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 51mm, Role: Infantry Support, Speed: 48 km/h.
+	Armaments: 76 mm M1, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 80mm, Role: General Purpose, Speed: 48 km/h.
+	Armaments: 37 mm M6, M1919 .30 Cal (Coaxial/Hull), Armor: 45mm, Role: Infantry Support, Speed: 58 km/h.
+	Armaments: 105 mm M2, Pintle M2HB .50 Cal, Armor: 51mm, Role: Artillery, Speed: 39 km/h. Effective at long range vs. infantry & structures.
+	Armaments: 37 mm M6, M1919 .30 Cal (Coaxial), M2HB .50 Cal (Pintle), Armor: 14.5mm, Role: Recon, Speed: 88.5 km/h.
+	Armaments: 75 mm M2, Armor: 40mm, Role: Indirect Fire, Speed: 58 km/h.
+	Left-click to select ability, left-click on target. Effective at short range vs. vehicles & crewed weapons.
+	The US-made Sticky Bomb is an improvised anti-tank grenade made by loading explosives into a sock, and covered in tar to stick to vehicles. . Meant to immobilize rather than cause any serious damage.
+	Throw Sticky Bomb
+	Bring a squad up to full strength. Cannot merge with Sniper Squads.
+	Left-click on target squad. Merged infantry use the weapons of the target squad.
+	Bring a squad up to full strength by filling their ranks with another squad. Cannot merge with Sniper Squads.
+	Can only field (2) Anti-Tank Teams at a time.
+	Bazooka teams are considered the first line of defense against enemy tanks, though being assigned the role was typically considered a death sentence. The M9 Bazooka is a dependable anti-tank rocket launcher, though tends to be less accurate when fired at a distance.
+	The US M2 Anti-Personnel Mine is cheap and can be planted quickly. While the mine can be triggered by infantry or vehicles, the mine is not effective against vehicles.
+	Type: Anti-Personnel Mine, Filling: 154g TNT, Penetration: Low, Effective vs. infantry. 
+	Type: Anti-Personnel Mine, Filling: 154g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry.
+	Armaments: Passengers, Armor: None, Role: Transport, Capacity: 6, Speed: 86 km/h.
+	Truck, Cargo, ¾, 4x4 Weapons Carrier, WC51
+	Dodge’s military contract has its roots in the 1916 “Pancho Villa” Expedition, America’s first motorized campaign. Recognizing the need for mobile attacks, Dodge designed the WC-51 to carry heavy weapon squads in WW2. 
+	M2 Anti-Personnel Mines
+	Anti-Personnel M16s are based off the German S-Mine, they are randomly planted in a large radius; includes warning points on boundaries of radius.
+	Effective against infantry.
+	Anti-Personnel M16s are based off the German S-Mine, they are randomly planted in a large radius; includes warning points on boundaries of radius.
+	M16 'Bouncing Betty' Mine Field
+	Sandbags
+	Sandbags
+	Sandbags
+	Sandbags
+	Trench
+	Type: Bunker, Durability: Moderate, Armor Rating: Low, Provided Cover: Heavy, Firing Positions: 5, includes machineguns, & anti-tank guns. 
+	This trench provides good protection to infantry, snipers, mortars, and heavy machine guns. Can be crossed by tanks.
+	Fortified Trench
+	This fortified trench provides good protection to infantry, snipers, mortars, and heavy machine guns.
+	Can only field (2) Snipers at a time.
+	Armaments: (G43-Zf4), *StG44-Zf4, Skill: Ace, Role: Sniper.
+	Sniper infantry, (Traits: + Camouflage, + High Detection Range): Excellent at eliminating priority infantry targets at range, or other snipers with ease. Limit of 2 Squads.
+	German snipers are well trained, armed with accurate G43 rifles with high-quality optics, and issued specially made ammunition for improved hit probability. They can spot camouflaged troops at very long distances.
+	SS-Scharfschütze
+	Requires Tankoviy Battalion Command.
+	Already upgraded with a Gewehr 43.
+	Already upgraded with Sturmgewehr 44s.
+	Already upgraded with a Machinegewehr 42.
+	Left-click to target. Low damage, but better range than thrown grenade.
+	Soldiers fire a 30mm high-explosive Gewehrsprenggranate rifle grenade.
+	Soldiers fire a 30mm high-explosive Gewehrsprenggranate rifle grenade.
+	Fire Gewehrsprenggranate 30
+	Costs 1 Command Point to unlock.
+	Costs 1 Command Point to unlock.
+	Costs 3 Command Points to unlock.
+	Costs 2 Command Points to unlock.
+	Costs 1 Command Point to unlock.
+	Costs 3 Command Points to unlock.
+	Costs 3 Command Point to unlock.
+	Costs 5 Command Points to unlock.
+	Costs 1 Command Point to unlock.
+	22mm High-Explosive Rifle Grenade
+	Improves anti-infantry capability at long ranges. Replaces the current grenade ability.
+	Rifle grenades provides longer range over regular grenades, at the cost of a smaller payload.
+	Panzerfaust upgrade
+	Panzerfaust-100
+	Type: Recoilless Gun, Cartridge: 150mm, Penetration: 220mm Steel, Effective at close range vs armor.
+	The Panzerfaust is a single-use anti-tank weapon that deals heavy damage.
+	Armaments: Flamethrower, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium range vs. infantry & structures.
+	Bulldozer equipped Sherman M4A3 armed with a flamethrower for destroying buildings and infantry.
+	The M4A3 Sherman Bulldozer tank is equipped with a 105mm howitzer for engaging infantry and structures. Barriers can be created or destroyed with the bulldozer blade.
+	M4A3 'Zippo' Medium Tank
+	Armaments: 122 mm D25-T, Hull DT, Coaxial DT, *Pintle DShK, Armor: 120mm, Role: General Purpose, Speed: 37 km/h. Effective at long range vs. armor. 
+	Armaments: 125 mm D25-T, Hull DT, Coaxial DT, Armor: 100mm, Role: General Purpose, Speed: 37 km/h. Effective at long range vs. armor. 
+	Armaments: 152.4 mm ML-20S, *DShK (Pintle), Armor: 105mm, Role: Infantry Support, Speed: 37 km/h.
+	Armaments: 132 mm BM-13-16, Armor: None, Role: Indirect Fire, Speed: 45 km/h.
+	Armaments: 76.2 mm M1941 ZiS-5, DT (Coaxial/Hull/Rear), Armor: 90mm, Role: General Purpose, Speed: 35 km/h.
+	Armaments: 152 mm M10, DT (Hull/Rear), Armor: 90mm, Role: Infantry Support, Speed: 25.6 km/h.
+	Armaments: ATO-41, 45 mm M1932, DT (Hull/Rear), Armor: 90mm, Role: Infantry Support, Speed: 35 km/h.
+	Armaments: Front M2HB .50 Cal, Rear M1919 .30 Cal, Passengers, Armor: 13mm, Role: Recon, Capacity: 6, Speed: 89 km/h. Effective at medium range vs. infantry & aircraft.
+	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
+	Armaments: Pintle M2HB .50 Cal, Passengers, *M45 Quad Mount, Armor: 12mm, Role: Transport, Capacity: 10, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
+	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
+	Armaments: 76.2 mm ZIS-3Sh, Armor: 30mm (Sloped), Role: Infantry Support, Speed: 45 km/h.
+	Armaments: 85 mm M1939 D-5T, Armor: 45mm, Role: Tank Destroyer, Speed: 51 km/h. Effective at long range vs. armor. 
+	Armaments: 76.2 mm M1940 F-34, DT (Coaxial/Hull), Passengers, Armor: 65mm (Sloped), Role: Infantry Support, Speed: 53 km/h.
+	Armaments: 85 mm M1939 D-5T, DT (Coaxial/Hull), Armor: 85mm (Sloped), Role: General Purpose, Speed: 53 km/h.
+	Armaments: 45 mm M1938, DT (Coaxial), Armor: 50mm (Sloped), Role: Recon, Speed: 45 km/h.
+	Armaments: Passengers, Armor: None, Role: Transport, Capacity: 12, Speed: 55 km/h. Transports infantry, crewed weapons, and large guns.
+	Armaments: 76.2 mm M1942 ZiS-3, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank. Effective at long range vs. infantry & emplacements. 
+	Armaments: 45 mm M1938, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank.  Effective at medium range vs. light vehicles & emplacements.
+	Anti-tank gun, (Traits: + Accurate, + High Damage, - Slow Reload): Use to engage any sort of enemy vehicle or armor at long range.
+	Armaments: (7.5 cm Pak 40, K98s, MP40), Crew: 5, Skill: Regular, Role: Anti-Tank.
+	Armaments: M2HB .50 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+	Armaments: (60 mm M2, M1 Garands, M3A1 Grease Gun), Crew: 3, Skill: Regular, Role: Indirect Fire.
+	Armaments: (57 mm M1, M1 Garands, M3A1 Grease Gun) Crew: 5, Skill: Regular, Role: Anti-Tank.
+	Armaments: 8.8 cm Raketenwerfer 43, K98, Crew: 5, Skill: Regular, Role: Anti-Tank. 
+	Favored by Wehrmacht light units for its low weight, the ‘Puppchen’ fired the same 8.8 cm rocket as its conventional cousin, the Panzerschreck. More accurate due to its mounted design, it could penetrate 160 mm of armor out to 700 m.
+	Armaments: (7.5 cm le.IG 18, K98s, MP40), Crew: 5, Skill: Regular, Role: Artillery.
+	Armaments: 5 cm KwK 39/1 L/60, MG42 (Coaxial), Armor: 32mm, Role: Tank Destroyer, Speed: 80 km/h.
 808	Armaments: 8.8 cm KwK 43 L/71, MG34 (Coaxial/Hull), *MG42 Pintle, Armor: 280mm (Sloped), Role: General Purpose, Speed: 41 km/h.
 809	Armaments: 2 cm KwK 30, MG34 (Coaxial), Armor: 50mm, Role: Recon, Speed: 60 km/h.
 810	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 160mm (Sloped), Role: General Purpose, Speed: 55 km/h.
