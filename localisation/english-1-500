@@ -1,138 +1,138 @@
-1	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 30% reduced sight radius, and disabled weapons while moving.
-2	Duration 15s.
-3	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 60% suppression resistance, 30% reduced sight radius, and disabled weapons while moving.
-4	Duration: 20 seconds. Infantry move at maximum speed.
-5	Duration 20s. Cannot fire weapons while moving, sight radius reduced.
-6	Soldiers seek ground for protection but will not move.
-7	Player triggered.
-8	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice. Guaranteed to destroy bridges.
-9	Plant Demolition Charge
-10	Plant Demolition Charge
-11	Plant Demolition Charge
-12	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice.
-13	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice.
-14	Player triggered.
-15	Player triggered.
-16	Can only field 2 600th SS-Fallschirmjäger Squads at a time.
-17	Effective at close range.
-18	Armaments: (K98s, MP40), *MP40s x2, *StG44s x2/4, *FmW 35, Skill: Elite, Role: Assault.
-19	Extensively trained to treat any wound their fanatical brethren sustained, medical personnel of the Waffen-SS ranged from field medics and stretcher bearers to professional surgeons and doctors. Gains veterancy from nearby allies.
-20	SS-Stoßtruppen
-21	Carries troops across forbidding battlefields, protecting against small arms and weather exposure.
-22	The SdKfz 251 Half-track is a robust and reliable MG-armed vehicle that offers good protection against small-arms fire and provides a stable firing platform for troops inside.
-23	Transports two squads of infantry. Weak to anti-tank guns, mortars, infantry anti-tank.
-24	Division Großdeutschland Panzergrenadiere
-25	SS-Fallschirmjäger-Bataillon 600 Fallschirmjäger
-26	SdKfz 251 Half-track
-27	Select infantry, right-click on abandoned vehicle to re-crew.
-28	(2) -The number on the abandoned vehicle indicates required infantry needed to capture.
-29	Abandoned 251 Half-track; re-crew with infantry
-30	SdKfz 251 Half-track
-31	SdKfz 251 Half-track
-32	Already upgraded with a Panzerschreck.
-33	Already upgraded with an MG34 LMG
-34	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
-35	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
-36	Maschinengewehr 34 LMG
-37	Already upgraded with a PzB 39 AT Rifle.
-38	Conditioning allows troops to sprint at full speed, but also recover their stamina faster.
-39	Weapon Inventory Full. 
-40	Already upgraded with a DP-28 Light Machinegun.
-41	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Capacity: 47 Rounds. Effective at long range vs. infantry.
-42	Nicknamed the "record player" due to its outlandish design, the DP provides Soviet troops a steady rate of suppressive fire down range.
-43	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
-44	Degtyaryov (DPM)
-45	Veterancy 1
-46	Utility vehicle, (Traits: + Highly Mobile, - Easily Decrewed, - Unarmed): Can be equipped to bring in reinforcements, medical aid, or repair stations.
-47	Armaments: None, Armor: None, Role: Utility, Capacity: 12, Speed: 80 km/h. Transports infantry, crewed weapons, and large guns. Gains veterancy from nearby allies.
-48	The workhorse of the Waffen-SS, the dependable Opel not only transported troops to the front but also supplies and weapons.
-49	Four infantry squads can be carried. Protects against cold weather.
-50	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
-51	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
-52	Type: Submachine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.62x25mm, Quantity: 3, Effective at close range vs. infantry.
-53	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
-54	PPSh-41 Submachine Gun Package
-55	PPSh-41 SMG Package
-56	1 Weapon Inventory Spaces
-57	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
-58	Panzerbüchse 39 Shipment
-59	PzB 39 AT Rifles.
-60	Medium tank, (Traits: + Accurate, + Cheaper, - Slow Turret Traverse): Multiple retrofit options, use for infantry support, or engaging other tanks.
-61	Armaments: 7.5 cm KwK 40 L/48, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 80mm, Role: General Purpose, Speed: 42 km/h.
-62	Designed for faster production, the retrograde Ausf. J was meant to hastily replenish the shattered SS Panzer divisions. Kept frontline viable due to its unerring 7.5 cm KwK 40 L/48, it suffered from a sluggish hand cranked turret traverse.
-63	Panzerkampfwagen IV Ausf. J
-64	Pz.Kpfw. IV Ausf. J
-65	Battle Phase 1
-66	Fast Sprint
-67	The Volksgrenadiers gain 40% resistance against blizzards and handheld anti-vehicle weaponry.
-68	The Volksgrenadiers gain 40% resistance against blizzards and handheld anti-vehicle weaponry.
-69	SS-Sturmbannführer Retinue
-70	Armaments: (K98s, Luger), *G43s x2, *StG44s x2, Skill: Experienced, Role: Strategic Support.
-71	Officer, (Multiple Sector Aura: +50% Capture Rate, +33% Ability Cooldown), brings in a formidable array tactical support to the field. Limit of 1 Squad.
-72	SS-Sturmbannführers (Majors) are high-ranking field officers within the Nazi Party, commanding their men with ruthless efficiency, and ferocity. Gains veterancy from nearby allies. 
-73	SS-Sturmgrenadiere
-74	101st Airborne Division Assault Team
-75	101st Airborne Divsion Paratrooper Squad
-76	101st Airborne Divsion Paratrooper Squad
-77	101st Airborne Divsion Pathfinder Team
-78	83rd Infantry Division Recon Squad
-79	5th Battalion Ranger Assault Team
-80	Truck, Cargo, ¾, 4x4 Weapons Carrier, WC51
-81	SS-Sturmpioniere
-82	Pioniere
-83	Oberstleutnant Retinue
-84	Oberstleutnant
-85	This "Lieutenant Colonel" and his retinue provide artillery support in the form of flares, Stuka Smoke Bombs, victor target, and sector artillery.
-86	Soldiers lay down a volume of suppressive fire with their rapid-firing rifles. 
-87	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
-88	Designed ahead of its time, the Maschinengewehr 34 provides portability, firepower, and reliability on a single weapons platform.
-89	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry.
-90	Veterancy 3
-91	Frag Grenade, the Model 39 'Egg Grenade', a cheap but unremarkable grenade with minimal blast radius and throwing range. 
-92	Throw Model 39 Eierhandgranate
-93	Throws a Model 39 Eierhandgranate, an inexpensive grenade with a small blast radius, and short throw distance.
-94	Armaments: (K98s, StG44) *StG44s x2, *G43-Zf4, *MG42, Training: Elite, Role: Assault. Effective at medium range vs. infantry.
-95	Strong anti-tank infantry, ideal for ambushing armor and light vehicles at close range.
-96	The Stoßtruppen have access to a wide variety of close quarter weapons and grenades to assault enemy positions.
-97	Can only field 2 Panzerjäger Squads at a time
-98	352. Infanterie-Division Stoßtruppen
-99	Veterancy 2
-100	Veterancy 2
-101	Veterancy 1
-102	Panzer III Medium Tank
-103	Panzer III
-104	Effective against infantry targets. Weak to heavy anti-tank, assault guns.
-105	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry.
-106	Designed ahead of its time, the Maschinengewehr 34 provides portability, firepower, and reliability on a single weapons platform.
-107	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
-108	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
-109	StG 44 Assault Rifles
-110	Veterancy 3
-111	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Quantity: 4, Effective at medium range vs. infantry. 
-112	StG 44 Assault Rifles
-113	Veterancy 2
-114	Veterancy 2
-115	Submachine guns increase short-range combat effectiveness.
-116	Type: Submachine Gun, Rate of Fire: 700 rounds per minute, Cartridge: 11.43×23mm, Capacity: 30 Rounds, Quantity: 4. Effective at close range vs. infantry.
-117	The iconic, and infamous Thompson became popular by soldiers for its thunderous rate of fire and powerful .45 ACP rounds.
-118	Submachine Gun, Cal .45, M1A1 (x4)
-119	Thompson SMG Package
-120	Veterancy 5
-121	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Effective at medium range vs. infantry. 
-122	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
-123	4x Sturmgewehr 44 'Assault Rifles'
-124	StG 44 Assault Rifles
-125	SS-Panzer
-126	Anti-tank infantry, (Traits: + Camouflage): Terrifyingly lethal with their Panzerschreck, these anti-tank teams can obliterate any tank within range, or used against infantry cowering behind cover. Limit of 2.
-127	Armaments: (K98, StG44, Panzerschreck), Skill: Regular, Role: Anti-Armour.
-128	SS-Panzerjäger
-129	Leichtes Maschinengewehr 34
-130	Anti-Tank Rocket, a single-use 149mm rocket that deals an exceptional amount of damage against tanks from a moderate distance.
-131	Left-click ability, left-click target vehicle. Effective at medium range vs. armour & emplacements.
-132	Fire Panzerfaust-100
-133	Hit the Dirt!
-134	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 30% reduced sight radius, and disabled weapons while moving.
-135	Armaments: (K98, StG44), *MP40s x2, *StG44s x2, *MG34, *Panzerschreck, Skill: Regular, Role: Frontline. 
+	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 30% reduced sight radius, and disabled weapons while moving.
+	Duration 15s.
+	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 60% suppression resistance, 30% reduced sight radius, and disabled weapons while moving.
+	Duration: 20 seconds. Infantry move at maximum speed.
+	Duration 20s. Cannot fire weapons while moving, sight radius reduced.
+	Soldiers seek ground for protection but will not move.
+	Player triggered.
+	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice. Guaranteed to destroy bridges.
+	Plant Demolition Charge
+	Plant Demolition Charge
+	Plant Demolition Charge
+	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice.
+	Plants a powerful explosive charge capable of destroying structures, killing enemies, and punching holes in ice.
+	Player triggered.
+	Player triggered.
+	Can only field 2 600th SS-Fallschirmjäger Squads at a time.
+	Effective at close range.
+	Armaments: (K98s, MP40), *MP40s x2, *StG44s x2/4, *FmW 35, Skill: Elite, Role: Assault.
+	Extensively trained to treat any wound their fanatical brethren sustained, medical personnel of the Waffen-SS ranged from field medics and stretcher bearers to professional surgeons and doctors. Gains veterancy from nearby allies.
+	SS-Stoßtruppen
+	Carries troops across forbidding battlefields, protecting against small arms and weather exposure.
+	The SdKfz 251 Half-track is a robust and reliable MG-armed vehicle that offers good protection against small-arms fire and provides a stable firing platform for troops inside.
+	Transports two squads of infantry. Weak to anti-tank guns, mortars, infantry anti-tank.
+	Division Großdeutschland Panzergrenadiere
+	SS-Fallschirmjäger-Bataillon 600 Fallschirmjäger
+	SdKfz 251 Half-track
+	Select infantry, right-click on abandoned vehicle to re-crew.
+	(2) -The number on the abandoned vehicle indicates required infantry needed to capture.
+	Abandoned 251 Half-track; re-crew with infantry
+	SdKfz 251 Half-track
+	SdKfz 251 Half-track
+	Already upgraded with a Panzerschreck.
+  Already upgraded with an MG34 LMG
+	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+	Maschinengewehr 34 LMG
+	Already upgraded with a PzB 39 AT Rifle.
+	Conditioning allows troops to sprint at full speed, but also recover their stamina faster.
+	Weapon Inventory Full. 
+	Already upgraded with a DP-28 Light Machinegun.
+	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Capacity: 47 Rounds. Effective at long range vs. infantry.
+	Nicknamed the "record player" due to its outlandish design, the DP provides Soviet troops a steady rate of suppressive fire down range.
+	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
+	Degtyaryov (DPM)
+	Veterancy 1
+	Utility vehicle, (Traits: + Highly Mobile, - Easily Decrewed, - Unarmed): Can be equipped to bring in reinforcements, medical aid, or repair stations.
+	Armaments: None, Armor: None, Role: Utility, Capacity: 12, Speed: 80 km/h. Transports infantry, crewed weapons, and large guns. Gains veterancy from nearby allies.
+	The workhorse of the Waffen-SS, the dependable Opel not only transported troops to the front but also supplies and weapons.
+	Four infantry squads can be carried. Protects against cold weather.
+	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
+	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+	Type: Submachine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.62x25mm, Quantity: 3, Effective at close range vs. infantry.
+	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+	PPSh-41 Submachine Gun Package
+	PPSh-41 SMG Package
+ 	1 Weapon Inventory Spaces
+	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+	Panzerbüchse 39 Shipment
+	PzB 39 AT Rifles.
+	Medium tank, (Traits: + Accurate, + Cheaper, - Slow Turret Traverse): Multiple retrofit options, use for infantry support, or engaging other tanks.
+	Armaments: 7.5 cm KwK 40 L/48, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 80mm, Role: General Purpose, Speed: 42 km/h.
+	Designed for faster production, the retrograde Ausf. J was meant to hastily replenish the shattered SS Panzer divisions. Kept frontline viable due to its unerring 7.5 cm KwK 40 L/48, it suffered from a sluggish hand cranked turret traverse.
+	Panzerkampfwagen IV Ausf. J
+	Pz.Kpfw. IV Ausf. J
+	Battle Phase 1
+	Fast Sprint
+	The Volksgrenadiers gain 40% resistance against blizzards and handheld anti-vehicle weaponry.
+	The Volksgrenadiers gain 40% resistance against blizzards and handheld anti-vehicle weaponry.
+	SS-Sturmbannführer Retinue
+	Armaments: (K98s, Luger), *G43s x2, *StG44s x2, Skill: Experienced, Role: Strategic Support.
+	Officer, (Multiple Sector Aura: +50% Capture Rate, +33% Ability Cooldown), brings in a formidable array tactical support to the field. Limit of 1 Squad.
+	SS-Sturmbannführers (Majors) are high-ranking field officers within the Nazi Party, commanding their men with ruthless efficiency, and ferocity. Gains veterancy from nearby allies. 
+	SS-Sturmgrenadiere
+	101st Airborne Division Assault Team
+	101st Airborne Divsion Paratrooper Squad
+	101st Airborne Divsion Paratrooper Squad
+	101st Airborne Divsion Pathfinder Team
+	83rd Infantry Division Recon Squad
+	5th Battalion Ranger Assault Team
+	Truck, Cargo, ¾, 4x4 Weapons Carrier, WC51
+	SS-Sturmpioniere
+	Pioniere
+	Oberstleutnant Retinue
+	Oberstleutnant
+	This "Lieutenant Colonel" and his retinue provide artillery support in the form of flares, Stuka Smoke Bombs, victor target, and sector artillery.
+	Soldiers lay down a volume of suppressive fire with their rapid-firing rifles. 
+	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+	Designed ahead of its time, the Maschinengewehr 34 provides portability, firepower, and reliability on a single weapons platform.
+	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry.
+	Veterancy 3
+	Frag Grenade, the Model 39 'Egg Grenade', a cheap but unremarkable grenade with minimal blast radius and throwing range. 
+	Throw Model 39 Eierhandgranate
+	Throws a Model 39 Eierhandgranate, an inexpensive grenade with a small blast radius, and short throw distance.
+	Armaments: (K98s, StG44) *StG44s x2, *G43-Zf4, *MG42, Training: Elite, Role: Assault. Effective at medium range vs. infantry.
+	Strong anti-tank infantry, ideal for ambushing armor and light vehicles at close range.
+	The Stoßtruppen have access to a wide variety of close quarter weapons and grenades to assault enemy positions.
+	Can only field 2 Panzerjäger Squads at a time
+	352. Infanterie-Division Stoßtruppen
+	Veterancy 2
+	Veterancy 2
+	Veterancy 1
+	Panzer III Medium Tank
+	Panzer III
+	Effective against infantry targets. Weak to heavy anti-tank, assault guns.
+	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry.
+	Designed ahead of its time, the Maschinengewehr 34 provides portability, firepower, and reliability on a single weapons platform.
+	The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
+	StG 44 Assault Rifles
+	Veterancy 3
+	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Quantity: 4, Effective at medium range vs. infantry. 
+	StG 44 Assault Rifles
+	Veterancy 2
+	Veterancy 2
+	Submachine guns increase short-range combat effectiveness.
+	Type: Submachine Gun, Rate of Fire: 700 rounds per minute, Cartridge: 11.43×23mm, Capacity: 30 Rounds, Quantity: 4. Effective at close range vs. infantry.
+	The iconic, and infamous Thompson became popular by soldiers for its thunderous rate of fire and powerful .45 ACP rounds.
+	Submachine Gun, Cal .45, M1A1 (x4)
+	Thompson SMG Package
+	Veterancy 5
+	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Effective at medium range vs. infantry. 
+	The StG 44 assault rifle greatly increases volume of fire, out-performing submachine guns at mid-range while retaining partial long-range effectiveness.
+	4x Sturmgewehr 44 'Assault Rifles'
+	StG 44 Assault Rifles
+	SS-Panzer
+	Anti-tank infantry, (Traits: + Camouflage): Terrifyingly lethal with their Panzerschreck, these anti-tank teams can obliterate any tank within range, or used against infantry cowering behind cover. Limit of 2.
+	Armaments: (K98, StG44, Panzerschreck), Skill: Regular, Role: Anti-Armour.
+	SS-Panzerjäger
+	Leichtes Maschinengewehr 34
+	Anti-Tank Rocket, a single-use 149mm rocket that deals an exceptional amount of damage against tanks from a moderate distance.
+	Left-click ability, left-click target vehicle. Effective at medium range vs. armour & emplacements.
+	Fire Panzerfaust-100
+	Hit the Dirt!
+	Click to activate, Duration 15s. Ability leads to 50% faster movement speed, 20% reduced hit chance, 30% reduced sight radius, and disabled weapons while moving.
+  Armaments: (K98, StG44), *MP40s x2, *StG44s x2, *MG34, *Panzerschreck, Skill: Regular, Role: Frontline. 
 136	Armaments: (K98s/Lugers, StG44), *MP40s x2, *MG42, *StG44s x2, *FG42s-Zf4 x2, Skill: Elite, Role: Assault.
 137	6th SS-Gerbirgsdivsion Light Infantry Squad
 138	Großdeutschland Division Panzergrenadier Squad
