@@ -1,0 +1,499 @@
+1501	Sonderkraftfahrzeug 234/2 'Puma'
+1502	Sonderkraftfahrzeug 234/2 'Puma'
+1503	Sonderkraftfahrzeug 234/2 'Puma'
+1504	Armaments: MG34 (Pintle), *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h.
+1505	Armaments: MG34 (Pintle), *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h.
+1506	Armaments: MG42 (Pintle), *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h.
+1507	Armaments: MG34 (Pintle), *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h.
+1508	Panzerspähwagen Sonderkraftfahrzeug 221
+1509	Panzerspähwagen Sonderkraftfahrzeug 221
+1510	Panzerspähwagen Sonderkraftfahrzeug 221
+1511	Panzerspähwagen Sonderkraftfahrzeug 221
+1512	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. infantry & structures.
+1513	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. infantry & structures.
+1514	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. infantry & structures.
+1515	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. infantry & structures.
+1516	Sturmgeschütz III Ausf. E
+1517	Sturmgeschütz III Ausf. E
+1518	Sturmgeschütz III Ausf. E
+1519	Sturmgeschütz III Ausf. E
+1520	Armaments: 7.5 cm KwK 40 L/48, Hull MG34, *Pintle MG42, Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. armor. 
+1521	Armaments: 7.5 cm KwK 40 L/48, Hull MG34, *Pintle MG42, Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. armor. 
+1522	Armaments: 7.5 cm KwK 40 L/48, *MG42 (Pintle), Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. armor. 
+1523	Sturmgeschütz III Ausf. G
+1524	Sturmgeschütz III Ausf. G
+1525	Sturmgeschütz III Ausf. G
+1526	Sturmgeschütz III Ausf. G
+1527	Sturm Tactics (Assault/Infantry)
+1528	Pulverize enemy resistance through superior firepower!
+1529	Allows access to mobile artillery, barrages, and anti-tank measures. Only ONE set of Tactics can be chosen in a single match.
+1530	6 Command Points
+1531	Slightly improves the speed of all vehicle units and allows them to decapture points rapidly.
+1532	Click to activate. Duration 90s. Vehicles receive 25% faster movement speed.
+1533	Breakthrough
+1534	6 Command Points
+1535	5 Command Points
+1536	Panzer Tactics
+1537	11 Command Points
+1538	2 Command Points
+1539	Panzerkampfwagen VI Ausf. E ‘Tiger I’
+1540	PzKpfw VI Ausf. E
+1541	PzKpfw VI Ausf. E
+1542	A pre-war ceremonial guard unit, ‘Großdeutschland’ first fought in France before being nearly obliterated at the Battle of Moscow. Reformed in April 1942, it was rendered combat ineffective by combined Soviet offensives that winter.
+1543	Armaments: (K98s, StG44), *MP40s x2, *FmW 41, *Panzerschreck, Skill: Experienced, Role: Engineer.
+1544	General purpose infantry, large weapon selection, use for medium-long ranged support, or covering vehicles.
+1545	Assault/Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times, + Doctrinal Upgrades): Excellent at engaging infantry at all ranges or demolishing enemy fortifications.
+1546	Replaced by Gewehrsprenggranate 30 Rifle Grenades.
+1547	Fire 3cm Gewehrsprenggate Rifle Grenade
+1548	Soldiers fire a 22mm high-explosive rifle grenade. Cannot be fired from indoors.
+1549	Soldiers fire a 22mm high-explosive rifle grenade. Cannot be fired from indoors.
+1550	Click to activate, duration 20s.
+1551	Click to activate, duration 20s.
+1552	Tanks are now issued HEAT ammunition for increased penetration and weapon range.
+1553	Load Pzgr. 38 HEAT Rounds
+1554	Veterancy 1
+1555	13 Command Points
+1556	Requires Sturm Tactics.
+1557	Panzer Tactics
+1558	Defensive Tactics
+1559	8 Command Points
+1560	Timed ability, duration 240 seconds. Replaces up to six squads. New squads requisitioned upon losing 5 soldiers.
+1561	Timed ability, duration 240 seconds. Replaces up to four squads. New squads requisitioned upon losing 4 soldiers.
+1562	Cautious Movement
+1563	Click to activate, Duration 15s. Ability leads to 45% faster movement speed, 50% reduced hit chance, and 30% reduced sight radius while moving.
+1564	The driver pushes the vehicle’s capabilities to its limits, increasing maneuverability and decreasing the chance to be hit by incoming fire.
+1565	The driver pushes the vehicle’s capabilities to its limits, increasing maneuverability and decreasing the chance to be hit by incoming fire.
+1566	Accelerate
+	Abandoned M3 Scout Car; re-crew with infantry
+1568	(2) - The number on the abandoned vehicle indicates required infantry needed to capture.
+	Select infantry, right-click on abandoned vehicle to re-crew.
+	Scout Car, M3A1
+	Scout Car, M3A1
+	The M3A1 Scout Car's four-wheel drive gives good mobility for scouting. Two machine guns provide cover when transporting a single infantry squad.
+	Armaments: Front M2HB .50 Cal, Rear M1919 .30 Cal, Passengers, Armor: 13mm, Role: Recon, Capacity: 6, Speed: 89 km/h. Effective at medium range vs. infantry & aircraft.
+	Scout vehicle, decently protected, rear machinegun, able to deliver quick suppressive fire, or vital reinforcements.
+	Armaments: Front M2HB .50 Cal, Rear M1919 .30 Cal, Passengers, Armor: 13mm, Role: Recon, Speed: 89 km/h. Effective at medium range vs. infantry.
+	Scout vehicle, (Traits: + Multiple MGs, + Highly Mobile, + High Detection Range, - Easily Decrewed): Able to deliver quick suppressive fire, or vital reinforcements.
+	Mechanized Commander.
+	Veteran troops with varying experience are sent to the front.
+	The squad is now moving quicker, though are less aware of their surroundings.
+	Fast Sprint
+	The squad is now moving quicker and is harder to suppress.
+	The squad will move very quickly for a short period of time, while being harder to hit.
+  The squad will move very quickly for a short period of time, while being harder to hit.
+	The squad is now moving quicker, though are less aware of their surroundings.
+	The squad will move very quickly for a short period of time, while being harder to hit.
+	Panzerjäger
+	Defensive and reactive, Wehrmacht Panzerjäger waited until the last possible moment to engage enemy armor. Pinning targets with combined arms tactics, these teams could eliminate any Allied vehicle of the war with the Panzerschreck.
+	Armaments: (K98, MP40, Panzerschreck), Skill: Elite, Role: Anti-Armor.
+	Anti-tank infantry, (Traits: + Camouflage): Armed with a mighty Panzerschreck, these men can destroy almost any tank, or infantry hiding behind heavy cover. Limit of 2.
+	Can only field (2) Panzerjägers at a time.
+	Can only field (2) Panzerjäger at a time.
+	General purpose infantry, large weapon selection, use for medium-long ranged support, or covering vehicles. 
+	Panzergrenadieres are Germany's premier mechanized infantry force, riding into battle with vehicles, bringing vicious weapons to bear.
+	Static infantry, (Traits: + Entrench Tanks, + Faster Build Times, + Random Veterancy): Conscripted on the Ostfront, these troops have a reputation for unreliability, and are best used for defensive operations.
+	Reserve infantry, arrives with random experience, best used to augment other troops, or to protect the flanks.
+	The "Eastern Troops" were troops raised from eastern territories claimed by Germany, and trained by former Polish 162nd Infantry Division. They are best assigned to the rear guard.
+  Conscripts and volunteers from eastern territories, the culturally diverse Osttruppen were both dubious cowards and courageous fighters. A mixed blessing for the Wehrmacht, they were often under equipped and poorly trained.
+	The Grenadiere is the core infantry soldier of the German army. These men are trained, experienced, capably led, and well equipped--the equal of any soldier in the war.
+	The heart of the Wehrmacht infantry divisions, Grenadiere were methodically trained, capably led and well equipped. The product of incessant fighting and extensive combat experience, these men were the equal of any soldier of the war.
+	Throw Nebelgranate 39
+	Throw Geballte Ladung Grenades x2 
+	Throw RPG-43 Anti-Tank Grenade
+	Throw RGD-1 Smoke Grenade
+	Throw Smoke Grenade
+	Throw RPG-43 Anti-Tank Grenade
+	RPG-40 Anti-Tank Grenade Assault
+	Throw M18 Smoke Grenade
+	Throw M18 Smoke Grenade
+	Fire M23 Smoke Rifle Grenade
+	Fire M23 Smoke Grenade
+	Throw Mk. 2 'Pineapple' Grenade
+	Throw 'Cooked' Mk 2 Frag Grenade
+	Geballte Ladung Grenades
+	A baled load of seven Model 24 grenades provides significant explosive power.
+	A baled load of seven Model 24 grenades provides significant explosive power.
+	Improves anti-infantry capability at close ranges. Replaces the current grenade ability.
+	Throw Geballte Ladung Grenade
+	Explosive Charge, a bundled load of seven Model 24 grenades that can cause extreme damage with a large radius, can severely damage tanks if thrown underneath.
+	Throws a baled load of seven Model 24 grenades at the target location.
+	Left-click ability, left-click target area. Effective at close range vs static infantry & emplacements.
+	Replaced by M23 Smoke Grenades.
+	SS-Grenadieres are the fanatically-driven infantrymen of the Schutzstaffel, ready to lay down their lives for the Fatherland. The standard-issue Karabiner 98k rifle allows for accurate long-range fire.
+	Mark Vehicle
+	Targeted vehicle is subject to an increase in focused fire, taking more damage, revealing them in the fog of war, and disables camouflage for a short duration. 
+	Targeted vehicle is subject to an increase in focused fire, taking more damage, revealing them in the fog of war, and disables camouflage for a short duration. 
+	Left-click on target vehicle.
+	Requires Sturm Tactics.
+	2 Command Points
+	Target enemy frontline territory sector.
+	Barrages target enemy sector with 10.5 cm high explosive shells followed by a smokescreen to cover the advance.
+	10.5cm Assault Artillery
+	8 Command Points
+	Requires Sturm Tactics
+	3 Command Points
+	Replaced by Model 24 Grenade Assault.
+	Mk 2 Grenade Assault
+	Improves anti-infantry capability at close ranges. Replaces the current grenade ability.
+	All squad members are instructed to throw one grenade each.
+	Sonderkraftfahrzeug 250/7
+	Merging the dependable 8 cm GrW 34 with the reputable 250 chassis, the Wehrmacht requested full production in 1943. A valuable asset, the Sdkfz. 250/7 was popular with armored units for its indirect fire support and adaptability.
+	Armaments: 8 cm GrW 34, Armor: 10mm, Role: Indirect Fire, Speed: 76 km/h.
+	Mortar vehicle, (Traits: + Armored, + Instant Setup, - Higher Hit Chance): Use to provide rapid barrages, then escape before retaliation.
+	Mortar Half-track
+	Left-click and target enemy troop concentrations, buildings, armor or resource points.
+	A JU-87D Stuka will dive in and drop a 50kg bomb on the target location. Capture points are neutralized if hit.
+	JU-87D 50kg Dive Bomb
+	Forward Observers
+	The squad now see further while in cover or garrisoned.
+	Soviet Snaypers (Snipers) are a product of advanced schools that teach amazing long-range marksmanship. Snaypers' two-man teams utilize teamwork to improve survivability and overall lethality.
+	The targeted unit is tracked and monitored, revealing them in the fog of war, and disables camouflage for a short duration. 
+	Load Pzgr. 39 HEAT Round
+	NahVW Grenade Launcher
+	The Nahverteidigungswaffe is used to launch a close-range grenade at a targeted position
+	Left-click ability, left-click target area.
+	The Nahverteidigungswaffe is used to launch a close-range grenade at a targeted position
+	Left-click ability, left-click target area.
+	NahVW Grenade Launcher
+	Veteran 1
+	Left-click ability, left-click target. Large blast radius.
+	Throw RG-42 Frag Grenade
+	The crew throws an RG-42 grenade out of the tank's hatch to kill nearby infantry.
+	The vehicle crew returns to their normal combat function.
+	Hold Facing
+	Cease Action
+	The crew is explicitly ordered not to rotate the vehicle and is only allowed to turn the turret on a limited arc. 
+	Hold Facing
+  The tank has been ordered to stay immobile.	Replacements
+	These men are newly trained, thus poses the chance of retreating when more than half their squad is dead.
+	The squad now see further while in cover or garrisoned.
+	Forward Observers
+	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression. 
+	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression. Extra squad member added.
+	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression. Extra squad member added.
+	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression. Extra squad member added.
+	Advanced crew training improves rate of fire and target penetration. Extra squad member added.
+	Advanced crew training improves rate of fire and accuracy. Extra squad member added.
+	First Strike out of camouflage increases the armor penetration and damage of the rocket. Extra squad member added.
+	Experienced forward observers improve max range. Extra squad member added.
+	Extensive target practice increases the team’s fire rate and targeting, resulting in more penetrating hits. Extra squad member added.
+	Hold Position
+	Soldiers seek ground for protection but will not move.
+  Resume mobile operations.
+	The squad is ordered to stay put.
+	Toggle ability. Cannot use ability when suppressed or pinned.
+	Toggle ability. 
+	Move Freely
+	Hold Position
+	The squad will not move until the order is canceled.
+	Type: Tank Gun, Rate of Fire: 280 rounds per minute, Caliber: 2cm, Effective at medium range vs. infantry, light vehicles, & aircraft. Decreases detection & sight radius.
+	Assault Gun crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft. 
+	Assault Gun crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft.
+	Tank crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft. 
+	Tank crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft. 
+	Tank crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft.
+	Tank crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft. 
+	Assault Gun crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft. 
+	Assault Gun crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft. 
+	Tank crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft. 
+	Tank crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft. 
+	Can only field (1) Sturmpanzer IV at a time.
+	The squad will not move until the order is canceled.
+	Hold Position
+	Hold Position
+	Move Freely
+	Resume mobile operations.
+	The squad is ordered to stay put.
+	Toggle ability. 
+	Veteran 2
+	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x63mm, Capacity: 250 Rounds, Quantity: 2. Effective at long range vs. infantry.
+	New unit - Paratroopers - available for deployment. This unit is dropped by air at the target location. Dropping into areas with a number of large objects increases the risk of a deadly landing.
+	A squad of 101st Paratroopers can be paradropped into the battlefield. Paratrooper Assault Teams are extremely effective at close range, with or without upgrades.
+	Paradrop 1st Airborne Paratroopers
+	Paradrop 101st Airborne Paratroopers
+  A squad of 101st Paratroopers can be paradropped into the battlefield. Paratroopers can specialize at long- or short-range combat with weapon upgrades.
+	101st Pathfinders
+	A squad of 101st Pathfinders can be deployed to the battlefield. Pathfinders are scout infantry that can make it safer to drop in the bulk of the paratroop forces.
+	Paradrop in a M1 57mm Anti-Tank Gun to the battlefield that can be manned by allied infantry. This weapon is effective against armored vehicles.
+	Left-click and left-click target position. This weapon is dropped by air at the target location. The crew can be reinforced via airborne beacons.
+	Paradrop in a .50 cal M2HB Heavy Machine Gun to the battlefield that can be manned by allied infantry. This weapon is effective against massed infantry when setup in a defensive position.
+	Left-click and left-click target position. This weapon is dropped by air at the target location. 
+	Paradrop .50 cal M2HB Heavy Machine Gun (Airborne)
+	Paradrop M1 57mm Anti-Tank Gun (Airborne)
+	Infiltrate 101st Airborne Pathfinders
+	A squad of 101st Pathfinders can be deployed to the battlefield. Pathfinders are scout infantry that can make it safer to drop in the bulk of the paratroop forces.
+	New unit - Pathfinders - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+	P-47 Thunderbolt will strafe the target position with machine gun fire.
+	Active; Plane will loiter, attacking targets of opportunity. Effective at all ranges vs. infantry & vehicles.
+	P-47 M2HB .50 Cal Machine Gun Combat Patrol
+	B-17 Incendiary Bombing Run
+	A heavy bomber will drop incendiary bombs on the target location.
+	Left-click target. Deals damage over time, effective against infantry. Delay 5s.
+	Can only field (1) 'Sturmtiger' at a time.
+	Sturmmörserwagen 606/4 ‘Sturmtiger’
+	Sturmtiger
+	Sturmmörserwagen 606/4 ‘Sturmtiger’
+	Sturmtiger
+	Sturmmörserwagen 606/4 ‘Sturmtiger’
+	Sturmmörserwagen 606/4 ‘Sturmtiger’
+	Sturmmörserwagen 606/4 ‘Sturmtiger’
+	Sturmtiger
+	Sturmtiger
+	Sturmtiger
+	Armaments: 380 mm RW 61 L/5.4, Hull MG34, Armor: 150mm, Role: Assault, Speed: 24 km/h. Effective vs. infantry and structures. 
+	Armaments: 380 mm RW 61 L/5.4, Hull MG34, Armor: 150mm, Role: Assault, Speed: 24 km/h. Effective vs. infantry and structures. 
+	Armaments: 380 mm RW 61 L/5.4, Hull MG34, Armor: 150mm, Role: Assault, Speed: 24 km/h. Effective vs. infantry and structures. 
+	Armaments: 380 mm RW 61 L/5.4, Hull MG34, Armor: 150mm, Role: Assault, Speed: 24 km/h. Effective vs. infantry and structures. 
+	Armaments: 38 cm RW 61 L/5.4, MG34 (Hull), Armor: 150mm, Role: Assault, Speed: 24 km/h.
+	2 Command Points
+	1 Command Point
+  3 Command Points
+	3 Command Points
+	P-47 'Thunderbolt' HVAR Rocket Strafe
+	Two P-47 Thunderbolts will patrol the area and attack vehicles with a high velocity aircraft rocket strike.
+	Active; Planes will loiter, targeting ONLY VEHICLES. Duration 120s. Delay: 10s. Effective at all ranges vs. vehicles & armour.
+	9 Command Points
+	6 Command Points
+	1 Command Point
+	Riflemen Squad
+  4 Command Points
+	2 Command Points
+	1 Command Point
+	3 Command Points
+	2 Command Points
+	Mechanized Company.
+	5 Command Points
+	Armaments: (M1 Carbines, M1A1 Thompson) *M1918 BAR, *M1919 Browning, *M1A1 Thompsons x2, *M9 Bazooka, Training: Elite, Role: General Purpose. Effective at medium range vs. infantry.
+	Armaments: (M1 Carbines, M1A1 Thompson), *M1918 BAR, *M1919A4 Browning, *M1A1 Thompsons x2, *M9 Bazooka, Training: Elite, Role: General Purpose. Effective at medium range vs. infantry.
+	Armaments: (M1 Carbines, M1A1 Thompson), *M1918 BAR, *M1919 Browning, *M1A1 Thompsons x2, *M9 Bazooka, Training: Elite, Role: General Purpose. Effective at medium range vs. infantry.
+	Armaments: (K98s, FG42), *MP40s x2, *FG42s x2, *G43s x2, *Panzerschreck, Training: Elite, Role: Assault. Effective at medium range vs. infantry.
+	Nicknamed ‘Green Devils’ by the Allies, Fallschirmjägers were well known for their distinct esprit de corps and tenacious fighting spirit. Well disciplined, highly resourceful and adaptable, these men were a lethal fighting force.
+	3. Fallschirmjäger-Division Feuertruppe
+	91st Luftlande Fallschirmjägers
+	101st AB Fire Team
+	5th ID Riflemen
+	Tank Destroyer Company (Versatile/Anti-Tank)
+  Tank Destroyer Company
+	4 Command Points
+	Tank Destroyer Company
+	7 Command Points
+	Infantry Company
+	Infantry Company Commander or Division
+	Rifle Company
+	Mechanized Company
+	3 Command Points
+	Requires the Infantry Company.
+	Armor Company
+	5 Command Points
+	6 Command Points
+	Rifle Company.
+	3 Command Points
+	Time-on-Target Artillery Barrage
+	Calls down a rapid artillery barrage on the target location. The 10.5cm rounds arrive in quick succession, but are much less accurate.
+  Left-click and left-click target area. Fires 5 Rounds. Delay 5s.
+	Click and target position. Fires 8 Rounds.
+	Draft Call
+	Command releases newly-trained 29th Riflemen to replace combat losses suffered while the ability is active.
+	Timed ability, duration 240 seconds. Replaces up to four squads. New squads requisitioned upon losing 5 soldiers.
+	7 Command Points
+	If this squad is lost, it will be replaced by Riflemen.
+	Draft Call
+	Veterancy 2
+	Allows access to defensive structures, self-propelled artillery, and specialized infantry. Only ONE Company can be chosen in a single match.
+	Allows access to tank destroyers, HEAT rounds, and improved infantry anti-tank capabilities. Only ONE Company can be chosen in a single match.
+	Encircle and pick off German armor with powerful tank destroyers, and infantry rocket launchers.
+	Scout out and speed through enemy lines before they can react.
+	Overwhelm the enemy with unrelenting rifle fire and then bury them with artillery salvos.
+	Load HEAT Round
+	Effective against armored vehicles.
+	HEAT round stuns the enemy vehicle crew.
+	Loads and fires a high-explosive anti-tank round that deals heavy damage and a chance of stunning the enemy vehicle crew.
+	Load HEAT Rounds
+	Tanks are now issued HEAT ammunition for increased penetration and weapon range.
+	Click to activate, duration 20s.
+	Allows tanks to fire HEAT rounds for a period of time.
+	Allows tanks to fire HEAT rounds for a period of time.
+	High Explosive Anti-Tank (HEAT) Shells
+	High Explosive Anti-Tank (HEAT) Shells
+	6 Command Points
+	Load HEAT Round
+	Loads and fires a Gr. 39 high-explosive anti-tank round that deals heavy damage and a chance of stunning the enemy vehicle crew.
+	Effective against armored vehicles.
+	HEAT round stuns the enemy vehicle crew.
+	Type: Submachine Gun, Rate of Fire: 700 rounds per minute, Cartridge: 11.43×23mm, Capacity: 30 Rounds, Quantity: 2. Effective at close range vs. infantry.
+	Submachine Gun, Cal .45, M1A1 (x2)
+	2 Command Points
+	M23 Smoke Grenades
+	A rifle grenade smoke round can create a line of smoke in the targeted direction. Any vehicles hit by the grenade will be temporarily blinded and slowed.
+	Improves sight blocking capability at long ranges. Replaces the current smoke grenade ability.
+	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+	Effective against static targets and structures. Must be protected.
+	Abandoned M1 155mm Gun-Howitzer. Re-crew with infantry.
+	The 155mm M1 is a devastatingly effective heavy artillery piece. Its big shells can deliver massive damage to almost any target.
+  155 mm Gun, M1 'Long Tom'
+	155 mm Gun, M1 'Long Tom'
+	The 155mm M1 crew will fire eight high-explosive shells and deliver devastating damage at long range to any target in the vicinity.
+	The 155mm M1 crew will fire eight high-explosive shells and deliver devastating damage at long range to any target in the vicinity.
+	155mm 'Long Tom' Barrage
+	Left-click ability, left-click target position. Fires 8 Rounds.
+	The 155mm M1 crew will fire eight high-explosive shells and deliver devastating damage at long range to any target in the vicinity.
+	The 155mm M1 crew will fire eight high-explosive shells and deliver devastating damage at long range to any target in the vicinity.
+  Left-click ability, left-click target area. Fires 8 Rounds.
+	155mm 'Long Tom' Barrage
+	The 155mm M1 'Long Tom' is a formidable field artillery gun, replacing the French manufactured Canon de 155mm GPF. The howitzer fires powerful shells able to destroy tanks, and infantry unfortunate enough to be caught in the splash zone.
+	M1 155mm Gun-Howitzer. A well-placed 155mm can reach most of the battlefield with its barrages. Limit of 2 Howitzers
+	155 mm Gun, M1 'Long Tom'
+	155 mm Gun, M1 'Long Tom'
+	Can only field 2 M1 155mm Howitzers at a time.
+	Already upgraded with an M1918A2 BAR.
+	Commander
+	Valiant Assault
+	Inspire mobile infantry troops to move quickly and attack more effectively.
+	Click to activate. Duration 60s. Troops receive 33% faster movement speed, 25% increased weapon accuracy, and 10% increased hit chance.
+	3 Command Points
+	Troops receive 33% faster movement speed, 25% increased weapon accuracy, and 10% increased hit chance.
+	Valiant Assault
+	4 Command Points
+	21cm Howitzer Barrage
+	The 21 cm Mörser 18 Heavy Howitzers fire a punishing salvo of 21cm rounds into the targeted area, preventing troop movement in the area for all but the very foolish.
+	Left-click ability, left-click target area. Fires 6 Rounds. Delay 15s. Cannot be targeted in Command Sector.
+	Off-map heavy artillery will fire three large-caliber shells at the designated target.
+	Off-map heavy artillery will fire three large-caliber shells at the designated target.
+	12 Command Points
+	The Waffen-SS releases reserve SS-Grenadiere squads to replace your casualties suffered while the ability is active.
+	Click to activate. Duration 180s. Replaces up to 3 squads. New squads requisitioned upon losing 3 soldiers.
+	To the Front!
+	7 Command Points
+	3. SS-Panzer Division 'Totenkopf' Tiger Ace
+	High Command sends in a legendary Tiger Ace to the front. This heavy tank boasts superior performance and abilities differing from the regular SS-Tiger. 
+	Deploys a unique Tiger tank with Veterancy 4 to the target location. Has a very long recharge time. 
+	15 Command Points
+	Allows access to propaganda, militia troops, and artillery strikes. Only ONE set of Tactics can be chosen in a single match.
+	Inspire ferocity in your men and fear within the enemy through propaganda and militia troops.
+	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
+	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
+  Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
+	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
+	Allows access to extremely quick deploy times, heavy artillery, and flame weapons. Only ONE Division can be chosen in a single match.
+	Overwhelm enemy positions with an unrelenting wave of conscripted troops, fire, and heavy artillery. 
+	For Mother Russia!
+	Soviet High Command inspires all troops on the frontline to fight harder for their Motherland!
+	Click to activate. Duration 60s. Troops receive temporary immunity to suppression, 25% increased weapon accuracy, 33% faster weapon cooldown, and 10% reduced hit chance. Units CANNOT RETREAT while ability is active! 
+	Exhaustion
+	Exhaustion
+	Units are tired and have less offensive and defensive stats.
+	Units are tired and have less offensive and defensive stats.
+	For Mother Russia
+	For Mother Russia!
+	Soviet High Command inspires all troops on the frontline to fight harder for their Motherland!
+	Soviet High Command inspires all troops on the frontline to fight harder for their Motherland!
+	A trap can be placed on a point that will automatically attack enemy units who try to capture that territory.
+	Automatically attacks units who attempt to capture the target territory. The trap has an arming time, if the point starts to be captured during this time it will cancel. Click and target in supply friendly strategic point.
+	Booby Trap Territory
+	Trap Arming
+	4.5-Inch Incendiary Howitzer Barrage
+	Areas of the map can be bombarded with incendiary rounds to burn infantry and deny access.
+	Areas of the map can be bombarded with incendiary rounds to burn infantry and deny access.
+	Barrage Weapon. Effective against infantry. Delay 10s.
+	12 Command Points
+	12 Command Points
+	Reserve Corps
+	Commander
+	4 Command Points
+	Rapid Conscription
+	Command releases reserve Prizyvnik squads to replace combat losses suffered while the ability is active.
+	Click to activate. Duration 180s. Replaces up to 3 squads. New squads requisitioned upon losing 4 soldiers.
+	6 Command Points
+	Rapid Conscription
+	If this squad is lost, it will be replaced by Prizyvniks.
+	Reserve Corps
+	3 Command Points
+	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+	Type: Submachine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.62x25mm, Quantity: 2, Effective at close range vs. infantry.
+	7 Command Points
+	Reserve Corps
+	6 Command Points
+	Armaments: DShK HMG, Mosin-Nagant, Crew: 6, Skill: Regular, Role: Suppression.
+	Armaments: (M1910 Maxim, Mosin-Nagants, PPSh-41), Crew: 6, Skill: Regular, Role: Suppression.
+	IL-2 Vya-23mm Autocannon Strafe
+	Two Il-2 Sturmoviks will loiter over the battlefield, strafing targets of opportunity with its powerful 23mm cannons.
+	Two Il-2 Sturmoviks will loiter over the battlefield, strafing targets of opportunity with its powerful 23mm cannons.
+	Active; Planes will loiter, attacking targets of opportunity. Effective at all ranges vs. infantry & vehicles.
+	6 Command Points
+	3 Command Points
+	Mark Vehicle
+	Targeted vehicle is subject to an increase in focused fire from nearby friendly forces.
+	Targeted vehicle is subject to an increase in focused fire from nearby friendly forces.
+	Left-click on target vehicle. Vehicle receives more damage from attacking forces.
+	7 Command Points
+	Armaments: 85 mm M1939 D-5T, Hull DT,Armor: 47mm (Sloped), Role: General Purpose, Speed: 53 km/h. Effective at medium range vs. infantry & structures.
+	12 Command Points
+	5 Command Points
+	3 Command Points
+	3 Command Points
+	6 Command Points
+	5 Command Points
+	Allows access to artillery strikes, defensive structures, and converting fuel to munitions. Only ONE Division can be chosen in a single match.
+	Shore up defenses, then proceed to pulverize the enemy at range with artillery. 
+	Udarnaya Diviziya (Assault/Infantry)
+	6 Command Points
+	(PASSIVE) Soviet Industry
+	Divert manpower to the homefront! Vehicle buildtime is decreased; Fuel income is increased while Munitions income is decreased.
+	Vehicles will build almost instantly. Fuel income increased and manpower income reduced.
+	9 Command Points
+	Click to activate. Duration 90s. All vehicles & infantry will gain 33%-50% faster movement speed.
+	While active, all medium and heavy tanks that are lost will be replaced by T-34/76 Medium Tanks.
+	While active, all medium and heavy tanks that are lost will be replaced by T-34/76 Medium Tanks.
+	Artillery Corps
+	Reserve Corps
+	Armor Corps
+	Fear Propaganda Artillery
+	Airburst propaganda leaflets distracts and demoralizes enemy infantry, reducing their effectiveness in combat. Inflicts minor damage in close proximity.
+	Airburst propaganda leaflets make targeted soldiers question the morality of their actions.
+	Left-click target area. Fires 12 Rounds. Delay 10s. Troops receive 15% decreased weapon accuracy, 10% increased hit chance, and -15 sight radius.
+	Soviet Artillery Overwatch is Active
+	Attacks enemy units in allied territories, duration 60 seconds.
+	Redistribute Resources
+	Gives the player 150 Munitions instantly.
+	High command delivers extra Munitions at the cost of Fuel.
+	3 Command Points
+	Artillery Corps
+	Artillery Corps
+	Commander
+	Commander
+	Commander
+	Commander
+	Commander
+	Shock Corps
+	Commander
+	Commander
+	Commander
+	Shock Corps
+	Commander
+	4 Command Points
+	Commander
+	Commander
+	Armor Corps
+	Commander
+	Commander
+	Mechanized Company
+	Commander
+	Commander
+	Mechanized Company
+	7 Command Points
+	Panzerjäger Tactics
+	Fortified Trench
+	This fortified trench provides good protection to infantry, snipers, mortars, and heavy machine guns.
+	Can accept one squad.
+	1 Command Point
+	Requires the Artillery Corps.
+	Can only field (2) BM-13N 'Katyushas' at a time.
+	Can only field (1) Kommissar at a time.
+	Can only field (1) Stabskapitän at a time.
+	Armaments: 152.4 mm ML-20S, *Pintle DShK, Armor: 120mm, Role: Infantry Support, Speed: 37 km/h. Effective at long range vs. infantry & armor. 
+	Veterancy 3
+	Deploy Infantry, Heavy Machine Guns, Mortars, Anti-Tank Teams, and Scouts.
+	Deploy Medium Tanks, and Anti-Aircraft Vehicles.
+	Deploy Medium Tanks, Heavy Tanks, Tank Destroyers, and Self-Propelled Guns.
+	Fire 10.5cm High-Explosive (x5)
