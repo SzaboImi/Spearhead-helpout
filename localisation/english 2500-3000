@@ -1,0 +1,500 @@
+  	Panzerbüchse 39
+    	Pzb. 39 Anti-Tank Rifle
+    	The Panzerbüchse 39 (Tank Hunting Rifle) fires heavy 7.92x94mm rounds that can punch through armoured vehicles. A secondary magazine near the breech aided reload times.
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Capacity: 10 Rounds. Effective at long range vs. vehicles. 
+    	Veterancy 4
+    	Commander
+    	Defensive Tactics
+    	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through advancing infantry like paper.
+    	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like mere paper.
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry. 
+    	Maschinengewehr 42 Shipment
+    	MG42 LMG
+    	305th Engineer Battalion Combat Engineer Squad
+    	305th BN Engineers
+    	3rd Armored Division Assault Engineer Squad
+    	3rd Engineers
+    	Assault Engineers are tough combat troops whose primary tasks are creating or clearing battlefield obstacles and attacking enemy defensive positions.
+    	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like paper.
+    	Legendary for its superb performance, the MG42's distinctly high rate-of-fire easily shreds through enemy infantry like mere paper.
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry. 
+    	Maschinengewehr 42 Shipment
+    	MG42 LMG
+    	Infantrie Division
+    	Infantrie Division
+    	Can only field (1) KV-2 at a time.
+    	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
+    	Type: Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x57mm, Quantity: 1, Effective at long range vs. infantry. 
+    	Gewehr 43 (Zf.4)
+    	Veterancy 1
+    	Raketenpanzerbüchse 54 'Panzerschreck'
+    	Panzerschreck
+    	Meaning 'tank terror', the Panzerschreck gives infantry a very credible, powerful anti-tank weapon.
+    	Meaning 'tank terror', the Panzerschreck gives infantry a very credible, powerful anti-tank weapon.
+    	Type: Rocket Launcher, Cartridge: 88mm, Penetration: 210mm Steel, Effective at close range vs armor & emplacements.
+    	Veterancy 4
+    	DP Light Machine Gun
+    	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
+     	A DP light machine gun equals the firepower of three standard M1891/30 infantry rifles.
+    	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
+    	Veterancy 4
+    	Throw RGD-33 Sleeved Frag Grenade
+    	The Browning M1919A6's portability, and large magazine capacity allows the soldier to rapidly reposition and suppress hostiles for extended periods of time.
+    	The Browning M1919A6 was created in response to the German MG42 and provides mobile fire support.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x63mm, Capacity: 250 Rounds. Effective at long range vs. infantry. 
+    	Machine Gun, Cal .30 M1919A6
+    	Veterancy 4
+    	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
+    	Adds Gewehr 43 rifles with "K43" ddx ZF4 Scopes to the squad. The optics allow for increased range and sight radius.
+    	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
+    	Toggle Ability. Immobilizes unit and disables the use of other barrages when toggled on.
+    	Toggle Ability. Immobilizes unit and disables the use of other barrages when toggled on.
+    	The Katyusha will automatically counter-barrage enemy artillery weapons that fire within range.
+    	Cease counter-barrage operations and return to normal fire duties.
+    	Counter Barrage
+    	Cease Counter Barrage
+    	The Katyusha will automatically counter-barrage enemy artillery weapons that fire within range.
+    	Counter Barrage
+    	4 Command Points
+    	Throws a baled load of seven Model 24 grenades at the target location.
+    	Throws a baled load of seven Model 24 grenades at the target location. Heavy explosion can damage tanks if thrown underneath.
+    	Left-click ability, left-click target area. Effective vs infantry, light vehicles.
+    	Throw Geballte Lading Grenade
+    	Bundled Model 24 Grenades
+    	Improves anti-structure & infantry capability at close ranges. Replaces the current grenade ability.
+    	A baled load of seven Model 24 grenades provides significant explosive power.
+    	Zielgerät 1229 'Vampir'
+    	Provides the Scharfschütze with an StG44 assault rifle mounted with an advanced infrared scope. The weapon improves camouflage detection, as well as being more effective at closer ranges.
+    	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds. Effective at medium range vs. infantry. 
+    	Zielgerät 1229
+    	Veterancy 3
+    	Combat experience reaches its peak at a total of 40% increased accuracy, 15% reduced hit chance, 30% reduced suppression, 30% faster reload times, 33% farther sight radius, and 20% more range, and 50% faster ability cooldown, 
+    	Combat experience leads to 5% increased accuracy, 2.5% reduced hit chance, 6% reduced suppression, 6% faster reload times, 6% farther sight radius, 4% more range.
+    	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, 6% farther sight radius, 4% more range.
+    	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, 6% farther sight radius, 4% more range.
+    	Combat experience leads to 10% increased accuracy, 6% reduced suppression, 6% faster reload times, 6% farther sight radius, 4% more range.
+    	Return to normal observation.
+    	The squad uses binoculars to survey the area. 
+    	Toggle ability. Increases sight radius around the squad, squad becomes stationary and holds fire.
+    	Use Binoculars
+    	Cease Action
+    	3 Command Points
+    	Commander
+    	Defensive Tactics
+    	Can only field (1) Sturmbannführer at a time.
+      Veterancy 4
+    	Veterancy 2
+    	Veterancy 1
+    	For the duration of the ability, enemy units in owned territories are bombarded with multiple 82mm rockets.
+     	Armaments: (3.7 cm Pak 36, K98s, MP40), Crew: 5, Skill: Regular, Role: Anti-Vehicle.
+    	3.7 cm Panzerabwehrkanone 36
+    	3.7 cm Pak 36
+    	Armaments: (45 mm M1942, Mosin-Nagants, PPSh-41), Crew: 6, Skill: Regular, Role: Anti-Vehicle.
+    	Known as the ‘door knocker’, the PaK 36 was rendered obsolete by 1940 due to the evolution of tank armor. Never officially decommissioned, the Wehrmacht used its high rate-of-fire and low weight to counter light mechanized forces.
+    	Already upgraded with a Tank Commander.
+    	Nicknamed after a musical instrument, the Bazooka provides infantry a dependable, mid-range anti-tank weapon.
+    	The M9 Bazooka was created to combat heavier German armor, such as the Panther and Tiger. Rear hits are still advised.
+    	Armaments: (K98s, VG-15), *VG-15s x2, *K98s-20rd x2, *MG34, *Panzerschreck, Skill: Poor, Role: Static Defense.
+    	Volkssturm
+    	As Nazi Germany's outcry against defeat, the Volkssturm (People's Assault) was formed from old men, women, & children. Meant to boost morale, they were a disheartening sight to the German soldier. Many units surrendered, while others fought to the death.
+    	Militia forces best used for defensive operations.
+    	9th Infantry Division Veteran Squad
+    	Nicknamed the "Old Reliables," these vets are amongst the first, and final American troops to see ground combat, from Algeria to Germany. Extremely experienced, they are a formidable force in combat
+    	9th ID Veterans
+    	83rd Recon
+    	5th Ranger Assault Team
+    	The 5th Battalion Rangers first saw combat on the infamous Omaha Beach. Against all odds, the Rangers broke through the German defenses, and ultimately securing the beach; it was here the motto 'Rangers Lead the Way!' was laid & cemented.
+    	600th SS-Fallschirmjägers
+    	Nicknamed the 'Green Devils' by the Allies for their tenacious fighting spirit, these men are very disciplined and well-armed, a deadly combination on the battlefield.
+    	500th Penal GrW 378 Mortar
+    	Squad will slowly heal their wounds while out of combat. Severe injuries may require a medic.
+    	Field Medkit
+    	Field Medkit
+    	Squad will slowly heal their wounds while out of combat. 
+    	Slowly heal wounds when out of combat for at least 15s.
+    	First Aid Training
+    	The squad is given additional first aid training and extra medical supplies.
+    	Duration 20s. Cannot fire weapons while moving, sight radius reduced.
+    	The squad is conditioned to sprint quicker and recover more quickly. 
+    	Conditioning
+    	"Cooked" Mk 2 Frag Grenade
+    	It takes some degree of bravery to hold a primed grenade, but in turn it gives the enemy less time to react when it lands.
+    	Improves anti-infantry capability at close ranges. Replaces the current grenade ability.
+    	Infantrie Division
+    	Already upgraded with a KwK 30 20mm gun.
+    	Designed ahead of its time, the Maschinengewehr 34 provides portability, firepower, and reliability on a single weapons platform.
+      The MG-34 is the predecessor to the infamous MG-42, it was considered the most advanced machine gun in the world at the time. 
+    	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry.
+    	Leichtes Maschinengewehr 34
+    	MG34 LMG
+    	Artillery zeros in on isolated enemy units to destroy them. Automatically attack all cut off enemy territories and frontline territories. 
+    	Close the Pocket!
+    	Click to activate. Duration 90 seconds.
+    	14 Command Points
+    	9 Command Points
+    	Load Pzgr. 38 HEAT Round
+    	Gr. 38 HEAT round stuns the enemy vehicle crew.
+    	Gr. 38 HEAT round stuns the enemy vehicle crew.
+    	Fires a high-explosive round with reduced penetration, and damage, but significantly larger blast radius.
+    	Gr. 38 HEAT round stuns the enemy vehicle crew.
+    	Gr. 38 HEAT round stuns the enemy vehicle crew.
+    	Panzer Division
+    	Großdeutschland Panzerfüsiliers
+    	Assault infantry, (Traits: + Passive Healing, + Camouflage, + Ignores Movement Penalties): Can be armed to effectively engage armor or infantry alike.
+    	3rd Division Engineers are sent to assist your forces with a large variety of weapons.
+    	Combat Engineers are tough combat troops whose primary tasks are creating or clearing battlefield obstacles.
+    	Allows access to specialized elite infantry, additional small arms, and support tanks. Only ONE Division can be chosen in a single match.
+    	Arm and support your courageous troops with the tools of victory!
+    	Armaments: 7.5 cm KwK 42 L/70, Hull MG34, *Pintle MG42, Armor: 120mm (Sloped), Role: General Purpose, Speed: 55 km/h.
+    	Panzerkampfwagen V Ausf. G. 'Panther' Medium Tank
+    	PzKpfw V Ausf. G
+    	Medium tank, extremely durable, fast, and hard-hitting, best used to spearhead assaults. Limit of 1 Vehicle.
+    	The PzKpfw V had been "acquired" a number of times during the war after being abandoned, and subsequently pressed into Allied service.
+    	Can only field 1 Captured Panther at a time.
+    	9 Command Points
+    	Leichte Division
+    	Armored Company
+    	Commander
+    	Armored Company
+    	Armored Company
+    	3 Command Points
+    	3 Command Points
+    	Break through enemy resistance with the strength of America's armored industry.
+    	Allows access to vehicle recall, significantly cheaper tanks, and heavy artillery. Only ONE Company can be chosen in a single match.
+    	240mm 'Black Dragon' Barrage
+    	Call in a 240mm 'Black Dragon' Howitzer barrage to level the target area. A long barrage duration ensures the area is secure from most enemy counterattack.
+    	Left-click and left-click target area. Fires 5 Rounds. Delay 15s. Cannot be targeted in Command Sector.
+    	12 Command Points
+    	Allied War Machine
+    	While active, all medium and heavy vehicles that are lost will be replaced by M4A3/76 Medium Tanks.
+    	While active, all tanks that are damaged will be repaired.
+    	Duration 180s. Munition income is reduced while ability is active.
+    	9 Command Points
+    	Recall
+    	US Forces vehicle units can be withdrawn from the battle for a return of resources.
+    	Click and target owned vehicle.
+    	2 Command Points
+    	2 Command Points
+    	Slightly improves the speed of all vehicle units and allows them to decapture points rapidly.
+     	Click to activate. Duration 60s. Vehicles receive 25% faster movement speed.
+    	Raid!
+    	4 Command Points
+    	9 Command Points
+    	9 Command Points
+    	Counter Insurgency
+    	The Ostruppen gather intelligence on enemy positions from civilian informants, temporarily revealing all enemy units on the minimap. 
+    	Click to activate. Duration 15 seconds.
+    	4 Command Points
+    	6 Command Points
+    	JU-87D Incendiary Bombing Run
+    	A Stuka will drop incendiary bombs on the target location.
+    	Left-click target. Deals damage over time, effective against infantry.
+    	6 Command Points
+    	New unit - Ostruppen - available for deployment. This unit can be deployed from ambient buildings in friendly territory. Click and select location to deploy.
+    	Ostruppen can be deployed to the battlefield. This squad can be used to quickly respond to enemy flanking attempts.
+    	3 Command Points
+    	Rapid Response
+    	In Friendly Territory.
+    	JU-87D SC50 Frag Bombing Run
+    	High-explosive fragmentation bombs are dropped on the target location.
+    	Left-click ability, left-click target area.
+    	6 Command Points
+    	<<INVALID LOC STRING ID 11052545>>
+    	<<INVALID LOC STRING ID 11054851>>
+    	<<INVALID LOC STRING ID 11052546>>
+    	<<INVALID LOC STRING ID 11072747>>
+    	Reinforce Barricade
+    	Fake Supply Drop
+    	Deploys green smoke usually associated with paradrops and aid.
+    	Left-click to select, left-click target.
+    	The squad is ordered to set German armor in an immobile Hull Down position, increasing defenses and damage.
+    	Molotov Cocktails
+    	Improves anti-infantry capability at close ranges. Replaces the current grenade ability.
+    	Molotovs are better suited at area denial over frag grenades.
+    	Supply Lockdown
+    	Immobilizes the vehicle within a sector, increasing resource acquisition.
+    	Does not function within player's command sector, and does not prevent sector from being captured. Can no longer transport soldiers.
+    	Supply Lockdown
+    	Convert the sWS Supply Half-track to the powerful Pak 43.
+    	Convert the sWS Supply Half-track to the powerful Pak 43.
+    	Convert to Pak 43 Anti-Tank Gun
+    	Convert to sWs Halftrack
+    	Commander
+    	Straff Division
+    	Marksman
+    	Orders the squad's marksman to eliminate an individual unit at long range.
+    	Counterattack Tactics
+      Infantry units are trained to retake territory quickly. Neutral territory is captured more rapidly while active.
+     	Click to activate. Duration 120s. Troops receive 300% faster capture speed.
+    	2 Command Points
+    	Veteran Grenadiere Squad
+    	Armaments: K98, *G43, *MG34, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+    	Veterans
+    	Units get a First Strike bonus attacking units while camouflaged, which briefly increases their damage.
+    	Infantry or HMGs can be better trained in concealment, hiding them in cover or deep snow.
+    	(PASSIVE) Infiltration Training
+    	(PASSIVE) Wunderwaffe
+    	(PASSIVE) Grenade Assault Training
+    	Infantry can requisition superior firearms to better combat the enemy.
+    	Volksgrenadieres receive StG44 assault rifles (Upgrade), Grenadieres receive the MG42-100rd. (Upgrade), Pioneres receive the Scorched Earth Trap (Upgrade).
+    	Troops are instructed on how to synchronize their grenade throws.
+    	The squadmembers each throw a grenade at the target.
+    	(PASSIVE) Infanterie Division
+    	Additional troops have arrived on the battlefield.
+    	Unlocks the 352. Stoßtruppen, 5. Jägers, 7.5cm IG18, 10.5cm leFH 18, 8.8cm Pak 43, Jgpz. 38, Pz.Bfw. IV, Sdkfz. 42/2, and Sdkfz. 162.
+    	(PASSIVE) Elite Troops
+    	Veteran troops are sent to the battlefield in addition to freshly trained troops.
+    	Infantry squads arrive with a random amount of experience. Does not include weapon teams, or snipers.
+    	Additional troops have arrived on the battlefield.
+    	Unlocks the 90. Pz.Gren Panzergrenadiere, 200. Regimental Panzergrenadiere., Kübelwagens, Sdkfz. (250, 250/7, 251/20, 234/2, 4/1, 267), StuG III (E, F8), and Pz. IV G.
+    	(PASSIVE) Leichte Division
+    	(PASSIVE) Panzer Tactician
+    	Panzer IVs, StuG IIIs, and Panthers receive free Smoke Dischargers.
+    	Tank crews are all issued smokescreen equipment. Smoke blocks line of sight. Use smoke to reposition or cover a retreat.
+    	Tanks are now issued HEAT ammunition for increased penetration and weapon range.
+    	Tanks are now issued HEAT ammunition for increased penetration and weapon range.
+    	Allows tanks to fire HEAT rounds for a period of time.
+    	(PASSIVE) High-Explosive Anti-Tank Rounds
+    	4 Command Points
+    	6 Command Points
+    	Stuka JU-87 will strafe the target location with its powerful 37mm cannons.
+    	Stuka JU-87 will strafe the target location with its powerful 37mm cannons.
+    	Click and drag to select the direction of the strafe. Effective at all ranges vs. vehicles & armour.
+    	(PASSIVE) Luftwaffe Feld Division
+    	Additional troops have arrived on the battlefield.
+    	Unlocks the 3. Fallschirmjäger, 8cm RkW 43, Sdkfz. 251/17, and Flak Pz.Wg IV.
+    	Unlocks the 716. Ostruppen, 25. Pz.Gren Panzergrenadiere, 78. Sturmgrenadieres, 2cm Flak 38, 5cm Pak 38, 8.8cm Pak 43, Pantherturm III, Sdkfz. (250/7, 234), Jgpz. 38, and Panzerjäger Tiger (P).
+    	Unlocks the 15. Pz.Gren Panzergrenadiere, Großdeutschland Panzerfüsiliers, Sdkfz. 250, StuG III Ausf. E, Ostwind, Panther, and Tiger I & II. 
+    	(PASSIVE) Ost Division
+    	(PASSIVE) Panzer Division
+    	Additional troops have arrived on the battlefield.
+     	Additional troops have arrived on the battlefield.
+    	(PASSIVE) Interrogation Training
+    	Interrogate enemy casualties to briefly reveal all enemy positions on the minimap.
+    	Troops are given additional interrogation training.
+    	(PASSIVE) Defensive Structures
+      Ostruppen are instructed on how to construct additional fortifications.
+      (PASSIVE) Riegel 43 Mines
+    	Heavy anti-tank mines have arrived on the front.
+    	Allows the Sdkfz. 251 Halftracks to lay Riegel 43 mines.
+    	Unlocks the 29th ID Riflemen, M1919A4, M1 Pack Howitzer, M8A1 HMC, M7B1 'Priest', and M4A3(105) HVSS.
+    	(PASSIVE) Rifle Company
+    	Additional troops have arrived on the battlefield.
+    	(PASSIVE) M1919A6 Light Machine Gun
+    	Riflemen receive the M1919A6 LMG (Upgrade).
+    	The Browning .30 Cal machinegun shipment has arrived to the frontline.
+    	Unlocks the 101st Airborne Division, M1 Pack Howitzer, M2HB .50 Cal Machine Gun, and M10 TD.
+    	Unlocks the 3rd ID Riflemen, M20, M4A3(76)W HVSS, and M26 'Pershing.'
+    	Unlocks the 2nd Cavalry Troopers, 305th BN Engineers, M1919A4, M20, M21, M8, M8A1 HMC, M4A3(76)W HVSS, and T-34 'Calliope'.
+    	Unlocks the 28th ID Riflemen, M8, M10 TD, and M36 TD
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	(PASSIVE) Airborne Company
+    	(PASSIVE) Armor Company
+    	(PASSIVE) Mechanized Company
+    	(PASSIVE) Tank Destroyer Company
+    	(PASSIVE) M2 Flamethrowers
+    	Unlocks the M2 Flamethrower for use by Riflemen.
+    	Flamethrowers have made their way to the front.
+    	(PASSIVE) Forward Observers
+    	Increase line of sight when squad is out of combat, stopped, and in cover or garrisoned.
+    	Troops are instructed in specific observation and surveillance skills.
+    	(PASSIVE) Defensive Structures
+    	Riflemen are trained to build Fighting Positions, Sandbags and Mines.
+    	Troops are taught how to entrench and lay mines.
+    	(PASSIVE) High-Explosive Anti-Tank Rounds
+    	Sticky Bombs are improvised anti-vehicle explosives meant to immobilize enemy vehicles.
+    	Improves anti-vehicle capability at close ranges. Replaces the current AT rifle grenade ability.
+    	Unlocks the 120mm Mortars, additional Katyusha Rocket Trucks, D-44 Anti-Tank Emplacements, and 152mm Howitzers.
+    	Unlocks the 13th Guard Rifle Division, SG-43, HM-38, BS-3, B-4, and KV-1.
+      Unlocks the 3rd Shock Army, HM-38, Universal Carrier, Katyusha, T-34/85, and KV-2
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	Unlocks the 75th Guards Rifle Division, 2nd Guards Motor Rifle Division, GAZ-67B, M5, T-60, KV-8, KV-1, T34/85, and IS-2.
+    	(PASSIVE) Artilleriyskaya Diviziya
+    	(PASSIVE) Strelkovaya Diviziya
+    	(PASSIVE) Udarnaya Diviziya 
+    	(PASSIVE) Tankovaya Diviziya
+    	(PASSIVE) Istrebitel Tankovaya Diviziya
+    	Unlocks the 166th Siberian Division, 67th Guards Rifle Division, Valentine Mk. IX, SU-85, SU-100, SU-152, and ISU-152
+    	(PASSIVE) Defensive Operations
+    	(PASSIVE) S Urala na front!
+    	Divert manpower to the homefront! Vehicle buildtime is decreased; Fuel income is increased while Manpower income is decreased.
+    	Vehicles will build almost instantly. Fuel income increased and manpower income reduced.
+    	(PASSIVE) Conscript Repair Kit
+    	Conscripts can repair any damaged structure, vehicle, or bridge by right-clicking.
+    	Demonstrating pure ingenuity, select troops are now capable of performing repairs.
+    	The PPSh-41 Submachine guns fire small rounds at short ranges, but with a high rate of fire.
+    	Conscripts are able to requisition PPSh-41s for increased close quarter effectiveness.
+    	(PASSIVE) Conscript Assault Package
+    	Engineers are instructed on how to build an immobile repair station.
+    	Structure sends out engineers to repair nearby vehicles.
+    	(PASSIVE) Repair Stations
+    	Vehicle blocking Tank Traps can be constructed by Combat Engineers. These barriers will prevent vehicles from passing through.
+    	Vehicle blocking Tank Traps can be constructed by Combat Engineers.
+    	These barriers will prevent vehicles from passing through.
+    	Can only field (3) sWs Halftracks at a time.
+    	JU-87 Anti-Tank Strafe
+    	Stuka Close Air Support
+    	A Stuka JU-87 will patrol the designated area, targeting enemy units with heavy 37mm cannons.
+    	Active; Planes will loiter, attacking targets of opportunity. Duration 180s. Effective at all ranges vs. vehicles & armour.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat.
+    	Use equipped smoke dischargers to block the enemy's line of sight.
+    	(PASSIVE) Panzer Tactician
+    	4 Command Points
+    	6 Command Points
+    	Allows tanks to fire HEAT rounds for a period of time.
+    	Tanks are now issued HEAT ammunition for increased penetration and weapon range.
+    	(PASSIVE) High-Explosive Anti-Tank Rounds
+    	(PASSIVE) Panzer Commander
+    	5 Command Points
+    	The Panzer IV, Panther & King Tiger can be upgraded with a Panzer Commander that can survey the battlefield and call in coordinated artillery strikes.
+    	When upgraded, increases vehicle line of sight and grants access to a Coordinated Barrage. Limit of 2 Panzer Commanders.
+    	Unlocks the 12. SS-Panzergrenadier-Division, 1. SS-Panzer-Division, 5cm Pak 38, Kübelwagen (MG42), Sdkfz. 251 Ausf. D, Pz. II, Panther, Sdkfz. 267, and Tiger I.
+    	Additional troops have arrived on the battlefield.
+    	Unlocks the Volkssturm, 3. SS-Panzer-Division, MG08, Kübelwagen (MG42), Sdkfz. (303B, 251/16, 4/1), and 3. SS-Panzer-Division Tiger Ace. 
+    	Unlocks the SS-Grenadieres, Tank Busters, Großdeutschland Panzergrenadieres, Beutepanzer Captured Tanks, Jagdpanzer IV Tank Destroyers, and Jagdtiger Heavy Tanks.
+    	Additional troops have arrived on the battlefield.  
+      Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+    	(PASSIVE) Sturm Tactics
+    	(PASSIVE) Propaganda Tactics
+    	Panzerjäger Tactics
+    	(PASSIVE) Panzer Tactics
+    	(PASSIVE) Thorough Salvage
+    	Salvaging will take more time, but also yields munitions resource.
+    	Replaces existing Salvage ability.
+    	Vehicle commanders apply spotting scopes to improve their targeting capabilities by increasing line of sight.
+    	When equipped, increases vehicle line of sight when the vehicle is stopped.
+    	(PASSIVE) Spotting Scopes
+    	5 Command Points
+    	Accelerate
+    	Accelerating increases maneuverability and decreasing the chance to be hit by incoming fire.
+    	The driver pushes the vehicle’s capabilities to its limits, temporarily increasing movement speed.
+    	The squadmembers each throw a grenade at the target.
+    	Troops are instructed on how to synchronize their grenade throws.
+    	(PASSIVE) Grenade Assault
+    	Propaganda Tactics
+    	These men are more accurate when placed in cover.
+    	Ritterkreuzträger
+    	Ritterkreuzträger
+    	Veterans of countless engagements and brutally efficient, the ‘Death’s Head’ is the elite of the Waffen-SS. Armed with the best German technology and a burning passion to win, they effortlessly eradicated enemies of the Reich.
+    	Infantry gain 1.5% increased accuracy, with 0.1% increased hit chance per friendly death within 20m. Effect lasts for 15s.
+    	Propaganda Tactics
+    	Vehicle crews gain the ability to repair critical damage on their vehicles. The crew is very vulnerable during this repair procedure.
+    	Duration 15s. Vehicle is immobile and weapons are inactive.
+    	(PASSIVE) Emergency Repairs
+    	Stronger vs. Infantry, Mechanized, & Tanks. Weaker vs. Anti-Tank, Artillery, & Airborne. Only ONE Division can be chosen.
+    	Strike fear in the enemy through precisely aimed shells and bombs.
+    	Tank Destroyer Corps
+    	Istrebitel Tankovaya Diviziya
+    	The IL-2 will make a high-speed bombing run, clustering four FAB-50 50kg bombs into the target area.
+    	The IL-2 will make a high-speed bombing run, clustering four FAB-50 50kg bombs into the target area.
+    	Effective against most targets.
+    	IL-2 Precision Bombing Strike
+    	8 Command Points
+    	Disabled during a blizzard.
+    	Targeted vehicle is subject to an increase in focused fire from nearby friendly forces.
+    	Targeted vehicle is subject to an increase in focused fire from nearby friendly forces.
+    	Left-click on target vehicle. Vehicle receives more damage from attacking forces.
+    	Disabled during a blizzard.
+    	4 Command Points  
+      Armored Vehicle Detection
+    	Click to activate. Duration 30s. Vehicles appear on the minimap. Range is approx. double unit sight radius.
+    	Infantry forces are able to detect enemy vehicles due to their particular noise signatures.
+    	2 Command Points
+    	Conscripts and elite infantry are able to detect enemy vehicles due to their particular noise signatures.
+    	Armored Vehicle Detection
+    	(PASSIVE) Engineer Salvage Kits
+    	Combat Engineers can be upgraded with Salvage Kits, allowing them to gather resources from vehicle wrecks.
+    	Unlocks upgrade on Combat Engineer squad.
+    	Commander
+    	Tank Destroyer Corps
+    	Intercepts enemy radio transmissions providing valuable intel on enemy actions.
+    	Enemy build actions, global upgrades, and unit deployments are displayed in the event queue.
+    	Commander   
+      Infantrie Division
+    	Defensive Tactics
+    	Commander
+    	(PASSIVE) Heavy Fortifications
+    	Field defenses available on Sturmpioneers.
+    	Sturmpioneers can construct Tank Traps, Flak Emplacements, and Trenches.
+    	Sturmpioneers can construct Tank Traps, Flak Emplacements, and Trenches.
+    	(PASSIVE) Mechanized Tactics
+    	Additional troops have arrived on the battlefield.
+    	Unlocks the Sicherungstrupp, 20th Waffen-Grenadieres, Goliaths, 2cm Flak Guns, Bofors Flak Cannons, Pak 43 Anti-Tank Guns, Sdfkz. 251/17 Anti-Aircraft Vehicles, and 10.5cm Howitzers.
+    	Commander
+    	Defensive Tactics
+    	Commander
+    	Commander
+      Defensive Tactics
+      10.5cm Howitzer Barrage
+    	10.5cm Howitzer Barrage
+    	A barrage of 10.5cm artillery shells will be fired at the target location. The number of shells fired depends on your current stored munitions.
+    	Left-click and left-click target area. Fires 10 Rounds. Delay 5s. 5 additional shells are fired for every 100 extra munitions after 200, scaling up to 600 munitions.
+    	Click and target position.
+    	A barrage of 10.5cm artillery shells will be fired at the target location. The number of shells fired depends on your current stored munitions.
+    	7 Command Points
+    	7 Command Points
+    	Disabled during a blizzard.
+    	Disabled during a blizzard.
+    	Left-click and left-click target area. Fires 15 Rounds. 5 additional shells are fired for every 100 extra munitions after 200, scaling up to 600 munitions.
+    	Areas of the map can be bombarded with incendiary rounds to burn infantry and deny access.
+    	Areas of the map can be bombarded with incendiary rounds to burn infantry and deny access.
+    	Left-click ability, left-click target area. Fires 6 Rounds. Delay: 10s. Cannot be used within command sector.
+    	10.5cm Incendiary Howitzer Barrage
+    	High-explosive fragmentation bombs are dropped on the target location.
+    	Left-click ability, left-click target area.
+    	JU-87D SC50 Frag Bombing Run
+    	6 Command Points
+    	Final Stand!
+    	Click to activate. Duration 90s. 
+    	All Waffen-SS units will gain large offensive and defensive boosts, but only walks in enemy territory.
+    	3 Command Points
+    	Stronger vs. Infantry, Defensive, & Mechanized. Weaker vs. Tank Destroyer, Tank, & Airborne. Only ONE set of Tactics can be chosen in a single match.
+    	Drive the enemy away from the Fatherland! 
+    	Click to activate. Duration 30s. Troops receive 20% reduced hit chance in cover. Stacks with existing protection from cover.
+    	Man the Defenses!
+    	6 Command Points
+    	155mm Anti-Tank Artillery
+    	3 Command Points
+    	6 Command Points
+    	Orders batteries to perform artillery overwatch on a designated sector - attacking any enemies spotted.
+    	Targets a Friendly Sector. Delay 5s. Duration 45s.
+    	6 Command Points
+    	Reactive Artillery
+    	105mm High-Explosive Barrage
+    	Orders 105mm artillery batteries to fire on a location, saturating the area with high explosive shells.
+    	Left-click and left-click target area. Fires 10 Rounds.
+    	5 Command Points
+    	Nearby infantry and vehicles coordinate to improve the effectiveness of one another.
+    	Improves the performance of units based on their proximity to a vehicle or infantry squad. Duration 20s.
+    	Combined Arms
+    	3 Command Points
+      Click and target position. These units are dropped by air at the target location. Dropping into areas with a number of large objects increases the risk of a deadly landing.
+    	Two squads of 101st Paratroopers can be paradropped into the battlefield along with an AT Gun. These Paratroopers are deployed with M18 Recoilless Anti-Tank Rifles.
+    	Click and target position. These units are dropped by air at the target location. Dropping into areas with a number of large objects increases the risk of a deadly landing.
+     	Airdropped 101st Combat Group
+    	8 Command Points
+    	An attack has disrupted the vehicle's crew, forcing them to regain their bearings in combat.
+    	Can only field (1) 'Walking Stuka' at a time.
+    	PTRS 41 Shipment
+    	PTRS 41 AT Rifle
+    	The semi-automatic PTRS 41 fires 14.5mm rounds that can pierce light armor and devastate infantry.
+    	The semi-automatic PTRS 41 fires 14.5mm rounds that can pierce light armor and devastate infantry.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 14.5x114mm, Effective at medium range vs. vehicles. Must be stationary.
+    	Already upgraded with DP-28 Light Machineguns
+    	Already upgraded with PTRS 41 AT Rifles
+     	Tank Destroyer Corps
+    	Veterancy 1
+    	(PASSIVE) Anti-Tank Warfare
+    	Additional anti-tank weapons are now available to frontline troops!
+    	Conscripts receive the Anti-Tank Grenade Assault ability, Strelki receive VKG-40 rifle grenades, and PPSh-41 submachine guns, while Sappers receive the PTRS-41 Anti-Tank Rifle.
+    	5 Command Points
