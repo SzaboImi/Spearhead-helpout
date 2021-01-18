@@ -1,0 +1,500 @@
+    	15. Panzergrenadier-Division Panzergrenadiere
+    	15. Pz.Gren Panzergrenadiere
+    	Panzergrenadieres are Germany's premier mechanized infantry force, riding into battle with vehicles, bringing vicious weapons to bear.
+    	Armaments: (K98s, MP40), *FmW 35, *MG34, *MP40s x2, *StG44s x2, *Panzerschreck, Skill: Experienced, Role: Assault.
+    	Assault/Panzergrenadiere infantry, (Traits: + Entrench Tanks, + Mechanized Assault): Large weapon selection, use for close-medium ranged support, or covering vehicles.
+    	2 Command Points
+    	Panzer Division
+    	Leichte Division
+    	StG 44 Assault Rifles
+    	Sturmgewehr 44 (x2)
+    	Bearing the title of 'Wunderwaffe,' the StG 44 is the world's first assault rifle, firing hard-hitting rifle rounds accurately across all ranges.
+    	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
+    	The anti-tank guns are now issued hollow charge ammunition for increased penetration at lower ranges.
+    	Click to activate, duration 20s.
+    	Load Stielhandgranate 41 Round
+    	Allows the gun to fire hollow charge rounds for a period of time.
+    	Stielhandgranate 41 Rounds
+    	Veterancy 1
+    	Assault/Paratrooper infantry, (Traits: + Passive Healing, + Camouflage, + Airdropped Upgrades): Elite troops armed with semi-automatic rifles, suited for medium to close ranges.
+    	Scout infantry, (Traits: + Passive Healing, + Camouflage, + Ignores Movement Penalties, + Cold Resist): Adept at providing reconnaissance, or marksmanship over long ranges. Limit of 2.
+    	Anti-tank infantry, (Traits: + Camouflage): Experienced glider troops armed with multi-purpose recoilless rifles. Limit of 2.
+    	Tank destroyer, (Traits: + Thick Armor, + Extra Range, + High Damage, +/- Turretless, - Slow): Extremely well-protected with a fixed gun, perfect for destroying tanks from afar. Limit of 1.
+    	Tank destroyer, extremely well-protected with a fixed gun, perfect for destroying tanks from afar. Limit of 1 Vehicle.
+    	Heavy tank, (Traits: + Thick Armor, + Extra Range, + High Damage, - Slow): Near impenetrable armor coupled with a powerful long-ranged gun, dominate the battlefield with its presence. Limit of 1.
+    	Heavy tank, (Traits: + High Damage, Thick Armor): Reasonably maneuverable, powerful main gun allows it to annihilate tanks within range. Limit of 2.
+    	Excellent armor and an even better gun. The Tiger can tackle any foe on the battlefield. Limit of 1 Vehicle.
+    	Jagdtiger mounts one of the most powerful guns ever fitted to a tank destroyer, but the huge vehicle lacks mobility. Limit of 1.
+    	Jagdtiger mounts one of the most powerful guns ever fitted to a tank destroyer, but the huge vehicle lacks mobility. Limit of 1 Vehicle.
+    	Heavy tank, nicknamed the Zveroboy or 'Beast Killer', it could smash enemy Tigers, Panthers, and Elefants. Limit of 1.
+    	Nicknamed the Zveroboy or 'Beast Killer', it could smash enemy Tigers, Panthers, and Elefants. Limit of 1 Vehicle.
+    	Heavy tank, powerful but slow loading 122mm gun is good against all targets. Heavy front armor adds durability. Limit of 2.
+    	Powerful but slow loading 122mm gun is good against all targets. Heavy front armor adds durability. Limit of 2 Vehicles.
+    	Rocket artillery vehicle, fragile, fire a large, continuous barrage, then relocate.
+    	Rocket artillery vehicle, (Traits: + High Damage, + Armored): Protected by a machine gun turret, quickly fire off powerful rockets over a large area, then relocate. Limit of 2.
+    	Self-propelled howitzer, (Traits: + Versatile Gun, + Long Range, - Low Durability): Protected with a machine gun, use to deliver powerful rounds at extreme distances. Limit of 2.
+    	Self-propelled howitzer, protected with a machine gun, use to deliver powerful rounds at extreme distances.
+    	Heavy tank, (Traits: + High Damage, + Thick Armor, - Low Range, - Slow Reload, - Low Accuracy): Good frontal armor, use to spearhead assaults, or engage other heavy tanks. Limit of 2 Vehicles.
+    	ML-20 152mm Gun-Howitzer. A well-placed ML-20 can reach most of the battlefield with its barrages.
+    	Tank destroyer, (Traits: + High Damage, + Large Blast, + Thick Armor, - Slow Reload, - Low Durability): Can toggle between AP and HE rounds, fixed gun, use to hunt heavy tanks, or provide infantry support. Limit of 1 Vehicle.
+    	Tank destroyer, can toggle between AP and HE rounds, fixed gun, use to hunt heavy tanks, or provide infantry support. Limit of 1 Vehicle.
+    	Heavy tank, (Traits: + High Damage, + Large Blast, + Thick Armor, + Multiple MGs, + Increased Sight, - Slow Reload, - Low Durability): Best used for infantry support, or demolishing fortifications. Limit of 1.
+    	Heavy tank, thick armor, rear machinegun, best used for infantry support, or demolishing fortifications. Limit of 1 Vehicle.
+    	Rocket artillery vehicle, fragile, fire a large, continuous barrage, then relocate.
+    	Tank destroyer, (Traits: + High Damage, + Thick Armor, + Fast Camouflage, +/- Turretless, - Low Durability): Good penetration combined with great armor, use to hunt enemy tanks at range, or ambush at close range. Limit of 2
+    	Tank destroyer, fixed gun, the heaviest tank gun and armor of the war, can take on any enemy tank in front of it.
+    	Tank destroyer, (Traits: + High Damage, + Thick Armor, + Extra Range, - Slow): The heaviest tank gun and armor of the war, can take on any enemy tank in front of it.
+    	Medium tank, (Traits: + Highly Mobile, + Thick Armor): Combines excellent speed, durable armor, and a powerful main gun, use on the offensive, or to outmaneuver enemy forces. Limit of 2.
+    	Command tank, (Aura: +Vehicle Sight Radius, + Vehicle Movement Speed,+ Vehicle Rate-of-Fire): Combines excellent speed, durable armor, and a powerful main gun, use on the offensive, or to outmaneuver enemy forces.
+    	Assault gun, extremely powerful rocket with a large blast radius, very long, vulnerable reload, use to pulverize static targets.
+    	Sniper infantry, (Traits: + Camouflage, + High Detection Range): Excellent at eliminating priority infantry targets at range, or other snipers with ease. Limit of 2.
+    	Sturmpanzer IV
+    	Known by its Allied nickname ‘Brummbär’, the Sturmpanzer integrated 100 mm of armor with the competent Panzer IV chassis. Outfitted with the massive 15 cm StuH 43 L/12, it could effortlessly demolish most ground targets.
+    	Light anti-tank gun, (Traits: + Cheaper, + Highly Mobile, - Poor Penetration): Useful for attacking or defending against light vehicles, can be garrisoned.
+    	Assault/Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times): Capable troops that perform well under fire, building or destroying entrenched positions.
+    	Close-quarters infantry, can repair, capable of clearing the path of infantry, or defensive barriers alike.
+    	Close-quarters infantry, can be used to assault positions or cover vehicles.
+    	Medical personnel, (Traits: + Passive Healing, + Shared Veterancy): Can provide first aid and build aid stations.
+    	Officer, (Aura: +Capture Rate, +Experience Gain), vulnerable, can be used to call-in artillery or set up a retreat point when supported by other infantry. Limit of 1 Squad.
+    	Light infantry, heals passively, use to recon areas or call-in artillery.
+    	Scout/Paratrooper infantry, (Traits: + Fast Reinforce, + Passive Healing, + Camouflage, + Airdropped Upgrades): Recon troops that can scout out areas, and deploy paratrooper beacons.
+    	Officer, (Aura: Rate-of-Fire, Reload Speeds), able to augment other infantry with additional firepower, and improving weapon familiarity. Limit of 1 Squad.
+    	Officer, (Aura: +Accuracy, +Survivability), capable of leading troops in the front, increasing their survivability through effective leadership. Limit of 1 Squad.
+    	Assault infantry, (Traits: + Camouflage, + Airdropped Upgrades): Long-ranged infantry that can be outfitted for heavy fire support.
+    	Paratrooper infantry, heals passively, best dropped behind enemy lines to disrupt supplies and flank.
+    	Paratrooper infantry, heals passively, best dropped behind enemy lines to disrupt supplies and flank.
+    	Assault infantry, (Traits: + Doctrinal Upgrades): Forming the backbone of the infantry, these well-armed soldiers pack a punch up-close with their semi-automatic rifles, but struggle to hit targets at range.
+    	Assault infantry, heals passively, veteran troops who are well suited for flanking enemy forces. Limit of 2 Squads.
+    	Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times, + Doctrinal Upgrades): Able to effectively hold the line by fortifications, or merging with other units.
+    	Anti-tank gun, (Traits: + Accurate, + Fast Reload, - Low Damage): Lacks power, but provides crucial range against enemy armor.
+    	Light howitzer, (Traits: + Accurate, + Long Range, + Highly Mobile): Best used against static targets at long range.
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing captured tanks, or replacing inexperienced crews.
+    	Light mortar, (Traits: + Accurate, + Cheaper, - Small Crew, - Low Damage, - Less Range): Inexpensive, but delivers less payload, use against static infantry behind cover.
+    	Mortar, (Traits: + Large Blast, + Long Range, - Large Scatter, - Easily Decrewed): Use to provide close artillery support behind cover.
+    	Heavy machine gun, (Traits: + High Damage, + Fast Setup, + Lower Hit Chance, - Less Suppression, - Reduced Speed): Use against massed infantry, or engaging light vehicles.
+    	Scout vehicle, (Traits: + Versatile Gun, + Highly Mobile, + High Detection Range, - Easily Decrewed): Fast utility truck that can transport squads, and provides armor-piercing suppressive fire.
+    	Ambulance, not targeted by default, medical vehicle that can reinforce in enemy territory, large reinforce radius.
+    	Scout vehicle, (Traits: + Versatile Gun, + High Mobility, + Thick Armor, + High Detection Range): Armed with a heavy machine gun to shred most targets, with deployable mines and bazookas ready for enemy armor.
+    	Tank destroyer, (Traits: + Accurate, + High Mobility, +/- Open Topped, - Low Durability): Impressive speed, proficient at flanking and ambushing light to medium armor.
+    	Anti-aircraft vehicle, (Traits: + High Damage, + Versatile Gun, - Narrow Firing Angle, - Low Durability): Use to defend against air strikes, or against light targets.
+    	Tank destroyer, extremely fast, proficient at flanking and ambushing light to medium armor.
+    	Transport vehicle, (Traits: + Shared Veterancy, + Versatile Gun, + High Mobility, - Low Durability): Use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	Transport vehicle, use for infantry fire support, or bring in reinforcements.
+    	Mortar vehicle, use to provide artillery fire, then quickly relocating before retaliation.
+    	Mortar vehicle, use to provide artillery fire, then quickly relocating before retaliation.
+    	Tank destroyer, (Traits: + High Mobility, + High Damage, +/- Open Topped, - Low Durability): Weak armor, use to flank around and effectively punch through heavy armor at range.
+    	Light tank, (Traits: +Versatile Gun, + Highly Mobile, - Low Durability): Light tank that can toggle between regular armor-piercing, and deadly canister rounds.
+    	Self-propelled howitzer, (Traits: + Versatile Gun, + Large Blast, + Highly Mobile, +/- Open Topped, - Low Durability): Use for direct artillery fire, or mid-ranged bombardment.
+    	Combat vehicle, (Traits: + Versatile Gun, + High Mobility, + Thick Armor): Can be used against either infantry, or attacking light vehicles.
+    	Medium tank: (Traits: + Accurate, + Cheaper, + Multiple MGs, - Low Durability): Versatile tank that can fire high explosive and armor piercing rounds, good vs. most targets.
+    	Medium tank, (Traits: + Accurate, + Fast Reload, + High Mobility, + Higher Armor): Gyrostabilizers allow for accurate fire on the move, while an improved breech allows the crew to fire faster.
+    	Medium tank, fires accurately on the move, use to reliably engage other medium tanks, or flank heavy tanks.
+    	Medium tank: M4A3(76) Shermans are equipped with more powerful armor piercing guns, allowing them to better combat enemy tanks, thought their strength still lies in numbers or flanking maneuvers.
+    	Medium tank: The M4A3(105) Sherman is a formidable assault tank, the bulldozer provides extra frontal protection as well as destroying obstructions, while the heavy 105mm gun allows for effective anti-tank and infantry capabilities.
+    	Medium tank, bulldozer equipped, use for assaulting fortifications, or creating cover.
+    	Assault infantry, (Traits: + Passive Healing): Elite close-quarter grenadieres that are perfect for leading an infantry assault.
+    	Close quarters infantry, armed with submachine guns, and grenades, they make for a deadly force up close.
+    	Line infantry, (Traits: + Entrench Tanks, + Doctrinal Upgrades): The core of the Wehrmacht's Heer, these soldiers can challenge nearly any foe with superior weapons and training, as long as they are kept at range.
+    	Machine gun, (Traits: + High Damage, + Fast Suppression, + High ROF, - Frequent Reloads, - Slow Setup): Able to hold off against wave after wave of infantry when setup in cover.
+    	Mortar, towed, longer flight time, but heavier payload, use against static targets, including tanks.
+    	Officer, improves nearby artillery range, hit chance, and, coordinates with nearby artillery to provide fire support
+    	Officer, improves nearby artillery range, coordinates with nearby artillery to provide fire support, and improve hit chance.
+    	Officer, (Sector Aura: +35% Capture Rate, +33% Experience Gain +10% Reduced Hit Chance), ensures the continued survival of his troops, through training and field support. Limit of 1 Squad.
+    	Officer, (Aura: +Ability Cooldown, +Rate-of-Fire), effectively coordinates with other troops for a more cohesive fighting force. Limit of 1 Squad.
+    	General purpose infantry, highly adaptable, can tackle any kind of battlefield situation when ordered properly.
+    	Engineer infantry, (Traits: + Repairs, + Wire Cutters, + Fast Build, + Fast De-Cap): Crucial for defensive strategies, and keeping vehicles operational, can hold their own in combat.
+    	Assault infantry, (Traits: + Entrench Tanks, + Doctrinal Upgrades): Formed from combat veterans, and new recruits, these men are armed with close-quarter, and anti-tank weapons to counter Allied troops.
+    	Medical personnel, not targeted by default, can provide first aid and reinforce troops.
+    	Support infantry, arrives with random experience, useful for crewing captured tanks, or replacing inexperienced crews.
+    	Self-propelled howitzer, (Traits: + Thick Armor, + Large Blast, +/- Turretless, - Cannot Fire on the Move, - Low Durability): Fires massive rounds capable of annihilating static targets, even stationary tanks. Limit of 1.
+    	Transport vehicle, use as a firing platform, or bring in reinforcements.
+    	Transport vehicle, use as a firing platform, or bring in reinforcements.
+    	Transport vehicle, (Traits: +Shared Veterancy, + Cheap, + Firing Slots, - Unarmed): Use as a firing platform, or bring in reinforcements.
+    	Mortar vehicle, (Traits: + Armored, + Instant Setup, - Higher Hit Chance): Use to provide rapid barrages, then escape before retaliation.
+    	Mortar vehicle, use to provide rapid barrages, then escape before retaliation.
+    	Anti-aircraft vehicle, turret cannot turn while driving, use to defend against aircraft, or infantry.
+    	Transport vehicle, (Traits: + Shared Veterancy, + Multiple MGs, + Thick Armor): Protects occupants against cold weather, rear machinegun, use to provide suppressive fire, or bring in reinforcements.
+    	Anti-tank gun, (Traits: + Accurate, + High Damage, + Extra Range, - Slow Reload, - Stationary): Great at destroying any tank from an extremely long range.
+    	Anti-aircraft vehicle, (Traits: + Versatile Gun, +/- Open Topped): Use to defend against aircraft, or on the front as infantry support. Limit of 2.
+    	Medium tank, (Traits: + Highly Mobile, + Thick Armor): Combines excellent speed, durable armor, and a powerful main gun, use on the offensive, or to outmaneuver enemy forces. Limit of 2.
+    	Command tank, (Aura: +Vehicle Sight Radius, + Vehicle Movement Speed+ Vehicle Rate-of-Fire): Combines excellent speed, durable armor, and a powerful main gun, use on the offensive, or to outmaneuver enemy forces.
+    	Light tank, (Traits: + Versatile Gun, + Highly Mobile): Perfect at shredding infantry and light vehicles alike when no anti-tank is nearby.
+    	Combat vehicle, (Traits: + Versatile Gun, + Highly Mobile, + Thick Armor): Extremely fast, ideal for engaging light vehicles, or flanking around any type of tank with its speed. 
+    	Combat vehicle, extremely fast, ideal for engaging light vehicles, or flanking around any type of tank with its speed. 
+    	Scout vehicle, (Traits: + Highly Mobile, + Thick Armor, + High Detection Range): Can be retrofitted against aircraft, use to conduct raids, or provide suppressive fire.
+    	Medium tank, (Traits: + Accurate, + Fast Camouflage, +/- Turretless, + Cheaper, + High Durability): Can be used as a regular tank or a tank destroyer.
+    	Medium tank, (Traits: + Cheaper, + Fast Camouflage, +/- Turretless, - Poor Penetration): Fast-firing assault gun that can toggle between armor-piercing & high explosive.
+    	Medium tank, fixed gun, use to provide infantry fire support.
+    	Heavy tank, reasonably maneuverable, use to spearhead assaults, or hunt down vehicles at long range. Limit of 2 Vehicles.
+    	Medium tank, (Traits: + Accurate, + Extra Armor, + High Durability): Primary medium tank, highly adaptable vehicle that is accurate at range and durable.
+    	Medium tank, (Traits: + Cheaper, + Fast Reloads, - Poor Penetration, - Lower Armor): Fast-firing tank with low penetration, can be loaded with multiple different rounds for increased target effectiveness.
+    	Assault infantry, used for ambushing infantry, or vehicles with heavy explosives.
+    	Combat vehicle, can be used against either infantry, or attacking light vehicles.
+    	Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times, + Doctrinal Upgrades): Crucial for setting up a base and keeping vehicles running.
+    	Assault infantry, (Traits: + Doctrinal Upgrades): Conscripts form the poorly trained bulk of Red Army infantry forces. They can accomplish nearly anything with careful planning, or sheer numbers.
+    	Reserve infantry, (Traits: + Large Squad, +Faster Capture Rate, + Scavenge, - Poorly Armed): Perfect to distract enemy forces, or as cannon fodder. Limit of 2 Squads.
+    	Line infantry, (Traits: + Passive Healing, + Camouflage, + Hero Aura): Extremely versatile, use to support other infantry, or stage ambushes. Limit of 1 Squad.
+    	Elite infantry, extremely versatile, use to support other infantry, or stage ambushes.
+    	Sniper infantry, (Traits: + Camouflage, + High Detection Range): Two-man team that can scout, or engage specific infantry targets, reveals hidden units. Limit of 2.
+    	Medical personnel, not targeted by default, aids in keeping injured troops alive.
+    	Officer, (Sector Aura: +10% Rate-of-Fire, +33% Capture Rate, +66% Suppression Resistance), motivates troops to take aggressive action against the Fascists. Limit of 1 Squad.
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing captured tanks, or replacing inexperienced crews.
+    	Heavy machine gun, (Traits: + High Damage, + Lower Hit Chance, +/- Towed, - Narrow Firing Angle, - Less Suppression): High caliber rounds able to rip apart both infantry and vehicles alike.
+    	Heavy machine gun, towed, use against massed infantry, or light vehicles.
+    	Machine gun, (Traits: + Accurate, + Long Bursts, + Fast Setup, +/- Towed, - Narrow Firing Angle): Capable of unleashing a deadly stream of lead towards incoming enemies.
+    	Mortar, (Traits: + Large Blast, + Extra Crew+ Long Range, - Large Scatter): Use to deliver a steady rain of supporting fire behind cover.
+    	Mortar, (Traits: + High Damage, + Large Blast, +/- Towed, - Longer Flight Time, - Easily Decrewed): Slow, but heavier payload, use against static targets, including tanks.
+    	Mortar, towed, longer flight time, but heavier payload, use against static targets, including tanks.
+    	Heavy tank, good frontal armor, use to spearhead assaults, or engage other heavy tanks. Limit of 2 Vehicles.
+    	Heavy tank, thick armor, average main gun, rear machinegun, use for infantry support, or engaging medium tanks.
+    	Heavy tank, thick armor, average main gun, rear machinegun, use for infantry support, or engaging medium tanks.
+    	Heavy tank, thick armor, rear machinegun, best used for infantry support, or demolishing fortifications. Limit of 1.
+    	Heavy tank, thick armor, rear machinegun, best used for infantry support, or demolishing fortifications.
+    	Flamethrower tank, thick armor, rear machinegun, can toggle between flamethrower and light main gun, use for infantry support, or against fortifications.
+    	Heavy tank, thick armor, rear machinegun, can toggle between flamethrower and light main gun, use for infantry support, or against fortifications.
+    	Heavy tank, (Traits: + Thick Armor, + Multiple MGs, - Slow, - Poor Penetration): Medium tank gun, use for infantry support, or engaging medium tanks.
+    	Heavy tank, thick armor, medium tank gun, rear machinegun, use for infantry support, or engaging medium tanks.
+    	Heavy tank, thick armor, rear machinegun, can toggle between flamethrower and light main gun, use for infantry support, or against fortifications.
+    	Heavy tank, (Traits: + Multiple Main Guns, + Multiple MGs, + Thick Armor, - Slow): Can toggle between flamethrower and light main gun, use for infantry support, or against fortifications.
+    	American scout vehicle, (Traits: + Multiple MGs, + Highly Mobile, + High Detection Range, - Easily Decrewed): Able to deliver quick suppressive fire, or vital reinforcements.
+    	Transport vehicle, use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	Transport vehicle, use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	Transport vehicle, use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	Transport vehicle, use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	Medium tank, alternative to the T34/76, used to outnumber, or counter enemy tanks.
+    	Medium tank, alternative to the T34/76, used to outnumber, or counter enemy tanks.
+    	Light anti-tank gun, (Traits: + Cheaper, + Highly Mobile, - Poor Penetration): Use to engage light vehicles, or as part of a last ditch defense.
+    	Armaments: (76.2 mm M1942 ZiS-3, Mosin-Nagants, PPSh-41), Crew: 6, Skill: Regular, Role: Anti-Tank.
+    	Armaments: 76.2 mm M1942 ZiS-3, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank. Effective at long range vs. infantry & emplacements. 
+    	Armaments: 76.2 mm M1942 ZiS-3, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank. Effective at long range vs. infantry & emplacements. 
+    	Armaments: 45 mm M1938, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank.  Effective at medium range vs. light vehicles & emplacements.
+    	Armaments: 45 mm M1942, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank.  Effective at medium range vs. light vehicles & emplacements.
+    	Armaments: 45 mm M1942, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank.  Effective at medium range vs. light vehicles & emplacements.
+    	Assault gun, weak armor, can be used as a tank destroyer, or as an artillery piece.
+    	Assault gun, Traits: (+ Cheaper, + Barrages, +/- Open Topped, - Low Durability): Multi-role assault gun that can toggle between armor-piercing rounds, and high-explosive.
+    	Tank destroyer, (Traits: + Accurate, + High Damage, + Extra Range, + Fast Camouflage, +/- Turretless, - Low Durability): Use to engage tanks from long range, or fire as they pass by. Limit of 2.
+    	Medium tank, (Traits: + Cheaper, + Barrages, + Transports Infantry, - Poor Penetration): Can ram other tanks, use as infantry support, or to engage other medium tanks.
+    	Medium tank, powerful main gun over the same T-34 chassis, use to engage other enemy tanks.
+    	Medium tank, (Traits: + High Damage, + Accurate, - Low Durability): Powerful main gun over the same T-34 chassis, use to engage heavier enemy tanks.
+    	Light tank, (Traits: + Versatile Gun, + Highly Mobile, - Low Durability): Can be used to scout, or engage up to other light tanks.
+    	Utility vehicle, can be used as a firing platform, bring in reinforcements, or increase resource gain.
+    	Armaments: Passengers, Armor: None, Role: Utility, Capacity: 12, Speed: 55 km/h. Transports infantry, and crewed weapons.
+    	Armaments: Passengers, Armor: None, Role: Transport, Speed: 55 km/h. Transports infantry, and crewed weapons.
+    	Armaments: Passengers, Armor: None, Role: Transport, Speed: 55 km/h. Transports infantry, and crewed weapons.
+    	Transport vehicle, use as a firing platform, or bring in reinforcements.
+    	Transport vehicle, use as a firing platform, or bring in reinforcements.
+    	Anti-aircraft vehicle, (Traits: + Versatile Gun, - Easily Decrewed): Mechanized anti-aircraft gun that can be quickly deployed to ward off planes.
+    	Rocket artillery vehicle, (Traits: + High Damage, + Large Blast, - High Scatter): Protected by a machine gun turret, fire extremely powerful rockets in a creeping barrage, then relocate. Limit of 1.
+    	Support vehicle, (Traits: + Unique Ability, +Shared Veterancy, - Unarmed): Deployed searchlight can see through distant objects & improve accuracy of other units.
+    	Utility vehicle, (Traits: + Highly Mobile,  + High Detection Range, - Easily Decrewed): Versatile four-wheeled vehicle that can conduct repairs, scout, and provide suppressive fire.
+    	Anti-aircraft vehicle, (Traits: + Versatile Gun, +/- Open Topped): Use to defend against aircraft, or on the front as infantry support. Limit of 2.
+    	Anti-aircraft vehicle, well-protected, use to defend against aircraft, or on the front as infantry support.
+    	Armaments: 3.7 cm FlaK 43 L/89, Hull MG34, Armor: 80mm, Role: Anti-Aircraft, Speed: 38 km/h. Effective at medium range vs. infantry & aircraft. 
+    	Designed to counter enemy fighter-bombers, this anti-aircraft support tank uses a rapid-firing 3.7cm gun to frequently engage soft ground targets. A deadly and rare vehicle.
+    	Flakpanzer IV 'Ostwind' Anti-Aircraft Gun
+    	Flakpanzer IV 
+    	Light tank, (Traits: + Versatile Gun, + Highly Mobile): Perfect at shredding infantry and light vehicles alike when no anti-tank is nearby.
+    	Medium tank, slow turret speed, multiple retrofit options, use for infantry support, or engaging other tanks.
+    	Combat vehicle, (Traits: + Versatile Gun, + Highly Mobile, + Thick Armor): Extremely fast, ideal for engaging light vehicles, or flanking around any type of tank with its speed. 
+    	Medium tank, fixed gun, can be used as a regular tank or a tank destroyer.
+    	Support vehicle, fragile, and slow, can be quickly purchased to deploy base buildings.
+    	Anti-tank rocket launcher, (Traits: + High Damage, + Highly Mobile, - Less Range, - Can Be Suppressed): Engage any vehicle, tank, or structure with extremely powerful rockets.
+    	Anti-tank gun, (Traits: + Accurate, + High Damage, - Slow Reload): Use to engage any sort of enemy vehicle or armor at long range.
+    	Armaments: (MG08, K98s, MP40), Crew: 5, Skill: Regular, Role: Suppression.
+    	The Maschinengewehr 34 is the finest example of precision German engineering, designed years ahead of its time. An extremely fast rate-of-fire, ergonomic design, and amazing portability made it arguably the best machine gun of the war.
+    	Scout infantry, heals passively, adept at providing reconnaissance, or marksmanship over long ranges. Limit of 2 Squads.
+    	Scout infantry, heals passively, provides marksmanship over long ranges, or airstrikes. Limit of 2 Squads.
+    	The Gerbirgsjägers are elite mountain troops who are experts at long distance engagements and ambush tactics. 
+    	The Gerbirgsjägers are elite mountain troops who are experts at long distance engagements and ambush tactics. 
+    	Leichte Division
+    	Ost Division
+    	Leichte Division
+    	Requires Leichte Division
+    	Requires Leichte Division
+    	Heavy Cover, or Deep Snow.
+    	Garrisoned
+    	Ambush
+    	The squad is ordered to hold fire and stay hidden.
+    	Ost Division
+    	Demolitions Experts
+    	Repair Team
+    	Defensive Specialists
+    	Veterancy 1
+    	NahVW Grenade Launcher
+    	The Nahverteidigungswaffe is used to launch a close-range grenade at a targeted position
+    	Left-click ability, left-click target area.
+    	Concussive Grenades
+    	Improves anti-infantry capability at close ranges. Replaces the current grenade ability.
+    	Improves anti-infantry capability at close ranges. Replaces the current grenade ability.
+    	Concussive grenades will kill nearby infantry and stun others in the vicinity.
+    	Collect Casualties
+    	Type: Grenade, Filling: TNT, Weight: 120 grams, Effective at close range vs static infantry.
+    	RG-42 Grenades
+    	The RG-42 grenade was easy to manufacture and boasts a considerable blast.
+    	Already upgraded with a Mashinengewehr 42.
+    	Already upgraded with a Mashinengewehr 34.
+    	Already upgraded with an M1918 BAR.
+    	Already upgraded with an M1918 BAR.
+    	Artillery Corps
+    	Targets Vehicles only.
+    	Soldiers toss a high-damage, short fuse satchel charge at vehicle targets.
+    	AT Satchel Charge
+    	Captain Dispatched
+    	Left-click and left-click target area. Fires 5 Rounds. Delay 10s. Cannot be used within command sector.
+    	Left-click and left-click target area. Fires 5 Rounds. Delay 5s.
+    	Left-click and left-click target area. Fires 3 Rounds.
+    	If the unit is damaged, it will gradually repair over time
+    	Allied War Machine
+    	Initially developed as a portable light machine gun, the M1918A2 served mostly as an automatic rifle. 
+    	Initially developed as a portable light machine gun, the M1918A2 served mostly as an automatic rifle. 
+    	Type: Automatic Rifle, Rate of Fire: 650 rounds per minute, Cartridge: 7.62x63mm, Effective at medium range vs. infantry. Cannot suppress.
+    	M1918A2 BAR Shipment
+    	The M9 Bazooka was created to combat heavier German armor, such as the Panther and Tiger. Rear hits are still advised.
+    	The portable, shoulder-fired M9 Bazooka is crucial for paratroopers conducting missions where anti-tank guns would be unsuitable.
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 82mm Steel, Effective at close range vs armor & emplacements.
+    	Airdropped M9 Bazooka Rocket Launcher
+    	The legendary 'Screaming Eagles' of the 101st Airborne are elite infantry that thrive in chaos, parachuting into enemy lines to wreak havoc, and sow confusion. The fast-firing M1A1 carbines allow for increased effectiveness up close.
+    	Toggle ability. Allows the vehicle to capture points but disables its weapons.
+    	Shift the vehicle crew to raid, allowing them to capture territory but disabling weapons.
+    	Cease Action
+    	Mechanized Company
+    	Leichte Division
+    	3 Command Points
+    	Toggle ability. Allows the vehicle to capture points but disables its weapons.
+    	(PASSIVE) Raid
+    	Raid
+    	Vehicle crews are told to push on, and capture points ahead of infantry.
+    	Allows them to capture territory but disabling weapons.
+    	(PASSIVE) Raid
+    	Vehicle crews are told to push on, and capture points ahead of infantry.
+    	Allows them to capture territory but disabling weapons.
+    	3 Command Points
+    	3 Command Points
+    	Medium tank, (Traits: + Accurate, +/- Turretless, + Cheaper): Can be used as a regular tank or a tank destroyer.
+    	Infantrie Division
+    	Ost Division
+    	Luftwaffe Feld Division
+    	4 Command Points
+    	Type: Machine Gun, Rate of Fire: 485 rounds per minute, Cartridge: 12.7x99mm, Capacity: 100 Rounds. Effective at medium range vs. infantry & light vehicles. Improves detection & sight radius.
+    	Type: Machine Gun, Rate of Fire: 485 rounds per minute, Cartridge: 12.7x99mm, Capacity: 100 Rounds. Effective at medium range vs. infantry & light vehicles. Improves detection & sight radius.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 12.7x108mm, Capacity: 50 Rounds. Effective at medium range vs. infantry & light vehicles. Improves detection & sight radius.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 12.7x108mm, Capacity: 50 Rounds. Effective at medium range vs. infantry & light vehicles. Improves detection & sight radius.
+    	Type: Machine Gun, Rate of Fire: 485 rounds per minute, Cartridge: 12.7x99mm, Effective at medium range vs. infantry & light vehicles. Improves detection & sight radius.
+    	KwK 30 2cm Autocannon w. Coaxial MG34 Turret
+    	Improves weapon accuracy, detection & sight radius. 
+    	Type: 4x Machine Guns, Rate of Fire: 1940 rounds per minute, Cartridge: 12.7x99mm, Effective at medium range vs. infantry, light vehicles, & aircraft. Can no longer transport or reinforce soldiers. Limit of 2 upgraded vehicles.
+    	M45 Quadmount
+    	Masters at ranged combat, Wehrmacht Scharfschütze underwent intense training in advanced marksmanship and tactics. Utilizing innovative equipment and unconventional thinking, these men repeatedly stalled Allied advances.
+    	Detector
+    	This squad is able to detect hidden units at longer distances than other infantry.
+    	Sturmbannführer 
+    	Officer, (Sector Aura: +25% Experience Gain, +10% Rate-of-Fire), accustomed to leading troops and fighting on the frontlines. Limit of 1 Squad.
+    	Drops a multitude of small anti-tank bombs over a wide area, hitting the target's little to non-existent top armor.
+    	Left click on target location. Very effective against vehicles but weak vs infantry.
+    	IL-2 PTAB Bombing Run
+    	6 Command Points
+    	First Aid Training
+    	The squad is given additional first aid training and extra medical supplies.
+    	Slowly heal wounds when out of combat for at least 15s.
+    	Veterancy 3
+    	6 Command Points
+    	Line infantry, accurate rifles and wide selection of weapons allows for significant adaptability.
+    	Left-click ability, left-click target. Effective at long range vs. light vehicles.
+    	Anti-Tank/Rifle Grenade, a hollow-charge explosive that excels against light vehicles, but lacks damage for aggressive action against tanks, merely serving to inhibit or temporarily disable them.
+    	Fire Gewehrsprenggranate 40
+    	Gewehrsprenggranate 40
+    	Improves anti-tank capability at long ranges. 
+    	Grenadieres are issued Gewehrsprenggranate 40 rifle grenades as well as adaptors for their rifles.
+    	Gewehrsprenggranate 40
+    	Throw RGD-33 Grenade
+    	The crew throws a grenade out of the hatch to clear nearby infantry.
+    	Left-click ability, left-click target area. Effective at close range vs. infantry & emplacements.
+    	Anti-Tank/Rifle Grenade, a hollow-charge explosive that excels against light vehicles, but lacks damage against most tanks.
+    	Left-click ability, left-click target. Effective at long range vs. light vehicles.
+    	Fire Gewehrsprenggranate 40
+    	Gewehrsprenggranate 40
+    	The machine gun switches to firing in semi-auto, increasing hit chance, but reducing suppression.
+    	Barrage Weapon. Left-click ability, left-click target area.
+    	Barrage Weapon. Left-click ability, left-click target area. Fires 6 Rounds.
+    	The 'Walking Stuka' fires all six of its rockets at the targeted area.
+    	Luftwaffe Feld Division
+    	105mm High-Explosive Howitzer Half Barrage
+    	Left-click ability, left-click target area. Fires 5 rounds.
+    	The 105mm Sherman fires a short barrage of 105mm rounds into the targeted area.
+    	105mm Howitzer Barrage
+    	Left-click ability, left-click target area. Fires 4 rounds.
+    	The KV-2 fires a short barrage of 152mm rounds into the targeted area.
+    	10.5cm Creeping Barrage
+    	Left-click ability, position area and left-click. Fires 7 Rounds.
+    	The crew fires a barrage of 10.5cm rounds in an advancing line towards the enemy. Creeping barrages are intended to provide assaulting troops cover fire, thus reloads are faster and does not suppress friendly forces.
+    	28cm Rocket Barrage
+    	32cm Incendiary Rocket Barrage
+    	The crew' fires a barrage of 10.5cm rounds into the targeted area in a line formation.
+    	Left-click ability, position area and left-click.
+    	152mm Creeping Barrage
+    	Equipped with heavier shells and improved ballistics, the FlaK 38 was built as a direct counter to the increasing threat of low-altitude fighter bombers. Based off the old FlaK 30, its new shells shredded enemy aircraft on impact. 
+    	Assault infantry, (Traits: + Interrogation, + Camouflage, + Doctrinal Upgrades): Meant to break through enemy lines with automatic fire, and explosives. 
+    	Machine gun, (Traits: + High Damage, + Fast Suppression, + High ROF, - Frequent Reloads, - Slow Setup): Able to hold off against wave after wave of infantry when setup in cover.
+    	Machine gun, (Traits: + Accurate, + Cheaper, + High ROF, - Slow Setup): Designed with an optimal mix of accuracy, and rate of fire for keeping infantry suppressed.
+    	Light howitzer, (Traits: + Cheaper, + Direct Fire, + Highly Mobile, - Large Scatter): Able to quickly provide fire support from afar, or demolish enemy resistance alongside infantry.
+    	Light howitzer, can be brought in to deliver shells at range, or provide infantry support.
+    	Armaments: 7.5 cm le.IG 18, K98, MP40, Training: Regular, Role: Artillery. Effective vs. static infantry and structures.
+    	Light howitzer, (Traits: + Cheaper, + Direct Fire, + Highly Mobile, - Large Scatter): Able to quickly provide fire support from afar, or demolish enemy resistance alongside infantry.
+    	Armaments: (7.5 cm le.IG 18, K98s, MP40), Skill: Regular, Role: Artillery.
+    	M9A1 Anti-Tank Rifle Grenade Upgrade
+    	Controlled Bursts
+    	Cease Action
+    	Toggle on/off
+    	The machine gun fires in shorter bursts, increasing hit chance, but reducing suppression.
+    	Cannot use with the KwK 20 main gun.
+    	Lieutenant Dispatched.
+    	Soviet Industry
+    	Divert manpower to the homefront! Vehicle buildtime is decreased; Fuel income is increased while Manpower income is decreased.
+    	Vehicles will build almost instantly. Fuel income increased and manpower income reduced.
+    	5 Command Points
+    	Soviet Industry Upgrade
+    	Take Cover!
+    	Cease Action
+    	Toggle ability. Cannot use ability when suppressed or pinned.
+    	Soldiers dive to the ground, and hold fire, reducing received damage, and received accuracy.
+    	Resume mobile operations.
+    	The crew engage enemy aircraft only. While in this mode, the vehicle is immobile.
+    	The crew engage enemy aircraft only. Aircraft needs to be visible within allied sight radius to engage. While in this mode, the vehicle is immobile. 
+    	Will return to engaging ground units.
+    	The crew engage enemy aircraft only. Aircraft needs to be visible within allied sight radius to engage. While in this mode, the vehicle is immobile.
+    	Toggle ability. Ability leads to 400% faster weapon traverse, and 50% faster weapon cooldown against aircraft. Sight radius is increased to match engagement range.
+    	Anti-Aircraft Mode
+    	Ground Fire Mode
+    	Anti-Aircraft Mode
+    	The crew engage enemy aircraft only. While in this mode, the vehicle is immobile.
+    	The crew engage enemy aircraft only. While in this mode, the vehicle is immobile.
+    	Anti-aircraft Mode
+    	Toggle ability. Range: 225m. Ability leads to 300% faster weapon traverse, and 300% farther weapon range against aircraft.
+    	The crew engage enemy aircraft only. Aircraft needs to be within allied sight radius to engage. While in this mode, the vehicle is immobile.
+    	Will return to engaging ground units.
+    	Anti-Aircraft Mode
+    	Ground Fire Mode
+    	The 75mm M48 High Explosive round is effective against infantry and other soft targets.
+    	75mm M48 High Explosive rounds are issued to the tank crew.
+    	Improves anti-infantry capability while drastically reducing penetration & raw power.
+    	75mm M48 High Explosive Rounds
+    	Heavy tank, near impenetrable armor coupled with a powerful gun, dominate the battlefield with its presence. Limit of 1 Vehicle.
+    	The simple but durable T-34 was captured in droves by the Wehrmacht. Modified and painted to German standards, the redesignated Pzkpfw. 747s were redistributed to reinforce the ever-diminishing Panzer Divisions.
+    	Fortify
+    	The gun crew sets up sandbag cover around the emplacement, providing extra protection against small arms.
+    	Left-click to activate. 
+    	Left-click and left-click target area. Fires 60 rockets.
+    	A full barrage of 114 mm rockets from a nearby Calliope will be fired at the target location.
+    	114mm Calliope Barrage
+    	Active; Plane will loiter, providing overlook of the area. Duration 60s.
+    	Available aircraft will make a reconnaissance pass on the targeted location to reveal enemy forces.
+    	P-47 Recon Air Patrol
+    	3 Command Points
+    	Orders 75mm howitzers to fire on a location, effective vs. both infantry, and vehicles alike, with a chance of stunning the crew.
+    	High Explosive Anti-Tank (HEAT) Barrage
+    	Left-click and left-click target area. Fires 15 Rounds. Delay 5s.
+    	Left-click ability, left-click target area. Fires 8 Rounds. 
+    	Send smoke rounds to the targeted area to disrupt sightlines.
+    	105mm Smoke Barrage
+    	5 Command Points
+    	5 Command Points
+    	Left-click ability, left-click target vehicle.
+    	Fire a short-range 149mm Panzerfaust anti-tank weapon at the targeted enemy vehicle.
+    	Fire Panzerfaust-100
+    	Panzerfäuste-100 Requisition
+    	Equips all current and later troops with the panzerfaust upgrades.
+    	Removes the need to upgrade Panzerfausts individually for each squad.
+    	Panzerfaust Shipment
+    	The squad will plant a hidden Beacon at the target location. 
+    	The squad will plant a hidden Beacon at the target location. This Beacon will reveal nearby enemy units on the mini-map, improve the accuracy of paradrops in the area, and allow Paratroopers to paradrop-reinforce when nearby.
+    	Left-click and target position. Limit of 3 Funkfeuers. Reinforcement/Detection Radius: 70m.
+    	Setup Beacon
+    	Veterancy 3
+    	Battle Phase 2
+    	Left-click ability, left-click target vehicle. Effective at long range vs. light vehicles.
+    	A soldier fires a short-range GPG40 anti-tank rifle grenade at the targeted enemy vehicle.
+    	Fire Gewehrsprenggranate 40
+    	The crew' fires a barrage of 155mm rounds into the targeted area in a line formation.
+    	Left-click ability, position area and left-click.
+    	155mm Creeping Barrage
+    	10.5cm Howitzer Direct Fire
+    	Left-click ability, left-click target. Large blast radius.
+    	Aim straight forward and fire the weapon directly at a position.
+    	Major Dispatched
+    	Captain Dispatched
+    	Major Dispatched
+    	Leichte Division
+    	Leichte Division
+    	Mechanized Assault Groups
+    	Halftracks will arrive to the battlefield carrying combat troops.
+    	Sdkfz. 250 Halftracks will arrive with 90th Panzegrenadiere Squads.
+    	Leichte Division
+    	Captain Dispatched
+    	Zielgerät 1229 Infrared Package
+    	Provides two squad members with captured StG44 assault rifles mounted with Zielgerät 1229 nightvision devices. 
+    	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Quantity: 2, Effective at medium range vs. infantry. Improves detection.
+    	3 Command Points
+    	Special Operations Company
+    	Can only field 2 Veteran Squads at a time.
+    	When activated, all units are hidden on the enemy minimap.
+    	Click to activate. Duration 60 seconds.
+    	Radio Silence
+    	A trap can be placed on a point that will automatically attack enemy units who try to capture that territory.
+    	A trap can be placed on a point that will automatically attack enemy units who try to capture that territory.
+    	Booby Trap Territory
+    	Automatically attacks units who attempt to capture the target territory. The trap has an arming time, if the point starts to be captured during this time it will cancel. Click and target in supply friendly strategic point.
+    	4 Command Points
+    	Unit is hidden from enemy minimap.
+    	Radio Silence
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	The Panzerbüchse 39 fires heavy 7.92x94mm rounds that can punch through armoured vehicles. A secondary magazine near the breech aided reload times.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Capacity: 10 Rounds. Effective at long range vs. vehicles. 
+    	Panzerbüchse 39
+    	\
+    	Already upgraded with a Flammenwerfer 35.
+    	Already upgraded with Panzerbüchse 39 Rifles
+    	(PASSIVE) War Economy
+    	Allows the M5A1 Stuart, and M4A3 Shermans to be called-in at cheaper costs.
+    	Rapid shift to the war economy has allowed tanks to be built more efficiently.
+    	Repair vehicles, structures, or bridges.
+    	Right-click on damaged object or select Repair and left-click. Increases chance of the squad being hit and reduces sight radius by 60%.
+    	Instructed in advanced repair techniques, troops can quickly repair any damaged structure, vehicle, or bridge.
+    	Advanced Repairs
+    	Instructs the squad in additional repair techniques.
+    	Unlocks Advanced Repairs. Replaces the regular Repair Ability.
+    	Unlocks Demolition Charges, Booby Traps, and Satchel Charges.
+    	Issues a variety of explosives, bombs, and instructions to the squad.
+    	Unlocks Discounted Fortifications, Reinforced Barbed Wire, and Minesweepers.
+    	The squad is taught everything they can do to better fortify defenses.
+    	Repairs one engine critical and some damage.
+    	Left-click ability and left-click damaged vehicle. Increases chance of the squad being hit and reduces sight radius by 60%.
+    	The squad can quickly repair one engine critical and a small amount of damage on a vehicle.
+    	Repair Engine
+    	Toggle Repairs
+    	The squad is ordered to repair any damaged vehicle or building in the vicinity.
+    	Toggle on/off
+    	Throw Satchel Charge
+    	Explosive Charge, bundled explosives that do heavy damage to stationary targets, can also destroy tanks if thrown directly at them.
+    	Effective and large blast radius can damage most targets.
+    	Wire Cutters
+    	Wire Cutters are used to cut through barbed wire fences or barbed wire fields.
+    	Wire Cutters are used to cut through barbed wire fences or barbed wire fields.
+    	Left-click and target enemy barbed wire.
+    	Machine gun, cheaply produced, low rate of fire, with extra crew members.
+    	Maschinengewehr 34 Requisition
+    	Requests for machine gun teams to arrive with the more readily available MG34 GPMG.
+    	Replaces the MG42 with the MG34, which is cheaper, more accurate, but at the cost of slower ROF.
+    	Str
+    	Infantrie Division
+    	Straff Division
+    	Awareness
+    	The squad listens in to the surrounding environment, increasing their overall sight, and also picking up vehicle signatures.
+    	Toggle on/off
+    	Pick up the pace, the squad is less attentive to noise signatures
+    	Awareness
+    	Veterancy 1
+    	Combat experience reaches its peak at a total of 40% increased accuracy, 15% reduced hit chance, 30% reduced suppression, 30% faster reload times.
+    	Combat experience reaches its peak at a total of 30% increased accuracy, 10% reduced hit chance, 30% faster reload times.
+    	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times.
+    	Combat experience leads to 24% increased accuracy, 8% reduced hit chance, and 24% faster reload times.
+    	Combat experience leads to 18% increased accuracy, 6% reduced hit chance, and 18% faster reload times.
