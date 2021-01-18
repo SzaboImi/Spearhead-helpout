@@ -1,0 +1,500 @@
+    	Extra troops are assigned to logistics, speeding up the delivery time of supplies.
+    	Logistics Blitz
+    	Major Dispatched
+    	To the Front!
+    	All additional manpower is sent to your front.
+    	Manpower rate is increased by an additional 10%.
+    	Allows the Riflemen to be called-in at cheaper costs.
+    	Increased enlistment rates have created a surplus in manpower.
+    	(PASSIVE) Draft Call
+    	Allows the Prizyvniki to be called-in at 160MP, and grants access to a suppression-breaking sprint.
+    	Additional troops have been sent to combat the facists!
+    	(PASSIVE) Without Number
+    	Divert manpower to the homefront! Vehicle buildtime is decreased; Fuel income is increased while Munitions income is decreased.
+    	Special Operations Company
+    	3 Command Points
+    	Can only field 2 Ranger Squads at a time.
+    	Panzerspähwagen Sonderkraftfahrzeug 222
+    	Converting the SdKfz 221 armored car to a more powerful 222 armored car requires the addition of a larger turret mounting the KwK 30 2cm autocannon.
+    	Full production of the Sdkfz. 222 began in 1937, mounting the dependable 2 cm KwK 30 L/55 and adding a third crewmember. Admired by recon units, the 222 offered stronger offensive capabilities against infantry and structures.
+    	Infantry Company
+    	Reserve Corps
+    	Can only field (2) 5. Jägers at a time.
+    	Duration 20s. Breaks out of any suppression. 
+    	A battlecry, shouted in unison, motivates Red Army forces to move faster while being immune to suppression.
+    	Oorah!
+    	For Stalin!
+    	No Inventory Space
+    	Weapon Inventory Full. 
+    	No inventory Space
+    	No Inventory Space
+    	Weapon Inventory Full. 
+    	No Inventory Space
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Free inventory slot.
+    	Already upgraded with Panzer Officer, or Panzer Commander.
+    	Already equipped with STG44
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	No Inventory Space
+    	No Inventory Space
+    	No inventory Space
+    	Can field max two Squads 25th at time.
+    	Weapon Inventory Full. 
+    	Can only field 1 Sturmgrenadiere Squad at a time
+    	Regarded as the weapon of choice for the infantry, the MP40's ergonomic build, and steady rate-of-fire allows it to reliably hit enemies at range.
+    	Type: Submachine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 9x19mm, Capacity: 32 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	The weapon of choice for the infantry, the MP40's ergonomic build, and steady rate-of-fire allows it to reliably hit enemies at range.
+    	Maschinenpistole 40 (x2)
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	The Maschinenpistole 40 Submachine guns fire small rounds at short ranges.
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Can only field 1 BM-13N Katyusha at a time.
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	No inventory Space
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	No Inventory Space
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Can only field 2 Shock Troop squads at a time
+    	Tasked primarily with fortification construction, Wehrmacht Pioniere could also clear or create battlefield obstacles. Issued extremely powerful explosives and formidable support weaponry, they could assault and level enemy positions.
+    	Armaments: K98, MP40, *G43, *MG34, *MG42, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2 (H), *Bren Mk. 2, *L1A1-No. 32 (A), Skill: Regular, Role: Frontline.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *Bren Mk. 2, *STEN Mk. IIs x2 (A), *Boys AT (H), *PIAT (A), *No. 2 Flamethrower (H), Skill: Regular, Role: Engineer.
+    	Rifle Grenade, delivers an explosive bomb that explodes on impact, ideal for use against infantry fighting from cover.
+    	Soldiers fire a 30mm high-explosive rifle grenade. Cannot be fired from indoors.
+    	Armaments: Lee-Enfield, Sten, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Lee-Enfields/M1911s, STEN Mk. IIS), *STEN Mk. IIS x2/4 (A), *M1A1 Thompsons x2/4 (H), *Bren Mk. 2, *PIAT, Skill: Elite, Role: Infiltration.
+    	Armaments: G43, Training: Experienced, Role: Sniper. Effective at long range vs. infantry.
+    	Armaments: (L1A1-No. 32), *Boys AT, Skill: Ace, Role: Sniper.
+    	Type: Submachine Gun, Rate of Fire: 450 rounds per minute, Cartridge: 11.43×23mm, Capacity: 30 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	Type: Automatic Rifle, Rate of Fire: 750 rounds per minute, Cartridge: 7.92x57mm, Quantity: 2, Effective at medium range vs. infantry. 
+    	Submachine Gun, Cal .45, M1A1 (x2)
+    	Thompson SMG Package
+    	The iconic, and infamous Thompson became popular by soldiers for its thunderous rate of fire and powerful .45 ACP rounds.
+    	FG42 Machine Guns
+    	Fallschirmjägergewehr 42 (x2)
+    	The Fallschirmjägergewehr 42 was designed to provide paratroopers lightweight, portable firepower.
+    	2/17th Battalion Rifle Section
+    	The bulwark of the renowned British Army, Rifle Sections were well disciplined and rigorously drilled. Loyal as bulldogs and comprised of veterans and volunteers, these men were willing to give their absolute best for Queen and Country.
+    	Firepower Requisition
+    	Type: Submachine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 9x19mm, Quantity: 2, Effective at close range vs. infantry.
+    	Type: Submachine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 9x19mm, Capacity: 32 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	STEN Mk. II Submachine Gun (x2)
+    	The STEN's remarkable ability to use captured MP40 magazines and rounds, and simple production, made even Germans copy the design.
+    	Bren Mk.2 Light Machine Gun
+    	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
+    	Type: Machine Gun, Rate of Fire: 520 rounds per minute, Cartridge: 7.92x57mm, Capacity: 30 Rounds. Effective at long range vs. infantry.
+    	The Czech-influenced Bren is a highly portable light machine gun with amazing accuracy, and the ability to fire on the move.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Effective at long range vs. vehicles. Must be stationary.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 13.9x99mm, Capacity: 5 Rounds. Effective at long range vs. vehicles. 
+    	Veterancy 2
+    	Left-click ability, left-click target vehicle. Effective at long range vs. light vehicles.
+    	Rifleman will launch an M9A1 Anti-Tank grenade at a vehicle using an M7 Launcher.
+    	Rifle Section will launch a No. 68 Anti-Tank grenade at a vehicle.
+    	Fire No. 68 Anti-Tank Grenade
+    	Rifle, Anti-Tank, .55in, Boys
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 13.9x99mm, Capacity: 5 Rounds. Effective at long range vs. vehicles. 
+    	Arms the Sapper squad with a powerful 13.9x99mm Boys AT Rifle.
+    	Flamethrower, Portable, No. 2
+    	Medical personnel, not targeted by default, can provide first aid and reinforce troops.
+    	Boys AT Rifle
+    	Armaments: M2HB .50 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	Armaments: (Vickers .303, Lee-Enfields, STEN Mk. II), Crew: 5, Skill: Regular, Role: Suppression.
+    	Armaments: Mosin-Nagant, PTRS, Training: Regular, Role: Anti-Armor. Effective at long range vs. light vehicles.
+    	Armaments: (Lee-Enfields, Sten, PIAT), Skill: Regular, Role: Anti-Armor.
+    	The crew exerts themselves to quickly maneuver their gun, resulting in increased mobility and responsiveness.
+    	Duration: 20s. Increases speed and rotation of the weapon.
+    	Firepower Requisition
+    	Additional heavy weapons are available to aid in fighting the enemy. Authorizes the use of Forward Observation Posts.
+    	Unlocks the Vickers HMG, 3-Inch Mortar, Anti-Tank Squad, Universal Carrier, Light Tanks, and Forward Observation Posts.
+    	Armaments: (Lee-Enfields, Sten, PIAT), Skill: Regular, Role: Anti-Armor.
+    	Engineer infantry, can repair, crucial for defensive strategies, and keeping vehicles operational, can hold their own in combat.
+    	Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times, + Vehicle Crew): Able to setup heavy fortifications, improve vehicle performance, and fight alongside other infantry.
+    	General purpose infantry, highly adaptable, can tackle any kind of battlefield situation when positioned properly.
+    	Line infantry, (Traits: + Doctrinal Upgrades): Able to challenge anything the enemy has to offer.
+    	Machine gun, towed, capable of unleashing a deadly stream of lead towards incoming enemies.
+    	Machine gun, (Traits: + Accurate, + Long Bursts, - Slow Setup): Able to tear infantry apart under a constant stream of fire.
+    	Can only field 2 Tank Hunter Sections at a time. 
+    	Can only field 2 Anti-Tank Sections at a time.
+    	Anti-Tank Section
+    	Left-click ability, left-click target. Smoke lasts for about 30s.
+    	Throw Smoke Grenade
+    	Armaments: 7.5 cm KwK 42 L/70, Hull MG34, *Pintle MG42, Armor: 120mm (Sloped), Role: General Purpose, Speed: 55 km/h. Effective at medium range vs. armor. 
+    	Armaments: 77mm HV, Hull Besa, *Pintle Besa, Armor: 102mm, Role: General Purpose, Speed: 51 km/h. Effective at medium range vs. armor. 
+    	Armaments: 77mm HV, Hull Besa, *Pintle Besa, Armor: 102mm, Role: General Purpose, Speed: 51 km/h. Effective at medium range vs. armor. 
+    	Armaments: 77mm HV, Besa (Coaxial/Hull), Armor: 80mm, Role: General Purpose, Speed: 51 km/h.
+    	Armaments: 77mm HV, Hull Besa, *Pintle Besa, Armor: 102mm, Role: General Purpose, Speed: 51 km/h. Effective at medium range vs. armor. 
+    	Armaments: 77mm HV, Hull Besa, *Pintle Besa, Armor: 102mm, Role: General Purpose, Speed: 51 km/h. Effective at medium range vs. armor. 
+    	Armaments: 77mm HV, Hull Besa, *Pintle Besa, Armor: 102mm, Role: General Purpose, Speed: 51 km/h. Effective at medium range vs. armor. 
+    	Armaments: 77mm HV, Hull Besa, *Pintle Besa, Armor: 102mm, Role: General Purpose, Speed: 51 km/h. Effective at medium range vs. armor. 
+    	Armaments: 77mm HV, Hull Besa, *Pintle Besa, Armor: 102mm, Role: General Purpose, Speed: 51 km/h. Effective at medium range vs. armor. 
+    	Armaments: 77mm HV, Hull Besa, *Pintle Besa, Armor: 102mm, Role: General Purpose, Speed: 51 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: 75 mm M3 L/40, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: QF 75 mm, Besa (Coaxial/Hull), Armor: 76mm, Role: General Purpose, Speed: 64 km/h.
+    	Armaments: QF 75 mm, Besa (Coaxial/Hull), Armor: 76mm, Role: General Purpose, Speed: 64 km/h.
+    	Armaments: QF 75 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Hull Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 76 mm, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Armaments: QF 76 mm, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Armaments: QF 76 mm, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Armaments: QF 76 mm, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Armaments: QF 76 mm, M1919 .30 Cal (Coaxial), *M2HB .50 Cal (Pintle), Armor: 70mm, Role: General Purpose, Speed: 40 km/h.
+    	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: None, Role: Recon, Speed: 86 km/h. Effective at long range vs. infantry.
+    	Armaments: Hull Vickers .303, *Pintle Vickers K, *Hull WASP, Armor: 10mm, Role: Infantry Support, Capacity: 6, Speed: 48 km/h. Effective at medium vs. infantry.
+    	Armaments: Hull Vickers .303, *Pintle Vickers K, *Hull WASP, Armor: 10mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium vs. infantry.
+    	Armaments: Hull Vickers .303, *Pintle Vickers K, *Hull WASP, Armor: 10mm, Role: Infantry Support, Capacity: 6, Speed: 48 km/h. Effective at medium vs. infantry.
+    	Armaments: Hull Vickers .303, *Pintle Vickers K, *Hull WASP, Armor: 10mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium vs. infantry.
+    	Armaments: Bren (Hull), *Vickers K (Pintle), *WASP (Hull), Armor: 14.5mm, Role: Infantry Support, Speed: 48 km/h.
+    	Armaments: 37 mm M6, Hull M1919 .30 Cal, Coaxial M1919 .30 Cal, Armor: 29mm, Role: Infantry Support, Speed: 58 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Besa (Coaxial), Armor: 59mm, Role: Infantry Support, Speed: 24 km/h.
+    	Armaments: QF 75 mm, Coaxial Besa, Armor: 65mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Coaxial Besa, Armor: 65mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Coaxial Besa, Armor: 65mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Coaxial Besa, Armor: 65mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: 37 mm M6, Armor: 32mm, Role: Recon, Speed: 88.5 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Coaxial Besa, Armor: 65mm, Role: Recon, Speed: 65 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Armor: 65mm, Role: Recon, Speed: 65 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Armor: 65mm, Role: Recon, Speed: 65 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Armor: 65mm, Role: Recon, Speed: 65 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: QF 75 mm, Besa (Coaxial), Armor: 14.5mm, Role: Recon, Speed: 65 km/h.
+    	Armaments: 3.7 cm FlaK 43 L/89, Hull MG34, Armor: 80mm, Role: Anti-Aircraft, Speed: 38 km/h. Effective at medium range vs. infantry & aircraft. 
+    	Armaments: 20mm Polsten, Armor: 76mm, Role: Anti-Aircraft, Speed: 64 km/h. Effective at medium range vs. infantry, light vehicles, & aircraft. 
+    	Armaments: 20mm Polsten, Armor: 76mm, Role: Anti-Aircraft, Speed: 64 km/h. Effective at medium range vs. infantry & aircraft. 
+    	Armaments: 20mm Polsten, Armor: 76mm, Role: Anti-Aircraft, Speed: 64 km/h. Effective at medium range vs. infantry & aircraft. 
+    	Armaments: 20mm Polsten, Armor: 76mm, Role: Anti-Aircraft, Speed: 64 km/h. Effective at medium range vs. infantry & aircraft. 
+    	Armaments: 20mm Polsten, Armor: 20mm, Role: Anti-Aircraft, Speed: 64 km/h.
+    	Equips the Sniper with a powerful 13.9x99mm Boys AT Rifle.
+    	.30 cal Machine Gun, M1917A1
+    	Maschinengewehr 08 Heavy Machine Gun
+    	Armaments: M1917 .30 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	M1917 HMG
+    	M917 .30 cal Machine Gun Team
+    	Armaments: (M1917A1 .30 Cal HMG, M1 Garand), Crew: 5, Skill: Regular, Role: Suppression.
+    	.30 cal Machine Gun, M1917A1
+    	.30 cal Machine Gun, M1917A1
+    	M2HB HMG
+    	M2HB .50 cal Machine Gun Team
+    	Armaments: (M2HB .50 Cal, M1 Garands, M3A1 Grease Gun), Crew: 5, Skill: Regular, Role: Suppression.
+    	Armaments: M1919A4 .30 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	Armaments: M1919A4 .30 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	Armaments: M1919A4 .30 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	.30 cal Machine Gun, M1919A4
+    	.30 cal Machine Gun, M1919A4
+    	.30 cal Machine Gun, M1919A4
+    	M1917A1 HMG
+    	.30 cal Machine Gun, M1917A1
+    	M1917A1 HMG
+    	Lieutenant Dispatched.
+    	The M1919A4 is one of the most widely produced machine gun during the war, arming infantry, aircraft, and vehicles with automatic firepower.
+    	The M1919A4 is one of the most widely produced machine gun during the war, arming infantry, aircraft, and vehicles with automatic firepower.
+    	The Browning M1919A4 machine gun experienced widespread use around the world, arming everything from infantry, tanks, aircraft, and boats on all three major fronts. It is well-regarded for its exceptional rate-of-fire and accuracy.
+    	The A1 variant of the American water-cooled M1917 improves the WW1 design with a faster cyclical rate of fire. A robust, and reliable support weapon, it is an effective fixed defense emplacement for suppression.
+    	Machine gun, able to tear infantry apart under a constant stream of fire.
+    	Machine gun, (Traits: + Accurate, + Long Bursts, - Slow Setup): Able to tear infantry apart under a constant stream of fire.
+    	Machine gun, able to tear infantry apart under a constant stream of fire.
+    	Machine gun, able to tear infantry apart under a constant stream of fire.
+    	1st Airborne Sniper
+    	Selected from the best marksmen in the Queen’s Army, British snipers were unmatched behind the trigger. Painstakingly conditioned to eliminate targets without breaking concealment, these men were neigh invisible to friend and foe.
+    	Royal Engineers Sapper Section
+    	Having served Her Majesty in every major conflict, the steadfast Royal Engineers embodied their motto ‘Ubique’. Demolitionists, mechanics and engineers, Sappers kept the modern British Army running in defense of the ageless Empire.
+    	The British 3-Inch Mortar provides effective indirect fire support on the battlefield. The high angle of fire of the mortar can allow it to hit targets behind objects.
+    	3-Inch Mortar Squad
+    	Forward Observation Post
+    	Designate an occupied ambient building as a Forward Observation Post. This building can direct air and artillery support with unique abilities.
+    	Click and target occupied ambient building in friendly territory.
+    	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Adds the 'Stabilize' Ability. Must be stationary to fire.
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 60 Rounds. Effective at medium range vs. infantry. 
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Can no longer transport soldiers.
+    	Vickers K LMG Shipment
+    	Veterancy 1
+    	Designed for aerial dogfighting, the Vickers K's lightning fast rate of fire proved useful on the ground with various specialized units.
+    	Armaments: K98, MP40, *G43, Training: Experienced, Role: Tactical Support. Effective at medium range vs. infantry.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *M1 Carbines, *STEN Mk. IIs x2 , *Bren, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Sappers
+    	Anti-tank infantry, best used to flank enemy tanks. Limit of 2 Squads.
+    	Anti-tank infantry, (Traits: + Camouflage): Can engage tanks directly, over cover, and infantry with blast radius. Limit of 2 Squads.
+    	Anti-tank infantry, use the anti-tank rifles against infantry and light vehicles, or the grenades for tanks.
+    	Anti-tank infantry, can engage tanks directly, over cover, and infantry with blast radius. Limit of 2 Squads.
+    	The British-made PIAT is a man portable anti-tank weapon developed due to the Boys' ineffectiveness against heavier German armor.
+    	Tank Hunter Section
+    	The British-made PIAT is a man portable anti-tank weapon developed due to the Boys' ineffectiveness against heavier German armor.
+    	Royal Parachute Regiment (Versatile/Airborne)
+     	Allows access to elite troops, airstrikes, and glider support. Only ONE Regiment can be chosen in a single match.
+     	Keep Jerry company with some friendly paratrooper forces, booby-traps, and a few airdropped presents.
+     	Royal Armoured Regiment (Defensive/Tank)
+    	Royal Artillery Regiment (Defensive/Artillery)
+    	Royal Commando Regiment (Assault/Infiltration)
+    	Royal Tank Regiment (Assault/Tanks)
+    	Royal Guard Regiment (Versatile/Infantry)
+    	(PASSIVE) Royal Armoured Regiment
+      (PASSIVE) Royal Artillery Regiment
+     	(PASSIVE) Royal Commando Regiment
+    	Specialization: Hammer
+     	(PASSIVE) Royal Recon Regiment
+     	(PASSIVE) Royal Tank Regiment
+     	Additional troops have arrived on the battlefield.
+     	Additional troops have arrived on the battlefield.
+       Additional troops have arrived on the battlefield.
+ 	    Specializes the Regiment around Mobility & Firepower.
+    	Additional troops have arrived on the battlefield.
+    	Additional troops have arrived on the battlefield.
+     	Unlocks the 1st Airborne Division, ML 2-Inch Mortar (Glider), QF 17-Pounder, WC51s, M3A1s, Bofor 40mms, Sherman Fireflies, and AS.58 Horsa.
+    	Unlocks the 3rd & 4th Canadian Infantry Divisions, ML 3-Inch Mortar Pits, Bofors 40mm, BL 5.5-Inch, Land Mattress, M7B1s, and Grizzly Mk. Is.
+ 	    Unlocks the Coldstream Guard, 3-Inch Mortar Emplacements, Valentine Light Tanks, Land Mattress Rocket Launchers, M4A3 Sherman Medium Tanks, Firefly Medium Tanks, and Churchill Heavy Infantry Tanks.
+      Unlocks the Irish Guard, ML 3-Inch Mortar Pits, QF 4.2-Inch Mortars, QF 17-Pounders, Sextons, Churchill Mk. VIIs, and Churchill 'Crocodiles.'
+    	Unlocks the 30-Assault Unit, 1st Commando Brigade, Land Mattress, AEC Mk. III, and Cromwell Mk. VI.
+    	Unlocks the 1st Assault Brigade, 11th Hussars, Sextons, Comets, Churchills, AVREs, and Crocodiles.
+      Firepower Requisition
+    	Throw No. 36M 'Mills Bomb'
+     Throw No. 36M 'Mills Bomb'
+     	Crew switches to armor-piercing, hardened steel core ammunition for better armor penetration.
+     	Load W Mark I Armor-Piercing Rounds
+     	3 Command Points
+     	1st Airborne Division Paratrooper Assault Team
+     	1st Airborne Assault Team
+     	Armaments: M1 Carbine, *M1918 BAR, *M1919A4 Browning, *M1A1 Thompson, *M9 Bazooka, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+     	Armaments: (Lee-Enfields/No. 2, STEN Mk. V), *MP40s x2, *STEN Mk. Vs x2 (A), *M1A1 Thompsons x2 (H), *Bren Mk. 2, *PIAT, Skill: Elite, Role: Assault.
+     	Paratrooper infantry, heals passively, best dropped behind enemy lines to disrupt supplies and flank.
+     	Paratrooper/Line infantry, (Traits: + Camouflage, + Passive Healing, + Airdropped Weapons, + Scavenge): Elite airborne soldiers armed with a variety of suppressive weapons.
+     	The 1st Airborne Division was formed in 1941 under Churchill’s direct authority. Nicknamed the ‘Red Devils’, the unit performed airborne and glider raids against key German radar installations & research facilities in occupied Europe.
+     	STEN Mk. IIS Submachine Gun (x2)
+     	The suppressed variant of the STEN reduces the weapon's loud report, making the squad undetectable on the minimap.
+     	Type: Rocket Launcher, Cartridge: 88mm, Penetration: 210mm Steel, Effective at close range vs armor.
+     	Type: Spigot Mortar, Cartridge: 83mm, Penetration: 76mm Steel, Effective at close range vs armor. 
+     	Projector, Infantry, Anti-Tank
+     	A unique launcher design, the PIAT is able to provide crucial anti-tank firepower over ranges and over cover. 
+     	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 13.9x99mm, Effective at long range vs. vehicles. Must be stationary.
+     	Type: Sniper Rifle, Rate of Fire: Bolt-Action, Cartridge: 7.92x57mm, Capacity: 10 Rounds, Effective at long range vs. infantry. 
+     	SMLE No.4 Mk. I (Telescopic)
+     	A sniper rifle variant of the Lee-Enfield is hand-selected from production, and then fitted with No. 32 scope for excellent headache-inducing accuracy at range.
+     	A high-magnification scope fitted to the Lee-Enfield can strike fear in enemy infantry from afar.
+     	Infiltration/General Purpose infantry, (Traits: + Fast Camouflage, + Passive Healing, + Invisible on Minimap + Airdropped Weapons): Able to wreak havoc within enemy lines. 
+     	New unit - Paratroopers - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+     	A squad of 1st Airborne Paratroopers can be deployed to the battlefield. 
+     	Infiltrate 1st Airborne Paratroopers
+     	4 Command Points
+     	Can only field 2 30-Assault Commando Squads at a time.
+    	Can only field 1 Airlanding Officer Retinue at a time.
+    	Can only field (2) 'Centaurs' at a time.
+    	Royal Commando Regiment
+    	Royal Commando Regiment
+    	5 Command Points
+    	4 Command Points
+    	2 Command Points
+    	2 Command Points
+    	3 Command Points
+    	7 Command Points
+    	Veterancy 2
+    	Veterancy 1
+    	Veterancy 2
+    	The tank commander provides additional vision, increases the accuracy of the main gun and the squad will earn veterancy faster. The commander will also help detect camouflaged units.
+    	Veterancy 3
+    	Panzer Officer
+    	Veterancy 3
+    	Use equipped smoke dischargers to block the enemy's line of sight.
+    	The Panzer can be issued smoke dischargers to block the enemy's line of sight.
+    	TDP Smoke Concealment System
+    	Support infantry, unarmed, useful for crewing abandoned vehicles, or repairing structures.
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing abandoned vehicles, or repairing structures.
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing captured tanks, or replacing inexperienced crews.
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing captured tanks, or replacing inexperienced crews.
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing captured tanks, or replacing inexperienced crews.
+    	Type: Flamethrower, Effective at close range vs. infantry & emplacements. Can no longer transport soldiers.
+    	The vehicle is authorized to ferry reinforcements to the front. Gains a very short ranged reinforce radius. 
+    	Battle Phase 2
+    	2 Command Points
+    	6 Command Points
+    	(PASSIVE) Anti-Tank Warfare
+    	Additional weapons are now available to combat the German Panzers.
+    	Rifle Sections receive the Boys AT Rifles, Cromwell Tanks receive APDS rounds, and the Sherman Fireflies receive the Tulip Rocket Launchers.
+    	Arms the section with a powerful 13.9x99mm Boys AT Rifle.
+    	Firepower Requisition
+    	Gewehr-Sprenggranate 3cm Rifle Grenades
+    	Veterancy 1
+    	Allows access to additional tanks, mortar support, and mechanized infantry. Only ONE Regiment can be chosen in a single match.
+    	Utilize superior British armour to outmaneuver and annihilate enemy opposition.
+    	Armaments: QF 87.6mm, Armor: 38mm, Role: Artillery, Speed: 40 km/h.
+    	Armaments: QF 87.6mm, Armor: 32mm, Role: Artillery, Speed: 40 km/h. Effective at long range vs. infantry & structures.
+    	Armaments: QF 87.6mm, Armor: 32mm, Role: Artillery, Speed: 40 km/h. Effective at long range vs. infantry & structures.
+    	Armaments: QF 87.6mm, Armor: 32mm, Role: Artillery, Speed: 40 km/h. Effective at long range vs. infantry & structures.
+    	Armaments: QF 87.6mm, Armor: 32mm, Role: Artillery, Speed: 40 km/h. Effective at long range vs. infantry & structures.
+    	Armaments: QF 75 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Hull Besa, Coaxial Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Hull Besa, Coaxial Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Hull Besa, Coaxial Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Hull Besa, Coaxial Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Besa (Coaxial/Hull), *Vickers K (Pintle), Armor: 152mm, Role: Infantry Support, Speed: 24 km/h.
+    	Armaments: QF 75 mm, Hull Besa, *Pintle Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Flamethrower (Hull), Besa (Coaxial), *Vickers K (Pintle), Armor: 152mm, Role: Infantry Support, Speed: 24 km/h.
+    	Armaments: QF 75 mm, Flamethrower, Hull Besa, *Pintle Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: QF 75 mm, Flamethrower, Hull Besa, *Pintle Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: QF 75 mm, Flamethrower, Hull Besa, *Pintle Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: QF 75 mm, Flamethrower, Hull Besa, *Pintle Besa, Armor: 152mm, Role: Infantry Support, Speed: 24 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: 290mm Petard Mortar, Hull Besa, *Pintle Vickers K, Armor: 152mm, Role: Assault, Speed: 24 km/h. Effective vs. infantry and structures. 
+    	Armaments: 290mm Petard Mortar, Hull Besa, *Pintle Besa, Armor: 152mm, Role: Assault, Speed: 24 km/h. Effective vs. infantry and structures. 
+    	Armaments: 290mm Petard Mortar, Hull Besa, *Pintle Besa, Armor: 152mm, Role: Assault, Speed: 24 km/h. Effective vs. infantry and structures. 
+    	Armaments: 290mm Petard Mortar, Besa (Coaxial/Hull), *Vickers K (Pintle), Armor: 152mm, Role: Assault, Speed: 24 km/h.
+    	Armaments: 290mm Petard Mortar, Hull Besa, *Pintle Besa, Armor: 152mm, Role: Assault, Speed: 24 km/h. Effective vs. infantry and structures. 
+    	Keep Calm and Carry on! 
+    	Hawker Typhoon Attack
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing captured tanks, or replacing inexperienced crews.
+    	Veteran Tank Crew
+    	The Commonwealth's Tank Crews are drawn from recruits from all across the massive British Empire, unified through a combination of discipline, order, and a burning desire to destroy the Huns' Panzers.
+    	Armaments: Luger, *MP40, Training: Experienced, Role: Vehicle Crew. Direct Combat is not advised.
+    	Armaments: (M1911s) *M3 Grease Guns x2, *M1A1 Thompsons x2, Training: Regular, Role: Vehicle Crew. Direct Combat is not advised.
+    	Veteran Tank Crew
+    	Armaments: M3 Grease Gun, Training: Regular, Role: Vehicle Crew. Direct Combat is not advised.
+    	Armaments: (M1911s, STEN Mk. II), *M1 Carbines x2, *STEN Mk. IIs x2, *M1A1 Thompsons x2, Skill: Experienced, Role: Vehicle Crew.
+    	Can only field 1 Veteran Tank Crew at a time.
+    	Veterancy 1
+    	Triage
+    	The Medics treats the critically wounded, refunding 50% of the unit's manpower when they are downed.
+    	Left-click ability, left-click target position. Fires 12 Rounds.
+    	25-Pounder Howitzer Barrage
+    	25-Pounder Airburst Barrage
+    	Left-click ability, left-click target area. Fires 10 rounds.
+    	The designated target area is barraged by 25-pounder high explosive rounds.
+    	The designated target area is barraged by 25-pounder airburst rounds, which explode above cover.
+    	GrW 378 Mortar Team
+    	3. FJD 8.14 cm GrW 34
+    	Renowned for its cyclic fire rate of 1200 rounds-per-minute and suppression capability, the MG42 was rapidly incorporated into the Wehrmacht. With only an eight second barrel swap, disciplined crews could relentlessly pin infantry.
+    	When it first arrived on the battlefield, the MG34 was considered the most advanced machine gun of its time, being man-portable, air-cooled, coupled with a blistering rate of fire.
+    	When it first arrived on the battlefield, the MG34 was considered the most advanced machine gun of its time, being man-portable, air-cooled, coupled with a blistering rate of fire.
+    	When it first arrived on the battlefield, the MG34 was considered the most advanced machine gun of its time, being man-portable, air-cooled, coupled with a blistering rate of fire.
+    	Maschinengewehr 34
+    	Maschinengewehr 34
+    	Maschinengewehr 34
+    	MG34
+    	MG34
+    	MG34
+    	The MG42's infamous 1200 rounds per minute earned it the nickname "Hitler's Buzzsaw," capable of shredding both infantry and their will to fight in a heartbeat.
+    	The MG42's infamous 1200 rounds per minute earned it the nickname "Hitler's Buzzsaw," capable of shredding both infantry and their will to fight in a heartbeat.
+    	The MG42's infamous 1200 rounds per minute earned it the nickname "Hitler's Buzzsaw," capable of shredding both infantry and their will to fight in a heartbeat.
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	MG42
+    	MG42
+    	MG42
+    	Trained as engineers but often used as assault troops, SS-Sturmpioniere could establish a frontline or obliterate one. Augmented by various close-range weapons and issued heavy explosives, these troops were extremely versatile and lethal.
+    	Scout/Panzergrenadiere infantry, (Traits: + Entrench Tanks, + Camouflage, + Random Veterancy, + Mechanized Assault): Large weapon selection, adaptable to numerous battlefield incursions. Limit of 1.
+    	12th SS-Panzergrenadiere
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing captured tanks, or replacing inexperienced crews.
+    	Support infantry, (Traits: +Repair Tools, + Random Veterancy, + Vehicle Crew): Lightly armed, useful for crewing abandoned vehicles, or repairing structures.
+    	SS-Panzerjäger
+    	German Panzerjägers (Tank Hunters) applied a combination of concealment, heavy firepower, and ambush tactics to surprise Allied tanks, a split second before they go up in flames.
+    	Machine gun, (Traits: + Accurate, + Long Bursts, + Fast Setup, +/- Towed): Capable of unleashing a deadly stream of lead towards incoming enemies.
+    	Pulemyot Maxima Obraztsa 1910 Goda
+    	Pulemyot Maxima Obraztsa 1910 Goda
+    	Duration: 20s. Infantry move at maximum speed.
+    	Charge!
+    	SS-Sturmpioniere
+    	203. Sicherungstruppen
+    	SS-Grenadieres
+    	Combat experience leads to 10% increased ability duration time, 6% reduced suppression, 10% faster ability recharge time.
+    	Combat experience leads to 10% increased ability duration time, 6% reduced suppression, 10% faster ability recharge time.
+    	Combat experience leads to 20% increased ability duration time, 5% reduced hit chance, 12% reduced suppression, 20% faster ability recharge time.
+    	Combat experience leads to 30% increased ability duration time, 10% reduced hit chance, 18% reduced suppression, 30% faster ability recharge time.
+    	78. Sturm-Division Sturmgrenadiere
+    	Rangers Lead The Way!
+    	Rangers Lead The Way!
+    	Infiltrate Commando Team
+    	A squad of Commandos can be deployed to the battlefield. 
+    	New unit - Commandos - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	The Mosin–Nagant M91/30 PU sniper rifle grants the squad a rugged, and dependable marksmanship tool for long range.
+    	Adds a Mosin–Nagant M91/30 PU sniper rifle to the squad. The optics allow for increased range and sight radius.
+    	Type: Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x57mm, Quantity: 2, Effective at long range vs. infantry. 
+    	Type: Rifle, Rate of Fire: Bolt-Action, Cartridge: 7.62x54mm, Capacity: 5 Rounds, Quantity: 2. Effective at long range vs. infantry. 
+    	Mosin–Nagant M91/30 PU (x2)
+    	Mosin–Nagant M91/30 PU
+    	DP LMG
+    	DP LMG
+    	3 Command Point
+    	The soldier takes careful aim, firing a single armor-piercing round to temporarily disable the crew and reducing their sight radius
+    	Partisan Leader
+    	Target empty civilian building. Partisans can be deployed from ambient building or map edge. Partisans come equipped with a sniper rifle.
+    	Can only field 1 Partisan Sniper at a time.
+    	Armaments: Mosin-Nagant M91/30 PU , Training: Regular, Role: Sniper. Effective at long range vs. infantry. 
+    	Armaments: Mosin-Nagant M91/30 PU , Training: Experienced, Role: Sniper. Effective at long range vs. infantry. 
+    	Observation Mode
+    	Platoon Command Post
+    	Tankmen
+    	Rifle Sections receive the No. 2 Flamethrowers (Upgrade).
+    	Additional weapons are now available to burn Jerry out of his hole!
+    	(PASSIVE) Search & Destroy
+    	Rain death from afar through the power of British field guns.
+    	Allows access to mobile howitzers, mortar emplacements, and numerous barrages. Only ONE Regiment can be chosen in a single match.
+    	Scout vehicle, has transportation capability, useful for recon or conducting raids.
+    	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: None, Role: Recon, Speed: 86 km/h. Effective at long range vs. infantry.
+    	The WC51 Military Truck is a light vehicle with a mounted .50 cal and capable of transporting a single squad of troops.
+    	Truck, Cargo, ¾, 4x4 Weapons Carrier, WC51
+    	Dodge’s military contract has its roots in the 1916 'Pancho Villa' Expedition, America’s first motorized campaign. Recognizing the need for mobile attacks, Dodge designed the WC-51 to carry heavy weapon squads in WW2. 
+    	Bring a squad up to full strength by filling their ranks with reinforcements. 
+    	Bring a squad up to full strength by filling their ranks with reinforcements. 
+    	716. Ostruppen
+    	Discipline (Captain)
+    	Infantry receive 10% increased weapon accuracy, 50% faster revert rate, and 10% reduced hit chance within the sector.
+    	Officer, reduces ability cooldown, effectively coordinates with other troops for a more cohesive fighting force.
+    	Officer, (Aura: +Accuracy, +Reload Speeds), improves infantry combat effectiveness, and can call-in artillery fire support. Limit of 1 Squad.
+    	Captain Retinue
+    	Captain
+    	The Captain bears the responsibility of leading his men into battle, improving their performance in battle, and calling fire support. Gains veterancy from nearby allies. 
+    	Wipe the fascist stain off the face of the Earth! All nearby artillery pieces will fire on the position.
+    	Left-click to select, left-click frontline sector. Delay: 10s. Duration: 70s. Effective. vs all targets.
+    	155mm Artillery Cover
+    	3-Inch Mortar 'Light Rain' Barrage
+    	Left-click and left-click target area. Fires 25 Rounds.
+    	Orders a large-scale bombardment of 3-Inch mortar rounds to saturate the area.
+    	Can only field (1) Captain at a time.
+    	Maschinengewehr 42
+    	3. Fallschirmjäger-Division 8.14 cm GrW 34
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Feeding System: 200-Round Belt, Cartridge: 7.92x57mm, Effective at medium range vs. infantry.
+    	Type: Machine Gun Nest, Rate of Fire: 485 rounds per minute, Feeding System: 100-Round Belt, Cartridge: 12.7x99mm. Effective at medium range vs. infantry & light vehicles. 
+    	Type: Machine Gun Nest, Rate of Fire: 600 rounds per minute, Feeding System: 50-Round Belt, Cartridge: 12.7x108mm. Effective at medium range vs. infantry & light vehicles. 
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Vulnerable to the rear. 
+    	Type: Flak Gun, Rate of Fire: 220 rounds per minute, Cartridge: 20x138mm, Effective at medium range vs. infantry, light vehicles, & aircraft. 
+    	Type: Flak Gun, Rate of Fire: 220 rounds per minute, Feeding System: 20-Round Magazine, Cartridge: 20x138mm, Capacity: 20 Rounds, Effective at long range vs. infantry, light vehicles, & aircraft. 
+    	Type: Flak Gun, Rate of Fire: 220 rounds per minute, Cartridge: 20x138mm, Effective at medium range vs. infantry, light vehicles, & aircraft. 
+    	Flak 38 AA Gun
+    	2 cm Flugzeugabwehrkanone 38
+    	Flak 38 2cm Anti-Aircraft Gun
+    	Flak 38 AA Gun
+    	Flak 38 AA Gun
+    	Type: Flak Gun, Rate of Fire: 450 rounds per minute, Cartridge: 20mm, Effective at medium range vs. infantry, light vehicles, & aircraft. 
+    	Type: Flak Gun, Rate of Fire: 330 rounds per minute, Cartridge: 40mm, Effective at medium range vs. vehicles, armor, & aircraft. 
