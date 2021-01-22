@@ -1,0 +1,500 @@
+    	DshK 38 12.7mm Machine Gun Nest
+    	M2HB .50 Cal Machine Gun Nest
+    	Vickers K Machine Gun Nest
+    	M2HB .50 Cal MG Nest
+    	Vickers K MG Nest
+    	Maschinengewehr 42 Machine Gun Nest
+    	MG42 GPMG Nest
+    	DshK 12.7mm HMG Nest
+    	Bofors QF 40mm Anti-Aircraft Gun
+    	Bofors 40mm AA Gun
+    	Bofors AA Gun
+    	Abandoned Bofors AA Gun. Re-crew with infantry.
+    	Abandoned Bofors AA Gun. Re-crew with infantry.
+    	Abandoned Flak 38 AA Gun. Re-crew with infantry.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Abandoned Flak 38 AA Gun. Re-crew with infantry.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Throw No. 82 Heavy "Gammon" Bomb
+    	Throw No. 82 "Gammon" Bomb
+    	30-Assault Unit Commando Recon Team
+    	30-Assault Unit Commandos
+    	6 Command Points
+    	Order a quick reconnaissance pass on the targeted location, revealing enemy forces.
+    	1 Command Point
+    	Abandoned 3-Inch Mortar. Re-crew with infantry.
+    	Ordnance ML 3-inch Mortar
+    	3-Inch Mortar
+    	Ordnance ML 3-inch Mortar
+    	This veteran crew can fire a single 3-inch mortar round with extreme accuracy.
+    	The 3-Inch Mortar Squad will fire a small barrage of mortar rounds into the targeted area.
+    	Can only field 2 Snipers at a time.
+    	Grants 150 munitions instantly.
+    	Divert manpower away to secure additional fuel supplies.
+    	Divert fuel away to secure additional munitions.
+    	3 Command Points
+    	Can only field 2 25-Pounder Howitzers at a time.
+    	8.7cm Howitzer Half Barrage
+    	The Ordnance QF 25-pounder field gun fires a half barrage of 8.7cm rounds into the targeted area.
+    	Left-click ability, left-click target area. Fires 12 Rounds.
+    	Left-click ability, left-click target area. Fires 8 Rounds.
+    	Armaments: (Lee-Enfields), PIAT, Training: Regular, Role: Anti-Armor. Effective at medium range vs. armor & emplacements.
+    	Anti-tank infantry, can engage tanks directly, over cover, and infantry with blast radius. Limit of 1 Squad.
+    	Commando infantry, heals passively, can engage tanks directly, over cover, and infantry with blast radius. Limit of 1 Squad.
+    	1st Commando Brigade Infantry Section
+    	Anti-Tank Commandos
+    	Can only field 1 1st Commando Anti-Tank Team at a time.
+    	Type: Anti-Personnel Mine, Filling: 154g TNT, Penetration: Low, Effective vs. infantry. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 1.62kg Tetryl, Penetration: Medium, Pressure Plate: Vehicles, Effective vs. light vehicles. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 4.45kg TNT, Penetration: High, Pressure Plate: Vehicles, Effective vs. light vehicles & armor. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 4.45kg TNT, Penetration: High, Pressure Plate: Vehicles, Effective vs. light vehicles & armor. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 1.62kg Tetryl, Penetration: Medium, Pressure Plate: Vehicles, Effective vs. light vehicles. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 4.45kg TNT, Penetration: High, Pressure Plate: Infantry, Effective vs. light vehicles & armor.
+    	Type: Anti-Tank Mine, Filling: 4.45kg TNT, Penetration: High, Pressure Plate: Vehicles, Effective vs. light vehicles & armor. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 5.5kg TNT, Penetration: High, Pressure Plate: Vehicles, Effective vs. light vehicles & armor. 
+    	Type: Anti-Tank Mine, Filling: 5.5kg TNT, Penetration: High, Pressure Plate: Vehicles, Effective vs. light vehicles & armor. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 4kg TNT, Penetration: High, Pressure Plate: Infantry, Effective vs. light vehicles & armor. 
+    	Type: Anti-Tank Mine, Filling: 4kg TNT, Penetration: High, Pressure Plate: Vehicles, Effective vs. light vehicles & armor. Can be dragged to form a perimeter.
+    	Type: Anti-Personnel Mine, Filling: 185g Tetryl, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry & light vehicles.
+    	Type: Anti-Personnel Mine, Filling: 185g Tetryl, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry & light vehicles.
+    	Type: Anti-Personnel Mine, Filling: 182g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry & light vehicles.
+    	Type: Anti-Personnel Mine, Filling: 182g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry & light vehicles.
+    	Type: Anti-Personnel Mine, Filling: 200g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry & light vehicles. Can be dragged to form a perimeter.
+    	Type: Anti-Personnel Mine, Filling: 200g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry & light vehicles.
+    	Type: Anti-Personnel Mine, Filling: 200g TNT, Penetration: Low, Pressure Plate: Vehicles, Effective vs. infantry & light vehicles. Can be dragged to form a perimeter.
+    	Type: Anti-Personnel Mine, Filling: 200g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry & light vehicles.
+    	Type: Anti-Tank Mine, Filling: 2.8kg TNT, Penetration: High, Pressure Plate: Infantry, Effective vs. infantry, light vehicles & armor. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 4kg TNT, Penetration: High, Pressure Plate: Vehicles, Effective vs. light vehicles & armor. Can be dragged to form a perimeter.
+    	Type: Anti-Tank Mine, Filling: 4kg TNT, Penetration: High, Pressure Plate: Vehicles, Effective vs. light vehicles & armor. Can be dragged to form a perimeter.
+    	Type: Anti-Personnel Mine, Filling: 200g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry & light vehicles. Can be dragged to form a perimeter.
+    	Glider
+    	Commando WC51 Truck w/ .50 cal HMG
+    	Commando WC51 
+    	American scout vehicle, (Traits: + Versatile Gun, + Highly Mobile, - Easily Decrewed): Has transportation capability, useful for recon or conducting raids.
+    	Anti-Tank Gun Camouflage
+    	Vehicle Ambush Camouflage
+    	Vehicle Ambush Camouflage
+    	Toggle ability. Vehicle is immobile when toggled on.
+    	The vehicle resumes moving at normal speed.
+    	Click and target position. 
+    	Model 24 Grenade Assault
+    	No. 36M 'Mills' Bomb Assault
+    	Mills Bomb Assault
+    	Fire 30mm Gewehrsprenggate Rifle Grenade
+    	Fire No. 36M 'Mills Bomb' 
+    	Soldier launches a full-sized hand grenade via the rifle, exploding after a short delay.
+    	Soldier launches a full-sized hand grenade via the rifle, exploding after a short delay.
+    	Left-click to target. Moderate damage with significantly improved range.
+    	No. 36M 'Mills Bomb' Rifle Grenade
+    	Adapters allow for Mills Bombs to be fired over longer ranges. 
+    	The soldiers plant a small timed demo charge at the target location, which can destroy cover, fences and other weak objects.
+    	Veterancy 2
+    	Increases the squad size of most infantry sections by 1.
+    	Logistics Phase 1
+    	Logistics Phase 2
+    	Deploy a Forward Glider Headquarters with an Airlanding Officer to the targeted sector. The headquarters provides additional Commandos units, support troops, and a retreat point.
+    	Maintenance Team
+    	Unlocks Specialist Repairs.
+    	M2 Carbines
+    	Type: Carbine, Rate of Fire: 900 rounds per minute, Cartridge: 7.62×33mm, Quantity: 2, Effective at close range vs. infantry.
+    	A modification of the M1 Carbine, with a 30 round magazine and fully automatic capability.
+    	A modification of the M1 Carbine, with a 30 round magazine and fully automatic capability.
+    	Simonov AVS-36 (x2)
+    	Type: Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.62x54mm, Quantity: 2, Effective at medium range vs. infantry.
+    	A discontinued automatic rifle, the AVS-36 suffered from severe recoil, and reliability issues, forcing troops to fire it in semi-auto.
+    	The AVS-36 is one of the few Soviet's few ventures into automatic rifles. 
+    	Squads on field must be reinforced to maximum squad size. Includes Rifle Sections, Sappers, Anti-Tank Sections, Royal Engineers, and Guard Troops. Does not include Officers.
+    	Allows access to elite troops, airstrikes, and glider support. Only ONE Regiment can be chosen in a single match.
+    	Allows access to elite engineers, heavy tanks, and additional anti-tank weapons. Only ONE Regiment can be chosen in a single match.
+    	Smoke Bomb Strafe
+    	76mm Light Artillery Barrage
+    	A light artillery barrage from nearby 76mm guns can scatter enemy forces.
+    	A light artillery barrage from nearby 76mm guns can scatter enemy forces.
+    	(PASSIVE) Tank Commanders
+    	(PASSIVE) Heavy Weapons
+    	Rifle Sections recieve the No. 2 Flamethrowers, and Rifle Flare Grenades.
+    	Rifle Sections recieve the M9 Bazooka Rocket Launcher (Upgrade).
+    	Bring the fight to the enemy armor with new anti-tank weapons!
+    	Additional officers have arrived to better guide our armoured fighting force!
+    	Tanks can now be assigned Commanders without veterancy.
+    	1st Assault Brigade Royal Engineers Section
+    	1st Assault Brigade Engineers
+    	Armaments: (Lee-Enfields, STEN Mk. II), *M1928A1 Thompsons (50rd.) x2, *PIAT, *M9 Bazooka, *No. 2 Flamethrower, Skill: Experienced, Role: Engineer. 
+    	Anti-tank/Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times): Able to punch through enemy lines, while providing support for mechanized forces.
+    	Royal Engineers are the best combat engineers Britain has to offer, excelling in their field craft as well as combat.
+    	No. 82 "Gammon" Bomb
+    	Improves anti-everything capability at close ranges. Replaces the current grenade ability.
+    	Gammon Bombs provide a much larger, more powerful blast over frag grenades.
+    	Can only field 2 Royal Engineer Sections at a time.
+    	3 Command Points
+    	Can only field 2 Comet Tanks at a time.
+    	Can only field (1) 'Churchill AVRE' at a time.
+    	Can only field 2 Churchill Crocodile Tanks at a time.
+    	Orders nearby 25 Pounders to fire airburst shells into the target area, which are effective against infantry.
+    	8.7cm Airburst Artillery
+    	Left-click and left-click target area. Fires 8 Rounds. Delay 10s.
+    	90. Grenadier-Division MG42
+    	90. Grenadier-Division 8.14 cm GrW 34
+    	3. Fallschirmjäger-Division 3.7 cm Pak 36
+    	3. Fallschirmjäger-Division 7.5 cm Pak 40
+    	90. Grenadier-Division 3.7 cm Pak 36
+    	90. Grenadier-Division 7.5 cm Pak 40
+    	3rd Fallschirmjäger MG42 GPMG
+    	90. Gren. MG42
+    	90. Gren. 8.14 cm GrW 34
+    	8.14 cm GrW 34
+    	90. Gren. 3.7 cm Pak 36
+    	90. PzGren. 7.5 cm Pak 40
+    	3. FJD 7.5 cm Pak 40
+    	3. FJD 3.7 cm Pak 36
+    	Bewährungsbataillon 500 MG42
+    	Bewährungsbataillon 500 MG42
+    	Bewährungsbataillon 500 8.14 cm GrW 34
+    	Bewährungsbataillon 500 8.14 cm GrW 34
+    	Bewährungsbataillon 500 3.7 cm Pak 36
+    	Bewährungsbataillon 500 3.7 cm Pak 36
+    	Bewährungsbataillon 500 7.5 cm Pak 40
+    	Bewährungsbataillon 500 7.5 cm Pak 40
+    	500th Bewährungsbataillon GrW 34 Team
+    	500th Bewährungsbataillon GrW 34 Team
+    	500th Bewährungsbataillon GrW 34 Team
+    	Bewährungsbataillon 500 GrW 378(r)
+    	7.5cm le.IG 18 Infantry Support Gun
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm le.IG 18
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm le.IG 18
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm le.IG 18
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm le.IG 18
+    	Frontoviki are the trained, volunteer fighting force of the Red Army, serving alongside the numerous conscripted forces. The mass-produced Mosin-Nagant is a slower-firing bolt action rifle suitable for long range.
+    	Panzer Crew
+    	The 12.7mm DShK 38 is often nicknamed 'Dushka' or 'Sweetie' but don't mistake this heavy weapon's capabilities to engage soft and lightly armored targets. 
+    	Low Silhouette
+    	The weapon's low silhouette presents a smaller target when setup, reducing received accuracy by 5%.
+    	The vehicle can be issued smoke dischargers to block the enemy's line of sight.
+    	Veterancy 1
+    	Uniting the 5 cm L/60 and a coaxial MG34 with an innovative eight-wheeled chassis, the Sdkfz. 234/2 augmented the Wehrmacht’s mobile recon units. Despite its max speed of ninety km/hr, the Puma suffered on cross-country terrain.
+    	Accelerate
+    	The driver pushes the vehicle’s capabilities to its limits, increasing maneuverability and decreasing the chance to be hit by incoming fire.
+    	No Inventory Space
+    	No Inventory Space
+    	No Inventory Space
+    	2 Command Points
+    	The Panzer crew puts camouflage techniques to use, ambushing enemy units with increased accuracy.
+    	Camouflage
+    	Cease Action
+    	Toggle ability. Detection Range: 25m. Delay: 5s. Attacking from camouflage grants increased damage & accuracy for 5s.
+    	Crew breaks out of concealment. 
+    	Medium tank, (Traits: + Accurate, +/- Turretless, + Cheaper): Can be used as a regular tank or a tank destroyer.
+    	Hunter-Killer Loadout
+    	(PASSIVE) StuG III F8 Battlegroup
+    	Additional StuG III F8s are sent to the battlefield to serve as tank destroyers.
+    	Reduces dispatch cost for StuG III Ausf. G, to 340 Manpower, and 60 Fuel.
+    	The crew will steal all resources earned from an enemy resource point. The point must be owned and connected to enemy supply.
+    	The fortified machine nest for the Vickers K Light Machine Gun protects the base from enemy infantry and light vehicles. 
+    	Type: Machine Gun, Rate of Fire: 485 rounds per minute, Cartridge: 12.7x99mm, Effective at medium range vs. infantry & light vehicles. Vulnerable to the rear. 
+    	Throw Model 24 Incendiary Grenade
+    	Incendiary Grenade, scorches the area with a torrent of lethal flames, ideal for burning out garrisoned infantry or denying them movement through an area.
+    	Incendiary grenades provide are significantly more lethal than Molotovs, and can be thrown at farther ranges.
+    	Model 24 Incendiary Grenade
+    	These former criminals from the 500th have reaffirmed their dedication to the Fatherland, regaining their rights as full-fledged soldiers. Tempered with nearly suicidal combat missions, these new Veterans are extremely aggressive soldiers.
+    	500th Infanterie-Ersatz-Bataillon Veteran Squad
+    	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times. The squad redeems themselves as true soldiers.
+    	Requires Squad to 'redeem' themselves. (Veterancy 2).
+    	Toggled ability. Weapons disabled briefly when returning to normal operations.
+    	Any enemy units entering a targeted sector are barraged with 10.5cm artillery.
+    	Apply to friendly territory. Will barrage enemies in territory. Delay 5s. Duration: 45s
+    	10.5cm Sector Artillery
+    	Armaments: 90mm M3, Armor: 60mm, Role: Tank Destroyer, Speed: 48 km/h. Effective at long range vs. armor. 
+    	Armaments: 90mm M3, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 135mm, Role: General Purpose, Speed: 40 km/h.
+    	Armaments: 90mm M3, Armor: 102mm, Role: General Purpose, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Armaments: 90mm M3, Armor: 102mm, Role: General Purpose, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Armaments: 90mm M3, Armor: 102mm, Role: General Purpose, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Armaments: 90mm M3, Armor: 102mm, Role: General Purpose, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Heavy tank, (Traits: + High Damage, + Thick Armor): Able to take on heavy tanks toe-to-toe, while annihilating everything else. Limit of 2.
+    	Heavy tank, able to take on and annihilate enemy armor. Limit of 2 Vehicles.
+    	Heavy tank, able to take on and annihilate enemy armor. Limit of 2 Vehicles.
+    	Heavy tank, able to take on and annihilate enemy armor. Limit of 2 Vehicles.
+    	Heavy tank, able to take on and annihilate enemy armor. Limit of 2 Vehicles.
+    	Can only field (2) 'M26 Pershings' at a time.
+    	Left-click ability, left-click target enemy. Effective against infantry & emplacements.
+    	Fires a high-explosive round with reduced penetration, and damage, but significantly larger blast radius.
+    	Load F-534 High-Explosive Round
+    	Load M46 High-Explosive Round
+    	Load M46 High-Explosive Round
+    	Load High-Explosive Round
+    	Load OF-350 High-Explosive Round
+    	Load D-350 Smoke Round
+    	Fires a special round that explodes with an obscuring smoke screen. A low cool down allows it to be fired frequently.
+    	Left-click ability, left-click target enemy. Effective against infantry & emplacements.
+    	Left-click ability, left-click target infantry. Effective against infantry outside of cover.
+    	Load M305 Canister Shot
+    	Fires a shell filled with metal balls, shredding infantry on contact, and suppressing nearby troops.
+    	Load Stielgranate 41 Round
+    	Fires a shaped charge round with significantly increased penetration capability.
+    	Load Pzgr. 39/43 APCBC-HE Round
+    	Without Number!
+    	Swarm the enemy with wave upon wave of your own troops!
+    	3 Command Points
+    	152mm Smoke Barrage
+    	Anti-aircraft vehicle, fires from the rear, use to defend against air strikes, or against infantry.
+    	3 Command Points
+    	3 Command Points
+    	3 Command Points
+    	New unit - Pathfinders - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+    	Infiltrate Partisan Tank Hunters
+    	A squad of Anti-Vehicle Partisans can be deployed to the battlefield. Anti-Vehicle Partisans are irregular military units who excel at destroying vehicles behind the lines.
+    	166-ya 'Sibir' Strelkovaya Diviziya Frontoviki
+    	Armageddon
+    	122mm High-Explosive Barrage
+    	Orders 122mm artillery batteries to fire on a location, saturating the area with high explosive shells.
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm le.IG 18
+    	15. Panzergrenadier-Division 3.7 cm Pak 36
+    	15. PzGren. 3.7 cm Pak 36
+    	15. Panzergrenadier-Division 7.5 cm Pak 40
+    	15. PzGren. 7.5 cm Pak 40
+    	15. Panzergrenadier-Division 8.14 cm GrW 34
+    	15. PzGren. 8.14 cm GrW 34
+    	15. Panzergrenadier-Division MG42
+    	15. PzGren. MG42
+    	Assault Tactics
+    	Encirclement
+    	Veterancy 2
+    	Artillery will automatically attack units in the area. Vehicles will be hit with disabling 105mm howitzer fire, while infantry will be suppressed with airburst shells. Damaged vehicles will be covered by a volley of smoke shells.
+    	7 Command Points
+    	5 Command Points
+    	2 Command Points
+    	10.5cm Rapid Response Barrage
+    	Zeroing 105mm Artillery
+    	Armor Suppression Operation
+    	4 Command Points
+    	4 Command Points
+    	Allows access to elite infantry, heavy support tanks, and field guns. Only ONE Regiment can be chosen in a single match.
+    	Bring the enemy advance to a halt through proper support, and the tenacity of your fighting men.
+    	Form an armored wedge to smash through German lines!
+    	Pulverize enemy resistance through a show of superior firepower. 
+    	Drive the enemy back from the Homefront by all means necessary!
+    	Welsh Guard
+    	Welsh Guard Division Rifle Section
+    	Irish Guard Division Rifle Section
+    	Irish Guard
+    	Coldstream Guard Division Rifle Section
+    	Coldstream Guard
+    	Armaments: Lee-Enfield, *Bren, *Sten, *M9 Bazooka, Training: Elite, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Lee-Enfields, L1A1-No. 32), *M1 Garands x2, *Bren, *Lewis Gun, *Boys AT, Skill: Elite, Role: Recon.
+    	Armaments: (Lee-Enfields, M1928A1 Thompson), *M1928A1 Thompsons x2, *STEN Mk. Vs x2, *Bren Mk. 2, *No. 2 Flamethrower, *PIAT, Skill: Experienced, Role: Assault.
+    	The Coldstream Guard 
+    	11 Command Points
+    	M2HB HMG Shipment
+    	3 Command Points
+    	6 Command Points
+    	3 Command Points
+    	7 Command Points
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Capacity: 10 Rounds, Quantity: 2. Effective at long range vs. vehicles. 
+    	M2 Flamethrower Shipment
+    	M2 Flamethrower Shipment
+    	Airdropped Bazooka
+    	Airdropped M1919A6 
+    	Machine Gun, Cal .30 M1919A6 (x2)
+    	Airdropped M1 Garand Rifles 
+    	Airdropped M1 Garands
+    	Thompson SMG Shipment (x2)
+    	Submachine Gun, Cal .45, M1A1 (20rd.) (x2)
+    	Airdropped M1A1 Thompsons (30rd.)
+    	Load .30 Cal Armor-Piercing Rounds
+    	RPzB 54 "Panzerschreck" Replacement
+    	PTRS 41 Shipment
+    	ROKS-3 Shipment
+    	ROKS-3
+    	DP Shipment (x2)
+    	Shpagin (PPSh-41) (71rd.) (x2)
+    	Bearing the title of 'Wunderwaffe,' the StG 44 is the world's first assault rifle, firing hard-hitting rifle rounds accurately across all ranges.
+    	DShK 38 Shipment
+    	DShK 38 Shipment
+    	M2HB HMG Shipment
+    	Deploy Medium Tanks, Heavy Tanks, and Anti-Aircraft Vehicles.
+    	Deploy Engineers, Medics, Anti-Tank Teams, Scouts, Anti-Tank Guns, Halftracks, and Light Tanks.
+    	Deploy Infantry, Heavy Machine Guns, Mortars, Anti-Tank Teams, Officers, and Light Vehicles.
+    	Deploy Engineers, Infantry Squads, Medics, Anti-Tank Guns, Officers, and Light Vehicles.
+    	Deploy Medium Tanks, Self-Propelled Guns, Tank Destroyers, and Heavy Tanks.
+    	Deploy Heavy Tanks, and Self-Propelled Guns.
+    	Deploy Halftracks, Anti-Tank Guns, Light Tanks, and Rocket Artillery.
+    	The Schwerer Panzer Headquarters orders in the most powerful infantry and armored units.
+    	The Battlegroup Headquarters offers a versatile mix of support and strike units needed by the combat forces.
+    	The Mechanized Regiment HQ provides a variety of versatile, but lightly armored units and a medium tank destroyer.
+    	M16 Anti-Aircraft Half-Track
+    	Grenadiere
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Improves detection & sight radius.
+    	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Improves detection & sight radius.
+    	Tank crew uses the pintle-mounted MG34 for additional defense against infantry and aircraft.
+    	Pintle-mounted MG34 machine gun
+    	Vehicle MG34 HMG
+    	Armaments:  ATO-41, 45 mm M1932, Hull DT, Rear DT, Armor: 90mm, Role: Infantry Support, Speed: 35 km/h.  Effective at short range vs. static infantry and structures.
+    	Armaments: Keobe, *Periscope MG34 (Pintle), Armor: 95mm, Role: Infantry Support, Speed: 42 km/h.
+    	Flamethrower tank, (Traits: + Cheap, + High Damage, +/- Turretless): Low profile allows it to be easily concealed, and difficult to hit.
+    	Can only field (2) 'Sherman Calliopes' at a time.
+    	7 Command Points
+    	Armaments: 75 mm M3 L/40, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: T-34 Rocket Launcher, Hull M1919 .30 Cal, Armor: 51mm, Role: Artillery, Speed: 48 km/h.  Effective at long range vs. infantry & structures.
+    	Armaments: T-34 Rocket Launcher, 75 mm M3 L/40, Hull M1919 .30 Cal, Armor: 51mm, Role: Artillery, Speed: 48 km/h.  Effective at long range vs. infantry & structures.
+    	Armaments: T-34 Rocket Launcher, 75 mm M3 L/40, Hull M1919 .30 Cal, Armor: 51mm, Role: Artillery, Speed: 48 km/h.  Effective at long range vs. infantry & structures.
+    	Armaments: T-34 Rocket Launcher, M1919 .30 Cal (Hull), Armor: 51mm, Role: Artillery, Speed: 48 km/h. 
+    	Armaments: T-34 Rocket Launcher, 75 mm M3 L/40, Hull M1919 .30 Cal, Armor: 51mm, Role: Artillery, Speed: 48 km/h.  Effective at long range vs. infantry & structures.
+    	114mm Rocket Barrage
+    	The M4 Sherman Calliope fires all of its 114mm rockets, filling the target area with lethal explosions.
+    	114mm Rocket Half Barrage
+    	The M4 Sherman Calliope half of its 114mm rockets, filling the target area with lethal explosions.
+    	Double Time!
+    	3 Command Points
+    	Fire 22mm High-Explosive Rifle Grenade
+    	4 Command Points
+    	(PASSIVE) Conscript Assault Package
+    	(PASSIVE) Mechanized Warfare
+    	Riflemen are able to requisition M1928A1 Thompsons for increased close quarter effectiveness.
+    	Unlocks the M2 Flamethrower for use by Riflemen.
+    	Can only field 2 M1 Howitzers at a time.
+    	Can only field 2 IG 18s at a time.
+    	Panzerbüchse 39 Anti-Tank Rifle
+    	Abandoned, Right-click to pick up.
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	Abandoned, Right-click to pick up with infantry. 
+    	Abandoned, Right-click to pick up.
+    	Abandoned, Right-click to pick up.
+    	Advanced First Aid
+    	German Medics can treat injured soldiers at significantly faster speeds. Able to be used during combat.
+    	Allied supply of antibiotics and penicillin allow for treatment of more types of battlefield injuries. 
+    	Aid Station
+    	Distribute First Aid
+    	Cease Action
+    	Teardown the Aid Station, Medics become mobile.
+    	The Medics distribute first aid to nearby infantry, allowing them to treat their own wounds.
+    	The Medics are unable to move while the ability is active. Troops receive 33% increased hit chance, and -20 reduced sight radius while healing.
+    	Established Aid Station
+    	The Medics are unable to move while the ability is active.
+    	Three boxes of Medical Supplies are dropped off for infantry usage. Allows infantry to slowly heal themselves for a limited time.
+    	Left-click ability, left-click target position. Duration: 30s. Troops receive 25% increased hit chance, and -20 reduced sight radius while healing.
+    	Vengeance!
+    	Seeing an unarmed Medic die by enemy fire causes troops to fight even harder! Duration: 10s.
+    	Medical personnel, (Traits: + Passive Healing, + Shared Veterancy): Can provide first aid and build aid stations.
+    	On the battlefield, Mediks can quickly become the difference between life and excruciating death. Red Army Mediks frequently armed themselves to defend both their lives and their comrades.'
+    	Armaments: Mosin-Nagant, *DP-28, *SVT-40, Training: Poor, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Mosin-Nagant, M1895), Training: Regular, Role: Medic. Effective at medium range vs. infantry.
+    	Avoid combat. Killing Medics will cause enemy forces to fight harder.
+    	Avoid combat. Killing enemy Medics will cause hostile forces to fight harder.
+    	Germany's Field Medics are expert care providers, able to provide unparalleled medical support.
+    	Allied Medics have access to innovative medicine such as antibiotics and penicillin, granting them the ability to treat previously fatal injuries.
+    	Allied Medics have access to innovative medicine such as antibiotics and penicillin, granting them the ability to treat previously mortal wounds
+    	Royal Army Medical Corps Combat Medics
+    	Combat Medic Squad
+    	Combat Medics
+    	Combat Medics
+    	Distributes supplies to damaged vehicles and crewed weapons in the surrounding area, allowing them to repair themselves. The vehicle will also repair itself.
+    	Distributes supplies to damaged vehicles in the surrounding area, allowing them to repair themselves. The vehicle can't be moved and can't fire while the ability is active.
+    	Armaments: 57 mm M1, M1 Garand, Crew: 4, Training: Regular, Role: Anti-Tank. Effective at long range vs. armor & emplacements. 
+    	Armaments: (QF 6-Pounder, Lee-Enfields, STEN Mk. II), Crew: 5, Skill: Regular, Role: Anti-Tank.
+    	Armaments: (57 mm M1, M1 Garands, M3A1 Grease Guns) Crew: 4, Training: Regular, Role: Anti-Tank. Effective at long range vs. armor & emplacements. 
+    	Armaments: (75 mm M1 Pack, M1 Garands, M3A1 Grease Gun) Crew: 5, Skill: Regular, Role: Artillery.
+    	Armaments: (81 mm M1, M1 Garands, M3A1 Grease Gun), Crew: 4, Skill: Regular, Role: Indirect Fire. 
+    	Armaments: (60 mm M2, M1 Garands, M3A1 Grease Gun), Crew: 4, Training: Regular, Role: Indirect Fire. Effective at medium range vs. static infantry and structures.
+    	Armaments: (3-Inch, Lee-Enfields, STEN Mk. II), Crew: 4, Skill: Regular, Role: Indirect Fire.
+    	3rd Luftwaffe-Feld Division Pionere Squad
+    	Armaments: (K98s, StG44), *MG15, *G43-Zf4, Skill: Poor, Role: Engineer.
+    	Engineer infantry, (Traits: + Repair Tools, + Wire Cutters): Versatile combatants that can deploy reinforce beacons for Fallschirmjägers, conduct repairs, and can upgrade outside of friendly territory.
+    	The Luftwaffe (Air Force) composed of an army in itself, with a vast array of aircraft, field guns, and infantry small arms. Ground forces earned their reputation fighting Allied soldiers head-on.
+    	Eight 132mm rockets fill the target area with lethal explosions and shrapnel.
+    	The BM-13 fires half of its 132mm rockets, filling the target area with lethal explosions and shrapnel.
+    	132mm Rocket Barrage
+    	132mm Half Rocket Barrage
+      The Panzerwerfer fires five high-explosive 15cm rockets in a rapid high-angle barrage.
+    	15cm Rocket Half Barrage
+    	Can only field (2) Combat Medics at a time.
+    	Load High-Explosive Round
+    	Load HEAT Round
+    	Loads and fires a high-explosive anti-tank round that deals heavy damage and a chance of stunning the enemy vehicle crew.
+    	HEAT round stuns the enemy vehicle crew.
+    	Abandoned STZ T-34/76; re-crew with infantry
+    	STZ T-34/76 Tank
+    	STZ T-34/76 Tank
+    	STZ T-34/76 Medium Tank
+    	STZ T-34/76
+    	Armaments: 76.2 mm M1940 F-34, DT (Coaxial/Hull), Armor: 73mm (Sloped), Role: Infantry Support, Speed: 53 km/h.
+    	Medium tank, up-armored version the T-34, able to hold its own better against more powerful guns.
+    	The T-34 tanks manufactured in the STZ factory boasted superior protection for the crew, due to welding extra sheets of metal to the front chassis.
+    	Can only field 2 Commando Squads at a time.
+    	Can only field 2 600th Fallschirmjäger Squads at a time.
+    	Infiltrate 600th SS-Fallschirmjägers Squad
+    	4 Command Points
+    	Unleash Germany's heavy tanks!
+    	Allows access to heavy tanks, tank destroyers, and self-propelled guns.
+    	Heavy Armor Support
+    	PTRS-41 Anti-Tank Rifle
+    	Abandoned Scoped PTRS-41 Anti-Tank Rifle; pick up with infantry.
+    	PTRS-41 Anti-Tank Rifle
+    	Abandoned PTRS-41 Anti-Tank Rifle; pick up with infantry.
+    	Abandoned ROKS-3 Flamethrower; pick up with infantry.
+    	Right-click to pick up.
+    	DP-28 Light Machine Gun
+    	Right-click to pick up.
+    	Right-click to pick up.
+    	Right-click to pick up.
+    	Right-click to pick up.
+    	Right-click to pick up.
+    	Right-click to pick up.
+    	Right-click to pick up.
+    	Vickers K Light Machine Gun
+    	Abandoned MG42 Light Machine Gun; pick up with infantry.
+    	Abandoned Vickers K Light Machine Gun; pick up with infantry.
+    	Bren Light Machine Gun
+    	Abandoned MG42 Light Machine Gun; pick up with infantry.
+    	Abandoned Bren Light Machine Gun; pick up with infantry.
+    	Abandoned Bren Light Machine Gun; pick up with infantry.
+    	Abandoned Bren Light Machine Gun; pick up with infantry.
+    	Abandoned PIAT Spigot Mortar; pick up with infantry.
+    	PIAT Spigot Mortar
+    	Abandoned PIAT Spigot Mortar; pick up with infantry.
+    	Abandoned Boys Anti-Tank Rifle; pick up with infantry.
+    	Boys Anti-Tank Rifle
+    	American medium tank, (Traits: + Highly Mobile, + Cheaper, - Poor Penetration): Cheap, equipped with HVAP rounds, while superior to few other medium tanks, can be used to easily outnumber opponents.
+    	Transport vehicle, use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	American transport vehicle, (Traits: + Versatile Gun, Highly Mobile, - Low Durability): Use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	American scout vehicle, (Traits: + Versatile Gun, + Highly Mobile, + High Detection Range, - Easily Decrewed): Has transportation capability, useful for recon or conducting raids.
+    	Light tank, (Traits: +Versatile Gun, + Highly Mobile, - Low Durability): Light tank that can toggle between regular armor-piercing, and deadly canister rounds.
+    	Soviet medium tank, (Traits: + Cheaper, - Poor Penetration): Provides an inexpensive, reliable infantry support tank over other German armor.
+    	American transport vehicle, (Traits: + Versatile Gun, + High Mobility, - Low Durability): Use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	American anti-aircraft vehicle, (Traits: + Versatile Gun, + Highly Mobile, - Narrow Firing Angle, - Low Durability): Fires from the rear, use to defend against air strikes, or against infantry.
+    	American medium tank, (Traits: + Versatile Gun, + Pintle Gun, + Accurate, - Low Durability): Alternative to the T34/76, boasting superior firepower & smoke at the cost of thinner armor.
+    	Utility vehicle, (Traits: +Multiple MGs, + Thick Armor, + High Detection Range, - Slow): Able to provide suppressive fire and armored protection for advancing infantry.
+    	Light tank, (Traits: + Versatile Gun, + Thick Armor): A combination of good armor and firepower allows it to outmaneuver and destroy targets out of its weight class.
+    	Medium tank, (Traits: + High Damage, - Slow, - Low Durability): An extremely powerful gun fitted on a mobile chassis makes for an excellent tank destroyer.
+    	Self-propelled howitzer, (Traits: + Cheaper, + Highly Mobile, - Low Durability): Capable of providing quick, long range fire support. Limit of 2.
+    	Medium tank, (Traits: + Fast Reload, + Highly Mobile, + Fast Camouflage, + Lower Hit Chance): A low silhouette with adequate firepower makes it a solid choice versus enemy armor.
+    	Medium tank, (Traits: + Highly Mobile, + High Damage): An excellent mix of speed, firepower, and armor makes for a lethal tank on the battlefield. Limit of 2.
+    	Heavy tank, (Traits: + Fast Reload, + Thick Armor, - Slow): Dense armor plating allows it to shrug off most enemy rounds while providing infantry support
+    	Heavy tank, (Traits: + Multiple Main Weapons, + Thick Armor, - Slow): An extremely durable tank coupled with both a main gun and flamethrower to flush out enemy forces. Limit of 1.
+    	Medium Tank, M4A4 Sherman VC Firefly
+    	Medium Tank, M4A4 Sherman VC Firefly
+    	Self-propelled howitzer, (Traits: + Large Blast, + Thick Armor, - Slow, - Slow Reload): Massive mortar mounted on a durable chassis allows it to flatten unarmored targets with a single shot. Limit of 1.
+    	Heavy opposition to using the M26 waned after the 'Battle of the Bulge,' with 20 units shipped to Antwerp by 1945. With its 90mm gun now capable of piercing Tigers and Panthers, Allied plans to cross the Rhine were met with relative ease.
+    	M4C Sherman
+    	M4C Sherman Medium Tank
+    	Bring our heavy tanks to bear!
+    	Vanguard Operations
+    	Bring in the heavy hitters to the frontline! 
+    	Click to activate. Duration 120s. 
+    	Royal Engineer Recovery Section
+    	Engineer infantry, can repair, salvage wrecked vehicles, improve vehicle performance, and fight alongside other infantry.
+    	Armaments: (Lee-Enfields, Sten), Training: Regular, Role: Engineer. Effective at medium range vs. infantry.
+    	10 Command Points
+    	4 Command Points
+    	Allows access to commando troops, scout vehicles, and gliders. Only ONE Regiment can be chosen in a single match.
+    	Armaments: (Lee-Enfields, Sten), *Sten x2, *Bren, *Boys AT, *No. 2 Flamethrower, *M9 Bazooka, *Lee-Enfield, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (M1 Garands, M1A1 Thompson), *M1A1 Thompsons x2, *Bren, *M9 Bazooka, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+    	The Coldstream Guard hold the honor of being the oldest serving regiment within the British Army, from the American Revolution, to the Napoleonic Wars. They are well-trained and equipped with rapid-fire American firearms.
+    	General purpose infantry, armed with semi-automatic rifles, and US weaponry.
+    	Throw Panzerwurfmine Anti-Tank Grenade
+    	Anti-Tank/Impact Grenade, the Panzerwurfmine is a short ranged, devastating anti-tank grenade, that can outright destroy light vehicles and severely damage medium tanks.
+    	Abandoned M18 Recoilless Rifle; pick up with infantry.
