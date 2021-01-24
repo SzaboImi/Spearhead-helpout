@@ -1,0 +1,500 @@
+    	Timed. Duration 30s. 
+    	Timed. Duration 20s. Marked troops cannot be attacked until in regular line of sight.
+    	This unit is temporarily visible in the fog of war.
+    	Recon
+    	This unit has increased normal sight radius, and camouflage detection range than regular units.
+    	The Officer orders nearby infantry to march for a period of time.
+    	Forced March!
+    	Artillery Flares
+    	Improves scouting capability at long ranges. Replaces the default 'C' ability. 
+    	The vehicle crew are authorized to call-in flares to be fired over the battlefield, revealing the area, & camouflaged units.
+    	Click and target position. Delay: 6s.
+    	Toggle ability. Increases sight radius in front of the vehicle, as well as camouflage detection range, reducing max speed as well as peripheral vision.
+    	TM-35 Mine
+    	Lay an TM-35 Mine at the target location.
+    	Left-click ability, left-click target location. Both vehicles & infantry will trigger the mine. Delay 5s. 
+    	Crew switches to armor-piercing incendiary tracer ammunition for better armor penetration.
+    	Crew is issued armor-piercing incendiary tracer ammunition for better armor penetration.
+    	Unlocks the timed "Load V-patronen Armor Piercing Rounds" ability.
+    	Unlocks the timed "Load Armor-Piercing Incendiary Tracer Rounds" ability.
+    	Nuts!
+    	The Major ensures the troops know the stakes, and roles in the mission.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience within the current sector, and adjacent sectors.
+    	Whatever It Takes.
+    	Nuts!
+    	The Captain's confidence eases the nerves of his soldiers. Troops receive 15% increased weapon accuracy, and 5% reduced hit chance.
+    	Nuts! (Major)
+    	Gung-Ho (Captain)
+    	The Lieutenant instills aggressiveness, and determination with the men. Troops reload weapons 15% faster and receive 5% faster rate of fire.
+    	Fired Up!
+    	Counter-Sniping
+    	Cease Action
+    	Attacks Snipers freely, but holds fire against other targets unless given an explicit order to fire.
+    	Weapon fire restricted, will only attack snipers.
+    	Counter-Sniping
+    	Heightened awareness from the sniper tracks nearby infantry.
+    	The Mad Minute!
+    	Duration 15s. Targeted squad is suppressed over time.
+    	Duration 15s. Sniper fires 33% faster, at the cost of 20% less weapon accuracy.
+    	Well-disciplined British soldiers are drilled in rapid fire, allowing for an impressive volume of fire in a short time. 
+    	The Mad Minute!
+    	The Sniper will fire quicker for a short period of time, while being less accurate.
+    	Load M2 150-grain Ball Rounds
+    	Switch to firing M2 150-grain Ball Rounds, which have exceptionally higher muzzle velocity.
+    	Click to activate, duration 20s. Ability leads to 33% increased weapon accuracy.
+    	M2 150-grain Ball Rounds
+    	Sniper is currently using M2 150-grain Ball Rounds.
+    	Veterancy 2
+    	Tactical Withdrawal
+    	The squad drops smoke grenades to cover their retreats.
+    	Foolhardy (Lieutenant)
+    	Main Gun: Load-Armor Piercing
+    	Main Gun: Load-High Explosive
+    	Toggle from High Explosive to Armor Piercing rounds. Increases shell penetration but decreases blast radius.
+    	Main Gun: Load Armor-Piercing
+    	Main Gun: Load High-Explosive
+    	STZ T-34/76
+    	STZ T-34/76 Medium Tank
+    	The T-34 tanks manufactured in the STZ factory boasted superior protection for the crew, due to welding extra sheets of metal to the front chassis.
+    	Armaments: 76.2 mm M1940 F-34, Hull DT, Armor: 73mm (Sloped), Role: Infantry Support, Speed: 53 km/h. Effective at medium range vs. infantry & structures.
+    	Extra sheet metal is welded to the front chassis, increasing frontal protection.
+    	STZ T-34/76 Retrofit
+    	The tank can fire its gun in an artillery role, delivering a quick barrage of high-explosive shells. Best used when in numbers.
+    	Left-click ability, left-click target position. Fires 3 Rounds.
+    	Excellence (Lieutenant)
+    	The Lieutenant takes his commandos skills and hones them to razor-sharp efficiency, weapon accuracy increased by 15%, and reload times reduced by 20%. Only affects Infantry.
+    	The Lieutenant takes his commandos skills and hones them to razor-sharp efficiency, weapon accuracy increased by 15%, and reload times reduced by 20%. Only affects Infantry.
+    	Commandos receive 3% reduced hit chance, and 10% faster weapon fire rate around the squad.
+    	Officer, (Aura: +Survivability, +Rate-of-Fire), coordinates with commando troops to further increase their lethality. Limit of 1 Squad.
+    	(PASSIVE) Soviet Industry
+    	Allows the M5A1 Stuart, and M4A3 Shermans to be called-in at cheaper costs.
+    	Allows nearly all Soviet tanks be called-in at cheaper costs.
+    	Divert all effort to tank production! Our tanks are now able to be mass-produced.
+    	Weapon Inventory Full. 
+    	No. 82 Heavy "Gammon" Bomb
+    	Type: Submachine Gun, Rate of Fire: 700 rounds per minute, Cartridge: 11.43×23mm, Capacity: 30 Rounds, Quantity: 4. Effective at close range vs. infantry.
+    	Type: Submachine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 9x19mm, Capacity: 32 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	Type: Sniper Rifle, Rate of Fire: Bolt-Action, Cartridge: 7.92x57mm, Capacity: 10 Rounds, Effective at long range vs. infantry. 
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 60 Rounds. Effective at medium range vs. infantry. 
+    	Type: Machine Gun, Rate of Fire: 520 rounds per minute, Cartridge: 7.92x57mm, Capacity: 30 Rounds. Effective at long range vs. infantry. 
+    	Type: Submachine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 9x19mm, Capacity: 32 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
+    	Type: Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x57mm, Capacity: 10 Rounds. Effective at long range vs. infantry. 
+    	Type: Automatic Rifle, Rate of Fire: 750 rounds per minute, Cartridge: 7.92x57mm, Capacity: 20 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.92x94mm, Capacity: 10 Rounds. Effective at long range vs. vehicles. 
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 14.5x114mm, Capacity: 5 Rounds. Effective at medium range vs. vehicles.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 14.5x114mm, Capacity: 5 Rounds. Effective at medium range vs. vehicles.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 14.5x114mm, Capacity: 5 Rounds. Effective at medium range vs. vehicles.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 14.5x114mm, Capacity: 5 Rounds. Effective at medium range vs. vehicles.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 14.5x114mm, Capacity: 5 Rounds. Effective at medium range vs. vehicles. Must be stationary.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 14.5x114mm, Capacity: 5 Rounds. Effective at medium range vs. vehicles.
+    	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Capacity: 47 Rounds. Effective at long range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Capacity: 47 Rounds, Quantity: 2. Effective at long range vs. infantry. 
+    	Type: Automatic Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x57mm, Capacity: 20 Rounds. Effective at medium range vs. infantry. 
+    	Type: Rifle, Rate of Fire: Bolt-Action, Cartridge: 7.62x54mm, Capacity: 5 Rounds. Effective at long range vs. infantry. 
+    	Stabilize
+    	The weapon must be stationary to fire.
+    	Known affectionately as the 'Meat Chopper', and the 'Kraut-Mower,' the four .50-cal machine guns are also effective against aircraft.
+    	Winded
+    	Tired
+    	Exhausted
+    	Fire Panzerfaust-100
+    	Fire Panzerfaust-100
+    	Fire Panzerfaust-100
+    	Fire Panzerfaust-100
+    	Fire a short-range 149mm Panzerfaust anti-tank weapon at the targeted enemy vehicle.
+    	Anti-Tank Rocket, a single-use 149mm rocket that deals an exceptional amount of damage against tanks from a moderate distance.
+    	Anti-Tank Rocket, a single-use 149mm rocket that deals an exceptional amount of damage against tanks from a moderate distance.
+    	Anti-Tank Rocket, a single-use 149mm rocket that deals an exceptional amount of damage against tanks from a moderate distance.
+    	The Panzerfaust (Tank Fist) is a single-use anti-tank weapon that deals heavy damage to all but the heaviest of tanks.
+    	Satchel Charges are bundles of heavy explosives that can be thrown over a short range, unlike Demolition Charges that need to be planted.
+    	Switch to firing Armor-Piercing Composite Rigid Rounds, which provide a moderate increase in penetration along all ranges.
+    	Displace!
+    	The crew pushes the tank's straining engine to the limit! The tank will move faster, with a slight chance of engine failure.
+    	Move quickly and focus on flank shots on enemy vehicles. The tank will move faster and be harder to hit.
+    	Sniper, concealed behind cover, excellent at eliminating priority infantry targets at range, or other snipers with ease. Limit of 2 Squads.
+    	Sniper infantry, (Traits: + Camouflage, + High Detection Range): Best used to eliminate specific targets from extreme range. Limit of 2 Squads.
+    	Although only 1,355 Tigers were produced, its combination of armor, mobility and firepower was legendary. Utilizing the powerful 8.8 cm KwK 36 L/56, veteran crews could annihilate most Allied tanks with a single, accurate shot.
+    	Originally named after Ferdinand Porsche, the Ferdinand was enveloped by 200 mm of armor. Proficient at destroying tanks out to 3 km with the 8.8 cm PaK 43/2 L/71, it claimed a record kill:loss ratio of 320:13 at Kursk.
+    	Originally named after Ferdinand Porsche, the Ferdinand was enveloped by 200 mm of armor. Proficient at destroying tanks out to 3 km with the 8.8 cm PaK 43/2 L/71, it claimed a record kill:loss ratio of 320:13 at Kursk.
+    	Equipped with the 12.8 cm Pak 44 L/55, the Jagdtiger could effortlessly reduce Allied armor to melted scrap. With a maximum firing range of 24,410 m, the “Hunting Tiger” excelled at engaging enemy armor beyond standard ranges.
+    	Equipped with the 128mm PaK 44 L/55, the Jagdtiger could reduce Allied armor to melted steel with ease. With a maximum firing range of 24,410 m, the “Hunting Tiger” excelled at engaging enemy armor beyond standard ranges.
+    	Improves anti-structure & infantry capability at close ranges. Replaces the current grenade ability.
+    	Model 39 'Egg' Grenade
+    	An inexpensive grenade with a small blast radius, and short throw distance.
+    	Improves cost-effective anti-structure & infantry capability at close ranges. Replaces the current grenade ability.
+    	Improved fortifying techniques allow soldiers to construct buildings faster. Troops construct structures 25% faster.
+    	Improved entrenchment techniques taught by Royal Engineers resulted in more durable emplacements. Troops gain 5% increased weapon accuracy, and 10% further reduced hit chance in cover.
+    	Improved entrenchment techniques taught by Royal Engineers resulted in more durable emplacements. Structures gain 25% increased hitpoints, existing buildings will require a repair to maximum health.
+    	Specialization: Hammer
+    	Additional Firefly tanks have been dispatched to break through the enemy lines! Vehicle price reduced by 90MP, and 35 fuel.
+    	Field Maintenance
+    	Repairs any damaged vehicles, or crewed weapons. 
+    	Rudimentary Maintenance
+    	Disable Rudimentary Maintenance, allowing the vehicle to move.
+    	Distributes supplies to damaged vehicles and crewed weapons in the surrounding area, allowing them to repair themselves at a slow rate. The vehicle will also repair itself.
+    	Germany produced 7,564 Goliaths, a remote-controlled tracked mine designed to demolish enemy fortifications. Although it could level static targets with its 100 kg payload, it suffered from poor armor, ground clearance and maneuverability.
+    	Sonderkraftfahrzeug 303(b) ‘Goliath’
+    	Sd. Kfz. 303(b) Goliath
+    	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Capacity: 5, Speed: 76 km/h. Direct combat is not advised.
+    	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Capacity: 5, Speed: 76 km/h. Direct combat is not advised.
+    	Armaments: 100kg Explosive Charge, Armor: 30mm, Role: Remote-Controlled Mine, Speed: 12 km/h. 
+    	Remote-Controlled Mine, (Traits: + High Damage, + Large Blast, - Single Use - Low Sight Radius): A powerful explosive device that can be driven to enemy forces, and detonated at will.
+    	The Churchill Mk. VII Infantry Tank are British-made vehicles supplied to the Soviet Union as part of the Artic Convoys. The tank has very thick frontal armor and the 75mm main gun offers a quick rate of fire.
+    	The Churchill Mk. VII Infantry Tank are British-made vehicles supplied to the Soviet Union as part of the Artic Convoys. The tank has very thick frontal armor and the 75mm main gun offers a quick rate of fire.
+    	The Churchill Mk. VII Infantry Tank are British-made vehicles supplied to the Soviet Union via the Artic Convoys. The tank has extremely thick frontal armor and the 75mm main gun offers a quick rate of fire.
+    	The Churchill Mk. VII Infantry Tank are British-made vehicles supplied to the Soviet Union as part of the Artic Convoys. The tank has very thick frontal armor and the 75mm main gun offers a quick rate of fire.
+    	The Churchill Mk. VII Infantry Tank are British-made vehicles supplied to the Soviet Union as part of the Artic Convoys. The tank has very thick frontal armor and the 75mm main gun offers a quick rate of fire.
+    	The Valentine Mk. XI Tank under Soviet authority was praised for its combination of speed, reliability, and protection. Coupled with a 75mm main gun, the Stavka asked for its production to the war's end.
+    	The Valentine Mk. XI Tank under Soviet authority was praised for its combination of speed, reliability, and protection. Coupled with a 75mm main gun, the Stavka asked for its production to the war's end.
+    	The Valentine Mk. XI Tank under Soviet authority was praised for its combination of speed, reliability, and protection. Coupled with a 75mm main gun, the Stavka asked for its production to the war's end.
+    	The Valentine Mk. XI Tank under Soviet authority was praised for its combination of speed, reliability, and protection. Coupled with a 75mm main gun, the Stavka asked for its production to the war's end.
+    	The Valentine Mk. XI Tank under Soviet authority was praised for its combination of speed, reliability, and protection. Coupled with a 75mm main gun, the Stavka asked for its production to the war's end.
+    	The Valentine Mk. XI Tank under Soviet authority was praised for its combination of speed, reliability, and protection. Coupled with a 75mm main gun, the Stavka asked for its production to the war's end.
+    	Fanaticism
+    	Vengeance!
+    	Zealotry (Hauptsturmführer)
+    	The Haupsturmfuhrer inspires fellow troops with his devotion to the Third Reich. Allied troops receive 15% faster experience gain, and 10% faster rate of fire.
+    	The Sturmbannführer inspires fellow troops with his devotion to the Third Reich. Allied troops receive 15% faster experience gain, and 10% faster rate of fire.
+    	Already upgraded with pintle MG42.
+    	Already upgraded with Panzer Officer.
+    	Already upgraded with pintle MG42.
+    	Already upgraded with pintle MG42.
+    	Already upgraded with Tank Commander, or Targeting Optics.
+    	Already upgraded with Tank Commander, or Targeting Optics.
+    	Already upgraded with Tank Commander, or Targeting Optics.
+    	Already upgraded with Tank Commander, or Targeting Optics.
+    	Already upgraded with Tank Commander, or Targeting Optics.
+    	Light Armor Support	
+    	Allows access to armored cars, artillery, and light tanks.
+    	Deploy light armor, and fire support to engage the enemy!
+    	Can only field (2) 'Uhus' at a time.
+    	Forward Receivers
+    	Deployed sWs halftracks are issued forward receivers, revealing troops within the fog of war.
+    	Improves unit detection. Only applies to this vehicle. Range: 120m.
+    	Model 24 Grenade
+    	Unique design of the grenade allows for greater throwing distance, at the cost of a small payload.
+    	Unit is already moving at another pace! Disable the other movement ability to re-enable this one.
+    	Tactical Advance
+    	<locstring name="help_text" value="2137" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Tactical Advance
+    	The squad advances at a steady pace, improving accuracy while on the move. 
+    	Marching Fire!
+    	Soldiers lay down a volume of fire with their rapid-firing rifles. 
+    	Toggle on/off. Locks any sprint ability while active. Rocket Launchers & Flamethrowers will be unequipped.
+    	Toggle on/off. Locks any sprint ability while active.
+    	Fanaticism
+    	Timed. Duration 20s. Marked troops cannot be attacked until in regular line of sight.
+    	The targeted unit is tracked and monitored, revealing them in the fog of war, and disables camouflage for a short duration. 
+    	The Sturmbannführer reaffirms the troops duty to Germany! Infantry squads receive 5% increased weapon accuracy, and 5% reduced hit chance for each soldier killed within their squad.
+    	Meine Ehre heißt Treue!
+    	Veterancy 1
+    	Nearby infantry, even if suppressed or retreating, will rally on the Officer. The rallied troops will receive a large boost in combat effectiveness for a short time after.
+    	The officer will halt the retreat of any nearby squads. This does NOT cancel his squad from retreating.
+    	Click to activate. Range: 45m.
+    	Veterancy 1
+    	Veterancy 1
+    	Click to activate. Range: 30m.
+    	Improves weapon accuracy, detection & sight radius. 
+    	Improves unit detection, accuracy & sight radius. Upgrade leads to 25% increased weapon accuracy, +60 camouflage detection range & +70 extended (fog-of-war) sight range.
+    	NahVW Grenade Launcher
+    	The Nahverteidigungswaffe is used to launch a close-range grenade at a targeted position
+    	Improves vehicle survivability. Locks out the NahvW upgrade.
+    	Improves vehicle survivability.
+    	Improves anti-infantry capability at close ranges. Locks out the Smoke Dischargers upgrade.
+    	Fire 7.5cm High Explosive Barrage
+    	105mm High-Explosive Howitzer Barrage
+    	Fire 2cm High Explosive Barrage
+    	The flak gun can provide indirect fire, delivering a quick barrage of high-explosive shells. Best used when in numbers.
+    	Left-click ability, left-click target position. Fires 10 rounds.
+    	Left-click ability, left-click target position. Fires 3 Rounds.
+    	Left-click the ability, left-click the ground or enemy unit. Fires 20 Rounds.
+    	Periscope MG34 HMG
+    	Periscope MG34 machine gun
+    	The Hetzer utilizes a remote-controlled machine gun turret, allowing the crew to fire without exposing themselves. This prevents the gunner from being suppressed or killed, but suffers from less accuracy.
+    	Damage to the sighting systems has reduced the crew's weapon accuracy by 75%, & sight radius by 33%.
+    	The tank can fire its gun in an artillery role, delivering a quick barrage of high-explosive shells. 
+    	Fire High Explosive Barrage
+    	Left-click the ability, left-click the ground or enemy unit. Fires 6 Rounds. Vehicle reloads 25% faster for the duration of the barrage.
+    	The tank can fire its gun in an artillery role, delivering a devastating barrage of high-explosive shells over a long period of time.
+    	Left-click the ability, left-click the ground or enemy unit. Fires 3 Rounds.
+    	The OF-530 Long Range High-Explosive round is extremely effective against infantry and other soft targets, but still able to demolish enemy armour.
+    	Duration: 20s. Increases speed and rotation of the weapon.
+    	M1 Bulldozer Blade
+    	Mounts a bulldozer blade to the tank's chassis, allowing it to automatically clear battlefield obstacles as though it were a heavy tank.
+    	Unlocks the Create Barrier ability. Upgrade leads to 25% increased armor. OVERRIDES Slot 1 Abilities.
+    	Hit the Dirt!
+    	Taps to low crawl towards incoming fire. Breaks out of suppression and increases survivability at the cost of movement speed.
+    	Troops to low crawl towards incoming fire. Breaks out of suppression and increases survivability at the cost of movement speed.
+    	Toggle on/off. Ability leads to 100% suppression resistance, 20% reduced hit chance, and 20% slower movement speed.
+    	Troops to low crawl towards incoming fire. 
+    	Hit the Dirt!
+    	Infantry are trained to act as forward observers on the battlefield. Troops gain +15 sight radius when garrisoned in a structure.
+    	Specialization: Hammer
+    	The Regiment has procured additional flamethrowers to break through the enemy lines! No. 2 Flamethrowers are 33% cheaper.
+    	Can only field (4) 'M7B1 Priests' at a time.
+    	Specialization: Anvil
+    	Command has granted authority to field in additional self-propelled howitzers! Vehicle unit cap has been increased by +1.
+    	Fire 5.5-Inch High-Explosive (x9)
+    	Additional artillery shells have arrived to the battlefield! Howitzer now has access to "Extended Barrage." 
+    	105mm Extended Howitzer Barrage
+    	Left-click ability, left-click target position. Fires 15 rounds.
+    	The Regiment makes a liberal usage of mines to cover the flanks of advancing armour. Mines are 50% cheaper.
+    	Specialization: Hammer
+    	The tankers are taught emergency battlefield repair procedures. Troops receive the "Repair Team" upgrade by default.
+    	A squad of 1st Airborne Paratrooper Assault Team can be paradropped into the battlefield. Paratroopers can specialize at long- or short-range combat with weapon upgrades.
+    	4 Command Points
+    	Airdropped Bren Mk. II LMG Shipment
+    	Airdropped STEN Mk. II SMG Shipment (x2)
+    	Arms the squad with a powerful 13.9x99mm Boys AT Rifle.
+    	Browning's M1919A6's portability, and large magazine capacity allows the soldier to rapidly reposition and suppress hostiles for extended periods of time.
+    	The Browning M1919A6's design as a portable, large-capacity machine gun made it a favorite amongst airborne units over the BAR.
+    	The M2 Flamethrower is a deadly incendiary weapon, causing horrific damage to enemy infantry at the cost of a shorter range.
+    	Firing the M6A3 HEAT warhead, 
+    	Nicknamed after a musical instrument, the Bazooka provides infantry a dependable, mid-range anti-tank weapon.
+    	Veterancy 2
+    	(PASSIVE) Eselschreck
+    	Volksgrenadieres require less veterancy to requisition Panzerschrecks.
+    	Increased threat from Allied armour have warranted additional rocket launchers!
+    	Troops are instructed on how to coordinate their grenade throws for deadlier results!
+    	Volksgrenadiers receive the Model 24 Grenade Assault from the Bereich Festung.
+    	Fire Gewehrnebelgranate 42
+    	Gewehrnebelgranate 42 Rifle Grenades
+    	40.8mm Dyakonov Rifle Grenades
+    	VKG-40
+    	Strelki are issued VKG-40 rifle grenades as well as adaptors for their rifles.
+    	Airdropped M3 SMGs (x2)
+    	Airdropped M18 Recoilless Rifle
+    	Armaments: (M1 Garands/M1911s, M1A1 Thompson (20rd.)), *M1A1 Carbines x2, *M1918A2 BAR, *M1919A6 Browning, *M9 Bazooka, Skill: Elite, Role: Frontline.
+    	Armaments: (M1A1 Carbines/M1911s, M1A1 Thompson (20rd.)), *M1 Garands x2, *M3 Grease Guns x2, *M1A1 Thompsons (20rd.) x2, *M18 Recoilless Rifle, Skill: Elite, Role: Assault.
+    	101st Airborne Division Fire Team
+    	The "Screaming Eagles" of the 101st are elite infantry that are often deployed behind enemy lines to tackle key objectives and sow confusion. Heavier weapons can be equipped in unconnected territory.
+    	The 101st Airborne are America's premier warfighters, having undergone rigorous physical training, and suicidal combat missions to become the elite. The M1 Garand offers superior range and accuracy over carbines.
+    	Line/Paratrooper infantry, (Traits: + Fast Reinforce, + Passive Healing, + Camouflage, + Airdropped Upgrades): Elite paratroopers armed with powerful long-ranged weaponry.
+    	101st AB Pathfinders
+    	101st AB Assault Team
+    	Improves demolition capability at close ranges. Replaces the Destroy Cover ability.
+    	Improves reinforcement capability. Unlocks the Plant Beacon ability.
+    	Paradrop Beacons
+    	Paratroopers are issued beacons to coordinate airborne operations.
+    	Rangers are experts in forward reconnaissance, scouting out and eliminating small pockets of enemy forces with long range firepower. The venerable M1903 Springfield is favored by Rangers for its accuracy at long ranges.
+    	Manufactured specifically for elite Fallschirmjäger troops, the FG42 combines high rate of fire, stopping power, and accuracy into a single weapon platform.
+    	Nicknamed the "record player" due to its outlandish design, the DP provides Soviet troops a steady rate of suppressive fire down range.
+    	Degtyaryov (DPM) (x2)
+    	Shpagin (PPSh-41) (71rd.) (x4)
+    	Advanced Gunnery
+    	Extensive crew training has allowed the artillerymen and its officer to hit targets with remarkable accuracy.
+    	Increases accuracy of artillery barrages. Upgrade leads to 25% less artillery scatter.
+    	Recruiting Surplus
+    	Increases the survivability of the unit. Upgrade adds +3 extra squadmembers, and 25% faster reload speed.
+    	Additional artillery crewmen have been sent to the frontline to man the guns.
+    	Veterancy 2
+    	Click to activate. Duration 90 seconds.
+    	Click to activate. Duration 240 seconds.
+    	Airborne Assault
+    	Oberkommando der Luftwaffe has given permission for a full-scale airborne assault! Fallschirmjäger troops can reinforce via paradrop anywhere on the map!
+    	12 Command Points
+    	12 Command Points
+    	Veterancy 2
+    	Airdropped RPzB 54 "Panzerschreck" Shipment
+    	Leichtes Maschinengewehr 34
+    	Fallschirmjägergewehr 42 (x2)
+    	Maschinenpistole 40 (x2)
+    	Can only field 2 Brandenburg Panzergrenadiere squads at a time.
+    	Can only field 2 Siberian Division squads at a time.
+    	Cancels any direct facing orders for the squad and reverts them to automatic targeting.
+    	Cancels any direct facing orders for the squad and reverts them to automatic targeting.
+    	Order team weapons to face a position. They will not switch firing positions if flanked.
+    	Order team weapons to face a position. They will not switch firing positions if flanked.
+    	The crew exerts themselves to quickly maneuver their gun, temporarily increasing its rotation rate.
+    	Duration: 20s. Increases rotation speed of the weapon.
+    	Duration: 20s. Increases rotation speed of the weapon.
+    	Armaments: (M2HB .50 Cal, Lee-Enfields, Sten), Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry and light vehicles.
+    	Armaments: (M2HB .50 Cal, Mosin-Nagants, PPSh-41), Crew: 6, Training: Regular, Role: Suppression. Effective vs. massed infantry and light vehicles.
+    	Armaments: (M2HB .50 Cal, Mosin-Nagants, PPSh-41), Crew: 6, Training: Regular, Role: Suppression. Effective vs. massed infantry and light vehicles.
+    	Type: Tank Gun, Rate of Fire: 280 rounds per minute, Caliber: 2cm, Effective at medium range vs. infantry, light vehicles, & aircraft. Decreases detection & sight radius.
+    	Type: Tank Gun, Rate of Fire: 280 rounds per minute, Caliber: 2cm, Effective at medium range vs. infantry, light vehicles, & aircraft. Decreases detection & sight radius.
+    	Type: Tank Gun, Rate of Fire: 280 rounds per minute, Caliber: 2cm, Effective at medium range vs. infantry, light vehicles, & aircraft. Decreases detection & sight radius.
+    	Armaments: Pintle MG42, *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: 2 cm KwK 30 L/55, Coaxial MG34, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Panzerspähwagen Sonderkraftfahrzeug 221
+    	Sd. Kfz. 222
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	Armaments: 2 cm KwK 30 L/55, Coaxial MG34, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Scout vehicle, (Traits: + Versatile Gun, + Highly Mobile, + Thick Armor, + High Detection Range): Pre-upgraded variant of the 221, versatile armored car that can effectively engage light armour, infantry, and aircraft.
+    	Armaments: 2 cm KwK 30 L/55, Coaxial MG34, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: 2 cm KwK 30 L/55, Coaxial MG34, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: 2 cm KwK 30 L/55, Coaxial MG34, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: 2 cm KwK 30 L/55, Coaxial MG34, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: 2 cm KwK 30 L/55, MG34 (Coaxial), Armor: 14.5mm, Role: Recon, Speed: 80 km/h.
+    	(PASSIVE) Panzer Tactician
+    	(PASSIVE) Panzer Tactician
+    	Sonderkraftfahrzeug 221 Scout Car
+    	Sd. Kfz. 222 Scout Cars no longer require upgrading to Battle Phase 2.
+    	Additional Sd. Kfz. 221 scout cars have been retrofitted for combat.
+    	(PASSIVE) Mobile Warfare
+    	Riflemen are the face of Uncle Sam's Army. Well-trained and versatile in nature, they can lay down rapid medium range fire with the tried-and-proven M1 Garand and can combat light vehicles with the M9 rifle grenade.
+    	Riflemen are the well-trained backbone of the US Army, who can engage most threats when properly armed. The M1 Garand is a semi-automatic rifle that combines a high capacity, and fast semi-automatic fire up to medium range.
+    	Rear Echelon Troops consist of brave men from many support sections of the military as they raise a rifle and join combat. Though spotty in training, with the compact M1 Carbine in hand, they can effectively join in frontline close combat and support roles.
+    	Armaments: (M1 Garands, M1A1 Thompson), *M3 Grease Guns x2, *M1918A2 BAR, Skill: Regular, Role: Assault. 
+    	The 101st Pathfinders are specialized airborne infantry who come in ahead of the main paratrooper forces to mark enemy positions and safe landing zones.
+    	Armaments: (M1911s) *M3 Grease Guns x2, *M1A1 Thompsons x2, Training: Regular, Role: Vehicle Crew.
+    	Armaments: (M1911s) *M3 Grease Guns x2, *M1A1 Thompsons x2, Training: Regular, Role: Vehicle Crew. Direct Combat is not advised.
+    	The A1 variant of the American water-cooled M1917 improves the WW1 design with a faster cyclical rate of fire. A robust, and reliable support weapon, it is an effective fixed defense emplacement for suppression.
+    	The A1 variant of the American water-cooled M1917 improves the WW1 design with a faster cyclical rate of fire. A robust, and reliable support weapon, it is an effective fixed defense emplacement for suppression.
+    	The Browning M1917A1 machine gun's simple, water-cooled design is popular for being able to fire thousands upon thousands of rounds without a single stoppage. This extraordinary reliability allows crews to fire in prolonged, accurate bursts.
+    	The Browning M1917A1 machine gun's simple, water-cooled design is popular for being able to fire thousands upon thousands of rounds without a single stoppage. This extraordinary reliability allows crews to fire in prolonged, accurate bursts.
+    	Armaments: M1919A4 .30 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	Armaments: M1917A1 .30 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	Armaments: M1917A1 .30 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	The M1919A4 is one of the most widely produced machine gun during the war, arming infantry, aircraft, and vehicles with automatic firepower.
+    	Armaments: M1919A4 .30 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	Transport vehicle, protects occupants against cold weather, rear machinegun, use to provide suppressive fire, or bring in reinforcements.
+    	This Swedish heavy flak gun fires powerful 40mm shells against enemy aircraft, infantry and light vehicles.
+    	This Swedish-made Bofors flak gun was popular in many armies, Nazi Germany acquired large quantities of them from conquered territories. It fires powerful 40mm shells against enemy aircraft, infantry and light vehicles.
+    	This Swedish-made Bofors flak gun was popular in many armies, Nazi Germany acquired large quantities of them from conquered territories. It fires powerful 40mm shells against enemy aircraft, infantry and light vehicles.
+    	Prizyvniki
+    	Prizyvniki
+    	Basic troops with little combat training or experience. Prizyvnik (Conscripts) are the backbone and bulk of the Soviet Army, though they are lost in large numbers, they can be truly effective with good support.
+    	Basic troops with little combat training or experience. Prizyvnik (Conscripts) are the backbone and bulk of the Soviet Army, though they are lost in large numbers, they can be truly effective with good support.
+    	Prizyvnik Infantry Squad
+    	Prizyvnik Squad
+    	Snayperskaya Zveno
+    	Snayperskaya Zveno
+    	10.5cm Creeping Barrage
+    	8.7cm Creeping Barrage
+    	The crew' fires a barrage of 8.7cm rounds into the targeted area in a line formation.
+    	Left-click ability, left-click target position. Fires 6 Rounds.
+    	The Ordnance QF 25-pounder field gun fires oppressive supercharged "Airburst" rounds at the target area.
+    	8.7cm Howitzer Airburst Barrage
+    	The Ordnance QF 25-pounder field gun fires a coordinated barrage of 8.7cm smoke shells into the targeted area.
+    	The Ordnance QF 25-pounder field gun fires a screening barrage of 8.7cm smoke shells into the targeted area.
+    	8.7cm Creeping Smoke Barrage
+    	Fire 8.7cm Smoke (x6)
+    	Left-click ability, left-click target area. Fires 9 Rounds.
+    	Left-click ability, left-click target area. Fires 4 Rounds.
+    	Left-click ability, position area and left-click. Fires 7 Rounds. Can only be targeted within friendly territory.
+    	Left-click ability, position area and left-click. Fires 7 Rounds. 
+    	Left-click ability, position area and left-click. Fires 4 Rounds. Can only be targeted within friendly territory.
+    	Left-click ability, left-click target area. Fires 6 Rounds.
+    	8.7cm Rapid Response Barrage
+    	Left-click ability, left-click target area. Fires 6 Rounds. Can only be targeted within friendly territory.
+    	Left-click ability, left-click target area. Fires 3 Rounds.
+    	8.7cm Howitzer Half Barrage
+    	8.7cm Howitzer Airburst Barrage
+    	Improves anti-infantry capability at all ranges. Replaces the current grenade ability.
+    	Improves anti-infantry capability at all ranges. Replaces the Smoke Barrage ability.
+    	Improves anti-infantry capability at all ranges. Replaces the current grenade ability.
+    	Improves anti-infantry capability at all ranges. Replaces the Half Barrage ability.
+    	Improves anti-infantry capability at all ranges. Replaces the Half Barrage ability.
+    	Improves anti-infantry capability at all ranges. Replaces the regular Barrage ability.
+    	8.7cm Creeping Barrage
+    	8.7cm Rapid Response Barrage
+    	Fires at a drastically increased rate at the cost of increased scatter.
+    	Fires rounds in a line formation, great for boxing in enemy troops.
+    	Fires airburst rounds with increased blast radius, at the cost of penetration.
+    	Already selected an equipment upgrade.
+    	Load HEAT Round
+    	Click to activate, duration 30s. 
+    	Switch to firing Armor-Piercing Discarding Sabot Rounds, which have drastically increased armor penetration at close to medium range.
+    	(PASSIVE) Hunter-Killers
+    	Additional Boys AT Rifles, and HEAT grenades have been made available for your Snipers.
+    	Snipers no longer require Veterancy to upgrade to the Hunter-Killer Loadout.
+    	Veterancy 1
+    	Remaining crew manning weapon. Reinforce to allow usage of equipment.
+    	Royal Reconnaissance Regiment
+    	Loads and fires two M61 armor-piercing capped rounds at the target's treads or wheels, slowing or immobilizing the vehicle.
+    	A ‘Hobart Funny’, the Centaur AA mounted dual 20 mm Polsten-type cannons on a stop-gap hull design. Rendered unnecessary by Allied air superiority, its guns and mobility led to a limited but notable service as an infantry support vehicle.
+    	Cruiser Tank, Comet Mk I (A34)
+    	Cruiser Tank, Comet Mk I (A34)
+    	Cruiser Tank, Comet Mk I (A34)
+    	A34 Comet Mk. I Cruiser Tank
+    	Cruiser Tank, Comet Mk I (A34)
+    	A34 Comet Mk. I Cruiser Tank
+    	As old as the empire it guards, Her Majesty’s Armed Forces were designed to weather both the enemy and time. As fierce as lions and supported by military ingenuity, Britain's loyal defenders were arguably the world’s finest fighting force.
+    	Sharing a dual lineage between the Infantry and traditional Cavalry, Britain’s armoured elements were as diverse as they were unique. Designed to work in unison, these tanks ranged from agile cruisers to slow, nigh impenetrable behemoths.
+    	Equipped with a wide range of specialized weaponry, the British Army was built to root out any entrenched enemy positions. Augmented by Lend-Lease vehicles and supplies, Britain’s bulldogs could easily transition from defense to offense.
+    	Deploy Engineers, Infantry, Medics, Anti-Tank Guns, Officers, and Light Vehicles.
+    	The Mad Minute!
+    	The Mad Minute!
+    	On The Double!
+    	(PASSIVE) Shoot & Scoot
+    	Tanks receive the On The Double! ability, which doesn't require fuel.
+    	Extra fuel reserves have been made available for our armour.
+    	Armaments: (M1903 Springfields, M3A1 Grease Gun) *M1 Garands x2, *M3A1 Grease Gunsx2, *M1919A6 Browning, *M9 Bazooka, Training: Experienced, Role: Assault. Effective at long range vs. infantry.
+    	Armaments: (Lee-Enfields, Webley), *Vickers K, *Lee-Enfield , *M1 Garands x2, *M1A1 Thompson x2, *Boys AT, Training: Experienced, Role: Tactical Support. Effective at medium range vs. infantry.
+    	Armaments: (Lee-Enfields, Webley), *STEN Mk. IIs x2 , *M1928A2 Thompson x2, Skill: Experienced, Role: Strategic Support.
+    	Fake Artillery Barrage
+    	Drops only the warning smoke that is normally dropped with an Artillery Barrage.
+    	The Captain bears the responsibility of leading his men into battle, improving their performance in battle, and providing them tactical fire support.
+    	The Captain bears the responsibility of leading his men into battle, improving their performance in battle, and providing them tactical fire support.
+    	The Major is an experienced field officer, leading his men with unwavering confidence and authority under fire. Gains veterancy from nearby allies. 
+    	The Major reminds the men of their duty to defend the Homefront. Troops receive 5% faster weapon fire rates, and 3% reduced hit chance. Only affects Infantry.
+    	Discipline
+    	Duty
+    	Diligence
+    	Can only field (1) Major at a time.
+    	Perseverance
+    	The squad acts as a retreat point, allowing other soldiers to retreat to the position.
+    	The squad is unable to move while the ability is active. Infantry retreat to the nearest retreat point or HQ Territory. Sector will blip on the minimap while active.
+    	Nuts!
+    	Cease Action
+    	The Major decides here to make a stand, locking down the friendly territory from capture, while allowing other soldiers to retreat to the position.
+    	PIAT Requisition
+    	A unique launcher design, the PIAT is able to provide crucial anti-tank firepower over ranges and over cover.
+    	Tank Hunter Sections will immediately receive the PIAT upon arrival.
+    	Can only field (1) 'Poltavaskaya' Gvardeytsy at a time. 
+    	M9 Bazooka
+    	Abandoned M9 Bazooka; pick up with infantry.
+    	5 Command Points
+    	4 Command Points
+    	Increases health. Upgrade leads to 25% increased health.
+    	Improve the durability of your fortification. Once researched, the structure will have increase health.
+    	Emplacement is further reinforced against enemy fire. Upgrade leads to 25% increased health.
+    	Increased health by 25%.
+    	Medics are dispatched to the Platoon Command Post to treat nearby injured infantry.
+    	Fire 4 Mills Bomb Rifle Grenade
+    	Fire 2-Inch Mortar Round
+    	Soldiers fires a round from a compact Mk. VII 2-inch mortar. Cannot be fired from indoors.
+    	Soldiers fires a compact 2-inch mortar. Cannot be fired from indoors.
+    	Left-click ability, left-click target position. Cannot be fired from indoors.
+    	Mk. VII 2-Inch Mortar
+    	A compact 2-inch mortar, easily carried by a single infantryman can provide quick fire support.
+    	Fire PIAT Spigot Mortar
+    	Fire a short-range PIAT anti-tank weapon at the targeted enemy vehicle.
+    	Required to deploy Light Vehicles, Halftracks, Anti-Tank Guns, and Rocket Artillery.
+    	The sniper fires a suppressive shot at the target, causing the enemy squad to take cover.
+    	Fire Suppressive Shot
+    	Improves suppression capability.
+    	B.- Patronen Incendiary Explosive Rounds
+    	A special explosive round that can inflict damage in a small radius around the original target, suppressing nearby troops.
+    	Veterancy 2
+    	Carbine, Cal .30, M1A1 (x2)
+    	Arguably the most successful semi-automatic rifle of the war, the M1 Garand provides American soldiers unprecedented combat effectiveness across all ranges. 
+    	Fear Propaganda Artillery
+    	Squads are demoralized and distracted by enemy propaganda. 
+    	Propaganda War
+    	Airburst propaganda leaflets make targeted soldiers question the morality of their actions.
+    	Left-click target area. Fires 12 Rounds. Delay 10s. Troops receive 15% decreased weapon accuracy, 10% increased hit chance, and -15 sight radius.
+    	Left-click target area. Fires 18 Rounds. Delay 10s. Troops receive 15% decreased weapon accuracy, 10% increased hit chance, and -15 sight radius.
+    	Airburst propaganda leaflets distracts and demoralizes enemy infantry, reducing their effectiveness in combat. Inflicts minor damage in close proximity.
+    	An extensive propaganda campaign keeps enemy troops demoralized for an extended period of time. Inflicts minor damage in close proximity.
+    	Clandestine
+    	This squad does not show up on the enemy's minimap.
+    	Designed for the battlefields of World War I, the M1918A2 is a versatile automatic rifle that performs admirably in most infantry firefights.
+    	Light machinegun, extremely high rate-of-fire, very fast suppression, needs to be reloaded frequently.
+    	Unable to activate in Hull Down position! Disable the ability to re-activate.
+    	Vehicle receives faster reload speed, increased sight radius, reduced damage, increased weapon range, and increased suppression for any mounted machinegun.
+    	Hull Down
+    	This squad can entrench most German tanks in a defensive Hull Down position by right-clicking.
+    	(PASSIVE) Hull Down
+    	This squad can entrench most German tanks in a defensive Hull Down position by right-clicking.
+    	Troops can entrench most German tanks in a defensive Hull Down position by right-clicking.
+    	12th-SS 'Hitlerjugend' Grenadieres, and 1st SS-Panzergrenadieres are able to hull down Panzer IVs, StuG IIIs, Panthers, and Tigers.
+    	Conscripts can repair any damaged structure, vehicle, or bridge by right-clicking, or by pressing E.
+    	Rudimentary Repair
+    	Sonderkraftfahrzeug 251 'Hanomag' Half-track
+    	Sonderkraftfahrzeug 251/16 ‘Flammpanzerwagen’
+    	Sonderkraftfahrzeug 251/16 ‘Flammpanzerwagen’
+    	Medical Supplies allows the squad to heal themselves out of combat for a limited time. Can be picked up three times.
+    	Select infantry and right-click on the Medical Supplies to pickup. Duration: 180s.
