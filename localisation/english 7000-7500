@@ -1,0 +1,500 @@
+    	Medical Supplies
+    	Squad will be able to slowly heal wounds out of combat for a limited time.
+    	Toggle on/off. Ability leads to 100% suppression resistance, 20% reduced hit chance, and 50% slower movement speed.
+    	Toggle on/off. Ability leads to 25% faster reload speed, 50% faster turret turn rate, and +15 sight radius.
+    	The entire crew will stop and assist with the loading and firing of the main gun, immobilizing the tank.
+    	The crew will go back to their default roles, allowing the vehicle to move again. 
+    	Load OF-530A Frag Round
+    	Fires a powerful round with drastically increased penetration over range with a moderate blast radius.
+    	Fires a high-explosive round with reduced penetration, and damage, but significantly larger blast radius.
+    	Fires a fragmentation round with extremely reduced penetration, and damage, but with a massive blast radius. Deals increased damage against units not in cover.
+    	Target resource points. Effective at all ranges vs. infantry & emplacements.
+    	Infantry units in friendly territories gain increased defense while in cover. After a period of time, Hawker Typhoons strafe enemies on the frontlines with rockets and machineguns.
+    	Infantry units in friendly territories gain increased defense while in cover. After a period of time, Hawker Typhoons strafe enemies on the frontlines with rockets and machineguns.
+    	Infantry units in friendly territories gain increased defense while in cover. Troops receive 20% reduced hit chance while in cover.
+    	Man the Defenses!
+    	Requests for a covering barrage from M1A2 Field Howitzers. Vehicles will be targeted with 105mm howitzer rounds, while infantry will be suppressed with 75mm pack howitzers. Damaged vehicles will be covered by a volley of smoke shells.
+    	Armor Suppression Operation
+    	Fired Up!
+    	Inspire mobile infantry troops to move quickly and fire more frequently.
+    	Inspires mobile infantry to advance quickly and fire more frequently.
+    	Fast Deployment
+    	7 Command Points
+    	6 Command Points
+    	Can only field 2 B-4 Howitzers at a time.
+    	106th Guards 'Tula' Airborne Division Desantniki Squad
+    	1-ya Motostrelkovaya Diviziya NKVD Frontoviki
+    	1-ya msd. NKVD Frontoviki
+    	Respected amongst the Soviet forces due to their extensive combat experience; Gvardiya (Guards) status can be awarded to any type of unit for excellence in combat.
+    	Veterans of the bloody Winter War, the Dzerzhinsky (DON) Division served under the NKVD, providing both internal security, and frontline soldiers. Their elite snipers have claimed thousands of German lives on the battlefield.
+    	Armaments: (SVT-40s, PPSh-41), *DP-28, *PTRS-41s x2, *PPSh-41s x2, *M91/30 PU, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Mosin-Nagants, PPSh-41), *DP-28, *PTRS-41s x2, *PPSh-41s x2, *M91/30 PU, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Mosin-Nagants, PPSh-41), *DP-28, *PTRS-41s x2, *PPSh-41s x2, *M91/30 PU, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+    	General purpose infantry, extremely versatile, use to support other infantry, or stage ambushes.
+    	General purpose infantry, extremely versatile, use to support other infantry, or stage ambushes.
+    	Armaments: (Mosin-Nagants, PPSh-41), *DP-28, *PTRS-41s x2, *PPSh-41s x2, *M91/30 PU x2, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+    	General purpose infantry, extremely versatile, use to support other infantry, or stage ambushes.
+    	Reserve infantry, extremely versatile, use to support other infantry, or stage ambushes.
+    	Light infantry, (Traits: + Interrogation, + Invisible on Minimap): Stalwart defensive infantry that can build fortifications, and provide fire support.
+    	Can only field (1) 1-ya NKVD Frontoviki at a time.
+    	Armaments: (Mosin-Nagants/M1895s, PPSh-41), *DP-28, *ZB vz. 30, *PPSh-41s x2, *M91/30-PU x1/2, Skill: Experienced, Role: Tactical Support.
+    	Artillery Division
+    	Unlocks the Penal Battalion, 120mm Mortars, additional Katyusha Rocket Trucks, D-44 Anti-Tank Emplacements, and 152mm Howitzers.
+    	.30 cal Machine Gun, M1919A4
+    	<locstring name="screen_name" value="11007106" />
+    	<locstring name="screen_name" value="2426" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="4923" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Pulemyot Maxima Obraztsa 1910 Goda
+    	MG34 GPMG
+    	MG42 GPMG
+    	MG08 Machine Gun
+    	.30 cal Machine Gun, M1919A4
+    	GrW 34 8cm Mortar
+    	8.14 cm Granatwerfer 34
+    	8.14 cm Granatwerfer 34
+    	8.14 cm Granatwerfer 34
+    	8.14 cm Granatwerfer 34
+    	GrW 34 8cm Mortar
+    	MG42 GPMG
+    	DShK 38
+    	Vickers MG
+    	Vickers Medium Machine Gun
+    	Vickers Medium Machine Gun
+    	ML 4.2-Inch Mortar
+    	Ordnance ML 3-inch Mortar
+    	ML 3-Inch Mortar
+    	.50 cal Machine Gun, M2HB
+    	QF 6-Pdr. AT Gun
+    	60mm Mortar, M2
+    	M1917A1 Machine Gun
+    	.30 cal Machine Gun, M1917A1
+    	<locstring name="extra_text_world" value="11077888" />
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry. 
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at medium range vs. infantry. 
+    	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at medium range vs. infantry.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Capacity: 47 Rounds. Effective at medium range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 550 rounds per minute, Cartridge: 7.62x54mm, Capacity: 47 Rounds. Effective at medium range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x54mm, Capacity: 250 Rounds. Effective at medium range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x54mm, Capacity: 250 Rounds. Effective at long range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 12.7x108mm, Capacity: 50 Rounds. Effective at medium range vs. infantry & light vehicles.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 12.7x108mm, Capacity: 50 Rounds. Effective at medium range vs. infantry & light vehicles.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 12.7x108mm, Capacity: 50 Rounds. Effective at long range vs. infantry & light vehicles.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 12.7x108mm, Capacity: 50 Rounds. Effective at long range vs. infantry & light vehicles.
+    	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 30 Rounds. Effective at medium range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 30 Rounds. Effective at medium range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at medium range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 500 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at medium range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 500 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at long range vs. infantry.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Type: Machine Gun, Rate of Fire: 500 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at long range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 500 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at long range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 500 rounds per minute, Cartridge: 7.62x63mm, Capacity: 250 Rounds. Effective at long range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x63mm, Capacity: 250 Rounds. Effective at long range vs. infantry.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Type: Machine Gun, Rate of Fire: 485 rounds per minute, Cartridge: 12.7x99mm, Capacity: 100 Rounds, Effective at medium range vs. infantry & light vehicles. 
+    	Type: Machine Gun, Rate of Fire: 485 rounds per minute, Cartridge: 12.7x99mm, Capacity: 100 Rounds, Effective at long range vs. infantry & light vehicles. 
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Machine Gun, Rate of Fire: 485 rounds per minute, Cartridge: 12.7x99mm, Capacity: 100 Rounds, Effective at long range vs. infantry & light vehicles. 
+    	Type: Mortar, Blast Radius: Medium, Penetration: Low, Cartridge: 81mm, Effective at long range vs. infantry & light vehicles. 
+    	Type: Mortar, Blast Radius: Moderate, Penetration: Low, Scatter: Moderate, Cartridge: 81mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Medium, Penetration: Low, Cartridge: 81mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Medium, Penetration: Low, Cartridge: 81mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Low, Penetration: Low, Scatter: Moderate, Cartridge: 60mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Medium, Penetration: Low, Cartridge: 81mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Medium, Penetration: Low, Cartridge: 81mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Moderate, Penetration: Low, Scatter: Medium, Cartridge: 81.2mm, Effective at long range vs. infantry & emplacements. 
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Mortar, Blast Radius: Medium, Penetration: Low, Cartridge: 8cm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Moderate, Penetration: Low, Scatter: Moderate, Cartridge: 8cm, Effective at long range vs. infantry & emplacements. 
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Mortar, Blast Radius: Medium, Penetration: Low, Cartridge: 81.2mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Moderate, Penetration: Low, Scatter: Moderate, Cartridge: 82mm, Effective at long range vs. infantry & emplacements. 
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Mortar, Blast Radius: Medium, Penetration: Low, Cartridge: 8cm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Large, Penetration: Medium, Cartridge: 8cm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Large, Penetration: Medium, Cartridge: 8cm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Large, Penetration: Moderate, Scatter: Moderate, Cartridge: 106.7mm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Large, Penetration: Medium, Cartridge: 106.7mm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Large, Penetration: Moderate, Scatter: Moderate, Cartridge: 120mm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at medium range vs. infantry. 
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x57mm, Capacity: 250 Rounds. Effective at long range vs. infantry. 
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x63mm, Capacity: 250 Rounds. Effective at long range vs. infantry.
+    	Right-click to re-crew. Minimum capture size is 1, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Mortar, Blast Radius: Large, Penetration: Medium, Cartridge: 106.7mm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: Moderate, Scatter: Moderate, Cartridge: 7.5cm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Howitzer, Blast Radius: Medium, Penetration: Medium, Cartridge: 7.5cm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: Moderate, Scatter: Moderate, Cartridge: 75mm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: Moderate, Scatter: Moderate, Cartridge: 75mm, Effective at very long range vs. infantry & emplacements. 
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Howitzer, Blast Radius: Medium, Penetration: Medium, Cartridge: 7.5cm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 155mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Cartridge: 155mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: High, Cartridge: 155mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Medium, Penetration: Medium, Cartridge: 7.5cm, Effective at very long range vs. infantry & emplacements. 
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Rocket Launcher, Blast Radius: Medium, Penetration: Medium, Cartridge: 7.5cm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Rocket Launcher, Blast Radius: Medium, Penetration: Medium, Cartridge: 60mm, Capacity: 16 Rounds, Effective at very long range vs. infantry & emplacements. 
+    	Type: Rocket Launcher, Blast Radius: Moderate, Penetration: Moderate, Scatter: High, Cartridge: 76.2mm, Capacity: 16 Rounds, Effective at very long range vs. infantry & emplacements. 
+    	Abandoned QF 17-Pounder AT Gun Emplacement. Re-crew with infantry.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Flak Gun, Rate of Fire: 220 rounds per minute, Cartridge: 20x138mm, Capacity: 20 Rounds, Effective at long range vs. infantry, light vehicles, & aircraft. 
+    	Type: Flak Gun, Rate of Fire: 220 rounds per minute, Cartridge: 20x138mm, Capacity: 20 Rounds, Effective at long range vs. infantry, light vehicles, & aircraft. 
+    	Type: Flak Gun, Rate of Fire: 120 rounds per minute, Cartridge: 40×311mm, Capacity: 20 Rounds, Effective at long range vs. infantry, light vehicles, & aircraft. 
+    	Type: Flak Gun, Rate of Fire: 120 rounds per minute, Cartridge: 40×311mm, Capacity: 8 Rounds, Effective at long range vs. all targets.
+    	Type: Flak Gun, Rate of Fire: 120 rounds per minute, Cartridge: 40×311mm, Capacity: 8 Rounds, Effective at long range vs. all targets.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Mortar, Blast Radius: Moderate, Penetration: Low, Scatter: Medium, Cartridge: 81.2mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortars x2, Blast Radius: Moderate, Penetration: Low, Scatter: Medium, Cartridge: 81.2mm, Effective at long range vs. infantry & emplacements. 
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	The Bofors QF 40mm Emplacement, typically used in an anti-aircraft role, uses high velocity rounds to give it good accuracy against lightly armored ground and air targets.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: Moderate, Scatter: Moderate, Cartridge: 7.5cm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: Moderate, Scatter: Moderate, Cartridge: 7.5cm, Effective at very long range vs. infantry & emplacements. 
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: Moderate, Scatter: Moderate, Cartridge: 10.5cm, Effective at very long range vs. all targets.
+    	Type: Rocket Launcher, Blast Radius: Moderate, Penetration: Moderate, Scatter: High, Cartridge: 76.2mm, Capacity: 16 Rounds, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 10.5cm, Effective at very long range vs. all targets.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	One of the heaviest wheeled anti-tank guns of the war, the 88mm PaK 43 is capable of using long range, accuracy, and penetration to destroy any armored vehicle.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Anti-Tank Gun, Accuracy: Moderate, Penetration: High, Scatter: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Anti-Tank Gun, Accuracy: Moderate, Damage: Moderate, Penetration: Low, Cartridge: 57mm, Effective at long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: Moderate, Damage: Moderate, Penetration: Low, Cartridge: 57mm, Effective at long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: Moderate, Damage: Low, Penetration: Low, Cartridge: 57mm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: Low, Damage: Low, Penetration: Low, Cartridge: 3.7cm, Effective at medium range vs. light vehicles & emplacements.
+    	Type: Anti-Tank Gun, Accuracy: Moderate, Damage: Moderate, Penetration: Moderate, Cartridge: 7.5cm, Effective at long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: Moderate, Damage: Moderate, Penetration: Moderate, Cartridge: 7.5cm, Effective at long range vs. light vehicles & armour.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Anti-Tank Gun, Accuracy: Moderate, Damage: Moderate, Penetration: Moderate, Cartridge: 7.5cm, Effective at long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: Extreme, Penetration: Extreme, Cartridge: 8.8cm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: Extreme, Penetration: Extreme, Cartridge: 8.8cm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: Low, Damage: Low, Penetration: Low, Cartridge: 3.7cm, Effective at medium range vs. light vehicles & emplacements.
+    	Type: Anti-Tank Gun, Accuracy: Low, Damage: Low, Penetration: Low, Cartridge: 45mm, Effective at medium range vs. light vehicles & emplacements.
+    	Type: Anti-Tank Gun, Accuracy: Moderate, Damage: Moderate, Penetration: Moderate, Cartridge: 7.5cm, Effective at long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun/Howitzer, Accuracy: Moderate, Damage: Moderate, Penetration: Moderate, Cartridge: 7.5cm, Effective at long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun/Howitzer, Accuracy: Moderate, Damage: Moderate, Penetration: Low, Cartridge: 76mm, Effective at long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun/Howitzer, Accuracy: Moderate, Damage: Moderate, Penetration: Low, Cartridge: 76mm, Effective at long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: Extreme, Penetration: Extreme, Cartridge: 8.8cm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun/Rocket Launcher, Accuracy: Moderate, Damage: High, Penetration: High, Cartridge: 8.8cm, Effective at medium range vs. light vehicles & armour.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: High, Penetration: High, Cartridge: 8.8cm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: High, Penetration: High, Cartridge: 76.2×583mm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: High, Penetration: High, Cartridge: 76.2×583mm, Effective at very long range vs. light vehicles & armour.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: High, Penetration: High, Cartridge: 76.2×583mm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: High, Penetration: High, Cartridge: 85mm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: High, Penetration: High, Cartridge: 85mm, Effective at very long range vs. light vehicles & armour.
+    	7.5 cm Panzerabwehrkanone 40
+    	Pak 40 7.5cm AT Gun
+    	7.5 cm Panzerabwehrkanone 40
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	Pak 43 8.8cm AT Gun
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	Pak 43 8.8cm AT Gun
+    	76-mm Divizionnaya Pushka Obraztsa 1942 Goda. (ZiS-3)
+    	76-mm Divizionnaya Pushka Obraztsa 1942 Goda. (ZiS-3)
+    	ZiS-3
+    	76-mm Divizionnaya Pushka Obraztsa 1942 Goda. (ZiS-3)
+    	76-mm Divizionnaya Pushka Obraztsa 1942 Goda. (ZiS-3)
+    	ZiS-3
+    	M-42
+    	M1942 45mm Anti-Tank Gun
+    	M1942 45mm Anti-Tank Gun
+    	D-44 85mm AT Gun Emplacement
+    	7.5 cm Panzerabwehrkanone 40
+    	Pak 40 7.5cm AT Gun
+    	7.5 cm Panzerabwehrkanone 40
+    	QF 17-Pounder Anti-Tank Gun Emplacement
+    	QF 17-Pdr. AT Gun Emplacement
+    	QF 17-Pounder Anti-Tank Gun Emplacement
+    	Ordnance ML 3-Inch Mortar Emplacement
+    	Ordnance ML 3-Inch Mortar Emplacement
+    	ML 3-Inch Mortar Emplacement
+    	57 mm Gun, M1
+    	QF 17-Pounder Anti-Tank Gun Emplacement
+    	QF 17-Pounder Anti-Tank Gun Emplacement
+    	QF 17-Pdr. AT Gun Emplacement
+    	Line/Panzergrenadiere infantry, (Traits: + Entrench Tanks, + Mechanized Assault): Large weapon selection, use for medium-long ranged support, or covering vehicles. Limit of 2 Squads.
+    	Paratrooper infantry, heals passively, tenacious troops armed with advanced automatic rifles, adaptable to any situation. 
+    	Paratrooper/Assault infantry, (Traits: + Passive Healing, + Camouflage, + Airdropped Upgrades): Tenacious troops armed with automatic rifles, adaptable to any situation. Limit of 2.
+    	Regio Esercito Fanteria Squad
+    	7ª Divisione fanteria
+    	Armaments: (K98s, MP40), *MG34, *Pzb. 39, Training: Varied, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (K98s, MP40), *G43s x2, *MP40s x2, *G43, Training: Varied, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Carcano M91/41s, MP40), *G43s x2, *MP40s x2, *G43, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+    	Regio Esercito MG42
+    	Regio Esercito MG42
+    	Armata a 3-a Română Secţia infanterie
+    	3rd Română Infanterie
+    	Armaments: (Vz. 24s), *ZB vz. 30, *G43-Zf4, *Lewis Gun, *MG34, Skill: Poor, Role: General Purpose.
+    	Második Magyar Hadsereg Assault Team
+    	2nd Hungarian Gyalogsági keret
+    	Armaments: (K98s, StG44), *G43s x2, *MP40s x2, *FmW 35, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+    	Assault infantry, arrives with random experience, best used to augment other troops, or to protect the flanks.
+    	Armaments: (Gewehr M1895s, StG44), *G43s x2, *MP40s x2, *FmW 35, *31M Golyószóró, *43M Páncéltörő, Skill: Regular, Role: Assault.
+    	Kampfgruppe 
+    	Regio Esercito Kampfgruppe
+    	Italy's Royal Army forces can be deployed to the battlefield. These elite infantry units are excellent against infantry at all ranges.
+    	Italy's Royal Army forces can be deployed to the battlefield. This battlegroup is able to effectively engage light targets, such as infantry and armored cars.
+    	Deploy Regio Esercito Infantry Squad x1, MG42 GPMG x1, and Sdkfz. 234 'Puma' x1. Click and select location to deploy.
+    	4 Command Points
+    	Armia Krajowa Battlegroup
+    	Romania's 3rd Army forces can be deployed to the battlefield. This battlegroup is able to effectively engage light targets, such as infantry and armored cars.
+    	Romania's 3rd Army forces can be deployed to the battlefield. This battlegroup is proficient in providing fire support for advancing troops.
+    	Deploy Armata a 3-a Română Infanterie Section x2, Panzer IV Ausf. H x1. Click and select location to deploy.
+    	Panzer Lehr Reconnaissance Kampfgruppe
+    	Hungary's 2nd Army forces can be deployed to the battlefield. This battlegroup is proficient in providing fire support for advancing troops.
+    	Hungary's 2nd Army forces can be deployed to the battlefield. This battlegroup is excellent at conducting assault operations.
+    	Deploy 90. Grenadier-Division Pz.Gren Squad x1, Sdkfz. 250 Halftrack x1. Click and select location to deploy.
+    	5 Command Points
+    	5 Command Points
+    	Built from the ashes of the 185ª 'Folgore' in late 1942, the 184th distinguished itself in the brutal operations against Yugoslavian partisans. Sent to reinforce Sicily in July 1943, ‘Nembo’ skillfully shielded the Axis retreat from repeated attacks.
+    	<locstring name="extra_text" value="601" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Composed primarily of reservists, the 2nd Hungarian Army began Operation Barbarossa with roughly 200,000 men. Supporting the Wehrmacht in the bitter street fighting in Stalingrad, the 2nd suffered eighty-four percent casualties.
+    	The 3rd Romanian Army exhibited numerous instances of heroism during the ferocious street fighting of Stalingrad. Reassigned to flank security along a 138 km front, it faced the full power of the Soviet Operation Uranus in late 1943.
+    	Armaments: (MG42, Carcano M91/41s, MAB-38), Crew: 5, Training: Regular, Role: Suppression.
+    	Relief Infantry
+    	If this squad is lost, it will be replaced by Straff infantry.
+    	Click to activate. Duration 180s. Replaces up to 4 squads. New squads requisitioned upon losing 3 soldiers.
+    	Command releases reserve Straff squads to replace combat losses suffered while the ability is active.
+    	An Officer has been killed! Surrounding infantry are temporarily disoriented. Troops receive 10% slower rate-of-fire, and 5% increased chance of being hit. Duration: 15s.
+    	Disoriented
+    	Radio Intercept
+    	Fire Wounding Shot
+    	The sniper shoots to wound, critically injuring the target, and luring nearby infantry to aid their comrade.
+    	SS-Nachtjäger
+    	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds. Effective at long range vs. infantry. 
+    	Nachtjäger
+    	Infrared technology allows for the unit to detect camouflage units at a significantly longer distance.
+    	M6A3 HEAT Rockets
+    	Improves anti-infantry capability at long ranges. Replaces the current grenade ability.
+    	Improves anti-tank capability at all ranges. Weapon receives 33% increased penetration.
+    	Anti-tank teams are issued new M6A3 rockets for the M9 Bazooka, increasing overall effectiveness.
+    	Rocket Launcher, M9 'Bazooka' (M6A3)
+    	Nicknamed after a musical instrument, the Bazooka provides infantry a dependable, mid-range anti-tank weapon.
+    	Nicknamed after a musical instrument, the Bazooka provides infantry a dependable, mid-range anti-tank weapon. Use this weapon to replace any lost on the battlefield. 
+    	A replacement M9 'Bazooka' to be issued if one is lost on the battlefield. This launcher arrives with additional M6A3 rounds.
+    	Radio Station
+    	The Officer setup an Aid Station, the structure passively heals friendly troops, and allows for reinforcement out of combat.
+    	Forward Observation Post
+    	The Officer setup an Aid Station, the structure passively heals friendly troops, and allows for reinforcement out of combat.
+    	The Officer setup an Aid Station, the structure passively heals friendly troops, and allows for reinforcement out of combat.
+    	Forward Observation Post
+    	The Officer sets up a Forward Observation Post, the structure passively detects nearby enemy troops, and coordinates artillery support.
+    	Teardown the Forward Observation Post, Officer become mobile.
+    	The Officer is unable to move while the ability is active.
+    	Forward Observation Post
+    	Coordinated Mortar Fire
+    	Orders all long-distance mortar batteries to take aim and fire on the designated target.
+    	Left-click ability, left-click target. Fires 6 Rounds.
+    	Coordinated 25-Pounder Fire
+    	Issues a signal smoke grenade to designate long-distance HQ 25-Pounder targets.
+    	Improves anti-infantry capability at medium ranges. Replaces the current grenade ability.
+    	M9 M6A3 Bazooka
+    	Abandoned M9 M6A3 Bazooka; pick up with infantry.
+    	Armaments: (M1 Garands, M1928A1 Thompson), *M1 Carbines x2, *M1928A1 Thompsons x2, *Bren Mk. 2, *M9 Bazooka, Skill: Experienced, Role: Assault.
+    	Unlocks the Coldstream Guard, Yorkshire Light Infantry, M8 Greyhounds, M21s, ML 3-Inch Mortar Pits, QF 17-Pounders, Sextons, Sherman Vs, and Fireflies.
+    	M18 Recoilless Rifle
+    	M18 Recoilless Rifle
+    	Extra Munitions
+    	Squad receives extra ammunition to use, increasing rate-of-fire by 10% for 120s.
+    	Extra Munitions
+    	Extra Munitions
+    	Extra Munitions are dropped off for infantry usage. Allows infantry squads to heal themselves for a limited time.
+    	Munition Crates are dropped off for infantry usage. Troops receive 10% faster weapon rate-of-fire on pick-up.
+    	Select infantry and right-click on the Munition Crates to pickup. Duration: 120s.
+    	Extra Munitions allows the squad to fire more frequently for a limited time. Can be picked up three times.
+    	Munition Crates
+    	Armaments: (Lee-Enfields, M1928A1 Thompson), *STEN Mk. Vs x2, *Bren Mk. 2s x1/2, *PIAT, Skill: Elite, Role: Frontline.
+    	Scots Guard Division Rifle Section
+    	Scots Guard
+    	Line infantry, (Traits: + Passive Healing): Elite troops that are adaptable to ever-changing battlefield situations.
+    	The Scots Guard are esteemed members of Britain's finest infantry divisions. Continuing centuries of battlefield excellence, the Scots have eliminated all opposition in an efficient manner.
+    	For King & Country!
+    	Inspire mobile infantry troops to move quickly and attack more effectively.
+    	For King & Country!
+    	Paradrop M1 57mm Anti-Tank Gun
+    	Paradrop Dodge WC51 Utility Truck
+    	Left-click and left-click target position. This vehicle is dropped by air at the target location.
+    	Paradrop in a M1 57mm Anti-Tank Gun to the battlefield that can be manned by allied infantry. This weapon is effective against armored vehicles.
+    	Paradrop in a Dodge WC51 Utility Truck to the battlefield that can be manned by allied infantry. These vehicles are excellent at scouting and engaging at long range.
+    	Paradrop Ordnance ML 3-Inch Mortar
+    	Paradrop in an ML 3-Inch Mortar to the battlefield that can be manned by allied infantry. This weapon is effective against armored vehicles.
+    	Paradrop in an ML 3-Inch Mortar to the battlefield that can be manned by allied infantry. This weapon is effective against infantry & emplacements at long range.
+    	Throw M15 White Phosphorus Grenade
+    	Throw an Model 24 Incendiary Grenade that leaves an area burning for a short duration.
+    	Throw a 'Willy Pete' Grenade that leaves an area burning for a short duration.
+    	Incendiary/Smoke Grenade, a 'Willy Pete' Grenade that obscures vision and causing gruesome burns to any unfortunate soldier caught in its explosion or smoke cloud.
+    	M15 White Phosphorus Grenade
+    	An extremely potent smoke grenade that can burn most targets to a crisp at 5000 degrees Fahrenheit.
+    	Displace!
+    	The crew pushes the tank's straining engine to the limit! The tank will move faster, with a small chance of engine failure.
+    	Move quickly and focus on flank shots on enemy vehicles. The tank will move faster and be harder to hit.
+    	Medical Supplies. Select infantry and right-click on the Medical Supplies to heal that squad.
+    	Munition Crates. Select infantry and right-click on the Munition Crates to pickup.
+    	Toggle ability. Disables vehicle movement, and weapons while active.
+    	Toggle ability. Disables vehicle movement, and weapons while active.
+    	Orders all nearby 25-Pounder batteries to take aim and fire on the designated target.
+    	Coordinated 25-Pounder Fire
+    	Heroes of the Soviet Union
+    	Can only field 2 WC54 Ambulances at a time.
+    	Troops can reinforce from the vehicle when not moving.
+    	Allows for reinforcement in enemy territory when immobile. Projects healing aura when not in combat.
+    	Ambulance, WC54
+    	The Ambulance will halt the retreat of any nearby squads. 
+    	Nearby units are ordered to hit the dirt, providing extra protection, but unable to return fire.
+    	Throw M2 60mm Mortar Round
+    	The Mortar's shells can be struck against a surface and then thrown as a makeshift grenade.
+    	The 82mm mortar crew will fire four rounds into the target area.
+    	Left-click ability, left-click target area. Fires 3 Rounds. Troops receive 15% decreased weapon accuracy, 10% increased hit chance, and -15 sight radius.
+    	The 82mm mortar crew will fire rounds loaded with propaganda leaflets at the enemy.
+    	Fire 82mm A-832 (x3)
+    	Interrogate enemy casualties to briefly reveal all nearby enemy positions on the minimap.
+    	Left-click ability, left-click target infantry squad. Duration: 30s. Disables Retreat while active.
+    	The Officer reminds the squad the high cost of failure! Troops receive 20% faster rate-of-fire, 10% increased hit chance, and 100% suppression resistance.
+    	Coerce
+    	Rally!
+    	Rally!
+    	The Officer reminds the squad the high cost of failure! Troops receive 20% faster rate-of-fire, and 10% increased hit chance.
+    	No Surrender!
+    	No Surrender!
+    	Right-click to pick up.
+    	Resembling a mechanic's tool, the 'Grease Gun' was developed as the Thompson's inexpensive replacement, firing the same powerful .45 ACP round.
+    	Increases the durability of the unit. Upgrade leads to 40% increased armor, and 33% increased health.
+    	Increases the durability of the unit. Upgrade leads to 50% increased armor, and 33% increased health.
+    	Improves accuracy and vision. Upgrade leads to 20% increased weapon accuracy, +35 sight radius, and +35 camouflage detection range.
+    	Improves accuracy and vision. Upgrade leads to 20% increased weapon accuracy, +35 sight radius, and +35 camouflage detection range.
+    	Arms the section with a powerful 13.9x99mm Boys AT Rifle.
+    	The STEN's remarkable ability to use captured MP40 magazines and rounds, and simple production, made it a popular design amongst many countries.
+    	The suppressed variant of the STEN reduces the weapon's loud report, concealing the shooter's location, and making their target easier to suppress.
+    	The iconic and infamous Thompson submachine gun was popular amongst soldiers for its rate of fire and powerful .45 caliber shell.
+    	The iconic, and infamous Thompson became popular by soldiers for its thunderous rate of fire, and powerful .45 ACP rounds.
+    	The Czech-influenced Bren is a highly portable light machine gun with amazing accuracy, and the ability to fire on the move.
+    	A high-magnification scope fitted to the Lee-Enfield can strike fear in enemy infantry from afar.
+    	A sniper rifle variant of the Lee-Enfield is hand-selected from production, and then fitted with No. 32 scope for excellent headache-inducing accuracy at range.
+    	Affectionately called the 'Ack Pack,' the No. 2 is a close copy of Jerry's original flamethrower, ironically, meant to kill Jerry.
+    	The vehicle is authorized to ferry reinforcements to the front. Gains a short ranged reinforce radius. 
+    	4th Armored Division Veteran Tankers
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	The Grenadiere is the core infantry soldier of the German army. These troops are trained and experienced, capably led, and well equipped--the equal of any soldier in the war.
+    	Load Fragmentation Round
+    	Fires a fragmentation round with extremely reduced penetration, and damage, but with a massive blast radius. Deals increased damage against units not in cover.
+    	Left-click ability, left-click target position. Effective against infantry.
+    	Load RPzB. Gr. 4312B Incendiary Rocket
+    	Fires an incendiary rocket that engulfs the surrounding area in flames on impact. Rocket retains exceptional penetration against armour.
+    	Left-click ability, left-click target position. 
+    	4.5-Inch Incendiary Howitzer Barrage
+    	10.5cm Incendiary Howitzer Barrage
+    	122mm Incendiary Howitzer Barrage
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	The American-made Thompson arrived pre-packaged alongside helmets, and uniforms in Lend-Lease tanks. Lack of additional .45 ammo made it a rare sight.
+    	Veterancy 3
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	Regarded as the weapon of choice for the infantry, the MP40's ergonomic build, and steady rate-of-fire allows it to reliably hit enemies at range.
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	Nicknamed the 'Elephant Gun' due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	Nicknamed the 'Elephant Gun' due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	Nicknamed the 'Elephant Gun' due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	The 'Elephant Gun' as it is called due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	Nicknamed the 'Elephant Gun' due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	Nicknamed the 'Elephant Gun' due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	Nicknamed the 'Elephant Gun' due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	Nicknamed the 'Elephant Gun' due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	The 'Elephant Gun' as it is called due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	The 'Elephant Gun' as it is called due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	The 'Elephant Gun' as it is called due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	The 'Elephant Gun' as it is called due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	The 'Elephant Gun' as it is called due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	The 'Elephant Gun' as it is called due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	The 'Elephant Gun' as it is called due to its large caliber, and severely heavy recoil, it fires powerful .55 rounds capable of destroying anything short of a Panzer IV. 
+    	A semi-automatic Gewehr 43 fitted with the Zielfernrohr 43 telescopic sight allows for precise long-range shooting.
+    	Flammenwerfer 35
+    	Flammenwerfer 35
+    	Flammenwerfer 35
+    	Flammenwerfer 35
+    	Simonov's PTRS-41 anti-tank rifle is chambered for the powerful 14.5x11mm round, capable of decimating light armour, and infantry alike. Use this weapon replace any lost on the battlefield.
+    	Simonov's PTRS-41 anti-tank rifle is chambered for the powerful 14.5x11mm round, capable of decimating light armour, and infantry alike.
+    	Simonov's PTRS-41 anti-tank rifle is chambered for the powerful 14.5x11mm round, capable of decimating light armour, and infantry alike.
+    	Simonov's PTRS-41 anti-tank rifle is chambered for the powerful 14.5x11mm round, capable of decimating light armour, and infantry alike.
+    	Simonov's PTRS-41 anti-tank rifle is chambered for the powerful 14.5x11mm round, capable of decimating light armour, and infantry alike.
