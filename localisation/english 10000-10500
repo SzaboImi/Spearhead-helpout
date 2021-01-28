@@ -1,0 +1,500 @@
+    	Compared to similar weapons: (+ Suppressive, + Cheap, - Low Damage, - Poor Accuracy).
+    	Overview: Light Machine Guns
+    	Compared to similar weapons: (+ High Capacity, + Long Bursts, - Low ROF).
+    	The Light Machine Gun is a powerful weapon meant to suppress and kill multiple targets, however the weapon is slow to maneuver and reposition. 
+    	Overview: Rocket Launchers
+    	The Rocket Launcher is a potent anti-tank weapon useful against large targets such as tanks or structures, though is less practical against infantry or fast-moving cars.
+    	Compared to similar weapons: (+ Cheaper, - Lower Penetration).
+    	The Rocket Launcher is a potent anti-tank weapon that can also be employed against static defenses, however it suffers from a very slow reload time, making it an impractical choice against infantry.
+    	Overview: Recoilless Rifles
+    	The Recoilless Rifle is a shoulder fired weapon that produces a larger blast radius effective against infantry and buildings, but not as effective versus larger tanks. 
+    	Compared to similar weapons: (+ Large Blast, + Cheaper, - Lower Penetration).
+    	Overview: Flamethrowers
+    	The Recoilless Rifle is a shoulder fired weapon similar to a rocket launcher, producing a larger blast radius effective against infantry and buildings, but not as effective versus larger tanks. 
+    	Compared to similar weapons: (+ Large Blast, + Cheaper, - Lower Penetration).
+    	The Flamethrower is a close-ranged weapon with multiple uses: burning entrenched infantry, killing vehicle crew, and blinding tanks. 
+    	Compared to similar weapons: (+ Extra Range, - Low Damage, - Reduced Area-of-Effect).
+    	Overview: Marksman Rifles
+    	The Marksman Rifle is a precision rifle with increased range, accuracy, and sight radius; perfect for long-ranged shooting.
+    	Compared to similar weapons: (+ High Accuracy, - No Sight Increase, - Low ROF).
+    	Overview: Anti-Tank Rifles
+    	The Anti-Tank Rifle is a large caliber rifle best used to destroy highly-mobile light vehicles, but can be used on any other less-armored target to moderate effect.
+    	Compared to similar weapons: (+ High Accuracy, + High Damage, - Low ROF).
+    	Compared to similar weapons: (+ Extra Range, - Low Damage, - Reduced Area-of-Effect).
+    	Compared to similar weapons: (+ High Damage, + High Penetration, - Expensive).
+    	Compared to similar weapons: (+ High ROF, + High Accuracy, - Low Capacity, - Short Bursts).
+    	Compared to similar weapons: (+ High ROF, + High Accuracy, + Fast Suppression, - Short Bursts).
+    	Compared to similar weapons: (+ High Accuracy, + Fires on the Move, - Low Capacity, - Poor Suppression).
+    	Compared to similar weapons: (+ High Accuracy, + High Damage, + High ROF, - Short Bursts, - Low Capacity, - Expensive).
+    	Compared to similar weapons: (+ High Accuracy, + High Capacity, + High ROF, - Low Damage, - Expensive).
+    	Compared to similar weapons: (+ High ROF, + High Damage, + Fires on the Move, - Low Capacity).
+    	Compared to similar weapons: (+ High ROF, + High Capacity, - Poor Accuracy).
+    	Compared to similar weapons: (+ High Accuracy, + Higher Movement Accuracy, - Expensive).
+    	Compared to similar weapons: (+ High Accuracy, + Long Bursts, - Low ROF).
+    	Compared to similar weapons: (+ High Capacity, + Long Bursts, - Low ROF).
+    	Compared to similar weapons: (+ High Capacity, + High ROF, + Long Bursts, + Suppressive, - Poor Accuracy).
+    	Compared to similar weapons: (+ High Capacity, + High ROF, + Long Bursts, - Poor Accuracy).
+    	Compared to similar weapons: (+Cheap, + Long Bursts, - Poor Accuracy).
+    	Compared to similar weapons: (+Cheap, + Long Bursts, - Poor Accuracy).
+    	Overview: Carbines
+    	The Carbine is a small, compact weapon that allows for superior accuracy at close range, and on the move compared to a regular rifle, but does not hold the same firepower as an automatic weapon. 
+    	Compared to similar weapons: (+ High Capacity, + Long Bursts, - Low ROF).
+    	Compared to similar weapons: (+ High Accuracy, + Long Bursts, - Low ROF).
+    	Compared to similar weapons: (+ High Accuracy, + High Damage, + High Penetration, - Low ROF, - Slow Reload).
+    	Compared to similar weapons: (+ High Accuracy, + High Damage, + High Penetration, + Cheap, - Low ROF).
+    	<locstring name="brief_text" value="10022" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Compared to similar weapons: (+ High Accuracy, + Long Bursts, - Low ROF).
+    	Compared to similar weapons: (+ Fast Reload, + High Accuracy, + Long Bursts, - Low ROF).
+    	Compared to similar weapons: (+ High Accuracy, + Fast Reload, + Moving Accuracy, + Long Bursts, - Low ROF).
+    	Overview: Spigot Mortars
+    	The Spigot Mortar is a low-velocity weapon 
+    	Compared to similar weapons: (+ Cheaper, + Fire over Obstacles, - Low Projectile Speed, - Lower Penetration).
+    	Airdropped Weapons
+    	This weapon upgrade can be purchased without requiring a territory in supply.
+    	Compared to similar weapons: (+ High Capacity, + High Accuracy, - Low ROF).
+    	<locstring name="brief_text" value="10054" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	5 Command Points
+    	10th Mountain Division Rear Echelon Squad
+    	QF 25-Pounder Howitzer
+    	This building's howitzer require either Officers or Forward Bases to designate targets.
+    	Required player to have picked the Oberkommando West/Waffen-SS faction.
+    	Vodka!
+    	Timed. Duration 30s. Troops receive 25% reduced hit chance, 15% reduced damage, -25% decreased weapon accuracy, and 50% increased cold resistance. 
+    	The Red Army issues their troops vodka rations, to help foster morale, and to be used prior to launching an attack. It cannot be consumed if combat is already initiated.
+    	Ability cannot be used when already in combat.
+    	Vodka Rations
+    	Vodka is consumed prior to an attack, making the troops harder to kill.
+    	Sturmgewehr 44 (x4)
+    	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 4, Effective at medium range vs. infantry. 
+    	Armaments: (Lee-Enfield/Webleys, STEN Mk. IIS), *STEN Mk. IIS x2, *Bren Mk. 2, *Vickers K, *M1919A6, Skill: Elite, Role: Infiltration.
+    	Veterancy 2
+    	Crewed Weapons
+    	Static infantry, large weapon selection, useful for massed attacks or defending the flank.
+    	Unlocks the 3rd ID Riflemen.
+    	Price Reductions for the Stuart, and Sherman Tanks.
+    	Light Vehicles
+    	Tanks
+    	Unlocks the M4A3(76)W HVSS, and M26 Pershing.
+    	Crewed Weapons
+    	Unlocks the M1 Pack Howitzer, and M2HB .50 Cal Machine Gun.
+    	Unlocks the M10 TD.
+    	Unlocks the 101st Airborne Division.
+    	Vehicles
+    	Unlocks the 5th Infantry Squads, M3A1 Scout Cars, M21 Mortar Halftrack, Easy-Eight Tanks, and T34 Calliopes.
+    	Unlocks the 2nd Cavalry Troopers, and 305th BN Engineers.
+    	Unlocks the M1919A4.
+    	Unlocks the M20, M21, M8, M8A1 HMC, M4A3(76)W HVSS, and T-34 'Calliope'.
+    	Unlocks the 29th ID Riflemen.
+    	Unlocks the M1919A4, and M1 Pack Howitzer.
+    	Unlocks the M8A1 HMC, M7B1 'Priest', and M4A3(105) HVSS.
+    	Unlocks the 5th Ranger Battalion. 
+    	Unlocks the M1919A4, and M1 155mm.
+    	Unlocks the M21, M8, M8A1 HMC, and M4A3E2.
+    	Unlocks the M1 155mm Howitzer.
+    	Vehicles
+    	Light Vehicles
+    	Unlocks the M8 Armored Car.
+    	Unlocks the M10 TD, and M36 TD.
+    	Feldfunkgerät
+    	Manpower gain increased by 5%. Effective until structure is destroyed.
+    	Secured supply lines allow for a better flow of incoming resources.
+    	Manpower Blitz
+    	The versatile Panzer IV received multiple upgrades throughout the war to maintain frontline effectiveness. The 7.5 cm KwK 40 provided the Ausf. H with long range accuracy while integrated side-skirts improved survivability.
+    	Capable of destroying tanks at great range, the high velocity 7.5 cm StuK 40 turned the StuG III into a true multi-role assault gun. A low profile and additional armor significantly improved survivability against enemy medium tanks.
+    	Adding the high velocity StuK 40 7.5cm gun to the StuG III creates a true multirole assault gun. Capable of destroying tanks at great range, the StuG's low profile and additional armor grant it improved survivability against other medium tanks.
+    	Capable of destroying tanks at great range, the high velocity 7.5 cm StuK 40 turned the StuG III into a true multi-role assault gun. A low profile and additional armor significantly improved survivability against enemy medium tanks.
+    	Arms the Fighting Position with large crates of rifle grenades, allowing garrisoned infantry to fire them at will.
+    	Improves anti-infantry capability at long ranges.
+    	Holds one squad of infantry (does not hold weapon teams). Provides cover. 
+    	Small defensive structure. Can be upgraded with a Heavy Machine Gun and Rifle Grenades.
+    	An MG42 Heavy Machine Gun is emplaced inside and fires on a fixed arc to the front of the bunker. Can be used alongside a garrisoned weapon crew.
+    	The Horsa Glider HQ was severely damaged before touching down, It will not be able to reinforce, provide additional units, or become a retreat point until repaired.
+    	The 2-Inch Mortar Squad will fire a small barrage of mortar rounds into the targeted area.
+    	<locstring name="brief_text" value="3572" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Light mortar, (Traits: + Accurate, + Cheaper, + High ROF, - Low Damage, - Less Range): Inexpensive, but delivers less payload, use against static infantry behind cover.
+    	Armaments: (2-Inch, Lee-Enfields, STEN Mk. II), Crew: 3, Skill: Elite, Role: Indirect Fire.
+    	Armaments: (Vickers .303, Lee-Enfields, STEN Mk. II), Crew: 3, Skill: Elite, Role: Suppression.
+    	Armaments: (QF 6-Pounder, Lee-Enfields, STEN Mk. II), Crew: 3, Skill: Elite, Role: Anti-Tank.
+    	1st Airborne 2-Inch Mortar Team
+    	<locstring name="help_text" value="11051553" />
+    	<locstring name="help_text" value="11051553" />
+    	The highly compact 2-Inch Mortar provides valuable indirect fire support on the battlefield. The high-angle attack can hit targets hidden behind cover or buildings.
+    	The highly compact 2-Inch Mortar provides valuable indirect fire support on the battlefield, sacrificing range and some firepower for a high rate-of-fire.
+    	2-Inch Mortar Team
+    	Ordnance ML 2-Inch Mortar Team
+    	Ordnance ML 2-Inch Mortar Team
+    	2-Inch Mortar Team
+    	Ordnance ML 2-Inch Mortar Team
+    	2-Inch Mortar Team
+    	Ordnance ML 2-Inch Mortar Team
+    	2-Inch Mortar Team
+    	The highly compact 2-Inch Mortar provides valuable indirect fire support on the battlefield, sacrificing range and some firepower for a high rate-of-fire.
+    	The highly compact 2-Inch Mortar provides valuable indirect fire support on the battlefield, sacrificing range and some firepower for a high rate-of-fire.
+    	The highly compact 2-Inch Mortar provides valuable indirect fire support on the battlefield, sacrificing range and some firepower for a high rate-of-fire.
+    	The highly compact 2-Inch Mortar provides valuable indirect fire support on the battlefield, sacrificing range and some firepower for a high rate-of-fire.
+    	4 Command Points
+    	4 Command Points
+    	ML 2-Inch Mortar
+    	ML 2-Inch Mortar
+    	Type: Mortar, Blast Radius: Low, Penetration: Low, Scatter: Moderate, Cartridge: 60mm, Effective at long range vs. infantry & emplacements. 
+    	Type: Mortar, Blast Radius: Low, Penetration: Low, Scatter: Moderate, Cartridge: 53mm, Effective at long range vs. infantry & emplacements. 
+    	Unlocks the WC51, M3A1, Sherman Firefly, and AS.58 Horsa.
+    	Vehicles
+    	Eagle Eye
+    	The squad advances at a steady pace, improving accuracy while on the move. 
+    	Eagle Eye
+    	The light infantry squad puts their marksmanship skill to use, increasing range and sight radius, while exposing them to enemy fire.
+    	Toggle on/off. Locks any sprint, and tactical ability while active. 
+    	Toggle on/off. Locks any sprint, and tactical ability while active. 
+    	Eagle Eye
+    	The light infantry squad puts their marksmanship skill to use, increasing range and sight radius, while exposing them to enemy fire.
+    	Brandenburg Kommandos
+    	Brandenburg Kommandos
+    	Airdropped M1A1 Thompsons (20rd.)
+    	The iconic, and infamous Thompson became popular by soldiers for its thunderous rate of fire and powerful .45 ACP rounds.
+    	Type: Submachine Gun, Rate of Fire: 700 rounds per minute, Cartridge: 11.43×23mm, Capacity: 20 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	The paratroopers utilize shorter magazines for their Thompsons to avoid getting caught or injured by the magazine during a combat drop.
+    	New units available in the Forward Supply Station & Command Bunker (Built by Pioneres). Only ONE Kampfgruppe can be chosen in a single match.
+    	Deploy Armata a 3-a Română Infanterie Sections x2. Click and select location to deploy.
+    	Romania's 3rd Army forces can be deployed to the battlefield. This battlegroup can spearhead an advance.
+    	Armata a 3-a Română Mechanized Kampfgruppe
+    	3 Command Points
+    	3 Command Points
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat. Delay 2s.
+    	<locstring name="extra_text" value="11090224" />
+    	Left-click to activate. Delay 2s. Duration: 12s.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat. Delay 2s.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat. Delay 2s.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat. Delay 2s.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat. Delay 2s.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat. Delay 2s.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat. Delay 2s.
+    	Smoke blocks line of sight. Delay 2s.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat. Delay 2s.
+    	<locstring name="extra_text" value="5663" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Deploy 8th Gurkhas Rifle Section x2. Click and select location to deploy.
+    	Deploy 10th Indian Rifle Section x2. Click and select location to deploy.
+    	Deploy 10th Indian Rifle Sections x2. Click and select location to deploy.
+    	Deploy 10th Indian Rifle Sections x3. Click and select location to deploy.
+    	10th Indian Divisional Relief Battlegroup
+    	The 10th Indian Infantry Division can be deployed to the battlefield. This battlegroup can be used to quickly reinforce a falling line.
+    	2/17th Battalion Mechanized Battlegroup
+    	The Australian 2/17th Rifle Section can be deployed to the battlefield. This battlegroup excels at conducting reconnaissance and marksmanship.
+    	The Australian 2/17th Rifle Section can be deployed to the battlefield. This battlegroup excels at assaulting isolated positions.
+    	Deploy 2/17th Battalion Rifle Section x1, Universal Carrier x1. Click and select location to deploy.
+    	Deploy 42nd Blackwatch Rifle Section x1, AEC Armoured Car x1. Click and select location to deploy.
+    	The Scottish 42nd 'Black Watch' Regiment can be deployed to the battlefield. This battlegroup is excellent at conducting assault operations.
+    	42nd 'Black Watch' Regimental Battlegroup
+    	42nd 'Black Watch' Mechanized Battlegroup
+    	The Scottish 42nd 'Black Watch' Regiment can be deployed to the battlefield. This battlegroup is ideal for long range scouting, or hunting enemy armor.
+    	Unreleased. Coming soon!
+    	Throw 'Splitterring' Grenade
+    	Frag Grenade, a standard issue Model 24 Stick Grenade fitted with a fragmentation sleeve for increased kill radius and improved suppression.
+    	'Splitterring' Grenade
+    	<locstring name="extra_text" value="1616" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	A Model 24 Stick Grenade with a fragmentation sleeve for increased kill radius and improved suppression.
+    	Smoke/Impact Grenade, the No. 77 Grenade explodes in a large cloud of smoke, perfect for obscuring vision of weapon teams and larger threats.
+    	Throw No. 77 Smoke Grenade
+    	(PASSIVE) Wunderwaffe
+    	<locstring name="extra_text" value="2740" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	SS-Sturmgrenadieres receive the MP40/I submachineguns (Upgrade), SS-Sturmpioneres receive StG44 assault rifles (Upgrade).
+    	The 17th-SS Panzer
+    	The 17th SS-Panzergrenadiere Division is well-equipped with additional StG44 rifles.
+    	Deploy 6. SS-Mountain Division Jäger Squad x1, SdKfz 251 Halftrack x1. Click and select location to deploy.
+    	The 6. SS 'Nord' Division can be deployed to the battlefield. This battlegroup is able to quickly move up to the frontline, regardless of extreme weather conditions.
+    	6. SS-Mountain Mechanized Kampfgruppe
+    	21st SS-Mountain Mechanized Kampfgruppe
+    	Deploy 21st SS-Mountain Division Jäger Squad x1, Sdkfz. 251 Flame Halftrack. Click and select location to deploy.
+    	The 21st SS-Mountain 'Skanderbeg' Division can be deployed to the battlefield. This battlegroup can quickly burn out entrenched enemy positions.
+    	7th SS-Volunteer Mountain 'Prinz Eugen' Divisional Kampfgruppe
+    	Infiltrate ‘Prinz Eugen’ Jägers
+    	Infiltrate 6. SS-Jägers
+    	Infiltrate 13. Handschar SS-Jägers
+    	New unit - Kommandos - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	New unit - 6. SS-Jägers - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	New unit - 6th SS-Jägers - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	New unit - 13. SS-Jägers - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	New unit - 6th SS-Jägers - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	New unit - ‘Prinz Eugen’ Jägers - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	The SS-Freiwilligen-Gebirgs-Division ‘Prinz Eugen’ can be deployed to the battlefield. This battlegroup can flank enemy positions and destroy enemy structures.
+    	The 6. SS 'Nord' Division can be deployed to the battlefield. This battlegroup can flank enemy positions and disrupt supply lines.
+    	The 13th-SS 'Handschar' Division can be deployed to the battlefield. This battlegroup can flank enemy positions and disrupt supply lines.
+    	Plant HHL-3 'Panzerknacker' Grenade
+    	4 cm Flugzeugabwehrkanone 28
+    	4cm Flak 28
+    	4cm Flak 28
+    	<locstring name="screen_name" value="10223" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Originally a Swedish design, the 4 cm ‘Bofors’ was captured in large quantities as Nazi Germany conquered Europe. Renamed the FlaK 28, its heavier 4 cm shell was murderously effective against aircraft, infantry and light vehicles.
+    	<locstring name="screen_name" value="8676" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="8676" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Throw T-13 'BEANO' Grenade
+      Impact Grenade, a baseball-shaped frag grenade that explodes on impact, perfect for close quarters engagements. 
+    	Scout vehicle, (Traits: + Versatile Gun, + Highly Mobile, + Thick Armor, + High Detection Range): Pre-upgraded variant of the 221, versatile armored car that can effectively engage light armour, infantry, and aircraft.
+    	Armaments: 2 cm KwK 30 L/55, Coaxial MG34, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	This advanced four-wheel-drive scout car has good speed, and sloped armor adds protection from small arms. The 2cm KwK autocannon provides effective firepower against a variety of targets.
+    	Panzerspähwagen Sonderkraftfahrzeug 221
+    	221 Scout Car
+    	Sd. Kfz. 222
+    	Deploy 13th SS-Mountain Division 'Handschar' Jäger Squad x1, Sdkfz. 222 Scout Car x1. Click and select location to deploy.
+    	The 13th-SS 'Handschar' Division can be deployed to the battlefield. This battlegroup is able to counter enemy troops at long range.
+    	13th SS-Mountain Mechanized Kampfgruppe
+    	Conditioned Sprint
+    	Royal Engineers are the best combat engineers Britain has to offer, excelling in their field craft as well as combat.
+    	The Assault Pioneers 
+    	Royal Engineers are the best combat engineers Britain has to offer, excelling in their field craft as well as combat.
+    	SS-Panzer Crew
+    	Waffen-SS Panzer crews had a reputation for being well-trained, and displayed excellent teamwork. However, as with all armies, training quality eroded as the war went on.
+    	Feared, and utterly ruthless, the Waffen-SS had a number of Panzer Ace 
+    	The Third Reich's Panzer Crews formed the backbone of Germany's armoured fighting forces. Disciplined, and highly coordinated, their awe-inspiring skills and combat prowess earned the tanks fearsome reputations, and changed tank warfare forever.
+    	The Panzer Crews serving under the Waffen-SS are known for their ruthlessness and ferocity in combat. A handful of crews would go on to operate the Third Reich's heavy tanks; dealing out indiscriminate death on the battlefield.
+    	The Veteran SS-Panzer Crews achieved near mythical status amongst their peers and enemies alike for their lethality in combat. Halting entire armoured advances, destroying tanks from miles away was common occurrence for these men and their machines.
+    	Fire 7.5cm Precision (x6)
+    	The IG 18 crew will fire six highly accurate 7.5cm rounds at the target.
+    	Smoke/Rifle Grenade, shoots a stream of smoke that blocks line of sight, useful for temporarily blinding weapon teams and vehicles. Slows vehicles caught in the smoke.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at long range vs. emplacements & vehicles. Duration: 30s.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at long range vs. emplacements & vehicles. Duration: 30s.
+    	Left-click ability, left-click target position. Effective at short range vs. emplacements & vehicles. Duration: 30s.
+    	Smoke Grenade, blocks vision in a wide radius, allowing for troops to avoid potentially lethal encounters, or blind them.
+    	Anti-Tank Grenade, an improvised explosive stuffed into tar-covered sock; intended to immobilize rather than cause any serious damage.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at medium range vs. infantry, emplacements & armour.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Grenade Assault, a coordinated attack with hand grenades that can shred any infantry caught within, and smash defenses to pieces with shrapnel. 
+    	Left-click ability, left-click target position. Effective at medium range vs. infantry & emplacements.
+    	Smoke/Rifle Grenade, shoots a stream of smoke that blocks line of sight, useful for temporarily blinding weapon teams and vehicles. Slows vehicles caught in the smoke.
+    	Smoke/Rifle Grenade, shoots a stream of vision-obscuring smoke from afar, allowing troops to conceal positions without going dangerously close. Slows vehicles within the smoke.
+    	Left-click ability, left-click target position. Effective at long range vs. emplacements & vehicles. Duration: 30s.
+    	Anti-Tank Grenade, the 'Hafthohlladung' or 'Panzerknacker' is a powerful anti-tank grenade, risky to employ on a hostile tank, but almost guaranteed to destroy any target once planted.
+    	Left-click ability, left-click target position. Effective at medium range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. emplacements & vehicles. Duration: 30s.
+    	Left-click ability, left-click target position. Effective at medium range vs. emplacements & vehicles. Duration: 30s.
+    	Smoke Grenade, blocks sight lines from potentially lethal threats such as machineguns or tanks, throwing handle allows for further effective range.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements. Can de-crew light vehicles, and damage tank engines.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at medium range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Grenade Assault, a timely assault with massed frag grenades can make short work of static defenses or assaulting infantry. 
+    	Left-click ability, left-click target position. Effective at medium range vs. infantry, emplacements & armour.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry, emplacements & armour.
+    	Left-click ability, left-click target position. Effective at short range vs. emplacements & armour.
+    	Anti-Tank Grenade, shaped like an unassuming thermos flask, it can reliably penetrate and wreak havoc on nearly any enemy armour.
+    	Frag Grenade, the No. 36M Grenade often referred to as the 'Mills Bomb' fills an area with lethal shrapnel, killing or maiming any nearby infantry.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements. Duration: 20s.
+    	Throw Stielhandgranate
+    	Throw M1 Frangible Grenade
+    	<locstring name="extra_text" value="3320" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Smoke/Impact Grenade, utilizes caustic titanium tetrachloride to create a smoke screen, obscuring line of sight, disabling vehicle weapons, and harming infantry.
+    	Left-click ability, left-click target position. Effective at medium range vs. emplacements & vehicles. Duration: 20s.
+    	Left-click ability, left-click target position. Effective at short range vs. emplacements & vehicles. Duration: 20s.
+    	Left-click ability, left-click target position. Effective at medium range vs. emplacements & vehicles. Duration: 30s.
+    	Left-click ability, left-click target position. Effective at short range vs. emplacements & vehicles. Duration: 30s.
+    	Smoke Grenade, provides troops vital cover from heavy weapons, allowing them to better maneuver across the battlefield.
+    	Grenade Assault, a lethal attack made even better with fragmentation sleeves to improve kill radius.
+    	<locstring name="extra_text" value="10266" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Explosive Charge, bundled explosives that do heavy damage to stationary targets, can also destroy tanks if thrown directly at them.
+    	Explosive Charge, bundled explosives that do heavy damage to stationary targets, can also destroy tanks if thrown directly at them.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at medium range vs. infantry & emplacements.
+    	Frag Grenade, a highly effective grenade with both superior throwing range, kill radius, and overall suppression.
+    	Anti-Tank Grenade, bravery and an accurate throwing arm delivers this short-range but effective anti-tank grenade, dealing considerable damage against tanks.
+    	Left-click to select ability, left-click on enemy vehicle target. Effective at short range vs. vehicles.
+    	Left-click to select ability, left-click on enemy vehicle target. Effective at short range vs. vehicles.
+    	Left-click to select ability, left-click on enemy vehicle target. Effective at short range vs. vehicles.
+    	Left-click to select ability, left-click on enemy target. Effective at short range vs. vehicles & crewed weapons.
+    	Left-click to select ability, left-click on enemy vehicle target. Effective at short range vs. vehicles.
+    	Anti-Tank/Grenade Assault, extremely potent grenades are thrown en-masse at a single vehicle, obliterating the target with hollow charge explosives.
+    	Anti-Tank/Grenade Assault, extremely potent grenades are thrown en-masse at a single vehicle, obliterating the target with hollow charge explosives.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements.
+    	Incendiary Grenade, Molotov cocktails deliver explosively flammable liquid that can burn for a long duration, good against stationary infantry and area denial.
+    	Incendiary Grenade, Molotov cocktails deliver explosively flammable liquid that can burn for a long duration, good against stationary infantry and area denial.
+    	Incendiary Grenade, Molotov cocktails deliver explosively flammable liquid that can burn for a long duration, good against stationary infantry and area denial.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements. Duration: 20s.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements. Can de-crew light vehicles, and damage tank engines.
+    	Left-click ability, left-click target position. Effective at short range vs. infantry & emplacements. Duration: 20s.
+    	Left-click ability, left-click target area. Effective vs infantry, emplacements, & structures. Duration: 20s.
+    	Left-click ability, left-click target area. Effective vs infantry, emplacements, & structures. Duration: 20s.
+    	Left-click ability, left-click target vehicle. Effective at medium range vs. armour & emplacements.
+    	Left-click ability, left-click target. Effective at medium range vs. armour & emplacements.
+    	Left-click ability, left-click target vehicle. Effective at medium range vs. armour & emplacements.
+    	Left-click ability, left-click target vehicle. Effective at medium range vs. armour & emplacements.
+    	Left-click ability, left-click target vehicle. Effective at medium range vs. armour & emplacements.
+    	Fire Captured Panzerfaust-100
+    	Left-click ability, left-click target vehicle. Effective at long range vs. light vehicles.
+    	Left-click ability, left-click target position. Effective at medium range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at long range vs. infantry & emplacements.
+    	Left-click ability, left-click target position. Effective at long range vs. infantry & emplacements.
+    	Anti-Tank/Rifle Grenade, the No. 68 Anti-Tank grenade performs admirably against lightly-armoured targets, but can be used against tanks if no other weapons are available.
+    	Left-click ability, left-click target position. Effective at long range vs. infantry & emplacements.
+    	Rifle Grenade, a standard issue frag grenade is fired from a rifle, exploding and killing infantry after a short delay. 
+    	Left-click ability, left-click target vehicle. Effective at long range vs. light vehicles.
+    	Rifle Grenade, a lightweight 22mm explosive that can land with pinpoint accuracy on enemy infantry, causing moderate damage.
+    	First seeing combat at the Battle of France in 1940, 'Death's Head' Division has fought in many of the war's major battles, Considered the Waffen-SS' very elite, they forged a legendary reputation with their combat prowess and brutality.
+    	Known for their ruthlessness both in and out of combat, the division's core members were originally drawn from concentration camp guards, before 
+    	The Totenkopf has adorned German military uniforms for centuries, from 17th century Prussia to World War I Sturmtruppen. Adopted by concentration camp guards who formed the 3rd SS, it became synonymous with Nazi atrocities.
+    	Raised from the center of France, the 'Götz von Berlichingen' Division was formed from ethnic Germans and French volunteers. Being the only Panzergrenadiere division in Normandy, it inflicted severe casualties against three entire US divisions.
+    	The 17th SS forged a colored history, culminating in the ‘strangest battle of World War II’. Over 200 men from ‘GvB’ assaulted Castle Itter, which was defended by less than 30 Wehrmacht and US forces and a defected Waffen-SS officer.
+    	Raised from the center of France, the 'Götz von Berlichingen' Division was formed from ethnic Germans and French volunteers. Being the only Panzergrenadiere division in Normandy, it inflicted severe casualties against three entire US divisions.
+    	With a motto of 
+    	Nicknamed after a quote from their namesake, the ‘Lick my Ass’ Division fought with reckless abandon. Impressed by their fighting spirit, General Patton planned to reactivate the division to fight alongside the Allies in the Cold War.
+    	Created in November 1944, the SS-Panzer-Brigade 150 was a unit of ‘misfits’. Drawing its men from both the Waffen-SS and Wehrmacht, it was tasked with infiltrating enemy lines during the Ardennes campaign to sow panic and chaos.
+    	The best English speakers of the 150th, the ‘Einheit Stielau’ commandos shattered Allied morale and paralyzed coordination. Spreading fear and disarray, they caused several U.S. units to detain high-ranking officers and commit fratricide.
+    	The 'January' Division's name originates from Hitler rise to power in January 30th, 1933. Coincidentally, the division itself was formed 12 years later in the January of 1945 to fight in the fateful Battle of Berlin.
+    	After decimating the French army in 1940 the 3rd spearheaded Barbarossa, only to sustain eighty percent casualties in early 1942. Reformed as a Panzergrenadier division, it was crippled a year later in the attempt to relieve the 6. Armee.
+    	Originally fighting as the SS-Verfügungstruppe, the predecessors to the Waffen-SS, they were intended to serve as Hitler's personal army. However, political infighting led to the SS-VT being placed under army command, within their own divisions.
+    	The 'Das Reich' helped reclaim Kharkov in 1943, and later fought in the Kursk Salient, sustaining heavy casualties. Pulled again to France in October 1943 for refit, the unit was reorganized as the 2nd SS-Panzer Division before fighting the Allies in Normandy.
+    	The 'Empire' Division had fought as a regimental for two years before becoming full-fledged division in 1941. 
+    	The 'Das Reich' Division fought early on in the war as a regiment, suffering thousands of casualties during the height of Operation Barbarossa. However, the unit is known for mercilessly gunning down hundreds of French civilians and resistance fighters.
+    	The 'Hohenstaufen' Division served originally as a panzergrenadiere unit before being upgraded to a full-fledged panzer division. It fought valiantly on both the Western Front, and Eastern Front before finally surrendering to the Americans.
+    	The 9th SS-Panzer Division is named after a Germanic noble family reigning from the thirteenth to fourteenth century. Best known for their successful actions at Caen and during Market Garden, they are solid, dependable line infantry when on the defensive.
+    	The 9th SS-Panzer Division's core was formed primarily from men serving in the Reichsarbeitsdienst (Reich Labor Service), an organization that provided combat support via logistics and constructing defensive fortifications.
+    	Fedorov Avtomat (x2)
+    	Type: Assault Rifle, Rate of Fire: Semi-Automatic, Cartridge: 6.5x50mm, Capacity: 25 Rounds, Quantity: 2. Effective at medium range vs. infantry.
+    	The Fedorov Avtomat is chambered in the Japanese Arisaka round, however high recoil forced most users to fire it in semi-automatic. It can still provide suppression.
+    	Compared to similar weapons: (+ High Capacity, + High ROF, - Poor Accuracy).
+    	Compared to similar weapons: (+ Suppressive, + High Damage, - Low ROF, - Poor Accuracy).
+    	Exclusively used by elite US Paratroopers, the M1A1 featured a side-folding buttstock to further reduce bulk during a jump.
+    	Armaments: (SVT-40s, PPSh-41), *DP-28, *PTRS-41s x2, *PPSh-41s x2, *M91/30 PU, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Mosin-Nagants, PPSh-41), *DP-28, *PTRS-41s x2, *PPSh-41s x2, *M91/30 PU, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Mosin-Nagants, PPSh-41), *DP-28, *PTRS-41s x2, *PPSh-41s x2, *M91/30 PU, Training: Elite, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (Mosin-Nagants, PPSh-41), *DP-28, *AVS-36s x2, *PPSh-41s x2, *SVT-40-PU, *M1A1 Bazooka, Skill: Elite, Role: Frontline.
+    	46th Rifle Division Veteran Squad
+    	46th Rifle Veterans
+    	The 46th Rifle Division has an extensive history of sacrifice since its inception, being entirely wiped out twice at the outbreak of the war. Faithful, and unyielding, they fought in the war until the very end, occupying Germany after its defeat.
+    	4 Command Points
+    	Armaments: (Mosin-Nagants, PPSh-41) *DP-28, *ROKS-35, *ZB vz. 30, *PPSh-41s x2, Training: Elite, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (SVT-40s, PPSh-41) *DP-28, *ROKS-35, *ZB vz. 30, *PPSh-41s x2, Skill: Elite, Role: Assault.
+    	Armaments: (SVT-40s, PPSh-41), *PPSh-41s x2/4, *ROKS-35, *DP-28, Skill: Elite, Role: Assault.
+    	Armaments: (M1 Garands, M1A1 Thompson), *M1918A2 BAR, *M3 Grease Guns x2, *M1A1 Bazooka, *M9 Bazooka, Skill: Poor, Role: Anti-Tank. 
+    	Anti-tank/Support infantry, large weapon selection, superior at close quarters than other nations' counterparts.
+    	28th Infantry Division Riflemen Squad
+    	28th ID Riflemen
+    	Nicknamed the 'Bloody Buckets' by both American and German forces, the division suffered numerous casualties during the war. Tracing its lineage back to Benjamin Franklin's militia in 1747, the 28th is oldest continuously serving unit in the US Army.
+    	Anti-tank/Static infantry, versatile anti-tank weapon selection.
+    	Infantry
+    	Unlocks the 28th ID Riflemen.
+    	Distributes flares and field optics to the squad that are used to signal an artillery target to the HQ 25-pounder artillery battery.
+    	Unlocks the Coordinated Fire ability and increases squad vision. Replaces the No. 68 Anti-Tank Grenade ability.
+    	Timed. Duration 30s. Range: 35m. Ability leads to 25% faster movement speed, 25% increased weapon accuracy, and 20% faster weapon cooldown.
+    	Ordered to hold its positions at all costs, the 12,000 man strong 352nd ‘Pegasus Division’ faced the full force of Operation Overlord. Absorbing all manners of personnel to replenish its appalling losses, most of the unit fought to the last man.
+    	Formed in late 1944 around 272. Infanterie-Division veterans, the division was reinforced using excess Luftwaffe and Kriegsmarine personnel. Barely escaping the Hürtgen Forest and Ardennes, the unit finally capitulated at the Ruhr Pocket.
+    	Formed in 1940 as the 15. Panzer-Division, the unit was sent to fight under the Afrika-Korps in April 1941. Spirited and led by the legendary Rommel, the 15th crippled British forces at Halfaya Pass and helped capture Tobruk in June 1942.
+    	Formed in August 1941, the Afrika-Division z.b.V was designed to rebalance the Afrika-Korps. Renamed the 90. leichte-Afrika-Division in November, it sustained heavy losses at Sidi Rezegh during the breakout of the Tobruk garrison.
+    	Sent to Italy in 1943, the 278. Infanterie-Division simultaneously manned coastal defenses and conducted anti-partisan operations. Battered while defending the Gothic Line, remnants were reformed in early 1945 as Volksgrenadiere.
+    	Expertly-trained, well-armed, and guided by excellent leadership, the 3rd Fallschirmjägers suffered from a constant lack of manpower; they almost always arrived to the battle with six to twenty times as much firepower than their enemies.
+    	Formed from survivors of the 47th Infantrie, it was typically thought to be too inexperienced to fight. However, the division fought remarkably well during the Hürtgenwald Campaign against the US 1st Infantry Division, known as the 'Big Red One.'
+    	Intended to be a reserve division, the penal troops of the 500th Infanterie-Ersatz-Bataillon fought bravely to regain their rights as soldiers, and as citizens of the Third Reich. The division fought at Charkow, Kaukasus and Krymskaja.
+    	Rising from the dead, the 246th participated in heavy fighting in Smolensk before being destroyed, and subsequently reformed as a Volksgrenadiere division in 1944. Led by well-trained and experienced commanders, they quickly proved their worth.
+    	Composed of sixty-percent non-combat personnel, the 183rd sustained debilitating losses while defending Aachen. Crippled beyond recovery, survivors were used to reinforce the depleted 9th Panzer and 15th Panzergrenadier divisions.
+    	3rd ID Riflemen
+    	3rd Infantry Division Riflemen Squad
+    	4th Armored Division Riflemen Squad
+    	4th Armored Division Rear Echelon Squad
+    	The 3rd Armored 'Spearhead' Division was the very first Allied unit to step foot on German soil during the war. Smashing through Siegfried Line, the division saw the war to the very end. 
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 3s. Duration: 30s.
+    	The Officer decides here to make a stand, locking down the friendly territory from capture, while allowing other soldiers to retreat to the position.
+    	Last Stand!
+    	Infiltration Tactics
+    	Pinned.
+    	Infiltration Tactics
+    	The Officer acts as a retreat point, allowing other soldiers to retreat to his position.
+    	Territory Locked Down by Officer!
+    	The 'Marne Division' is the only United States Army unit to have engaged Axis forces on all European fronts. Fighting for 531 consecutive days, they were relentless in their assault, from North Africa, Sicily, Italy, France, Germany, to Austria.
+    	Load Kartätschenpatrone KwK Round
+    	Fires a shell filled with metal balls, shredding infantry on contact, and suppressing nearby troops. The 7.5cm round deals more damage than other canister shots due to extra filling.
+    	Raised in mid-1943, the 1st deviated from traditional British engineer formations. Specialised in breakthrough tactics, heavy explosives and supported by ‘Hobart Funnies’, the unit was designed for one purpose: breaking Hitler’s Atlantic Wall.
+    	Ubique!
+    	The Royal Engineers charge the enemy at full speed, ignoring suppression while being more vulnerable to enemy fire.
+    	Second To None!
+    	Ubique!
+    	Fire Smoke Grenade
+    	105-ya pv. NKVD Frontoviki
+    	105-y Pograníchnyye Voyská NKVD Frontoviki
+    	Armaments: (Mosin-Nagants/TT-33s, PPSh-41), *PPSh-41s x2/4, *ROKS-3, RNM-50, Skill: Experienced, Role: Assault.
+    	Armaments: (Mosin-Nagants/M1895s, PPSh-41), *wz. 1928, *SVT-40s x2, *PPS-43s x2, *PIAT, Skill: Experienced, Role: Infiltration.
+    	Brought to the Eastern Front via Lend-Lease, the PIAT fires arcing hollow-charge rounds able to destroy armoured targets.
+    	Protecting Russia's vast territories are the Soviet Border Guards. Extensively trained by the NKVD, these men are experts in subterfuge & sabotage, as well as combat. They bore the brunt of the intense frontline fighting during Operation Barbarossa.
+    	Infiltration infantry, (Traits: + Fast Camouflage, + Invisible on Minimap): Armed with a variety of foreign weapons, able to cause havoc within enemy lines.
+    	Infantry
+    	Unlocks the 166th Siberian Division Troops.
+    	Can only field 2 NKVD Border Guard squads at a time.
+    	Can only field (2) 16-ya Shtrafniki at a time.
+    	No Prisoners!
+    	Anti-aircraft vehicle, (Traits: + Versatile Gun, + High Mobility, - Low Durability): Use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	Anti-aircraft vehicle, (Traits: + High Damage, + Fast Suppression, - Slow Reload, - Low Durability): Use to defend against air strikes, or against light targets.
+    	Anti-aircraft vehicle, (Traits: + Versatile Gun, + High Mobility, - Low Durability): Use to provide suppressive fire, a firing platform, or bring in reinforcements.
+    	Anti-aircraft vehicle, (Traits: + High Damage, + Versatile Gun, - Narrow Firing Angle, - Low Durability): use to defend against air strikes, or against infantry.
+    	Armaments: M45 Quad Mount, Armor: 8mm, Role: Anti-Aircraft, Speed: 72 km/h.
+    	Beginning in 1944, the Browning Automatic Rifles were issued two per infantry squad, greatly increasing the amount of automatic suppressive fire it could generate.
+    	Produced by the Ford Motor Company in 1943, the M20 excels at reconnaissance, reaching top speeds of 55 mph on hard surfaces. Primarily a command vehicle, it can hold off against unarmored targets with its .50 caliber armament.
+    	Armaments: (M1 Carbines, M3 Grease Gun), *M1 Garands x2, *M3 Grease Guns x2, *M1919A6, *M1A1 Bazooka, Skill: Regular, Role: Vehicle Crew.
+    	Delayed-Fuze, high explosive rounds that detonate with a large blast after a short delay, highly effective against buildings.
+    	Left-click ability, left-click target area. Fires 4 Rounds.
+    	Schwere Panzerabteilungen
+    	Rifle, Cal .30, M1903A4 'Springfield' (M73)
+    	The M1903A4 Springfield is the US Army's standard sniper rifle, providing troops amazing accuracy from afar.
+    	Type: Rifle, Rate of Fire: Bolt-Action, Cartridge: 7.62x63mm, Capacity: 5 Rounds. Effective at long range vs. infantry. 
+    	Increases the durability of the unit. Upgrade leads to 25% increased health.
+    	Increases the durability of the unit. Upgrade leads to 25% increased health.
+    	Improvised Armor
+    	Tankers strapped anything from sandbags, logs, spare parts, to salvaged armor plates to their tanks in hopes of an extra layer of protection.
+    	Armaments: (M1895s, PPSh-41) *Mosin-Nagant M44s x2, *PPSh-41s x2, Training: Regular, Role: Vehicle Crew. Direct Combat is not advised.
+    	Armaments: (M1895s, PPSh-41) *PPSh-41s x2, Training: Regular, Role: Vehicle Crew. Direct Combat is not advised.
+    	Panzerabwehrbüchse 783(r)
+    	Simonov's single-shot PTRD anti-tank rifle proved far more reliable than the PTRS-41, while still being just as effective against light armored targets.
+    	Granatebüchse 39 Anti-Tank Rifle
+    	Granatebüchse 39 Anti-Tank Rifle
+    	Panzerbüchse 39
+    	Type: Anti-Material Rifle, Rate of Fire: Single-Action, Cartridge: 7.92x94mm, Capacity: 1 Round. Effective at long range vs. infantry. 
+    	The Panzerbüchse 39 (Tank Hunting Rifle, Model 39) fires heavy 7.92x94mm rounds that can punch through armoured vehicles. A secondary magazine near the breech aided reload times.
+    	Granatebüchse 39
+    	Type: Anti-Material Rifle, Rate of Fire: Single-Action, Cartridge: 7.92x94mm, Capacity: 1 Round. Effective at long range vs. infantry. 
+    	Type: Grenade Launcher, Rate of Fire: Single-Action, Cartridge: 30mm, Capacity: 1 Round. Effective at long range vs. infantry. 
+    	The Panzerbüchse 39 (Tank Hunting Rifle, Model 39) fires heavy 7.92x94mm rounds that can punch through armoured vehicles. A secondary magazine near the breech aided reload times.
+    	Based off of the Panzerbüchse Anti-tank rifle, this weapon has been modified to be a short-barreled grenade launcher. 
+    	Based off of the Panzerbüchse Anti-tank rifle, the GrB 39 weapon has been modified to be a short-barreled grenade launcher. 
+    	A shortened variant of the Panzerbüchse, the GrB. 39 is a modified weapon designed to fire rifle grenade rounds at the target.
+    	The Panzerbüchse 39 rifle fires high velocity 7.92x94mm rounds that can pierce light armor and take out infantry.
+    	A shortened variant of the Panzerbüchse, the GrB. 39 is a modified weapon designed to fire rifle grenade rounds at the target.
+    	Granatebüchse 39
+    	Granatebüchse 39 Grenade Launcher
+    	Granatebüchse 39
+    	Already armed with Satchel Charges!
+    	Improves demolition capability at close ranges. Replaces the Brandflasche ability. Locks out the Panzerfaust-100 upgrade & ability. 
+    	Improves demolition capability at close ranges. Replaces the Destroy Cover ability.
+      	Volksgrenadiers, Grenadieres, and Officers automatically camouflage themselves at Veterancy 1 whilst in cover.
+    	4 Command Points
+    	4 Command Points
+    	Veterancy 1
+    	The squad holds their fire and will conceal themselves in heavy cover after a short time. 
+    	Toggle on/off. Locks any sprint, and tactical ability while active. Disables auto-attack when camouflaged.
+    	Ambush!
+    	Ambush
+    	The squad holds their fire and will conceal themselves in cover after a short time. 
+    	(PASSIVE) First Aid Training
+    	The Grenadiere was a hardened combat veteran by the end of the war, having learned numerous skills necessary to stay alive just a little longer.
+    	Grenadieres receive First Aid Training (Upgrade).
+    	(PASSIVE) Fallschirmjägergewehr 42
+    	Volksgrenadieres receive the FG42 automatic rifles (Upgrade).
+    	The Luftwaffe has distributed their weapons to our frontline troops!
+    	(PASSIVE) Luftwaffe Feld Division
+    	(PASSIVE) Airdropped Weapons
+    	Grenadieres can requisition their weapon upgrades anywhere on the map.
+    	Luftwaffe supply drops can deliver additional firepower even within enemy territory!
+    	(PASSIVE) Maschinenpistole 717(r) 
+    	The Soviet PPSh-41 submachine gun was a frequent trophy taken from the hands of dead soldiers; many Grenadieres preferred it over their bolt-action rifles and their own MP40s. 
+    	Volksgrenadieres receive the Maschinenpistole 717(r) (Upgrade), Grenadieres receive the Panzerabwehrbüchse 783(r) (Upgrade), Pioneres receive Structure Repair (Upgrade).
+    	(PASSIVE) Panzerabwehrbüchse 783(r) 
+    	Grenadieres receive the Panzerabwehrbüchse 783(r) (Upgrade).
