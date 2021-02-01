@@ -1,0 +1,500 @@
+    	9 Command Points
+    	9 Command Points
+    	6 Command Points
+    	12 Command Points
+    	12 Command Points
+    	4 Command Points
+    	4 Command Points
+    	4 Command Points
+    	4 Command Points
+    	7 Command Points
+    	5 Command Points
+    	5 Command Points
+    	3 Command Points
+    	9 Command Points
+    	15 Command Points
+    	16 Command Points
+    	10 Command Points
+    	8 Command Points
+    	8 Command Points
+    	12 Command Points
+    	8 Command Points
+    	7 Command Points
+    	7 Command Points
+    	5 Command Points
+    	9 Command Points
+    	9 Command Points
+    	3 Command Points
+    	4 Command Points
+    	5 Command Points
+    	4 Command Points
+    	4 Command Points
+    	6 Command Points
+    	7 Command Points
+    	2 Command Points
+    	4 Command Points
+    	2 Command Points
+    	5 Command Points
+    	3 Command Points
+    	4 Command Points
+    	4 Command Points
+    	4 Command Points
+    	4 Command Points
+    	10 Command Points
+    	9 Command Points
+    	7 Command Points
+    	11 Command Points
+    	17 Command Points
+    	6 Command Points
+    	15 Command Points
+    	13 Command Points
+    	8 Command Points
+    	7 Command Points
+    	4 Command Points
+    	5 Command Points
+    	16 Command Points
+    	15 Command Points
+    	6 Command Points
+    	7 Command Points
+    	5 Command Points
+    	13 Command Points
+    	16 Command Points
+    	4 Command Points
+    	5 Command Points
+    	5 Command Points
+    	5 Command Points
+    	7 Command Points
+    	2 Command Points
+    	5 Command Points
+    	3 Command Points
+    	8 Command Points
+    	10 Command Points
+    	7 Command Points
+    	17 Command Points
+    	6 Command Points
+    	15 Command Points
+    	13 Command Points
+    	8 Command Points
+    	5 Command Points
+    	5 Command Points
+    	9 Command Points
+    	15 Command Points
+    	5 Command Points
+    	Frontoviki
+    	Replaces the RG-42 with another that has improved throwing distance and blast radius.
+    	Armaments: (M1910 Maxim, PPSh-41s), Crew: 3, Skill: Experienced, Role: Suppression. 
+    	Armaments: (82 mm PM-41, PPSh-41s), Crew: 3, Skill: Experienced, Role: Indirect Fire.
+    	Belarusian PM-41
+    	The Dodge WC51 Utility Truck is a light vehicle with a mounted .50 Cal and capable of transporting a single squad of soldiers.
+    	The WC54 Ambulance can distribute medical supplies to heal surrounding squads as well as transporting reinforcements to the front. The ambulance comes crewed with a medic squad which can heal injured squads.
+    	Dodge WC51
+    	Generates Manpower income and secures the sector when placed on a territory point.
+    	Generates Manpower income and secures the sector when placed on a territory point.
+    	Generates 5 Munitions per minute. 
+    	Generates 3 Fuel per minute. 
+    	Fortified Positions increase Manpower; the primary resource for dispatching most units. Manpower Upkeep is directly determined by the unit's population count.
+    	Munition Caches provide Munitions, which are used for weapon upgrades, explosives, airstrikes, barrages & producing certain artillery units.
+    	Fuel Caches provide Fuel, which is used to dispatch vehicles & to unlock more powerful units, and abilities.
+    	The 82mm mortar crew will fire six rounds into the target area.
+    	Left-click ability, left-click target position. Fires 1 Round.
+    	Barrage Weapon. Left-click ability, left-click target area. Fires 1 Round.
+    	Left-click ability, left-click target position. Fires 6 Rounds. Duration: 30s.
+    	Left-click ability, left-click target position. Fires 3 Rounds. Duration: 30s.
+    	Left-click ability, left-click target position. Fires 6 Rounds.
+    	Barrage Weapon. Left-click ability, left-click target area. Fires 6 Rounds.
+    	Barrage Weapon. Left-click ability, left-click target area. Fires 6 Rounds.
+    	81mm High-Explosive Barrage (x4)
+    	Fire 2-Inch High-Explosive (x4)
+    	Left-click ability, left-click target position. Fires 4 Rounds.
+    	Fire 81mm F57 (x6)
+    	Fire 81mm M57 (x3)
+    	Fire 60mm M49A2 (x4)
+    	Fire 60mm M302 (x6)
+    	Fire 60mm M302 (x3)
+    	81mm M57 White Phosphorous Barrage
+    	Fire 81mm F57 (x6)
+    	81mm High-Explosive Mortar Barrage
+    	81mm M45 Delayed Fuse Mortar Barrage
+    	81mm White Phosphorous Mortar Barrage
+    	Fire 2-Inch Smoke (x4)
+    	Fire 2-Inch Smoke (x3)
+    	75mm Howitzer Mobile Barrage
+    	75mm Howitzer Smoke Mobile Barrage
+    	75mm HEAT Howitzer Barrage
+    	75mm High Explosive Howitzer Barrage
+    	75mm White Phosphorous Howitzer Barrage
+    	105mm Creeping Howitzer Barrage
+    	Fire 3-Inch Smoke (x6)
+    	Fires 3-Inch White Phosphorous (x3)
+    	Fire 3-Inch High-Explosive (x8)
+    	Left-click ability, left-click target position. Fires 8 Rounds.
+    	Fire 3-Inch Smoke (x10)
+    	Left-click ability, left-click target; orient the barrage, left-click to confirm. Fires 10 Rounds. Duration: 30s.
+    	Fire 3-Inch High-Explosive (x1)
+    	Barrage Weapon. Left-click ability, left-click target area. Fires 1 Round.
+    	Fire 4.2-Inch High-Explosive (x1)
+    	Fire 4.2-Inch Smoke (x6)
+    	Fire 4.2-Inch High-Explosive (x6)
+    	Fire 120mm D-843A (x1)
+    	Fire 82mm O-832 (x1)
+    	Fire 120mm D-843A (x3)
+    	120mm High-Explosive Mortar Barrage
+    	Fire 82mm O-832 (x6)
+    	Fire 8cm Wgr. 34 (x4)
+    	Fire 8cm Illumination (x1)
+    	Fire 8cm Incendiary (x1)
+    	Left-click ability, left-click target area. Fires 1 Round.
+    	Fire 8cm Incendiary (x1)
+    	Left-click ability, left-click target position. Fires 1 Round. Duration: 20s.
+    	8cm Smoke Mortar Barrage
+    	Click to activate. Duration 60s. Refunds roughly 50% of the unit's original manpower cost. Does not include Snipers or Scouts.
+    	Immediately gain 60 munitions now, lose 80 manpower over 3 minutes. Current number of Munition Blitz's active shown on HQ portrait.
+    	Dispatch Maintenance Teams for the Waffenkammer.
+    	Will repair all damaged crewed weapons and buildings in the area.
+    	Preventative 
+    	Preventive Maintenance
+    	Will repair all damaged crewed weapons and buildings in the area.
+    	(PASSIVE) Tank Shock!
+    	Allows most German tanks to forcefully retreat suppressed enemy units without Veterancy. Does not include StuG III variants.
+    	Show the enemy the full might of Prussian steel combined with German engineering!
+    	(PASSIVE) Hull Down
+    	Volksgrenadieres, Grenadieres, & Panzergrenadieres are able to entrench the StuG III Ausf. E, Panther, and Tiger I.
+    	Our Panzer forces coordinate with friendly infantry to entrench their heavy tanks. Reminder - Hull Down is available regardless of doctrine.
+    	Losses are to be expected. Germany will provide additional manpower to bolster friendly forces.
+    	Field Infirmary
+    	Will heal all injured infantry units in the area.
+    	Left-click ability, left-click target area. Fires 6 Rounds. Delay: 10s. Cannot be used within command sector.
+    	Left-click ability, left-click target area. Fires 6 Rounds. Delay: 10s. Cannot be used within command sector.
+    	Left-click ability, left-click target area. Fires 3 Rounds.
+    	<locstring name="extra_text" value="12667" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Veterancy 2
+    	Improves vehicle capability at extremely close ranges. Replaces the current Brandflasche ability.
+    	Emergency Air Resupply
+    	A cargo plane will fly over the designated area and deliver an MG34 GPMG and a Pak 40 Anti-Tank Gun that can be manned by infantry.
+    	New unit - Armia Krajowa Command Team - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+    	An Armia Krajowa Command Team can be deployed to the battlefield. Partisans are irregular military units who excel at destroying targets of opportunity behind the lines.
+    	An Armia Krajowa Command Team can be deployed to the battlefield. The Command Team are deadly resistance fighters that also augment nearby Armia Krajowa forces.
+    	5 Command Points
+    	Armaments: (Mosin-Nagants, PPSh-41), *wz. 1928, *MG34, *M91/30-PU, *PTRS-41, Skill: Regular, Role: Guerilla.
+    	The Partisan Leader coordinates with nearby locals, allowing other Partisans to fire their weapons 15% more accurately, and being able to see into the fog of war.
+    	Can only field 1 Opel Blitz Supply Truck at a time.
+    	The vehicle crew is more cautious when moving, allowing it to maneuver without being detected at medium distances.
+    	Toggle ability. Detection Range: 25m. Delay: 5s. 
+    	Utility vehicle, (Traits: + Highly Mobile, - Easily Decrewed, - Unarmed): Captured truck that can be camouflaged behind enemy lines and divert resources from enemy capture points towards the player.
+    	Infiltrate Armia Krajowa Partyzants
+    	Can only field 1 Armia Krajowa Command Team.
+    	Opel Blitz Supply Truck
+    	This Opel Blitz is commandeered by Armia Krajowa personnel, they are able to divert resources from enemy capture points back to their own forces. Gains veterancy from nearby allies. 
+    	Pionier-Battaillon 45 Sturmpioniere
+    	Pionier-Battaillon 45 Sturmpioniere
+    	Armaments: (K98s, MP40), *Pzb. 39, *FmW 35, *MP40s x2, Training: Regular, Role: Engineer. Effective at medium range vs. infantry.
+    	Armaments: (K98s, MP40), *MP717(r)s x2, *FmW 35, *MP40s x2, *Panzerschreck, Skill: Experienced, Role: Assault.
+    	Assault/Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times): Crucial for defensive strategies, and keeping vehicles operational, can hold their own in combat.
+    	Sturmpionieres are highly-trained assault engineers that break through enemy lines with overwhelming firepower. They are armed with a wide array of weapons to destroy enemy infantry & emplacements.
+    	Assault/Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times): Highly-trained assault engineers adept at clearing enemy fortifications, can only repair structures.
+    	A sight-blocking smokescreen envelopes the target location. Smoke shells can harm infantry on direct impact.
+    	Left-click on target vehicle. Recon Plane circles around the target.
+    	Click and target position. Supplies take some time to arrive.
+    	Can only field (2) StuH 42s at a time.
+    	Veterancy 2
+    	10.5cm Breakthrough Artillery
+    	Can be used to call in battlegroup units to the field, as well as function as a retreat point. Battlegroups available are dependent on the selected doctrine.
+    	Command structure. Functions as a heavily reinforced Forward HQ if there are no suitable buildings to convert.
+    	Sudayev (PPS-43) (x2)
+    	Type: Submachine Gun, Rate of Fire: 700 rounds per minute, Cartridge: 7.62x25mm, Capacity: 35 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	The PPS-43 was produced in the millions to arm more soldiers with automatic firepower. Despite being crudely manufactured, it still performed favorably in combat. 
+    	Compared to similar weapons: (+ Accurate, + High ROF, + Cheap, - Short Bursts).
+    	10.5 cm leichte Feldhaubitze 18
+    	SS-Grenadiere Reserve Kampfgruppe
+    	Deploy SS-Grenadiere Squads x2. Click and select location to deploy.
+    	The SS-Grenadieres can be deployed to the battlefield. This battlegroup is versatile and can be used to quickly replace infantry losses.
+    	Panzer Lehr Armored Kampfgruppe
+    	10th-SS 'Frundsberg' Panzer Kampfgruppe
+    	SS-Grenadiere Reserve Kampfgruppe
+    	33rd W Reserve Kampfgruppe
+    	28th SS-Volunteer Division Waffen-Grenadiere
+    	33rd SS-Charlemagne Division Kampfgruppe
+    	2 Command Points
+    	Engineer/Line infantry, (Traits: + Repair Tools, + Faster Build Times, + Entrench Tanks): Recruited from the labor services for combat, these talented men are experts at fortification building, and conducting field repairs.
+    	10.5 cm leichte Feldhaubitze 18
+    	10.5 cm leichte Feldhaubitze 18
+    	leFH 18 Field Howitzer
+    	leFH 18 Field Howitzer
+    	<locstring name="screen_name" value="12719" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="12719" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	leFH 18 Field Howitzer
+    	leFH 18 Field Howitzer
+    	28. SS Waffen-Grenadieres
+    	5. SS-Freiwilligen-Sturmbrigade Waffen-Grenadiere
+    	4 Command Points
+    	Armaments: (SKS-45s/TT-33s, PPS-43), *RPD, *M91/30-PU, *PTRS-41-PU, *M1A1 Bazooka, Skill: Elite, Role: Scout.
+    	Light infantry, (Traits: + Passive Healing, + Camouflage, + Ignores Movement Penalties, + Cold Weather Resistance): Provides powerful long range support, reconnaissance, and blizzard capability. Limit of 2 Squads.
+    	Infiltration/Scout infantry, (Traits: + Passive Healing, + Camouflage, + Invisible on Minimap, + Interrogation): Elite special forces troops that can camouflage as long as they are not moving.
+    	New unit - ODON Recon Team - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+    	A four-man team of ODON Troops can be deployed to the battlefield. Recon Teams are specialized commando units that excel at infiltration.
+    	Infiltrate ODON Rekognostsirovky
+    	2 Command Points
+    	2 Command Points
+    	Can only field 2 Special Purpose Recon Teams at a time.
+    	Infiltrate 3. Fallschirmjäger GrW. 34 Team
+    	The 3. Fallschirmjäger GrW. 34 Team can be deployed to the battlefield. This weapon is effective against infantry hiding behind cover.
+    	New unit - 3. FJ GrW. 34 Team - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy. Will NOT infiltrate into buildings that cannot garrison mortars.
+    	Infiltrate 3. Fallschirmjäger RkW. 43 Team
+    	The 3. Fallschirmjäger RkW 43 Team can be deployed to the battlefield. This weapon is effective against even the most well-armoured targets on the battlefield.
+    	New unit - 3. FJ RkW 43 Team - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Armaments: (8.8 cm Raketenwerfer 43, MP40s), Crew: 3, Skill: Elite, Role: Anti-Tank.
+    	Armaments: (MG42, MP40s), Crew: 3, Training: Elite, Role: Suppression. Effective vs. massed infantry.
+    	Armaments: (8.1 cm GrW 34, MP40s), Crew: 3, Training: Elite, Role: Indirect Fire. Effective vs. static infantry and structures.
+    	5 Command Points
+    	7 Command Points
+    	Observation Bunker
+    	Improves unit detection. Only applies to this vehicle. Range: 120m.
+    	Improves unit detection, adds Retreat Point ability. Allows for detection of units within the fog of war. Can no longer garrison soldiers.
+    	Improves structure preservation. Can no longer garrison soldiers.
+    	Assigns the facility a maintenance crew who automatically repair nearby structures & crewed weapons.
+    	Communications & monitoring equipment are installed within the bunker, allowing it to receive reports of nearby enemy troops. 
+    	2 Command Points
+    	3 Command Points
+    	Veterancy 2
+    	5 Command Points
+    	3 Command Points
+    	5 Command Points
+    	Armaments: (Vz. 24s, MP40), *MG42, *ZB vz. 30, *G43-Zf4, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armata a 3-a Română Anti-Tank Kampfgruppe
+    	Deploy Armata a 3-a Română Anti-Tank Section x2. Click and select location to deploy.
+    	Romania's 3rd Army forces can be deployed to the battlefield. This battlegroup can provide support with anti-tank weaponry.
+    	4 Command Points
+    	Armata a 3-a Română sectiune anti-tancuri
+    	3rd Română Anti-Tank Section
+    	Armaments: (Vz. 24s, PTRD, Luger), *G43-Zf4, *Pzb. 39, *PTRD, *Panzerschreck, Skill: Regular, Role: Anti-Armor.
+    	Reinforced Bunker
+    	Reinforced Bunker
+    	Triage Station
+    	First Aid Bunker
+    	First Aid Bunker
+    	Observation Bunker
+    	Maintenance Bunker
+    	The experienced troops from the 'Lehr' Division can direct and motivate nearby soldiers and vehicle crews to fight harder.
+    	Another unit has inspired this squad, allowing them to fire with greater accuracy and rate of fire.
+    	Another unit has inspired this squad, allowing them to fire with greater accuracy and rate of fire.
+    	Második Magyar Hadsereg támadás
+    	Armaments: (Gewehr M1895s, FmW 41), Training: Regular, Role: Assault. Effective at medium range vs. infantry.
+    	Armaments: (Gewehr M1895s, FmW 41), Training: Regular, Role: Assault. Effective at medium range vs. infantry.
+    	Armaments: (Gewehr M1895s, FmW 41), Skill: Experienced, Role: Assault.
+    	Szent László Division Assault Team
+    	2nd Magyar Hadsereg Gyalogsági keret
+    	Szent László Division Assault Kampfgruppe
+    	Hungary's Szent László Division Assault Team can be deployed to the battlefield. This battlegroup arrives in three-man teams, each equipped with a flamethrower.
+    	Deploy Szent László Division Assault Team x2. Click and select location to deploy.
+    	4 Command Points
+    	Deploy Második Magyar Hadsereg Gyalogság Squad x2. Click and select location to deploy.
+    	Deploy Második Magyar Hadsereg Gyalogság Squad x1, StuG III Ausf. E x1. Click and select location to deploy.
+    	Area will be revealed for 8 seconds.
+    	Area will be revealed for 8 seconds.
+    	Tank traps, (Traits: + Durable, +/- Heavy Cover): Thick concrete blocks that can be used to block vehicle movement.
+    	Tank traps, (Traits: + Extremely Durable, +/- Heavy Cover, - Slow Build Time): Extremely durable pile of rubble that blocks movement. 
+    	Czech Hedgehog Tank Traps
+    	Czech Hedgehog Tank Traps
+    	Tank traps, (Traits: + Extremely Fast Build Time, +/- Light Cover, - Low Durability): Hastily-welded bits of metal that will block enemy vehicles.
+    	Tank traps, (Traits: + Extremely Fast Build Time, +/- Light Cover, - Low Durability): A crude line of construction beams planted into the ground, that surprisingly blocks tanks.
+    	Left-click to select, left-click drag to create a line. Provides light cover. Cannot be crossed by vehicles.
+    	Tank traps, (Traits: + Fast Build Time, +/- Light Cover): Hastily-welded bits of metal that will block enemy vehicles.
+    	B
+    	Primary defensive structure. Can upgrade to an MG Emplacement, Healing Station or Reinforcement Point.
+    	Bunker, wooden structure that can garrison a single squad of soldiers or a weapon team.
+    	Primary defensive structure, wooden structure that can garrison a single squad of soldiers or a weapon team.
+    	Crewed Weapons
+    	Infantry 
+    	Unlocks the 166-ya 'Sibir' Strelkovaya, and the 67-ya Gvardeyskaya.
+    	Troops are issued additional equipment to ensure survivability and improve scouting capability.
+    	6 Command Points
+    	8 Command Points
+    	When active, improves the resilience of British troops in friendly lands.
+    	When active, improves the resilience of Soviet troops in friendly territory.
+    	Stand Fast!
+    	Infantry units will receive a combat bonus while fighting in cover!
+    	122mm Sector Artillery
+    	Any enemy units entering a targeted sector are barraged with 122mm artillery.
+    	Combined Arms
+    	Anti-personnel/Flare mine, small fragmentation mine that fires up an illuminating flare round when triggered.
+    	Abandoned SU-100; re-crew with infantry
+    	Srédniy 'Samohodnaya Ustanovka' Istrebitel' Tankov SU-100
+    	Srédniy 'Samohodnaya Ustanovka' Istrebitel' Tankov SU-100
+    	Srédniy 'Samohodnaya Ustanovka' Istrebitel' Tankov SU-100
+    	SU-100
+    	Armaments: 85 mm M1939 D-5T, Armor: 65mm, Role: Tank Destroyer, Speed: 51 km/h. Effective at long range vs. armor. 
+    	Armaments: 100 mm D-10, Armor: 91mm, Role: Tank Destroyer, Speed: 30 km/h.
+    	Armaments: 85 mm M1939 D-5T, Armor: 65mm, Role: Tank Destroyer, Speed: 51 km/h. Effective at long range vs. armor. 
+    	The SU-100 Tank Destroyer is an evolution of the earlier SU-85 design, looking nearly identical from a distance. The powerful D-10 100mm gun can reach out at extended ranges, but has an ill-fitting rangefinder, hindering its potential accuracy.
+    	13 Command Points
+    	Can only field (2) SU-100s at a time.
+    	Load UOF-412 Fragmentation Round
+    	High-Explosive Anti-Tank Rounds
+    	UOF-412 Fragmentation Rounds
+    	High Explosive rounds are issued to the tank crew.
+    	Fragmentation rounds are issued to the tank crew.
+    	Load Fragmentation Round
+    	Radio Net
+    	Unlocks the Radio Net aura, which increases the effectiveness of tanks fighting alongside another.
+    	5th SS-Panzergrenadiere Division Panzergrenadiere Squad
+    	5th SS-Pz.Gren Panzergrenadieres
+    	Armaments: (K98s, MP40), *MP40s x2, *MG42, *Pzb. 39, *Panzerschreck, Training: Experienced, Role: General Purpose. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: (K98s, MP40), *MP40s x2, *MG42, *Pzb. 39, *Panzerschreck, Training: Experienced, Role: Assault. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: (K98s, StG44), *MP40s x2, *MG42, *FmW 35, *Panzerschreck, Skill: Experienced, Role: Assault.
+    	The Waffen-SS, just as the Wehrmacht, was not an entirely German force. The 5th SS-Panzer Division drew recruits from northern countries such as Denmark, Norway, Sweden, Finland, Estonia, the Netherlands and Belgium, under German command.
+    	The Waffen-SS, just as the Wehrmacht, was not an entirely German force. The 5th SS-Panzer 'Wiking' Division drew recruits from northern countries such as Denmark, Norway, Sweden, and Finland under German command.
+    	Built in January 1944 from existing Estonian SS units, the 20th was immediately sent to defend Narva. Tasked with eliminating the massive Soviet bridgehead, the unit used Estonian ‘rolling’ tactics to pierce and cleanse enemy defenses.
+    	Armaments: (K98, MP40), *G43s x2, *MP40s x2, *MG34, *Panzerschreck, Skill: Regular, Role: Frontline.
+    	Unreleased. Coming soon!
+    	Deploy 10th SS-Panzer Division Panzergrenadiere Squad x1, Sdfkz. 250 x1, Panzer IV Ausf. H x2. Click and select location to deploy.
+    	Veterancy 2
+    	Französisches SS-Freiwilligen-Gren.-Regiment Grenadiere
+    	33. SS Waffen-Grenadieres
+    	Armaments: (K98s, MP40), *G43s x2, *StG44-Zf4 x2, *MG34, *FmW 35, Skill: Experienced, Role: General Purpose.
+    	The 33rd Waffen Grenadieres can be deployed to the battlefield. This battlegroup is versatile and can be used to quickly replace infantry losses.
+    	Deploy 33. Waffen Grenadiere Squads x2, 33. SS-Hauptscharführer x1. Click and select location to deploy.
+    	Waffen-Gren.-Brigade d. SS (franz. Nr. 1) Hauptscharführer
+    	Waffen-Gren.-Brigade d. SS (franz. Nr. 1) Hauptscharführer
+    	The 33. Waffen Grenadieres can be deployed to the battlefield. This battlegroup is extremely adaptable and is accompanied by a senior sergeant.
+    	The Untersturmführers (Second Lieutenants) are junior officers of the Waffen-SS, all having served with distinction within the enlisted ranks. Later in the war, many were granted the position out of dire necessity.
+    	Instrumental in securing Belgium and Holland, the 7th spearheaded the push to the Maas in late 1944. Finally punching through German lines in early 1945, the division liberated Bergen-Belsen on April 6th before finishing the war at Hamburg.
+    	Pulled to England in November 1943, the 7th was outfitted with new Cromwells and Fireflies for Overlord. Responsible for the capture of Villers-Bocage, the unit rendered both the 2. Panzer and Panzer-Lehr Divisions unfit for frontline service.
+    	Commanded by Major-General Percy Hobart, the 79th was built in response to the tragic Dieppe Raid. Using Hobart’s technical expertise, the ‘Black Bulls’ engineered custom vehicles that could land on the beaches of France and continue inland.
+    	The 79th introduced the concepts of APCs, mine flails, bridge layers, and LVTs, all of which became staples in modern combat. However, the odd designs of the vehicles earned them the colloquial nickname ‘Hobart’s Funnies’.
+    	Operating as small detachments, the 79th tirelessly supported Allied units across the West Front.  An invaluable asset with their specialised vehicles, Winston Churchill ordered British forces not to engage unless the ‘Black Bulls’ were in support.
+    	Fielding APCs, mine flails, bridge layers and LVTs, the 79th introduced concepts that later became staples of modern combat. Bizarre yet irreplaceable, the vehicles’ odd designs earned them the colloquial nickname ‘Hobart’s Funnies’.
+    	Reformed with two battalions after Dunkirk, the Grenadier Guards served gallantly under the famed Eighth Army in Tunisia. Despite heavy casualties, the ‘Regiment’ fought until the North African campaign ended in May 1943. 
+    	After Africa, the ‘Regiment’ served with distinction in Anzio, before forming the British vanguard in France. The Grenadier Guard liberated Brussels in mid-1944 and crossed Nijmegen Bridge in September, finishing the war in Germany.
+    	Tracing its heritage to 1685, the Royal Fusiliers have served with distinction across the Empire. Attached to the British Expeditionary Force in 1940, the Fusiliers fought in the Battle of France before being evacuated from Dunkirk.
+    	Serving two years as home defense, the Royal Fusiliers were sent to Tunisia in 1943. Transferred to Italy in September, the Fusiliers fought tenaciously at Salerno and Monte Cassino before relieving British forces at Anzio in February 1944.
+    	After breaking out of Anzio, the Fusiliers were airlifted in October 1944 to fight in the Greek Civil War. Subsequently, many of its battalions were transferred to the Far East to train troops in jungle warfare for the Burma Campaign.
+    	The startling success of the Blitzkrieg and Panzer Divisions showed the Allies the power of modern armored combat. Under Major-General Percy Hobart, Britain formed the 11th Armoured Division in 1941 to bolster its armoured forces.
+    	The ‘Black Bull’ trained diligently from 1941 until June 1944, where it swept through Normandy. The 11th spearheaded the drive to Amiens, the fastest and deepest Allied penetration of German lines, before capturing Antwerp in September.
+    	After securing the Netherlands in late 1944, the ‘Black Bull’ struggled to break German defenses along the Lower Rhine. Finally crossing into Germany in March 1945, the 11th captured Lübeck in May before liberating Bergen-Belsen in April.
+    	The startling success of the Blitzkrieg and Panzer Divisions showed the Allies the power of modern armored combat. Under Major-General Percy Hobart, Britain formed the 11th Armoured Division in 1941 to bolster its armoured forces.
+    	The ‘Black Bull’ trained diligently from 1941 until June 1944, where it swept through Normandy. The 11th spearheaded the drive to Amiens, the fastest and deepest Allied penetration of German lines, before capturing Antwerp in September.
+    	After securing the Netherlands in late 1944, the ‘Black Bull’ struggled to break German defenses along the Lower Rhine. Finally crossing into Germany in March 1945, the 11th captured Lübeck in May before liberating Bergen-Belsen in April.
+    	In desperate need of more armoured divisions, British high command formed the Guards Armoured Division in 1941. Under the command of Major General Sir Allan Adair, most of its recruits were from other Guards units.
+    	After receiving Britain’s best equipment and tanks, the Guards spearheaded Operation Goodwood in early July. Suffering tremendous losses at Cagny against the 1st SS and 12th SS Division, the Guards were relieved on 30 July.
+    	As the tip of the spear for XXX Corps, the Guards advanced steadily across Northwest Europe. Crossing Nijmegen Bridge in September, the Guards garrisoned the Netherlands until early 1945 before finishing the war in Bremen.
+    	One of Canada’s first fully equipped regiments to mobilize, the Seaforth Highlanders fought at Dieppe under Canada’s 2nd Division in August 1942 before landing in Sicily with the 1st Canadian Infantry Division in July 1943.
+    	The Highlanders fought veteran German units across Sicily and drove the enemy into northern Italy in September 1943. Having advanced 300 miles from Sicily, the regiment spearheaded the assault on the Gustav Line in December.
+    	In December 1943, the Highlanders engaged in brutal urban combat at Ortona, nicknaming the town ‘Little Stalingrad’. Smashing the Hitler Line in May 1944, a series of German counter attacks reduced the regiment to eight men.
+    	Formed in 1794 as a light cavalry regiment, the Sherwood Rangers fought in Africa for nearly a century. Serving honorably in the First World War, the Yeomanry was still equipped with horses when the Second World War began in 1939. 
+    	Converted to an armoured regiment in 1940, the Yeomanry staunchly defended Tobruk and spearheaded British offensives in Africa. Transferred for Operation Overlord, the Yeomanry was the first British force to land at Gold Beach.
+    	Known as Britain’s finest armoured regiment, the Yeomanry would fight with every British infantry division on the Continent. In late 1944 they became the first Allied unit to breach the Siegfried Line and step on German soil.
+    	Built under the Wehrmacht in July 1941, the ‘volunteers against Bolshevism’ lost half its men at the Battle of Moscow. Pulled in early 1942 for anti-partisan duty, it was resent to the front when Army Group Centre collapsed in June 1944.
+    	Numbering only 7,340 men, ‘Charlemagne’ crippled the overwhelming Soviet forces. Withdrawn to Neustrelitz with less than 700 men, 600 volunteered to fight in Berlin but only 300 were able to reach the dying heart of the once proud Reich.
+    	The experienced sergeant can direct and motivate nearby soldiers and vehicle crews to fight harder.
+    	Armaments: (K98s, StG44), *G43s x2, *MP40s x2, *G43-Zf4, *Pzb. 39, Skill: Experienced, Role: Tactical Support.
+    	4 Command Points
+    	Panzerbefehlswagen IV Ausf. H Command Tank
+    	Panzerbefehlswagen Panther Sdkfz. 267
+    	Pz. Bef. Wg. IV Command
+    	1. SS-Panzer-Division Sdkfz. 267
+    	Veterancy 3
+    	83-ya Morskaya Pekhotnaya Brigada Frontoviki
+    	83-ya mpb. Stuhrmoviki
+    	The infamous Soviet Marines are known as the 'Black Death' for their aggressive fighting spirit. The 83-ya Morskaya Pekhotnaya participated in many coastal invasions throughout the war, where it would infiltrate and hold enemy territory, similar to paratroopers.
+    	The Black Death!
+    	Vicious naval infantry can assault the enemy, improving combat effectiveness, while more susceptible to being hit.
+    	Armaments: (M44 Carbines/M1895s, PPSh-41) *DP-28, *PPSh-41s x2, *M1928A1 Thompsons (50rd.) x2, *M91/30-PU, Skill: Experienced, Role: Assault.
+    	11 Command Points
+    	Artillery will automatically attack units in the area. Vehicles will be hit with disabling 105mm howitzer fire, while infantry will be suppressed with airburst shells. Damaged vehicles will be covered by a volley of smoke shells.
+    	Artillery will automatically attack units in the area. Vehicles will be hit with disabling 105mm howitzer fire, while infantry will be suppressed with airburst shells. Damaged vehicles will be covered by a volley of smoke shells.
+    	Flak 36 Anti-Aircraft batteries will provide supporting fire to the target area. Vehicles will be hit with disabling 8.8cm armor-piercing shells, while infantry will be suppressed with high-explosive shells. 
+    	6 Command Points
+    	17. Pz.Gren SS-Grenadieres
+    	Retrieving Casualty...
+    	Treating Casualty...
+    	Casualty Recovered!
+    	<locstring name="extra_text" value="7179" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Type: Bunker, Durability: Moderate, Armor Rating: Low, Provided Cover: Heavy, Firing Positions: 5, includes machineguns, & anti-tank guns. 
+    	Defensive structure, versatile bunker that provides cover for infantry, and can be converted to additional support roles.
+    	<locstring name="extra_text" value="12912" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Type: Bunker, Durability: Heavy, Armor Rating: Heavy, Provided Cover: Heavy, Firing Positions: 5, includes machineguns, & anti-tank guns. 
+    	Bunker, heavily-fortified defensive structure that can shrug off most enemy attacks, can also garrison troops.
+    	Designed to withstand heavy artillery bombardment, the Wehrmacht constructed thousands of these concrete structures on the Westfront to hold back the Allied tide.
+    	The Bunker is one of the most basic forms of defensive structures, able to be constructed with simple materials & raw manpower. These fortifications would be frequently employed to lockdown areas of strategic value.
+    	The Machine Gun Nest provides highly-effective defensive fire from a dug-in position. The Maschinengewehr 42 effortlessly cuts through massed infantry, but needs to be reloaded frequently.
+    	Type: Machine Gun Nest, Rate of Fire: 1200 rounds per minute, Feeding System: 200-Round Belt, Cartridge: 7.92x57mm. Effective at medium range vs. infantry.
+    	<locstring name="extra_text" value="7179" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Type: Anti-Tank Emplacement, Blast Radius: Low, Penetration: High, Damage: High, Cartridge: 7.5cm, Effective at long range vs. armour.
+    	Type: Anti-Tank Gun, Accuracy: High, Damage: Extreme, Penetration: Extreme, Cartridge: 8.8cm, Effective at very long range vs. light vehicles & armour.
+    	Type: Anti-Tank Gun Emplacement, Accuracy: High, Damage: High, Penetration: High, Cartridge: 7.5cm, Effective at long range vs. light vehicles & armour.
+    	<locstring name="extra_text" value="12912" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Type: Bunker, Durability: Low, Armor Rating: Low, Provided Cover: Heavy, Firing Positions: 4, includes machineguns, & anti-tank guns. 
+    	Frequently constructed by irregular forces, Wooden Bunkers are crudely-made structures created by stacking together wooden logs. While not particularly durable, they are inexpensive and can be created on short notice.
+    	A regular Machine Gun Nest further reinforced with sandbags, and aerial markings to prevent friendly fire. The Vickers K can quickly provide a hail of suppressive fire to pin enemy forces but needs to be reloaded frequently.
+    	Vickers K .303 Machine Gun Nest
+    	Vickers K .303 MG Nest
+    	Vickers K .303 MG Nest
+    	Type: Bunker, Durability: Moderate, Armor Rating: Low, Provided Cover: Heavy, Firing Positions: 5, includes machineguns, & anti-tank guns. 
+    	Type: Bunker, Durability: Low, Armor Rating: Low, Provided Cover: Heavy, Firing Positions: 4.
+    	Heavily-reinforced, the Machine Gun Nest provides defensive firepower to wherever it is employed. The hard-hitting M2HB .50 Cal can pulverize infantry and light vehicles alike with accurate fire, albeit lacking in suppression.
+    	Unlocks the 8cm RkW 43.
+    	Click and target position. Resources are delivered over a period of time. Delivers up to 150 munitions over 5 drops.
+    	4 Command Points
+    	Cargo planes will fly over a designated fuel or munitions point, dropping off resource crates that can be recovered by infantry.
+    	Vehicles
+    	Crewed Weapons
+    	Unlocks the 8.8cm RkW 43.
+    	Panzer IVs, StuG IIIs, Panthers, and Tigers receive free Smoke Dischargers. Panzer IV Ausf. J Tanks receive Smoke Shells. 
+    	(PASSIVE) Panzer Tactician
+    	(PASSIVE) Maschinenpistole 40
+    	SS-Sturmgrenadieres receive MP40 submachine guns (Upgrade). 12th-SS Grenadiers, & 1st-SS Leibstandarte can use Hulldown on friendly tanks.
+    	Additional weapons and equipment have been issued for infantry to better support our Panzer forces.
+    	Infantry build times decreased by -50%. Does not include Medics, Snipers, or Anti-Tank teams.
+    	Tank build times decreased by -25%. Includes both Medium & Heavy Tanks.
+    	(PASSIVE) Blitzkrieg!
+    	Our reserve Panzer forces can be rapidly deployed to assist in the battle!
+    	(PASSIVE) Combined Arms
+    	(PASSIVE) Mechanized Assault
+    	Opel Blitz Trucks & Sdkfz. 250 Halftracks can reinforce within enemy territory.
+    	Push the advantage! Our transports will ferry troops deep into the enemy lines!
+    	2 Command Points
+    	Leutnant Retinue
+    	<locstring name="screen_name" value="7870" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	3. Fallschirmjäger-Division Stabsfeldwebel Retinue
+    	3rd Fallschirmjägers 
+    	3rd Fallschirmjägers Leutnant
+    	Formed in Reims in late 1943, the 3. Fallschirmjäger-Division was transferred to Normandy in early 1944. Highly motivated and guided by veteran leaders, the 15,976 men of the 3rd FJD were aptly prepared to defend the city of Saint-Lô.
+    	Armaments: (K98s, Luger), *G43s x2, *MP40s x2, Training: Experienced, Role: Tactical Support. Effective at medium range vs. infantry.
+    	Armaments: (K98s/P35, StG44), *MP40s x2, *G43-Zf4, *MG34, *FG42s-Zf4 x2, Skill: Ace, Role: Tactical Support.
+    	Paratrooper/Officer, (Circle Aura: +33% Ability Cooldown, +5% Rate-of-Fire, + 10% Accuracy), highly-trained airborne officer that further increases their effectiveness. Limit of 1 Squad.
+    	The Green Devils!
+    	The Fallschirmjäger Officer orders nearby infantry to march for a period of time.
+    	Timed. Duration 30s. Range: 35m. 
+    	The Green Devils!
+    	New unit - 3. FJD Stabsfeldwebel - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	The 3. Fallschirmjäger Stabsfeldwebel can be deployed to the battlefield. This officer team can further improve the effectiveness of Fallschirmjägers, and calls in additional air support.
+    	Infiltrate 3. Fallschirmjäger Jäger
+    	Can only field 1 3. Fallschirmjäger Stabsfeldwebel at a time.
+    	2 Command Points
+    	AI Script - SS-Sturmgrenadiere Squads
+    	AI Script - Riflemen Squads
+    	Fallschirmjägers receive 10% increased weapon accuracy, and 10% reduced hit chance around the squad.
+    	The Ten Commandments (Fallschirmjägers)
+    	92nd Infantry Division Riflemen Squad
+    	92nd ID Riflemen
+    	Armaments: (M1903 Springfields, M3A1 Grease Gun), *M1903A4-M73, *M1918A2 BAR, *M1 Carbines x2, *M1919A6 Browning, Skill: Poor, Role: Static Defense.
+    	Veterancy 3
+    	Veterancy 2
+    	The 'Buffalo Soldiers' are a segregated African-American unit, later incorporating the 442nd 'Nisei' Regiment within their ranks. Plagued with low morale, poor combat performance, and discrimination, the 92nd served as a static defense unit. 
+    	92nd Infantry Division Reserve Battlegroup
+    	The 995th Engineer Company Engineers can be deployed to the battlefield. This battlegroup is best used to defend open flanks & repairing structures.
+    	Deploy 92nd Infantry Division 'Buffalo Soldiers' Riflemen Squads x2. Click and select location to deploy.
+    	Compared to similar weapons: (+ Extra Range, - Low Damage).
+    	The American-made Thompson saw limited usage with the Soviet Naval Infantry. Lack of additional .45 ammo made it a rare sight.
+    	Deploy 83rd Naval Infantry Squads x2. Click and select location to deploy.
+    	The 83rd Naval Infantry Brigade Marines can be deployed to the battlefield. This battlegroup excels in traditional assault operations.
+    	83rd Naval Infantry Brigade Rifle Battlegroup
+    	Infiltrate 83rd Naval Infantry Brigade Marines
+    	A squad of 83rd Naval Infantry can be deployed to the battlefield. Marines are effective at assaulting positions and holding it until reinforcements arrive.
+    	New unit - 83rd Naval Infantry - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+    	Paradrop 83rd Naval Infantry Brigade Combat Group
+    	Two squads of 83rd Marines can be paradropped into the battlefield. The 83rd Marines are trained in parachute operations and conducted more combat drops than their Airborne counterparts during the war.
+    	New unit - 83rd Naval Infantry - available for deployment. This unit is dropped by air at the target location. Dropping into areas with a number of large objects increases the risk of a deadly landing.
+    	5 Command Points
+    	83rd Naval Infantry Brigade Marines
+    	Assault troops that can punch through the enemy line.
