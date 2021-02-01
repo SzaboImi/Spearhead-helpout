@@ -1,0 +1,500 @@
+    	AI Script - Land Mattress
+    	AI Script - Churchill
+    	AI Script - Cromwell IV
+    	AI Script - Cromwell V
+    	AI Script - Cromwell VI
+    	AI Script - Cromwell Observation Post
+    	AI Script - Sherman V
+    	AI Script - Sexton
+    	AI Script - Priest
+    	AI Script - Stuart
+    	AI Script - M3 Halftrack
+    	AI Script - Raketenwerfer 43
+    	AI Script - IG18
+    	AI Script - Centaur Mk. II
+    	AI Script - Churchill AVRE
+    	AI Script - M3A1 Scout Car
+    	AI Script - M16 Halftrack
+    	AI Script - Mortar Halftrack
+    	AI Script - 251 Halftrack
+    	AI Script - 250 Halftrack
+    	AI Script - Panzer II
+    	AI Script - M36 Jackson
+    	AI Script - M26 Pershing
+    	AI Script - T-34 Calliope
+    	Replaces the RPG-40 with the RPG-43 AT Grenade.
+    	Frontoviki
+    	T-34/85 Model 1945 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/85 Medium Tank
+    	T-34/76D Model 1942 Medium Tank
+    	T-34/76D Model 1942 Medium Tank
+    	T-34/76D
+    	T-34/76D
+    	T-34/76D Model 1942 Medium Tank
+    	T-34/76D Model 1942 Medium Tank
+    	T-34/76D Model 1942 Medium Tank
+    	T-34/76D Model 1942 Medium Tank
+    	T-34/76D Model 1942 Medium Tank
+    	T-34/76D Model 1942 Medium Tank
+    	T-34/76D Model 1942 Medium Tank
+    	T-34-76D M1942 Srédniy tank
+    	T-34/76D
+    	T-34/76D
+    	T-34/76D
+    	T-34/76D
+    	T-34/76D
+    	T-34/76D
+    	T-34/76D
+    	T-34/76D
+    	T-70M Model 1942 Light Tank
+    	T-70M Model 1942 Light Tank
+    	T-70M
+    	T-70M
+    	T-70M
+    	T-70M
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	ISU-152BM Assault Gun
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	IS-2 Model 1944 Heavy Tank
+    	Removes the need to upgrade RGD-33 Grenade individually for each Frontoviki squad. Locks out any other Grenade upgrades.
+    	The venerable RGD-33 is capable of being thrown by the whole squad, filling the area with a lethal hail of shrapnel.
+    	RGD-33 Assault Training
+    	The venerable RGD-33 is capable of being thrown by the whole squad, filling the area with a lethal hail of shrapnel.
+    	The potent RGD-33 is fitted with a fragmentation sleeve for improved kill-radius
+    	The potent RGD-33 is fitted with a fragmentation sleeve for improved kill-radius, and throwing handle for further throwing distance.
+    	RGD-33 Requisition
+    	Toggle on/off. Ability leads to 25% faster reload speed, 50% faster turret turn rate, and +25 increased sight radius.
+    	Toggle on/off. Ability leads to 33% faster reload speed, and +25 increased sight radius.
+    	Allows all your infantry and vehicles to capture points quickly. Use this to break through enemy lines.
+    	Composition-B Explosive Charges
+    	TNT Demolition Charge
+    	Improves anti-vehicle capability at close ranges. Replaces the AT Rifle Grenade ability.
+    	Explosive Charge, a satchel lined with TNT charges that can be planted directly on vehicles, not guaranteed to stick to the vehicle.
+    	Composition-B Explosive Charge
+    	A satchel lined with TNT charges that can be planted directly on targets, such as structures or vehicles.
+    	Concealment Training will be automatically applied at Veterancy 1 for each squad with the upgrade available.
+    	Equips all current and later troops with the Panzerfaust upgrades.
+    	Our veteran troops are now equipped with additional camouflage equipment, allowing them to better conceal themselves.
+    	Erbsenmuster
+    	Rear Echelon receive Composition-B Explosive Charges (Upgrade).
+    	(PASSIVE) Composition-B Explosive Charges
+    	Improves anti-vehicle capability at close ranges. Replaces the Destroy Cover ability.
+    	KV-1E Mass Production
+    	SU-85M Mass Production
+    	Removes the need to upgrade SU-85M Retrofit individually for each SU-85. Upgrade leads to 40% increased armor, and 20% faster turn rate.
+    	Increases the durability of the unit. Upgrade leads to 20% increased armor.
+    	Removes the need to upgrade KV-1E Retrofit individually for each KV-1. Upgrade leads to 20% increased armor.
+    	SU-76M Model 1943 'Suchka' Tank Destroyer
+    	SU-76M Model 1943 'Suchka' Tank Destroyer
+    	SU-76M Model 1943 'Suchka' Assault Gun
+    	SU-76M 
+    	Tank destroyer, Traits: (+ Cheaper, +/- Open Topped, - Low Durability): Fragile tank destroyer with access to anti-tank rounds.
+    	Armaments: 76.2 mm ZIS-3Sh, Armor: 47mm (Sloped), Role: Tank Destroyer, Speed: 45 km/h.  Effective at medium range vs. static infantry and structures.
+    	Armaments: 76.2 mm ZIS-3Sh, Armor: 30mm (Sloped), Role: Tank Destroyer, Speed: 45 km/h. 
+    	The SU-76M is used a wide number of combat roles, such as tank hunting. The ZiS-3Sh main gun is adequate, with special rounds available to improve its effectiveness.
+    	SU-76M Tank Destroyer
+    	(3) - The number on the abandoned vehicle indicates required infantry needed to capture.
+    	(3) - The number on the abandoned vehicle indicates required infantry needed to capture.
+    	(3) - The number on the abandoned vehicle indicates required infantry needed to capture.
+    	Can only field (2) 16-ya Detashement Shtrafniki at a time.
+    	Our feared NKVD troops are ready to hold the line! This Battlegroup is ideal for infiltrating enemy lines and maintaining their own.
+    	NKVD Battlegroup
+    	Deploy 9th Bulgarian Infantry Squads x2. Click and select location to deploy.
+    	Deploy 105th NKVD Border Guard Squads x2. Click and select location to deploy.
+    	The 105th NKVD Border Guards can be deployed to the battlefield. This battlegroup excels in counter-insurgency missions with foreign weapons.
+    	105th NKVD Border Guards Regimental Battlegroup
+    	Infiltrate NKVD 'Dzerzhinsky' Rifle Division Strelki 
+    	A squad of NKVD 'Dzerzhinsky' Rifle Division Strelki can be deployed to the battlefield. NKVD Strelki are veteran combatants that excel at marksmanship and planting traps.
+    	New unit - NKVD 'Dzerzhinsky' Rifle Division Strelki - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+    	105th NKVD Border Guard Regiment Strelki
+    	NKVD 'Dzerzhinsky' Rifle Division Strelki 
+    	Veteran NKVD troops skilled in marksmanship and laying traps.
+    	Infiltration troops with access to foreign weapons.
+    	The 'ODON,' are individuals hand-selected from professional athletes, craftsmen, to foreign spies: the precursors of the modern-day Spetsnaz. On the battlefield, they engage in brutal raids behind enemy lines.
+    	Special Purpose Division Strelki Squad
+    	ODON Rekognostsirovky
+    	ODON Rekognostsirovky
+    	Increases the squads' experience gain by 25%.
+    	Vehicle crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft.
+    	Territory is already secured by a resource vehicle.
+    	Territory is already secured by a resource structure.
+    	TEST
+    	TEST
+    	AI Script - Rifle Sections
+    	Vehicle Repair Bay
+    	Vehicle Repair Bay
+    	Infantry receive 33% faster ability recharge time, and 50% faster point capture time within the current sector, and adjacent sectors.
+    	Vehicles & crewed weapons will be repaired when out of combat for at least 15s within the current sector, and adjacent sectors.
+    	Field Hospital
+    	Infantry will be healed when out of combat for at least 15s within the current sector, and adjacent sectors.
+    	Maintenance Bay
+    	Field Maintenance Bay
+    	Field Hospital
+    	Field Hospital
+    	Field Hospital: Heal your squads by moving them close to the building
+    	Field Hospital: Heal your squads by moving them close to the building
+    	The Field Maintenance Bay provides vital repair functions on the frontline for both vehicles & crewed weapons. Repair kits are distributed to units within surrounding sectors to gradually repair their equipment.
+    	Dispatches a team of Engineers who automatically seek out and repair nearby vehicles, as well as structures. The team is automatically reinforced when killed.
+    	Dispatches a team of Engineers who automatically seek out and repair nearby vehicles, as well as structures. The team is automatically reinforced when killed.
+    	Dispatches a team of Engineers who automatically seek out and repair nearby vehicles, as well as crewed weapons. The team is automatically reinforced when killed.
+    	Dispatches a team of Engineers who automatically seek out and repair nearby vehicles, as well as crewed weapons. The team is automatically reinforced when killed.
+    	Dispatches a team of Medics who automatically seek out and provide first aid to injured troops. The team is automatically reinforced when killed.
+    	The Field Hospital provides emergency medical support for those wounded in battle. Medical supplies are issued to units in surrounding sectors, allowing them to slowly heal out of combat without the need of a medic.
+    	Dispatches a team of Medics who automatically seek out and provide first aid to injured troops. Infantry will heal when out of combat for at least 15s.
+    	Dispatches a team of Engineers who automatically seek out and repair nearby vehicles, as well as crewed weapons. Vehicles & Crewed Weapons will repair themselves when out of combat for at least 15s.
+    	Infantry
+    	Doctrinal Infantry
+    	Standard Infantry
+    	Officers
+    	Grants camouflage at Veterancy 1 for all Waffen-SS units with the Concealment Training upgrade.
+    	Infantry
+    	Removes the need to upgrade High-Explosive Rounds individually for each tank.
+    	High-Explosive Rounds Requisition
+    	Equips all current and later troops with the Panzerfaust upgrades.
+    	Equips all current and later tanks with the rounds.
+    	Increased threat from infantry anti-tank teams have warranted additional fragmentation rounds.
+    	Thunder Run!
+    	Infantry equipment recharge times decreased by -50%. Includes most explosives, smokes, & flares. Does not include foreign equipment.
+    	War Machine
+    	Increased arms production have allowed our troops to be issued additional explosives.
+    	Military Industrial Complex
+    	2 Command Points
+    	105mm Airburst Artillery
+    	Orders nearby howitzers to fire airburst shells into the target area, which are effective against infantry.
+    	11 Command Points
+    	(PASSIVE) Paving the Way!
+    	The M4A3 Sherman can be fitted with bulldozer blades to clear through obstacles.
+    	M4A3 Sherman receives the M1 Bulldozer Blade (Upgrade).
+    	American Industry
+    	15 Command Points
+    	Duration 120s. Replaces up to four medium or heavy tanks.
+    	While active, all US medium & heavy tanks that are lost will be replaced by M4A3 Sherman Medium Tanks.
+    	War Economy
+    	Acceptable Losses
+    	4 Command Points
+    	Deploy an M3 Half-track filled with Combat Engineers to the battlefield. The group can be quickly dispatched to repair damaged vehicles.
+    	Duration 15s. Vehicle is immobile and weapons are inactive. Must be within friendly secured territory.
+    	Veterancy 1
+    	Improves sight blocking capability at long ranges. Replaces the current smoke grenade ability.
+    	Improves sight blocking capability at long ranges. Replaces High-Explosive Rounds.
+    	Improves anti-infantry & emplacement capability at all ranges. Replaces Smoke Rounds.
+    	Fire Superiority
+    	Well-equipped & disciplined troops can dramatically increase their volume of fire to suppress enemy forces. while more susceptible to being hit.
+    	Timed. Duration 30s. Troops fire faster and inflict suppression with their weapons, but draw more fire from enemy forces.
+    	Well-armed & disciplined troops can suppress enemy forces through sheer volume of fire. 
+    	M6A3 HEAT Rockets
+    	Removes the need to upgrade M6A3 HEAT Rockets individually for each Anti-Tank Team.
+    	New rockets for our Bazookas are now available to fight the Krauts' tanks!
+    	Disciplined
+    	Veteran troops can fire more accurately, and use their equipment more frequently, but will suffer from exhaustion after. 
+    	Iron Will
+    	Fire Superiority
+    	Iron Will
+    	The squad is exhausted and moves at a slower pace.
+    	Royal Engineers can repair any damaged structure, vehicle, or bridge. The engineers will enable Emergency War Speed on the vehicle.
+    	Troops are taught how to better improve their defensive posture.
+    	Fighting Positions receive the M2HB .50 cal (Upgrade), & the M17 Delayed-Fuse Rifle Grenade (Upgrade).
+    	The open-topped M3 is spacious enough to carry two squads and its .50 Cal heavy machine gun provides good firepower. 
+    	The open-topped M3 is spacious enough to carry two squads and its .50 Cal heavy machine gun provides good firepower. 
+    	Already upgraded with RPG-43 Anti-Tank Grenades.
+    	The IG 18 crew will fire six 7.5cm rounds into the targeted area.
+    	Click to activate. Duration 60s. Troops receive 50% increased accuracy, and 20% reduced hit chance. 
+    	Click to activate. Duration 60s. Troops receive 15% faster movement speed, and 20% reduced hit chance while in friendly territory. Affects infantry & crewed weapons. Retreat is disabled during the ability's duration.
+    	The Opel Blitz is the standard utility truck of the Waffen-SS, transporting everything from troops, supplies, to weapons. Gains veterancy from nearby allies. 
+    	Can only field (2) ‘Kleiner Panzerfunkwagens’ at a time.
+    	Can only field 2 Opel Blitz Supply Trucks at a time.
+    	Armaments: None, Armor: None, Role: Logistics, Speed: 80 km/h. 
+    	Fight to the last breath! Our sacrifices will ensure Germany's final victory!
+    	Removes the need to upgrade Armored Skirts individually for each M20 Scout Car & M8 Greyhound.
+    	Increased threat from infantry anti-tank teams have warranted additional high-explosive rounds.
+    	High Speed, Low Drag
+    	Additional armour plating is now available to give our scout cars some extra protection.
+    	M8 Greyhounds arrive equipped with Armored Skirts.
+    	Anti-Tank Team
+    	M8 Greyhound
+    	M20 Scout Car
+    	<locstring name="brief_text" value="12236" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="brief_text" value="12236" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	M20 Scout Cars arrive equipped with Armored Skirts.
+    	Removes the need to upgrade M23 Smoke Grenades individually for each Riflemen Squad.
+    	Smoke & Mirrors
+    	Long-ranged smoke rifle grenades have arrived, allowing troops to obscure vision from a safer distance.
+    	Riflemen Squad
+    	Riflemen arrive equipped with M23 Smoke Grenades.
+    	Veterancy 2
+    	(PASSIVE) M9 Bazooka
+    	Riflemen receive the M9 Bazooka Rocket Launcher w. M6A3 (Upgrade).
+    	The M9 Bazooka allows the Riflemen to take the fight to the enemy, allowing them to effectively combat tanks.
+    	<locstring name="brief_text" value="10032" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="brief_text" value="10032" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="brief_text" value="10032" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="brief_text" value="10032" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="brief_text" value="10032" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="brief_text" value="10032" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="brief_text" value="10032" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	1. SS-Panzerpionierbataillon Sturmpioniere
+    	Grizzly Mk. I Cruiser Tank
+    	<locstring name="screen_name" value="12260" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="12260" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="12260" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Grizzly Mk. I
+    	<locstring name="screen_name" value="7912" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	The Canadian variant of the Sherman tank, the Grizzly tank is designed with cost-efficiency in mind, with only a small reduction in mobility. The tank performs exceptionally well providing infantry support for advancing Canadian troops.
+    	Canadian medium tank, (Traits: + Highly Mobile, + Cheaper, - Poor Penetration): Can toggle between HE and AP rounds, while superior to few other medium tanks, can be used to easily outnumber opponents.
+    	M4A3 Sherman Medium Tank
+    	M4A4 Sherman V Medium Tank
+    	M4A4 Sherman V Medium Tank
+    	M4A4 Sherman V Medium Tank
+    	Grizzly Mk. I Cruiser Tank
+    	The Red Devils!
+    	The Red Devils charge the enemy at full speed, ignoring suppression while being more vulnerable to enemy fire.
+    	The Red Devils!
+    	Click to activate, duration 20s. Ability leads to 20% increased weapon accuracy, and 25% less damage. Penetration Chart: (Short/Medium/Long: +40%/+30%/+20%).
+    	Click to activate, duration 30s. Ability leads to 20% increased weapon accuracy, and 25% less damage. Penetration Chart: (Short/Medium/Long: +40%/+20%/+10%).
+    	The Mad Minute!
+    	<locstring name="help_text" value="5619" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	The Mad Minute!
+    	The British Airborne are well-known users of captured MP40s, with their STENs firing the same ammunition & magazine.
+    	The Stovepipe
+    	Pack-a-Punch!
+    	Captured Maschinenpistole 40 Shipment (x2)
+    	Tool of Victory
+    	1st Airlanding Regiment M1 75mm Howitzer
+    	1st Airlanding Regiment 75mm Howitzer
+    	Daring (Lieutenant)
+    	Paratroopers receive 20% faster reload times, and 10% faster weapon fire rate around the squad.
+    	1st Airborne Division Captain Retinue
+    	1st Airborne Captain
+    	The 1st Airborne Division Lieutenant provides cohesiveness and clarity to the otherwise chaotic airborne operations, where men & materiel frequently end up dead, missing, or captured.
+    	Officer, (Aura: +Reload Speed, +Rate-of-Fire), coordinates with airborne troops to further increase their lethality. Limit of 1 Squad.
+    	Armaments: (Lee-Enfield, M1A1 Thompson), *STEN Mk. Vs x2 (A), *M1A1 Thompsons x2 (H), *Boys AT (A), *PIAT (H), Skill: Elite, Role: Tactical Support. 
+    	1st Airborne Division Tank Hunter Section
+    	1st Airborne Tank Hunters
+    	Can only field 2 1st Airborne Tank Hunter Sections at a time. 
+    	Armaments: (Lee-Enfields, PIAT), Training: Elite, Role: Anti-Armor. Effective at medium range vs. armor.
+    	Can only field (1) 1st Airborne Captain at a time.
+    	M8 Greyhounds arrive equipped with Armored Skirts.
+    	AT Teams arrive equipped with M6A3 Rockets.
+    	Strike Operations
+    	Armaments: (M1A1 Thompsons, M9 Bazooka), Skill: Elite, Role: Anti-Armor.
+    	Paratrooper/Anti-tank infantry, (Traits: + Camouflage, + Passive Healing, + Airdropped Weapons, + Scavenge): Rocket launcher-equipped infantry that can take out tanks, vehicles, and emplacements. Limit of 2 Squads.
+    	The British-made PIAT is a man portable anti-tank weapon developed due to the Boys' ineffectiveness against heavier German armor.
+    	The American-manufactured M9 'Bazooka' is a potent rocket launcher firing HEAT rounds, effective against all but the thickest armor. They were issued to a number of specialized units within the British Army.
+    	Paratrooper/Assault infantry, (Traits: + Camouflage, + Passive Healing, + Airdropped Weapons, + Scavenge): Best dropped behind enemy lines to disrupt supplies and flank.
+    	Sniper, (Traits: + Camouflage, + High Detection Range, + Passive Healing, + Airdropped Weapons, + Scavenge): Best used to eliminate specific targets from extreme range. Limit of 1 Squad.
+    	Airdropped 82nd Airborne Combat Group
+    	Firepower Requisition
+    	Demolition Charges
+    	Unlocks Demolition Charges for Sappers.
+    	New Units
+    	Unlocks various crewed weapons & light vehicles.
+    	Forward Observation Posts
+    	Unlocks the Forward Observation Posts ability.
+    	105mm Howitzer Illumination Barrage
+    	Armaments: (M2HB .50 Cal, M3A1 Grease Guns), Crew: 3, Skill: Elite, Role: Suppression.
+    	(PASSIVE) The Airborne Advantage
+    	101st & 82nd Airborne Paratrooper units replenish casualties at a 75% faster rate, but cost 33% more manpower to reinforce. 
+    	American airborne are paid double that of regular infantrymen, due to extensive training, combat drops, and the dangerous missions they undertake. 
+    	Throw Blendkörper 2H Frangible Smoke Grenade
+    	Armaments: (M1919A4 .30 Cal HMG, M3A1 Grease Guns), Crew: 3, Skill: Elite, Role: Suppression.
+    	Paradrop M1 75mm Light Howitzer (Airborne)
+    	Paradrop in a M1 75mm Light Howitzer to the battlefield that can be manned by allied infantry. This weapon is effective against armored vehicles.
+    	Paradrop in a M1 75mm Light Howitzer to the battlefield that can be manned by allied infantry. This weapon is effective against infantry & light vehicles.
+    	5 Command Points
+    	Armaments: (57 mm M1, M3A1 Grease Guns) Crew: 3, Skill: Elite, Role: Anti-Tank.
+    	Armaments: (75 mm M1 Pack, M3A1 Grease Gun) Crew: 3, Skill: Elite, Role: Artillery.
+    	Armaments: (81 mm M1, M3A1 Grease Guns), Crew: 3, Skill: Elite, Role: Indirect Fire. 
+    	Armaments: (60 mm M2, M3A1 Grease Gun), Crew: 3, Training: Elite, Role: Indirect Fire. Effective at medium range vs. static infantry & emplacements.
+    	101st Airborne Division .30 cal Machine Gun, M1919A4
+    	101st AB .30 cal MG, M1919A4
+    	4 Command Points
+    	6 Command Points
+    	3 Command Points
+    	2 Command Points
+    	2 Command Points
+    	2 Command Points
+    	3 Command Points
+    	2 Command Points
+    	2 Command Points
+    	6 Command Points
+    	3 Command Points
+    	4 Command Points
+    	(PASSIVE) Hidden Encampment
+    	101st & 82nd Airborne units can construct Hidden Encampments.
+    	Paratroopers that are cut-off and behind enemy lines, establish forward camps that allow them to call-in additional troops & heavy weapons.
+    	A manual reload is required. The crew can be killed by enemy fire during the reload and the vehicle left abandoned. Duration: 35s.
+    	The 251/16 was produced in large quantities for the Wehrmacht’s highly mobile Panzergrenadiere and Pioniere regiments. Outfitted with dual flame projectors, the Flammpanzerwagen could methodically eliminate infantry and structures.
+    	Allows all your infantry & vehicles to capture points quickly. Use this to break through enemy lines.
+    	Click to activate. Duration 60s. Troops receive 25% increased weapon accuracy, and 25% faster movement speed.
+    	Click to activate. Duration 60s. Troops receive temporary immunity to suppression, 25% increased weapon accuracy, and 25% faster movement speed. Retreat is disabled during the ability's duration.
+    	Our enemy will tremble in fear at the sight of our mighty Panzers! Keeps enemy troops demoralized for an extended period of time. Inflicts minor damage in close proximity.
+    	Tank Shock
+    	Panzer Division
+    	Tigerphobia!
+    	Left-click to select, left-click target. Fires 3 Rounds. Delay 3.5s. Effective vs. infantry.
+    	716th Static Infantrie Division Grenadiere Squad
+    	15. PzGren. Division Panzerjäger Squad
+    	500. Infanterie-Ersatz-Bataillon Panzerjäger
+    	716. Infanterie-Division Panzerjäger
+    	3. Fallschirmjäger-Division Panzerjäger
+    	90. PzGren. Division Panzerjäger
+    	352. Infanterie-Division Panzerjäger
+    	Volkssturm 
+    	Static infantry, able to hold the line against enemy advance, and destroy enemy tanks with Panzerfausts.
+    	Load Sprgr. Patr. L/4.5 Incendiary-Shrapnel Round
+    	Fires a deadly, but extremely rare incendiary-shrapnel shell that can shred infantry and incinerate them at the same time.
+    	Left-click ability, left-click target enemy. Effective against infantry & emplacements. Requires sight radius.
+    	Tank Shock!
+    	A combination of fear and superior firepower forces an enemy unit to fall back!
+    	Veterancy 3
+    	Type: Submachine Gun, Rate of Fire: 700 rounds per minute, Cartridge: 11.43×23mm, Capacity: 30 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	Submachine Gun, Cal .45, M1A1 (x2)
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	5.5-Inch Anti-Tank Artillery
+    	Click to activate. Duration 45s.
+    	Orders long-ranged artillery batteries to fire an extensive 105mm artillery barrage at all enemy artillery units with sight.
+    	Rifle Sections receive the No. 69 Impact Grenade (Upgrade).
+    	A unique-looking grenade that detonates on impact, though with slight less explosive force than a regular Mills Bomb.
+    	(PASSIVE) Think Fast!
+    	(PASSIVE) Duck & Cover!
+    	Rifle Sections receive the Satchel Charge (Upgrade).
+    	A bundled of explosives that can flatten most structures, infantry, and even tanks.
+    	Smoke Grenades
+    	(PASSIVE) Smoke Rifle Grenades
+    	Rifle Sections receive Endurance Training (Upgrade).
+    	Rifle Sections receive Smoke Rifle Grenades (Upgrade).
+    	Troops are issued long-ranged smoke rounds to conceal themselves from the enemy.
+    	RP-3 'Stickleback' Coastal Bombardment
+    	Attacks enemy units in allied territories, Duration: 45s.
+    	Surrounding LCT(R) rocket ships bombard advancing enemy forces with a merciless barrage of high-explosive rockets.
+    	9 Command Points
+    	Click to activate. Duration: 45s. Attacks enemy units in allied territories.
+    	Land Mattress
+    	Stickleback Rocket Overwatch is Active
+    	Propaganda Barrage
+    	Our enemies will cower in fear ! Keeps enemy troops demoralized for an extended period of time. Inflicts minor damage in close proximity.
+    	Belarusian Irregulars
+    	Belarusian Irregulars
+    	Belarusian Irregulars
+    	The Belarusian Irregulars are savage guerilla fighters formed to reclaim their homeland, devastated by war. Through torture, assassinations, bombing, & frontline combat, they composed the entire Fourth Belarusian Front by 1944.
+    	Armaments: (Mosin-Nagants, PPSh-41), *SVT-40s x2, *PPSh-41s x2, *ROKS-3, *PIAT, Training: None, Role: Guerilla. Effective at medium range vs. infantry.
+    	Armaments: (Mosin-Nagants, PPSh-41), *PPD, *DP-28, *PTRD, *PIAT, Skill: Poor, Role: Guerilla.
+    	Infiltrate Belarusian Irregulars
+    	New unit - Belarusian Irregulars - available for deployment.  This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location to deploy.
+    	A squad of Belarusian Irregulars can be deployed to the battlefield. Irregulars are guerilla forces who excel at causing havoc behind enemy lines, and supporting ground troops.
+    	New unit - M1910 Maxim - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+    	Infiltrate M1910 'Maxim' HMG
+    	Infiltrate PM-41 82mm Mortar
+    	A small-three man mortar team can be deployed to the battlefield. The PM-41 Mortar can provide indirect artillery support to clear out stationary targets.
+    	A small-three man mortar team can be deployed to the battlefield. Irregulars are guerilla forces who excel at causing havoc behind enemy lines, and supporting ground troops.
+    	A small-three man HMG team can be deployed to the battlefield. The Maxim HMG can provide accurate suppressive fire against massed infantry.
+    	New unit - PM-41 Mortar - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy. Will NOT infiltrate into buildings that cannot garrison mortars.
+    	4 Command Points
+    	5 Command Points
+    	Belarusian Irregulars PM-41
+    	<locstring name="screen_name" value="12418" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Belarusian Irregulars M1910
+    	<locstring name="screen_name" value="12420" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Belarusian M1910
+    	2 Command Points
+    	The ‘GvB’ surrendered to US forces on 7. Mai 1945 as the only SS division to have fought exclusively on the West Front. The 17th existed and trained for only eight months before D-Day and fought without respite for twelve.
+    	Reinforced with 14,816 men in fall 1944, the ‘GvB’ unrelentingly defended Metz against U.S. forces without reinforcement. Reduced to 4,000 men and forced out in November, it received 12,000 men for Unternehmen Nordwind.
+    	A ferocious defense of Caen and Falaise against the British reduced the 9th to fifty percent strength by July. Withdrawn to Arnhem, it annihilated the British 1st Airborne during Market Garden where it inflicted 7,167 casualties. 
+    	Of the 2,500 Wehrmacht and SS troops recruited by the 150th only 400 spoke English fluently. Limited to five weeks of training and suffering from poor logistics, the unit was ill-prepared to begin Unternehmen Greif in December 1944.
+    	Commanded by the legendary Otto Skorzeny, the 150th was first ordered to capture vital bridges along the Meuse River. Losing valuable time to massive traffic jams, it was converted to a regular formation and tasked with seizing Malmedy.
+    	After purging the SA in July 1934, ‘LSSAH’ served as occupational troops during the Nazi Reich expansion. Lacking the experience of the seasoned Wehrmacht, the unit suffered needless losses against Polish infantry during the Blitzkrieg.
+    	1. SS-Panzer-Division Untersturmführer
+    	The ‘LSSAH’ rarely kept prisoners for long and throughout the war butchered thousands of  POWs and civilians. Loyal to Fatherland and Führer, the 1st committed numerous atrocities and massacres on both the West and Ostfront.
+    	Assigned to counter Italian resistance in 1943, ‘LSSAH’ was transferred back to France in response to D-Day. With 22,000 men, it tenaciously defended Caen, but was pulled to refit for the defense of France, and Ardennes Offensive.
+    	Using defense in depth and overwhelming firepower, the 3rd FJD held St.-Lô for a month against U.S forces. Finally exhausting their supplies, the 3rd was pushed to the Falaise Pocket in August only to be obliterated in the breakout attempt.
+    	Reformed from scratch in September 1944, the 3rd FJD helped defend Arnhem during Operation Market Garden. Later fighting in the Hürtgenwald meat-grinder and the Ardennes offensive, the unit finally surrendered to U.S forces in 1945.
+    	Break through enemy lines with elite Rangers forces & an arsenal of high-impact weaponry.
+    	Sturmgewehr 44 Shipment (x2)
+    	Volkssturmgewehr 1-5 (x2)
+    	A far cry from the revolutionary StG44, the Volkssturmgewehr is a crudely manufactured 'rifle' meant to fight off enemies surrounding Germany's very doorstep.
+    	Compared to similar weapons: (+ High Damage, + High ROF, - Short Bursts, - Low Capacity).
+    	Work in progress, coming soon!
+    	Veterancy 1
+    	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
+    	Type: Assault Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
+    	Compared to similar weapons: ( + High ROF, - Short Bursts, - Low Capacity).
+    	Compared to similar weapons: (+ Cheap, + High ROF, + High Capacity, - Low Accuracy).
+    	Type: Rifle, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x33mm, Capacity: 30 Rounds, Quantity: 2, Effective at medium range vs. infantry. 
+    	Medics are dispatched to the Regimental Field Headquarters to treat nearby injured infantry.
+    	Medics are dispatched to the Kampfgruppe Headquarters to treat nearby injured infantry.
+    	13 Command Points
+    	6 Command Points
+    	6 Command Points
+    	3 Command Points
+    	11 Command Points
+    	12 Command Points
+    	7 Command Points
+    	7 Command Points
+    	5 Command Points
+    	5 Command Points
+    	9 Command Points
+    	9 Command Points
+    	3 Command Points
+    	4 Command Points
+    	9 Command Points
+    	4 Command Points
+    	6 Command Points
+    	11 Command Points
+    	15 Command Points
+    	4 Command Points
+    	4 Command Points
+    	4 Command Points
+    	1 Command Point
+    	3 Command Points
+    	8 Command Points
+    	6 Command Points
+    	7 Command Points
+    	8 Command Points
+    	10 Command Points
+    	11 Command Points
+    	11 Command Points
+    	14 Command Points
+    	6 Command Points
+    	10 Command Points
+    	11 Command Points
+    	2 Command Points
+    	9 Command Points
+    	6 Command Points
+    	4 Command Points
+    	7 Command Points
+    	9 Command Points
+    	10 Command Points
+    	12 Command Points
+    	12 Command Points
+    	10 Command Points
+    	9 Command Points
+    	3 Command Points
+    	5 Command Points
+    	5 Command Points
+    	3 Command Points
+    	4 Command Points
+    	3 Command Points
