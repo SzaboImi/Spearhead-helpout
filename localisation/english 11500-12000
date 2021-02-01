@@ -1,0 +1,500 @@
+    	2 Command Points
+    	4 Command Points
+    	4 Command Points
+    	4 Command Points
+    	4 Command Points
+    	Self-propelled howitzer, (Traits: + Accurate, +/- Turretless, + Cheaper, + High Durability): A true assault gun mounted with a 10.5cm howitzer for extremely powerful infantry support. Limit of 2.
+    	Utility vehicle, (Traits: + Highly Mobile, - Easily Decrewed, - Unarmed): Can transport anything from squads of infantry to an anti-tank gun, also repairs vehicles & provides a reinforce point.
+    	Utility vehicle, (Traits: + Shared Veterancy, + Highly Mobile, - Easily Decrewed, - Unarmed): Can transport anything from squads of infantry to an anti-tank gun, also repairs vehicles & provides a reinforce point.
+    	Utility vehicle, (Traits: + Highly Mobile, - Easily Decrewed, - Unarmed): Can transport anything from squads of infantry to an anti-tank gun, also repairs vehicles & provides a reinforce point.
+    	Armaments: None, Armor: None, Role: Utility, Capacity: 12, Speed: 80 km/h. Transports infantry, crewed weapons, and large guns.
+    	Use on functional crewed weapons for 15 munitions. Light vehicles grant 10 fuel, medium tanks grant 35 fuel, & heavy tanks grant 50 fuel. Abandoned vehicles grant ~33% more resources.
+    	16-ya Armiya Nezavisimaya Shtrafnoy Batal'on Shtrafniki
+    	16-ya ad. sb. Shtrafniki
+    	16th Army Detached Shtrafniki
+    	16th Army Independent Shtrafniki
+    	Assault infantry, (Traits: + Large Squad, + Wire Cutters, - Poorly Armed): Perfect to distract enemy forces, or as cannon fodder.
+    	Assault infantry, (Traits: + Large Squad, + Wire Cutters): Perfect to distract enemy forces, or as cannon fodder.
+    	Armaments: (Mosin-Nagants, TT-33s, PPSh-41), *MP40s x2, *ROKS-35 x1/2, *PTRD, Skill: Poor, Role: Distraction. 
+    	'Independent thinkers', vicious criminals, and former prisoners of war serving time for minor offenses. These Shtrafbat (Penal) legions are used as sacrificial soldiers, to clear minefields and draw enemy fire. They were never expected to redeem themselves.
+    	Disgraced officers, either by failing their mission or displaying questionable loyalty, formed their own Penal Battalions. Sufficiently-supplied and armed, these former officers were utilized in deadly 'reconnaissance-in-force' missions.
+    	Armaments: (Mosin-Nagants), *ROKS-35 x1/2, *PPSh-41s x2, Training: Varied, Role: Assault. Effective at medium range vs. infantry.
+    	Armaments: (SVT-40s, PPSh-41), *ROKS-35 x1/2, *PPSh-41s x2, Training: Varied, Role: Assault. Effective at medium range vs. infantry.
+    	Armaments: (SVT-40s/M1895, PPSh-41), *wz. 1928, *Maxim-Tokarev, *SVT-40-PU, *PTRS-41, Skill: Experienced, Role: Recon.
+    	Assault infantry, (Traits: + Wire Cutters): Perfect to distract enemy forces, or as cannon fodder.
+    	Light infantry, (Traits: + Camouflage, + Wire Cutters, + Scavenge): Disgraced officers armed with semi-automatic rifles, suited for long-ranged combat. Limit of 2 Squads.
+    	Light infantry, (Traits: + Interrogation, + Invisible on Minimap): Stalwart defensive infantry that can build fortifications, and provide fire support.
+    	Officer/Light infantry, (Traits: + Interrogation, + Invisible on Minimap): Stalwart defensive infantry that can build fortifications, and provide fire support.
+    	Officer/Light infantry, (Traits: + Interrogation, + Invisible on Minimap): Stalwart defensive infantry that can build fortifications, and provide fire support.
+    	Shtrafniki receive 10% increased hit chance, 33% faster point revert, and 10% increased weapon accuracy within the sector.
+    	Smert Shpionam! (NKVD)
+    	Shtrafniki receive 20% faster rate-of-fire at the cost of 10% increased hit chance within the sector.
+    	Officer/Light infantry, (Traits: + Aura, + Interrogation, + Invisible on Minimap): Stalwart defensive infantry that can build fortifications, and provide fire support.
+    	Officer/Line infantry, (Traits: + Aura, + Interrogation, + Invisible on Minimap): Stalwart defensive infantry that provides an offensive aura to nearby Shtrafniki.
+    	Kettenhunde (Feldgendarmerie)
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy around the squad.
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy around the squad.
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy around the squad.
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy around the squad.
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy around the squad.
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy around the squad.
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy around the squad.
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy within the sector.
+    	500th Penals receives 50% faster ability recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy within the sector.
+    	500th Penals receives 15% increased weapon accuracy at the cost of 10% increased hit chance within the sector.
+    	Regio Esercito Fanteria Squad
+    	Regio Esercito Fanteria Squad
+    	Regio Esercito Assalto Squad
+    	Regio Esercito Kampfgruppe
+    	Lightly-armed, four man infantry squad that sprints when out of combat.
+    	Regularly-trained four man infantry that have two weapon upgrade slots.
+    	An agile flanking group that can cut through the enemy line.
+    	Armata a 3-a Română Infanterie Squad
+    	Armata a 3-a Română Kampfgruppe
+    	A versatile battlegroup proficient on both the defense & offense.
+    	Reserve troops that are armed with both German and Eastern weaponry.
+    	Well-armed, and ready to spearhead an assault against infantry & armour.
+    	Iron-willed shock troops that can punch through enemy resistance.
+    	Lightly-armed assault force that can torch the enemy out of their positions.
+    	Rugged light infantry forces that excel at long range combat.
+    	Massive, platoon-sized element that can help reinforce the line.
+    	Numerous, yet poorly trained, best used to augment existing units.
+    	Daring infiltration infantry with a focus on close-quarters combat.
+    	Agile, yet heavily-armed mechanized assault group.
+    	Highly-efficient shock troops that can take the fight to the enemy.
+    	Valiant French forces that gain increased effectiveness fighting from cover.
+    	Mobile halftrack transporting additional French Forces.
+    	Lightly-armed, fast transport carrying a single squad of French Paratroopers.
+    	Elite French commando forces that are at their best fighting behind enemy lines.
+    	A heavily-armed scout car carrying a 442nd Riflemen squad.
+    	A segregated Japanese-American fighting force that deals & receives more damage.
+    	Deploy 1re Division Française Libre Fusilier Squad x1, M3 Halftrack x1, Dodge WC51 x1. Click and select location to deploy.
+    	<locstring name="screen_name" value="9728" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Frontline troops that are armed with a variety of German & Soviet weaponry.
+    	An old, yet dependable machinegun that can hold the line.
+    	Irregular militia force that can be armed with an additional weapon upgrade.
+    	Camouflaged resistance fighters that are more suited for longer-ranged engagements.
+    	A large group of Polish resistance fighters fighting alongside their leader.
+    	A fast-moving mechanized strike force that can engage infantry & light armour.
+    	Well-trained Bosnian mountain troops that are armed for long-ranged combat.
+    	A heavily-armed transport halftrack that protects its passengers from the cold.
+    	Hardy alpine troops trained in artic warfare, highly-resistant to cold weather.
+    	6th SS-Mountain 'Nord' Mechanized Kampfgruppe
+    	Trained counter-insurgency troops proficient in urban fighting.
+    	A converted halftrack that spews flame from a remarkable distance away.
+    	Suomi KP-31 (x2)
+    	Compared to similar weapons: (+ High Capacity, + High ROF, + High Accuracy, - Expensive).
+    	The Finnish 'Suomi-konepistooli' is regarded as the most successful submachine gun design of the war, the Soviets would make a comparatively inferior copy as the PPSh-41.
+    	Type: Submachine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 9x19mm, Capacity: 71 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	Improves demolition capability at close ranges. Replaces either the Destroy Cover or Salvage Operations ability.
+    	Ordnance QF 25-Pounder Howitzer + Captain
+    	Unlocks the QF 25-Pounder Howitzer, a fast-firing artillery piece, and the Major Retinue.
+    	Unlocks the QF 25-Pounder Howitzer, a fast-firing artillery piece, and the Captain Retinue.
+    	Infiltration infantry, (Traits: + Camouflage, + Passive Healing, + Invisible on Minimap, + Airdropped Weapons): Extremely skilled assault troops that can wipe out enemies at close range.
+    	1st Commando Brigade Infiltration Team
+    	1st Commandos Infiltrators
+    	Infiltrate 1st Commando Overwatch Team
+    	Infiltrate 1st Commando Assault Team
+    	A squad of 1st Commandos can be deployed to the battlefield. The No. 30 Commandos specializes in medium to far range engagements.
+    	A squad of 1st Commandos can be deployed to the battlefield. The Assault Team specializes in close to medium range engagements.
+    	New unit - 1st Commando Overwatch Team - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	New unit - 1st Commandos Assault Team - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Anvil: Guerilla fighting & naval support barrages.
+    	Anvil: All Commandos receive a slight boost in accuracy, and weapon cooldown.
+    	New unit - No. 30 Commandos - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+    	2 Command Points
+    	Kar98 (30rd.) (x2)
+    	Type: Rifle, Rate of Fire: Bolt-Action, Cartridge: 7.92x57mm, Capacity: 20 Rounds, Quantity: 2. Effective at long range vs. infantry.
+    	The Kar98 was developed with a large 'trench' magazine, meant for assault units to continue fighting longer before needing to reload.
+    	Type: Machine Gun, Rate of Fire: 1050 rounds per minute, Cartridge: 7.92x57mm, Capacity: 50 Rounds. Effective at medium range vs. infantry. 
+    	Type: Machine Gun, Rate of Fire: 1050 rounds per minute, Cartridge: 7.92x57mm, Capacity: 75 Rounds. Effective at medium range vs. infantry. 
+    	Maschinengewehr 15 (Light Machine Gun)
+    	Maschinengewehr 15
+    	Light machinegun, extremely high rate-of-fire, large magazine, needs to be reloaded frequently.
+    	Light machinegun, high rate-of-fire, fast suppression, and a generous magazine capacity.
+    	MG15 Light Machine Gun
+    	Designed as an aircraft-mounted machinegun, the MG15 was hurriedly adapted for infantry combat with the Luftwaffe ground forces.
+    	<locstring name="brief_text" value="10026" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Tanks
+    	Light Vehicles
+    	British riflemen are taught by airborne forces on how to set up explosive traps.
+    	Troops move more quickly, fire more accurately, and neutralize enemy points faster. Recon planes will make a wide sweep across the battlefield.
+    	Sturmgeschütz III Ausf. F8
+    	StuG III Ausf. F8
+    	Abandoned StuG III F8; re-crew with infantry
+    	Sturmgeschütz III Ausf. F8
+    	Sturmgeschütz III Ausf. F8
+    	Medium tank, (Traits: + Accurate, +/- Turretless, + Cheaper, - Less Upgrades): Can be used as a regular tank or a tank destroyer.
+    	Medium tank, (Traits: + Accurate, + Fast Camouflage, +/- Turretless, + Cheaper, - Less Upgrades): An earlier variant of the StuG III, can switch between both armor-piercing & explosive rounds.
+    	Armaments: 7.5 cm KwK 40 L/43, *MG42 (Pintle), Armor: 80mm, Role: Tank Destroyer, Speed: 40 km/h.
+    	Adding the high velocity StuK 40 7.5cm gun to the StuG III creates a true multirole assault gun. Capable of destroying tanks at great range, the StuG's low profile and additional armor grant it improved survivability against other medium tanks.
+    	Adding the high velocity StuK 40 gun to the Panzer III chassis creates a true multi-role assault gun. The StuG’s exceptional range, expertly engineered low profile, and thickened armor grant improved survivability against medium armor.
+    	The first StuG to mount the formidable 7.5 cm StuK 50 L/48, the Ausf. F8 was a direct response to the T-34 and KV-1. Protected by an additional 30 mm of armor welded to the front, the F8 was Germany’s first dedicated tank destroyer.
+    	Adding the high velocity StuK 40 gun to the Panzer III chassis creates a true multi-role assault gun. The StuG’s exceptional range, exceptionally low profile, and thickened armor grant improved survivability against medium armor.
+    	Adding the high velocity StuK 40 gun to the Panzer III chassis creates a true multi-role assault gun. The StuG’s exceptional range, exceptionally low profile, and thickened armor grant improved survivability against medium armor.
+    	Adding the high velocity StuK 40 gun to the Panzer III chassis creates a true multi-role assault gun. The StuG’s exceptional range, exceptionally low profile, and thickened armor grant improved survivability against medium armor.
+    	The majority of what is the Soviets near-endless manpower, Prizyvnik (Conscripts) are inexpensive and poorly trained. However, they can be invaluable support by replacing combat losses and engaging in high-risk operations and maneuvers.
+    	The majority of what is the Soviets' near-endless manpower, Prizyvniki are inexpensive and poorly trained. However, they can be invaluable support by replacing combat losses and engaging in high-risk operations and maneuvers.
+    	8 Command Points
+    	Assault infantry, (Traits: + Random Veterancy): armed with semi-automatic rifles, and US weaponry.
+    	Can only field (2) 'Baby Tigers' at a time.
+    	Manpower price for Volksgrenadieres, Grenadiers, and Pioneres has been reduced by 20.
+    	Counter-Offensive
+    	Increases the speed in which infantry capture strategic points by 100%. 
+    	Now is the time to strike! Troops have been instructed on how to quickly seize enemy territory.
+    	Die Wacht am Rhein!
+    	Stahlgewittern!
+    	Strelki receive the ROKS-3 Flamethrower (Upgrade).
+    	Panzer crew members make simple modifications to improve the reliability of their tank's engine, allowing it to fully accelerate without issues.
+    	Veterancy 2
+    	Additional reserve forces have been 
+    	Infantry squads 
+    	Infantry build times decreased by -50%. Does not include Medics, Snipers, or Anti-Tank teams.
+    	Rapid Deployment
+    	Our valiant troops can now be deployed even faster to the frontline!
+    	Forced Conscription
+    	Additional troops 
+    	Volksdeutsche
+    	Our conscripted troops from Latvia & Estonia have arrived to crush the enemy!
+    	Maschinenpistole 34 (x2)
+    	Type: Submachine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 9x19mm, Capacity: 32 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	Manufactured from the best materials with the highest standards, the Austrian MP34 fires extremely accurate, even whilst on the move. 
+    	Flammenwerfer 41
+    	Abandoned Flammenwerfer 41; pick up with infantry.
+    	The Flammenwerfer 35 is an excellent trench-clearing weapon, reducing enemies to screaming torches from an extended range.
+    	Flammenwerfer 41
+    	Abandoned Flammenwerfer 35; pick up with infantry.
+    	Flammenwerfer 35
+    	The Flammenwerfer 35 is an excellent trench-clearing weapon, reducing enemies to screaming torches from an extended range.
+    	Flammenwerfer 41
+    	The Flammenwerfer 41 is an update to a potent design; featuring a longer effective range, in addition to being lighter to carry.
+    	The Flammenwerfer 41 is an update to a potent design; featuring a longer effective range, in addition to lighter weight.
+    	The Flammenwerfer 41 is an update to a potent design; featuring a longer effective range, in addition to lighter weight.
+    	Armaments: (K98s, MP40), *MP34s x2, *StG44s x2, *Panzerschreck, *FmW 41, Skill: Regular, Role: Assault.
+    	Assault infantry, (Traits: + Interrogation): Aggressive foreign soldiers that can merge with other squads, keeping them in the fight.
+    	Cruiser Tank, Mk VIII Cromwell Observation Post
+    	Maneuverable, agile and equipped with additional radios, the Cromwell OP served admirably as mobile recon for Britain’s Armoured Forces. Retaining its QF 75 mm unlike Command variants, crews could hold their own in a scrap if needed.
+    	Cromwell Mk. VI Retrofit
+    	Retrofits the Cromwell to the VI variant, boasting additional armor.
+    	Retrofits the Cromwell to the VI variant, installing additional radio & communications equipment.
+    	Increases the armor of the unit. Upgrade leads to + 35 increased sight radius, and allows short-ranged detection of vehicles within the fog of war.
+    	Increases the sight radius of the unit. Upgrade leads to +35 increased sight radius, and allows short-ranged detection of vehicles within the fog of war.
+    	Left-click ability, position area and left-click. Fires 4 Rounds. Can only be targeted within enemy territory, and with line-of-sight.
+    	Left-click ability, position area and left-click. Fires 4 Rounds. Can only be targeted within enemy territory, and with line-of-sight.
+    	Left-click ability, position area and left-click. Fires 4 Rounds. Can only be targeted within enemy territory, and with line-of-sight.
+    	Alters default unit rosters & abilities for Sappers, Rifle Sections, Snipers, Mortar, Carriers, Light Tanks, and Medium Tanks.
+    	Alters default unit rosters & abilities for Sappers, Rifle Sections, Snipers, Mortars, Universal Carriers, Light Tanks, Cromwells, and the 25-Pounders.
+    	Marksman Team
+    	Armaments: (L1A1-No. 32), *Boys AT, Skill: Ace, Role: Marksman.
+    	Can only field 2 Marksmen Teams at a time.
+    	Infantry
+    	Crewed Weapons
+    	Vehicles
+    	Allows access to new equipment for Mortars.
+    	Allows access to new equipment for Sappers, Rifle Sections, and Snipers.
+    	Allows access to new equipment for Mortars, and 25-Pounders.
+    	Allows access to new equipment for Universal Carriers, Light Tanks, and Cromwells.
+    	Cromwell Mk. IV Cruiser Tank
+    	Cromwell Mk. VI Close Support Tank
+    	Cromwell Mk. VI Close Support Tank
+    	Abandoned Cromwell Mk. VI CS; re-crew with infantry
+    	Cromwell Mk. VI Close Support Tank
+    	Cromwell Mk. VI Close Support Tank
+    	Cromwell Mk. VI Close Support Tank
+    	Cromwell Mk. VI Close Support Tank
+    	Cromwell Mk. VI Close Support Tank
+    	Armaments: QF 75 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 95 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 95 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 95 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: Assault, Speed: 64 km/h. Effective vs. infantry and structures. 
+    	Medium tank, (Traits: + High Damage, + Large Blast, + Highly Mobile, + Lower Hit Chance): A low silhouette with adequate firepower makes it a solid choice versus enemy armor.
+    	Medium tank, (Traits: + High Damage, + Large Blast, + Highly Mobile, + Fast Camouflage, + Lower Hit Chance): A large howitzer mounted on a mobile chassis for fast-moving fire support.
+    	Armaments: QF 95 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: Assault, Speed: 64 km/h. Effective vs. infantry and structures. 
+    	Armaments: QF 95 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: Assault, Speed: 64 km/h. Effective vs. infantry and structures. 
+    	Armaments: QF 95 mm, Besa (Coaxial/Hull), Armor: 76mm, Role: Assault, Speed: 64 km/h.
+    	Armaments: QF 95 mm, Hull Besa, *Pintle Besa, Armor: 76mm, Role: Assault, Speed: 64 km/h. Effective vs. infantry and structures. 
+    	The formidable Cromwell Mk. VI Close Support Tank is armed with a large QF 95mm howitzer, giving is substantial anti-emplacement firepower, while the Rollys-Royce engine providing remarkable speed.
+    	Cromwell 95mm Howitzer
+    	Can only field (2) Cromwell Mk. VIs at a time.
+    	Smoke Rounds
+    	Improves sight blocking capability at long ranges. Replaces the current smoke grenade ability.
+    	Issues the tank with smoke rounds that produces obscures vision on impact.
+    	The squad is given a little bit of everything; extra bullets, rations, and bandages - improving morale and inspiring them to fight a little longer.
+    	Extra Rations
+    	Unlocks the 17. SS-Panzergrenadier-Division, 8.8cm RkW 43, Jgpz. 38(t), StuG III Ausf. F8 , Pz. M4-748(a), Jgpz. IV, and Panzerjäger Tiger Ausf. B.
+    	SS-Panzerjägers can be deployed to the battlefield. This anti-tank squad has an increased squad size of five soldiers, and two rocket launchers, but lacks a close-quarters weapon.
+    	Anti-tank infantry, (Traits: + Camouflage): large, 4-man anti-team that can be used to ambush enemy tanks, then relocate. Limit of 2 Squads.
+    	Can only field (2) 17. SS-Panzerjägers at a time.
+    	Armaments: (MP40s, StG44), *G43-Zf4, *FmW 35, *Panzerschreck, Skill: Ace, Role: Infiltration.
+    	Infiltrate Brandenburg Infiltration Team
+    	Brandenburg Panzergrenadieres can be deployed to the battlefield. These elite infiltration teams are excellent at performing espionage.
+    	New unit - Brandenburg Infiltration Team - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Can only field (2) No. 30 Commando Teams at a time.
+    	2 Command Points
+    	4 Command Points
+    	Veterancy 1
+    	Infiltration/Panzergrenadiere infantry, (Traits: + Interrogation, + Passive Healing, + Fast Camouflage, + Invisible on Minimap, + Mechanized Assault): Small, three-man team that excels at infiltration. Limit of 2 Squads.
+    	SS-Sanitäter Mannschaft
+    	SS-Sanitäter
+    	Sanitäter Mannschaft
+    	Sanitäters
+    	M1A1 'Bazooka' Rocket Launcher Shipment
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 82mm Steel, Effective at close range vs armor & emplacements.
+    	(PASSIVE) Infrared StG44
+    	(PASSIVE) Advanced Optics
+    	Sturmgrenadieres are issued StG44s mounted with Zielfernrohr 4 scopes, while Panthers are equipped with the FG1250.
+    	SS-Sturmgrenadieres receive StG44 assault rifles (Upgrade).
+    	SS-Sturmpioneres receive the Panzerfaust-30 (Upgrade), SS-Sturmgrenadiers receive the StG44 w. Zf-4, SS-Stoßtruppen receive the G43s (Upgrade). Panther Tanks receive the FG-1250 (Upgrade).
+    	Flamethrower vehicle, (Traits: + Multiple MGs, + Thick Armor): Protects occupants against cold weather, rear machinegun, use to provide suppressive fire, or bring in reinforcements.
+    	Flamethrower vehicle, (Traits: + High Damage, + Thick Armor, - Short Range): Mobile, highly-devastating flamethrower vehicle that can burn out enemy resistance.
+    	SS-Sturmpioneres, SS-Sturmgrenadiers, & Officiers receive First Aid Training (Passivee).
+    	PLACEHOLDER
+    	Sd. Kfz. 251/16 'Flammpanzerwagen' Half-track
+    	Sd. Kfz. 251/16 'Flammpanzerwagen' Half-track
+    	Sd. Kfz. 251/16 'Flammpanzerwagen' Half-track
+    	Sd. Kfz. 251/16 'Flammpanzerwagen' Half-track
+    	Sd. Kfz. 251/16
+    	Sd. Kfz. 251/16
+    	<locstring name="brief_text" value="11749" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	The SdKfz 251/16 'Flammpanzerwagen' is an armoured halftrack that is fitted with two devastating flamethrowers, providing assault units with a powerful breakthrough weapon. Gains veterancy from nearby allies. 
+    	Armaments: Front MG42, Rear MG42, Armor: 14.5mm, Role: Transport, Capacity: 12, Speed: 52.5 km/h. Effective at medium range vs. infantry.
+    	Armaments: Front MG42, Rear MG42, Armor: 14.5mm, Role: Infantry Support, Speed: 52.5 km/h. Effective at medium range vs. infantry.
+    	Armaments: 14mm Flame Projectors x2, Armor: 14.5mm, Role: Infantry Support, Speed: 52.5 km/h. Effective at medium range vs. infantry.
+    	Armaments: 14mm Flame Projectors x2, Armor: 12mm, Role: Infantry Support, Speed: 52.5 km/h. Effective at medium range vs. infantry.
+    	The SdKfz 251/16 'Flammpanzerwagen' is an armoured halftrack that is fitted with two devastating flamethrowers, providing assault units with a powerful breakthrough weapon. Gains veterancy from nearby allies. 
+    	The SdKfz 251/16 'Flammpanzerwagen' is an armoured halftrack that is fitted with two devastating flamethrowers, providing assault units with a powerful breakthrough weapon. Gains veterancy from nearby allies. 
+    	The SdKfz 251/16 'Flammpanzerwagen' is an armoured halftrack that is fitted with two devastating flamethrowers, providing assault units with a powerful breakthrough weapon. Gains veterancy from nearby allies. 
+    	The SdKfz 251/16 'Flammpanzerwagen' is an armoured halftrack that is fitted with two devastating flamethrowers, providing assault units with a powerful breakthrough weapon. Gains veterancy from nearby allies. 
+    	Sd. Kfz. 251/16 'Flammpanzerwagen' Half-track
+    	Sd. Kfz. 251/16 'Flammpanzerwagen' Half-track
+    	Sd. Kfz. 251/16 'Flammpanzerwagen' Half-track
+    	Armaments: 14mm Flame Projectors x2, Armor: 14.5mm, Role: Infantry Support, Speed: 52.5 km/h. Effective at medium range vs. infantry.
+    	Armaments: 14mm Flame Projectors x2, Armor: 14.5mm, Role: Infantry Support, Speed: 52.5 km/h. Effective at medium range vs. infantry.
+    	Armaments: 14mm Flame Projectors x2, Armor: 14.5mm, Role: Infantry Support, Speed: 52.5 km/h. Effective at medium range vs. infantry.
+    	Sd. Kfz. 251/16
+    	Sd. Kfz. 251/16
+    	Sd. Kfz. 251/16
+    	Flamethrower vehicle, (Traits: + High Damage, + Thick Armor, - Short Range): Mobile, highly-devastating flamethrower vehicle that can burn out enemy resistance.
+    	Additional medical supplies have been granted for the final assault!
+    	SS-Sturmpioneres receive the Granatebüchse 39 (Upgrade).
+    	Selbstlade-Gewehr 310(f) Shipment (x2)
+    	Designed by the French as the RSC M1917 during World War I, captured stocks were later utilized by the French Resistance, and later Volkssturm.
+    	Type: Rifle, Rate of Fire: Semi-Automatic, Cartridge: 8×50mmR, Capacity: 5 Rounds, Quantity: 2. Effective at medium range vs. infantry.
+    	12 Command Points
+    	Left-click ability, left-click target area. Fires 6 Rounds. Delay 5s.
+    	Abandoned 251/16 Half-track; re-crew with infantry
+    	Sonderkraftfahrzeug 251/16 ‘Flammpanzerwagen’
+    	Sonderkraftfahrzeug 251/16 ‘Flammpanzerwagen’
+    	<locstring name="brief_text" value="9770" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Pak 43 AT Gun
+    	Replaces the StuG III Ausf. G with the cheaper F8 variant.
+    	Emergency Repairs
+    	Disable Emergency Repairs, allowing the vehicle to move.
+    	The vehicle crew begins to repair their own vehicle. 
+    	Repairs the current vehicle.
+    	Emergency Repairs
+    	Left-click ability, left-click target vehicle.
+    	Hulldown
+    	Vehicle receives increased weapon range, faster reload, improved sight, reduced damage, and increased weapon suppression.
+    	The mortar crew will barrage the targeted area with M57 white phosphorous mortar rounds.
+    	Toggle ability.
+    	Toggle ability. Only affects the unit with the anti-tank weapon.
+    	Senior officers of the 352nd led the division through vicious fighting after D-Day. Declared abgekämpft (unfit for service) by July 1944, the remaining senior cadre commanded survivors and marine units as the new 352nd Volksgrenadier Division in September.
+    	Composed of hardened Ostfront veterans, the officer corps of the 352nd commanded volunteers from Poland, the Sudetenland, Russia and Ukraine. Plagued by logistical failures, the division was trained to be outnumbered and surrounded.
+    	Formed in Fall 1943, the 3. Fallschirmjäger-Division’s officers and paratroopers held ‘Hedgerow Hell’ against numerous Allied assaults. Using coordinated attacks and overwhelming firepower, the 3. FJD exhausted their supplies and eventually succumbed to Allied manpower.
+    	Raised as part of the 15th wave of mobilization, draftees of the 716th Infanterie-Division were too old or sick to serve in active duty units. In desperate need of men, it supplemented its ranks with large numbers of foreign conscripts.
+    	The 716th and the fourteen other 700-series were all considered static, serving primarily as garrison troops. Relying heavily on large amounts of foreign weaponry and vehicles, it fought bravely against the Allies at Normandy.
+    	The 716th was the weakest and the most under trained of the 700-series. To compensate for this the officer corps concentrated firepower and men in Great War style trenches, using defense in depth to inflict heavy casualties at D-Day.
+    	By June 15th, junior officers of the mustered less than 1,500 survivors of the division’s original 7,716 men in Le Mans on July 1st. Destroyed again during Anvil Dragoon, survivors were reformed in April 1945 as the 716th Volksgrenadier-Division.
+    	Formed as the 15th Panzer Division in 1940, the unit served in Afrika until its surrender in 1943. Reformed in Sicily as the 15th Panzergrenadier Division, the unit staunchly defended northern Italy before its transfer to the Westfront.
+    	Transferred from Italy in fall 1944, the 15th fought valiantly but futilely to stem the Allied tide. Sent to the Rheinland in February 1945, the unit made its final stand during its tenacious defense of the famous Hochwald Gap in early March.
+    	Despite most of its soldiers having less than ten days of infantry training, the 246th was tasked to defend Aachen in 1944. Fortifying the city with multiple strong-points, the division viciously repulsed repeated US attacks before its destruction.
+    	Reformed after Aachen, the 246th served primarily as a stopgap. Despite the lack of experienced personnel, the unit continuously plugged gaps in Wehrmacht lines on the Westfront until the capitulation of the Third Reich on 8. May 1945.
+    	Nearly wiped out south of Rome in late 1943, the 90th was thrown piecemeal into the brutal fight for Monte Cassino. Reformed as a Grenadier division, it served as a rearguard for the Axis retreat until its complete destruction in late 1944.
+    	Despite its official surrender in May 1943, the 90. leichte-Afrika-Division was reformed two months later in Sardinia. Built around veteran survivors, the new 90. Panzergrenadier-Division was hastily transferred for the defense of Italy.
+    	AI TEST - COMMAND PANTHER DISPATCH NEW
+    	AI TEST - COMMAND PANTHER DISPATCH OLD
+    	All available German artillery pieces, mortars and rocket artillery in range will barrage the target location. Does not include the Walking Stuka, or IG18.
+    	Left-click ability, left-click target area. Range is double default barrage ranges.  Cooldown affects all units with this ability.
+    	Click and target position. Cooldown affects all units with this ability.
+    	Left-click ability, left-click target area. Range is double default barrage ranges. Cooldown affects all units with this ability.
+    	The 'Eagle Owl' crew coordinates with friendly forces to identify and eliminate nearby targets.
+    	SdKfz 261 Armored Car
+    	SdKfz 261 Armored Car
+    	Abandoned 261 Armored Car; re-crew with infantry
+    	(3) - The number on the abandoned vehicle indicates required infantry needed to capture.
+    	Shift the vehicle crew to Secure Mode, allowing them to capture territory but disabling weapons.
+    	Toggle ability. Allows the vehicle to capture points but disables its weapons.
+    	Scout vehicle, (Traits: + Highly Mobile, + Thick Armor): Can be retrofitted against aircraft, use to conduct raids, or provide suppressive fire.
+    	Armaments: Pintle MG42, Armor: 14.5mm, Role: Logistics, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Sonderkraftfahrzeug 261 ‘Kleiner Panzerfunkwagen’
+    	261 Radio Car
+    	Utility vehicle, (Traits: + Highly Mobile, + Captures Points, + Increases Manpower Income, + High Detection Range): Well-protected armored car that can secure territories for increased manpower gain.
+    	The communications variant of the Sdkfz. 221, 'Kleiner Panzerfunkwagen' is fitted with a 'bed-frame' radio antenna that allows it to increase the return of manpower from a capture point. It is also authorized to capture territory.
+    	The communications variant of the Sdkfz. 221, 'Kleiner Panzerfunkwagen' is fitted with a 'bed-frame' radio antenna that allows it to increase the return of manpower from a capture point. It is also authorized to capture territory.
+    	The communications variant of the Sdkfz. 221, 'Kleiner Panzerfunkwagen' is fitted with a 'bed-frame' radio antenna that allows it to increase the return of manpower from a capture point. It is also authorized to capture territory.
+    	The communications variant of the Sdkfz. 221, 'Kleiner Panzerfunkwagen' is fitted with a 'bed-frame' radio antenna that allows it to increase the return of manpower from a capture point. It is also authorized to capture territory.
+    	Sonderkraftfahrzeug 261 ‘Kleiner Panzerfunkwagen’
+    	Sd. Kfz. 261
+    	Sonderkraftfahrzeug 261 ‘Kleiner Panzerfunkwagen’
+    	Sonderkraftfahrzeug 261 ‘Kleiner Panzerfunkwagen’
+    	Sonderkraftfahrzeug 261 ‘Kleiner Panzerfunkwagen’
+    	261 Scout Car
+    	The communications variant of the Sdkfz. 221, 'Kleiner Panzerfunkwagen' is fitted with a 'bed-frame' radio antenna that allows it to increase the return of manpower from a capture point. It is also authorized to capture territory.
+    	Armaments: Pintle MG42, *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: Pintle MG42, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: Pintle MG42, *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: Pintle MG42, *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: Pintle MG42, Armor: 14.5mm, Role: Recon, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: MG42 (Pintle), Armor: 14.5mm, Role: Logistics, Speed: 80 km/h.
+    	Armaments: Pintle MG42, Armor: 14.5mm, Role: Logistics, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: Pintle MG42, Armor: 14.5mm, Role: Logistics, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: Pintle MG42, Armor: 14.5mm, Role: Logistics, Speed: 80 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: MG42 (Pintle), Armor: 14.5mm, Role: Logistics, Speed: 80 km/h.
+    	Immobilizes the vehicle within a sector, increasing manpower acquisition.
+    	Immobilizes the vehicle within a sector, increasing fuel & munitions acquisition.
+    	A captured resource territory without a deployed supply truck.
+    	Click to activate, Duration 20s. Ability leads to 20% increased weapon accuracy, and 15% less damage. Penetration Chart: (Short/Medium/Long: +30%/+20%/+10%).
+    	Burst Fire
+    	The crew fires the main gun in rapid-fire bursts, increasing overall damage output & suppression radius, at the cost of accuracy.
+    	Click to activate, Duration 20s. Ability leads to 20% increased weapon accuracy, and 15% less damage. Penetration Chart: (Short/Medium/Long: +30%/+20%/+10%).
+    	Burst Fire
+    	Crew is firing their weapon in burst fire.
+    	Click to activate, Duration 20s. Ability leads to 50% increased suppression radius & 15% decreased weapon accuracy.
+    	Sonderkraftfahrzeug 222 Scout Car
+    	Leichte Division
+    	Reactive Artillery
+    	Click to activate. Duration 90s. Troops receive 15% increased weapon accuracy. Planes arrive after 30-35s.
+    	Infantry sections in friendly territories fight with utmost courage. After a period of time, Hawker Typhoons strafe enemies on the frontlines with rockets and machineguns.
+    	Improved coordination & logistics have allowed our troops to arrive to the front even faster!
+    	Guard Sections receive the Mad Minute ability.
+    	Infantry and weapon team build times decreased by -50%. Does not include howitzers.
+    	Guard Infantry build times decreased by 50%, while weapon team build times decreased by -33%. Does not include howitzers.
+    	(PASSIVE) To Victory!
+    	Rifle Sections receive an additional squad member. Squads on field must be reinforced to maximum squad size.
+    	The Huns are 
+    	Our new recruits have arrived to give the final push!
+    	Rifle Sections receive the Machine Gun, Cal .30 M1919A6 (Upgrade).
+    	(PASSIVE) Lewis Automatic Machine Gun 
+    	Rifle Sections receive the PIAT Spigot Mortar (Upgrade).
+    	(PASSIVE) PIAT Spigot Mortar
+    	The 'Lewis Gun' has served admirably since the First World War; it would continue to provide sustained suppressive fire for decades after.
+    	With the nomenclature: Projector, Infantry, Anti-Tank Mk. I, the PIAT would be Britian's standard infantry weapon used against enemy Panzers.
+    	Veterancy 1
+    	The SS ‘Totenkopf’ suffered eighty percent casualties in 1941 during Operation Barbarossa. Reorganized in France as a Panzergrenadier division, the 3rd attempted in February 1943 to break the encirclement of the 6th Army.
+    	Renamed 3rd SS-Panzer Division after Kursk, the 3rd halted Soviet offensives into Romania and Poland in 1944. ‘Totenkopf’ was reassigned in December with 5. SS Wiking to relieve Budapest and the encircled 95,000 Axis troops.  
+    	Failing three times to relieve Budapest, Totenkopf and Wiking were nearly encircled in March 1945. Fighting its way to Czechoslovakia, the 3rd surrendered to US forces in Vienna on 9th of May, 1945 but were handed over to the Red Army.  
+    	The SS ‘Totenkopf’ suffered eighty percent casualties in 1941 during Operation Barbarossa. Reorganized in France as a Panzergrenadier division, the 3rd attempted in February 1943 to break the encirclement of the 6th Army.
+    	Regional governors appointed by the Führer himself, Gauleiters had virtually absolute control when war reached German soil. Devout Nazis, most fought to the death or committed suicide rather than surrender to any enemy forces.
+    	‘Totenkopf’ and 5th SS ‘Wiking’ failed three times to relieve the 95,000 encircled Axis troops at Budapest in late 1944. Driven back by March 1945, the 3rd surrendered to U.S. forces at Vienna in May only to be handed over to the Soviets.
+    	The 9th-SS entered Normandy with a divisional strength of 16,000 men, but while en-route lost fifty percent of its tanks to Allied fighter bombers. Fighting viciously against the British at Caen and Falaise, the 9th was reduced to 7,000 men before its transfer to Arnhem.
+    	Sustaining horrendous losses to Allied aircraft during the Ardennes Offensive, Hohenstaufen was refitted to support the relief of Budapest. Beaten back by the Soviets, the 9th fought its way west and surrendered to the US on May 5, 1945.
+    	The 9th was formed in France in February 1943 alongside its sister, the 10th SS Panzer Division Frundsberg. Serving in Ukraine in 1944, it was transferred to Normandy with 16,000 men only to lose fifty percent of its tanks to Allied aircraft.
+    	Despite initial failures in planning and outfitting, the 150th successfully crippled US morale and disrupted Allied coordination by sowing mistrust. Suspicious US units committed fratricide, and even detained Field Marshal Montgomery after the capture of several commandos.
+    	Betrayed by a defector, the 150th sustained heavy losses during its desperate assault on Malmedy. All but leaderless after their famed commander was injured, the unit withdrew in late December 1944 and was dissolved shortly thereafter.
+    	The 150th SS-Panzer-Brigade commander Otto Skorzeny recruited 2500 men from both the Wehrmacht and SS, with roughly 400 able to speak English. With only five weeks to train his men in commando tactics, Skorzeny was ill prepared to for his role in the Ardennes Offensive.
+    	During Nordwind the ‘GvB’ replaced its divisional commander five times and withdrew from the disastrous campaign with 8,000 survivors. Undeterred, the 17th continued to fiercely protect the Reich until its surrender on May 8th, 1945.
+    	The ‘GvB’ surrendered to US forces as the only SS division to have served exclusively on the West Front. Having existed and trained for a mere eight months prior to Operation Overlord, the 17th fought without respite for twelve.
+    	Reformed in Metz in September 1944 with 14,816 men, the 17th tenaciously resisted US forces without reinforcement. Pushed out of Metz in December, ‘GvB’ survivors consisted of 4,000 men and 20 armored vehicles, twenty-six percent of their original strength.
+    	The SS-Leibstandarte Division originally served as Adolf Hitler's very own bodyguards, eventually making its own history as a merciless panzer division. Ruthless to the very end, these soldiers were heavily-armed, and rarely kept prisoners for too long.
+    	Reassigned in August 1943 to counter Italian resistance, the LSSAH was transferred back to the West in response to D-Day. Despite its 22,000 men and tenacious defense of Caen, ‘LSSAH’ was pulled back for the defense of France, and the coming Ardennes Offensive.
+    	5th SS-Panzer Division Hauptsturmführer Retinue 
+    	1st SS-Panzer Division Hauptsturmführer Retinue 
+    	After the Ardennes Offensive, the 1st was transferred to Hungary in March 1945 to halt the Soviets. Pushed to Vienna by the Soviets, ‘LSSAH’ had less than 1600 men when it was mustered to defend Berlin. Only 800 broke through Soviet encirclement and surrendered to the US at Steyr on 8 May. 
+    	Driven to Vienna after failing to relieve Budapest in 1945, the Leibstandarte was mustered in April to defend Berlin with 1600 men. Only 800 survivors of ‘LSSAH’ broke out of Berlin and surrendered to the US at Steyr on the 8th of May. 
+    	Overview: Semi-Automatic Rifles
+    	Overview: Bolt-Action Rifles
+    	The Bolt-Action Rifle is an accurate, long-ranged weapon that can take out enemies from afar, though will lose to nearly any other firearm up close.
+    	Compared to similar weapons: (+ High Capacity, - Low ROF).
+    	The Bolt-Action Rifle is an accurate, long-ranged weapon that can take out enemies from afar, though will lose to nearly any other firearm up close.
+    	Overview: Bolt-Action Rifles
+    	Formed in 1933 as Hitler’s personal guard, these men were completely loyal to the Führer. To distinguish the unit from the Sturmabteilung and Wehrmacht, Heinrich Himmler renamed the unit in 1934 to ‘Leibstandarte SS Adolf Hitler’.
+    	1. SS-Panzer-Division Sturmgrenadiere
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 82mm Steel, Effective at close range vs armor & emplacements.
+    	An M9 'Bazooka' with improved M6A3 rockets for increased penetration against heavier German armor.
+    	Rocket Launcher, M9 'Bazooka' (M6A3)
+    	Maschinengewehr 42
+    	Grenadieres receive the MG42 (Upgrade) by default, does not replace any existing weapon upgrades. LOCKS OUT ANY FUTURE WEAPON UPGRADES
+    	The MG42 is the center of firepower for the Grenadieres; every member of the squad was trained in its use, and carried additional ammunition to keep it operational.
+    	Grenadieres arrive equipped with the MG42.
+    	Volksgrenadieres receive 25% increased experience gain.
+    	Veteran Sergeants
+    	Our veteran sergeants will lead our new Volksgrenadiere units to glory!
+    	RPG-6 Mass Production
+    	Removes the need to upgrade RPG-43 Anti-Tank Grenade individually for each Prizyvnik (Conscript) squad. Locks out any other Grenade upgrades.
+    	Removes the need to upgrade RPG-6 Anti-Tank Grenade individually for each squad.
+    	The RPG-6 is a vital weapon for our brave infantry to attack & destroy the fascists' tanks!
+    	Unlocks the Create Barrier, and Ram abilities. Replaces Smoke Rounds, and 2-Inch Mortar. Upgrade leads to 20% increased armor. 
+    	4 Command Points
+    	9 Command Points
+    	105mm Assault Artillery
+    	105mm Sector Artillery
+    	Any enemy units entering a targeted sector are barraged with 105mm artillery.
+    	(PASSIVE) Anti-Tank Warfare
+    	Structures receive 25% increased hitpoints.
+    	Improved construction techniques have increased the durability of our frontline structures!
+    	(PASSIVE) Bulwark
+    	(PASSIVE) Tip of the Spear
+    	Infantry build times decreased by -50%.
+    	Tank build times decreased by -25%.
+    	Our armoured forces will strike at the enemy before they can react!
+    	Hammer: Cost reduction for the Sherman Firefly, and its Tulip Rockets. Tanks will deploy faster.
+    	(PASSIVE) Full Throttle!
+    	(PASSIVE) Lockdown
+    	Tanks receive the Lockdown ability. 
+    	The tanks can utilize better defensive positioning, sacrificing mobility for increased firepower.
+    	(PASSIVE) Full Throttle!
+    	Tanks receive the Ambush ability.
+    	Experienced crews utilize improved camouflage techniques to fully conceal their tanks.
+    	(PASSIVE) Surprise!
+    	(PASSIVE) Camouflage Nets
+    	Experienced crews utilize improved camouflage nets to fully conceal their tanks.
+    	The entire crew will stop and assist with the loading and firing of the main gun, immobilizing the tank.
+    	The entire crew will stop and assist with the sighting & targeting, immobilizing the tank.
+    	Toggle on/off. Ability leads to 50% faster turret turn rate, 10% increased damage reduction, +25 sight radius, +10 weapon range.
+    	The tank crew puts camouflage techniques to use, hiding the tank from plain sight, waiting for a target to strike.
+    	Medium tank, (Traits: + Fast Reload, + Highly Mobile, + Lower Hit Chance): A new variant of the Cromwell tank with superior armor.
+    	Medium tank, (Traits: + Fast Reload, + Highly Mobile, + Fast Camouflage, + Lower Hit Chance): A communications variant of the Cromwell tank with improved sight & detection.
+    	(PASSIVE) Cromwell Mk. VI Retrofit
+    	Cromwells tanks arrive to the battlefield with the Mk. VI Observation Post variant.
+    	Increases sight radius & detection for the Cromwell Tank.
+    	Tank crew members make simple modifications to improve the reliability of their tank's engine, allowing it to fully accelerate without issues.
+    	Improves tank mobility. Replaces the Displace! ability with the usual Accelerate ability.
+    	(PASSIVE) Maintenance Team
+    	Sappers receive the Maintenance Team (Upgrade) by default.
+    	Highly-trained engineers are dispatched to maintain our tank forces.
+    	(PASSIVE) Engine Improvements
+    	Churchill Heavy Tanks receive the Accelerate ability by default.
+    	Our clever tank crews have made adjustments to improve the reliability of their tanks.
+    	6 Command Points
+    	Improves scouting capability. Replaces current smoke grenade ability.
+    	The squad is authorized to fire rifle grenade flares over the battlefield, revealing an area & any camouflaged units.
+    	Rifle Sections receive Endurance Training (Upgrade).
+    	(PASSIVE) Endurance Training
+    	Troops undergoing an intensive training schedule will be able to move faster when out of combat.
+    	Unlocks the Booby Trap Capture Points ability. Replaces the current smoke grenade ability.
+    	The squad is taught how to set up improvised traps by engineer forces.
+    	12 Command Points
+    	Damaged vehicles will stop and be rapidly repaired by its crew. The vehicles will be covered by smoke barrages while repairing.
+    	M1919A4 Machine Gun Team
+    	Specialize the Regiment around Mobility & Firepower.
+    	Hammer: Offensive tank combat & faster tank deployment.
+    	AI Script - sWS Supply Half-track
+    	AI Script - Tiger Ace
+    	AI Script - Tiger I
+    	AI Script - Goliath
+    	AI Script - Sturmtiger
+    	AI Script - Jagdtiger
+    	AI Script - King Tiger
+    	AI Script - Panther
+    	AI Script - Jagdpanzer IV
+    	AI Script - Command Panther
+    	AI Script - Panzer IV
+    	AI Script - Panzer IV Command Tank
+    	AI Script - StuG III E
+    	AI Script - StuG III 
+    	AI Script - Puma
+    	AI Script - Flammpanzer 38
+    	AI Script - Churchill Crocodile
+    	AI Script - Comet
+    	AI Script - Sherman Firefly
