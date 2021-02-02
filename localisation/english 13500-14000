@@ -1,0 +1,500 @@
+    	Infantry & Officers automatically camouflage themselves at Veterancy 1 whilst in cover.
+    	Toggle ability. Spotter will continue to engage all targets.
+    	Vehicle crew uses the pintle-mounted MG42 for additional defense against infantry and aircraft.
+    	150th Rifle Division Leytenánt Retinue
+    	150th Leytenánt
+    	112th Tank Brigade Kommissar Retinue
+    	112th Tank Brigade Leytenánt Retinue
+    	112th Leytenánt
+    	Stabskapitän Retinue
+    	Stabskapitän
+    	3rd Shock Army Mayór
+    	3rd Mayór
+    	AI Script - 3rd Fallschirmjägers Squads
+    	AI Script - 716th Ostruppen Squads
+    	AI Script - Strelki Squads
+    	AI Script - 28th Division Riflemen Squads
+    	AI Script - 29th Division Riflemen Squads
+    	AI Script - 3rd Division Riflemen Squads
+    	AI Script - 5th Division Riflemen Squads
+    	AI Script - Rear Echelon Squad
+    	1 Command Point
+    	2 Command Points
+    	The Officer can direct and motivate nearby soldiers and vehicle crews to fight harder.
+    	352. Infanterie-Division Leutnant
+    	Deploy 352. Infanterie-Division Hauptmann x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Leutnant can be deployed to the battlefield. This Officer specializes in air-resupply, and additional fire support.
+    	Igr. 38 High-Explosive Rapid Barrage
+    	7.5cm High-Explosive Rapid Barrage
+    	Left-click to select, left-click target. Fires 5 Rounds. Delay 3.5s. Effective vs. nearly all targets.
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 5s. Effective vs. all targets.
+    	352. Infanterie-Division Hauptmann
+    	Can only field 1 Leutnant Retinue at a time.
+    	Can only field 1 Hauptmann Retinue at a time.
+    	Not Pinned
+    	Not Pinned.
+    	90. Grenadier-Division Hauptmann
+    	90. Grenadier-Division Leutnant
+    	Deploy Leutnant x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Deploy Hauptmann x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	352nd Infanterie Division Hauptmann
+    	Deploy 90. Grenadier-Division Sd. Kfz. 261 x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Deploy 3rd Luftwaffe-Feld Division Leutnant - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	3. Fallschirmjäger-Division Hauptmann 
+    	3. Fallschirmjäger-Division Leutnant
+    	Deploy Hauptmann x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	716. Infanterie-Division Hauptmann 
+    	Deploy Hauptmann x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Deploy Leutnant x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	716. Infanterie-Division Leutnant
+    	15. Panzergrenadier-Division Leutnant
+    	Deploy Leutnant x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	15. Panzergrenadier-Division Hauptmann
+    	Deploy StuG III Ausf. G x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	246. Volksgrenadier-Division Leutnant 
+    	Deploy Leutnant x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	246. Volksgrenadier-Division Hauptmann
+    	Deploy Hauptmann x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Hauptmann can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	Hauptmann can be deployed to the battlefield. This Officer arrives in a Command Halftrack, and can request for air support.
+    	Hauptmann can be deployed to the battlefield. This Officer specializes in aerial combat patrols and bombing runs.
+    	Hauptmann can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	Hauptmann can be deployed to the battlefield. This Officer can be called in without a tank to call-in artillery support. Tank variant available in the command bar.
+    	Hauptmann can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	3.7cm High-Explosive Flak Barrage
+    	Left-click to select, left-click target. Fires 10 Rounds. Delay 3s.
+    	Click and target position. Drops 10 bombs across a wide area.
+    	Armaments: (K98s, StG44), *MG34, *MG42 (100rd.), Skill: Experienced, Role: Tactical/Strategic Support.
+    	Armaments: (K98s, MP40), *G43s x2, *StG44s x2, Skill: Experienced, Role: Tactical Support.
+    	Armaments: (K98s, MP40), *G43s x2, *MP40s x2, *Grb. 39, *Panzerschreck, Skill: Elite, Role: Tactical/Strategic Support.
+    	Armaments: (K98s, MP40), *G43s x2, *MP40s x2, *G43-Zf4, *Pzb. 39, Skill: Elite, Role: Tactical Support.
+    	Armaments: (K98s, Luger), *MP40s x2, *StG44s x2, Skill: Regular, Role: Tactical/Strategic Support.
+    	Armaments: (K98s, Luger), *MP40s x2, *MG15, Skill: Regular, Role: Tactical Support.
+    	Armaments: (K98s, StG44), *MP717(r)s x2, *MG34 (100rd.), *PTRD, Skill: Elite, Role: Tactical/Strategic Support.
+    	Armaments: (K98s, MP40), *MP717(r)s x2, *ZB. vz 30, Skill: Regular, Role: Tactical Support.
+    	Armaments: (K98s, MP40), *MP40s x2, *FmW 35, Skill: Experienced, Role: Tactical Support.
+    	Left-click to activate, left-click to target Weapon Team.
+    	The Officer can Supervise any own crewed weapon, significantly decreasing their reload time, and increasing accuracy.
+    	Officer can Supervise any own crewed weapon, significantly decreasing their reload time, and increasing accuracy.
+    	10.5cm Howitzer Rapid Barrage
+    	The Officer radios in for a rapid 10.5cm barrage that land in quick succession, but is much less accurate.
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 3.5s. Effective. vs all targets.
+    	The Officer orders nearby 'Nebelwerfer' rocket batteries to fire on target; these rockets are highly effective against all targets. 
+    	Improves anti-infantry capability at all ranges. Replaces current grenade ability.
+    	The Officer calls in nearby artillery support guns for a rapid barrage on the target location
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 3.5s. Effective vs. infantry & emplacements.
+    	The Officer calls in nearby artillery support guns for an anti-tank barrage, which is deadlier versus all targets, but is costlier and arrives slower.
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 10s. Effective. vs all targets.
+    	The Officer radios in for a 10.5cm barrage from nearby howitzer pieces, effective against all but the toughest of structures and vehicles.
+    	The Officer radios in for a 10.5cm precision barrage, which takes longer to arrive, but is significantly more accurate.
+    	10.5cm Precision Barrage
+    	Veterancy 1
+    	Veterancy 2
+    	JU-87G 'Kanonenvogel' 3.7cm Strafe
+    	JU-87D Incendiary Bombing Run
+    	A Stuka will drop incendiary bombs on the target location.
+    	Stuka JU-87 will strafe the target location with its powerful 37mm cannons.
+    	Veterancy 2
+    	Veterancy 3
+    	The Officer calls in nearby artillery support guns for a rapid barrage on the target location
+    	Veterancy 2
+    	8.8cm Flak 36 Precision Barrage
+    	The Officer radios in for a 8.8cm precision barrage from Flak 36 anti-aircraft batteries, loaded with solid armor-piercing shells for use against vehicles.
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 5s. Effective vs. vehicles.
+    	Veterancy 2
+    	A cargo plane will fly over the designated area and deliver an MG42 GPMG and a GrW 34 Mortar that can be manned by infantry.
+    	A cargo plane will fly over the designated area and deliver an MG42 GPMG and a GrW 34 Mortar that can be manned by infantry.
+    	Improves scouting capability at long ranges. 
+    	placeholder.
+    	Barrages target enemy sector with powerful 152mm shells followed by a smokescreen to cover the advance.
+    	Barrages target enemy sector with powerful 15cm shells followed by a smokescreen to cover the advance.
+    	15cm Howitzer Sector Artillery
+    	15cm Sector Barrage
+    	Veterancy 3
+    	Engineers of the 1st CB undergo additional training in mechanics and advanced demolition. With the ability to erect defenses, maintain vehicles or eliminate enemy fortifications, the engineers are integral for commando operations. 
+    	Deploy 13th Guards Rifle Division Kommissar x1. Click and select location to deploy.
+    	Kommissar can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	13th Guards Rifle Division Kommissar
+    	Kapitan can be deployed to the battlefield. This Officer specializes in strategic support, and coordinating with friendly armour.
+    	Deploy 13-ya Gvardeyskaya Strelkovaya Diviziya Kapitan x1. Click and select location to deploy.
+    	13-ya Gvardeyskaya Strelkovaya Diviziya Kapitan
+    	122mm High-Explosive Barrage
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 5s. Effective vs. all targets.
+    	Deploy 13th Guards Rifle Division Kapitan x1. Click and select location to deploy.
+    	Mayór can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	Deploy 1-ya Gvardeyskaya Artilleriyskaya Diviziya Mayór x1. Click and select location to deploy.
+    	1st Breakthrough Artillery Division Stabskapitän Retinue
+    	1-ya Gvardeyskaya Artilleriyskaya Diviziya Mayór
+    	1-ya Gvardeyskaya Artilleriyskaya Diviziya Leytenánt
+    	Deploy 1st Breakthrough Artillery Division Polkovnik x1. Click and select location to deploy.
+    	Leytenánt can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	Deploy 1-ya Gvardeyskaya Artilleriyskaya Diviziya Leytenánt x1. Click and select location to deploy.
+    	69-ya Motostrelkovaya Diviziya Leytenánt
+    	Leytenánt can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	Deploy 69-ya Motostrelkovaya Diviziya Leytenánt x1. Click and select location to deploy.
+    	Special Purpose Division Mayor
+    	Kapitan can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	Deploy 13th Guards Rifle Division Kapitan x1. Click and select location to deploy.
+    	Otdel'naya Diviziya Operativnogo Mayór
+    	Mayór can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	Deploy ODON Mayór x1. Click and select location to deploy.
+    	3-ya Udarnaya Armiya Mayór
+    	Mayór can be deployed to the battlefield. This Officer specializes in breakthrough artillery strikes, is also equipped with body armor.
+    	Deploy 13th Guards Rifle Division Kapitan x1. Click and select location to deploy.
+    	Deploy 3-ya Udarnaya Armiya Mayór x1. Click and select location to deploy.
+    	150-ya Motostrelkovaya Diviziya Leytenánt
+    	Leytenánt can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry, and crewed weapons.
+    	Deploy 150-ya Motostrelkovaya Diviziya Leytenánt x1. Click and select location to deploy.
+    	67-ya Gvardeyskaya Strelkovaya Diviziya Leytenánt
+    	Kommissar can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	Deploy 67-ya Gvardeyskaya Strelkovaya Diviziya Leytenánt x1. Click and select location to deploy.
+    	Deploy 67-ya Gvardeyskaya Strelkovaya Diviziya Kapitan x1. Click and select location to deploy.
+    	Kapitan can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	67-ya Gvardeyskaya Strelkovaya Diviziya Kapitan
+    	112th Tank Brigade Kommissar Retinue
+    	112-ya Tankovaya Brigada Leytenánt
+    	Deploy 112-ya Tankovaya Brigada Leytenánt x1. Click and select location to deploy.
+    	Leytenánt can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry, and light vehicles
+    	(PASSIVE) Death from Above!
+    	The Luftwaffe has distributed additional weapons to our frontline troops!
+    	Volksgrenadieres receive the MG34 Machine Gun (Upgrade), Grenadieres receive the StG44-Zf4 Marksman Rifles (Upgrade), Pioneres receive the Panzerfaust-30 (Upgrade). The first two squads can now upgrade weapons in enemy territory.
+    	The formidable MG34 GPMG was considered standard-issue to most Volksgrenadiere divisions.
+    	Equipped with the 128mm PaK 44 L/55, the Jagdtiger could reduce Allied armor to melted steel with ease. With a maximum firing range of 24,410 m, the “Hunting Tiger” excelled at engaging enemy armor beyond standard ranges.
+    	Equipped with the 128mm PaK 44 L/55, the Jagdtiger could reduce Allied armor to melted steel with ease. With a maximum firing range of 24,410 m, the “Hunting Tiger” excelled at engaging enemy armor beyond standard ranges.
+    	Encased in 250 mm of armor and weighing 71.7 tonnes, the ‘Jagdtiger’ was the heaviest armored vehicle of the war. Despite field modifications to the engine, an overtaxed drivetrain and engine formed its Achilles Heel: poor maneuverability.
+    	Armaments: Passengers, Armor: None, Role: Transport, Speed: 55 km/h. Transports infantry, and crewed weapons.
+    	Based off the vaunted Flak 88 series, the Pak 43 was the heaviest mass produced AT gun fielded by Germany. An effective firing range of 15,150 meters and a flat trajectory out to 914 m allowed the Pak 43 to annihilate any Allied vehicle.
+    	Based off the vaunted FlaK 88 series, the PaK 43 was the heaviest mass produced AT gun fielded by the Wehrmacht. An effective range of 15,150 meters and a flat trajectory out to 914 m allowed the PaK 43 to annihilate any Allied vehicle.
+    	The PaK 40 formed the backbone of Wehrmacht anti-tank forces, with over 23,000 models produced. A low silhouette, steady rate of fire and long effective range allowed it to engage all but the heaviest Allied armor without struggle.
+    	The Pak 40 formed the backbone of German anti-tank guns, with a long effective range, low silhouette and a steady fire rate. Effective against all Allied vehicles throughout the war, it only struggled against the heaviest Allied armor. 
+    	The Pak 40 formed the backbone of German anti-tank guns, with a long effective range, low silhouette and a steady fire rate. Effective against all Allied vehicles throughout the war, it only struggled against the heaviest Allied armor. 
+    	The Pak 40 formed the backbone of German anti-tank guns, with a long effective range, low silhouette and a steady fire rate. Effective against all Allied vehicles throughout the war, it only struggled against the heaviest Allied armor. 
+    	The Pak 40 formed the backbone of German anti-tank guns, with a long effective range, low silhouette and a steady fire rate. Effective against all Allied vehicles throughout the war, it only struggled against the heaviest Allied armor. 
+    	7.5 cm Panzerabwehrkanone 40
+    	7.5 cm Panzerabwehrkanone 40
+    	7.5 cm Panzerabwehrkanone 40 Anti-tank Gun
+    	7.5 cm Panzerabwehrkanone 40
+    	7.5 cm Panzerabwehrkanone 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	7.5 cm Pak 40
+    	8cm Smoke Barrage
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 3s. Duration: 30s. Slow delay between rounds.
+    	The Officer orders a sight-blocking smokescreen on the target location. Smoke shells can harm infantry on direct impact.
+    	4 Command Points
+    	5 Command Points
+    	5 Command Points
+    	Can only field (1) Pz. Bef. Wg. IV at a time.
+    	Limit of one Pz. Bef. Wg. IV Command at a time.
+    	The standard utility truck of the Wehrmacht, the Opel transported everything from troops and supplies to weapons.
+    	15. Panzergrenadier-Division Pz.Bfw. IV Ausf. H
+    	Panzerbefehlswagen IV Ausf. H Command Tank
+    	15th Panzergrenadier-Division Pz.Bfw. IV Ausf. H
+    	15. Pz. Bef. Wg. IV Command
+    	10.5cm High-Explosive Barrage
+    	Transport vehicle, (Traits: + Cheap, + Firing Slots): Use as a firing platform, or bring in reinforcements.
+    	Armaments: Pintle MG42, Passengers, Armor: 10mm, Role: Transport, Speed: 76 km/h.
+    	Armaments: (K98s, MP40), *G43s x2, *MP40s x2, *MG42, Skill: Experienced, Role: Tactical Support.
+    	Hauptmann can be deployed to the battlefield. This Officer specializes that can call-in artillery support, and can be armed for medium-ranged engagements.
+    	Leutnant can be deployed to the battlefield. This Officer specializes in long-ranged reconnaissance, and inspiring friendly troops.
+    	Leutnant can be deployed to the battlefield. This Officer arrives in a 261 Command Car, and is able to quickly maneuver across the battlefield. 
+    	Leutnant can be deployed to the battlefield. This Officer specializes in tactical support, and close-quarters fighting alongside other infantry.
+    	Hauptmann can be deployed to the battlefield. This Officer specializes in leading from the front, inspiring troops and providing accurate artillery strikes.
+    	Leutnant can be deployed to the battlefield. This Officer specializes in leading troops from the front, alongside an array of tactical strikes.
+    	Hauptmann can be deployed to the battlefield. This Officer arrives in a Command Tank, and specializes in frontline armoured combat.
+    	Leutnant can be deployed to the battlefield. This Officer specializes in calling in air-resupply, and additional fire support.
+    	Leutnant can be deployed to the battlefield. This Officer can be called in without a tank to call-in artillery support. Tank variant available in the command bar.
+    	Hauptmann can be deployed to the battlefield. This Officer specializes in a vast array of artillery fire support.
+    	Leutnant can be deployed to the battlefield. This Officer specializes in forward reconnaissance and fire support.
+    	82mm Smoke Barrage
+    	120mm Mortar High-Explosive Barrage
+    	The Officer orders for an artillery barrage from nearby heavy mortars.
+    	76mm Field Gun High-Explosive Barrage
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 5s. Effective vs. nearly all targets.
+    	76mm Fire-for-Effect Armor-Piercing Barrage
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 5s. Effective vs. vehicles.
+    	The Officer orders for an artillery barrage from regimental field guns.
+    	The Officer orders for an artillery barrage loaded with armor-piercing rounds for use against armor.
+    	132mm Katyusha Barrage
+    	Left-click to select, left-click target. Fires 16 Rounds. Delay 7.5s.
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 7.5s. Effective vs. all targets.
+    	Left-click to select, left-click target. Fires 16 Rounds. Delay 10s. Effective vs. all targets.
+    	122mm Howitzer Incendiary Barrage
+    	Left-click ability, left-click target area. Fires 3 Rounds. Burn Time: 30s. Effective. vs infantry & structures.
+    	Effective vs. all targets. Replaces the default 'D' ability.
+    	Requests for a high-explosive barrage from HM-38 120mm Mortars. The rounds can devastate infantry & structures, but will only do minor damage against armor.
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 5s. Effective vs. infantry & structures.
+    	Requests for a high-explosive barrage from M-30 Field Howitzers. The 122mm shells performs well against all targets, but there is significant delay between shells.
+    	Requests for a high-explosive barrage from a BM-16 Katyusha Rocket Launcher. These 132mm rockets are highly potent, especially versus armor, but suffer from high scatter.
+    	Requests for an armor-piercing barrage from ZiS-3 Field Guns. The rounds will target all infantry and vehicles within radius.
+    	Requests for a high-explosive barrage from ZiS-3 Field Guns. The 76mm high-explosive shells are reasonably effective against all but the heaviest armored foes.
+    	Requests for a propaganda operation from any nearby artillery units. The airburst leaflets will distract and suppress infantry; dealing slight damage on detonation.
+    	Requests for an incendiary barrage from M-30 Field Howitzers. The incendiary rounds will burn infantry & structures, de-crew light vehicles, and impair armored targets.
+    	Requests for a smoke barrage from PM-41 82mm Mortars. The smoke rounds block sight radius and can injure infantry on direct impact.
+    	Fear Propaganda Leaflet Barrage
+    	Left-click ability, left-click target area. Fires 3 Rounds. Burn Time: 30s. 
+    	Left-click ability, left-click target area. Fires 3 Rounds. Burn Time: 30s. Grants circular sight radius.
+    	Requests for an illumination barrage from ML-20 Field Howitzers. The flare rounds will reveal targets concealed in the fog of war, & camouflaged units.
+    	Requests for a high-explosive barrage from 15cm Nebelwerfer Rocket Launchers. The 15cm Rockets will flatten any target it lands on, but suffers from high scatter.
+    	Requests for an illumination barrage from ML-20 Field Howitzers. The flare rounds will reveal targets concealed in the fog of war. 
+    	10.5cm Illumination Barrage
+    	Requests for an illumination barrage from leFH Field Howitzers. The flare rounds will reveal targets concealed in the fog of war, & camouflaged units, & camouflaged units.
+    	<locstring name="screen_name" value="13729" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	10.5cm Howitzer Incendiary Barrage
+    	Requests for an incendiary barrage from leFH Field Howitzers. The incendiary rounds will burn infantry & structures, de-crew light vehicles, and impair armored targets.
+    	Requests for a high-explosive barrage from IG18 Field Guns. The 75mm rounds perform adequately against most targets, but will struggle against heavy armor.
+    	Requests for a HEAT barrage from IG18 Field Guns. The Hollow Charge Rounds are deadlier versus all targets, but is costlier and arrives slower.
+    	Requests for an armor-piercing barrage from Flak 36 Anti-Aircraft Guns. The 8.8cm solid armor-piercing shells is nearly guaranteed to penetrate the top armor of any tank.
+    	Requests for a sector barrage from sFH Field Howitzers. The powerful 15cm shells will annihilate most targets, followed up with a smoke barrage to advance forward.
+    	Requests for a high-explosive barrage from leFH Field Howitzers. The 10.5cm rounds arrive in quick succession, but are much less accurate.
+    	Requests for an illumination barrage from leFH Field Howitzers. The flare rounds will reveal targets concealed in the fog of war. 
+    	Requests for an illumination barrage from M2A1 Howitzers. The flare rounds will reveal targets concealed in the fog of war, & camouflaged units.
+    	Requests for a high-explosive barrage from 3.7cm Flak 18 Anti-Aircraft Guns. The 3.7cm rounds are accurate, but lack explosive power.
+    	The Officer orders for an artillery barrage loaded with high-explosive rounds.
+    	The Officer orders for a propaganda barrage to suppress and demoralize enemy infantry.
+    	150-ya Motostrelkovaya Diviziya Leytenánt
+    	3 Command Points
+    	122mm Incendiary Barrage
+    	Not Pinned
+    	Armaments: (Mosin-Nagants, SVT-40, PPSh-41), *PPSh-41s, *RNM-50, Training: Elite, Role: Strategic/Tactical Support. 
+    	Armaments: (Mosin-Nagants, PPSh-41), *PPSh-41s x2, *M1A1 Bazooka, Training: Ace, Role: Tactical Support. 
+    	Armaments: (Mosin-Nagants, M1895), *PPSh-41s x2, PPS-43s x2, Training: Experienced, Role: Assault. 
+    	Armaments: (Mosin-Nagants, SVT-40, TT-33), *SVT-40s x2, *PPS-43s x2, *DP-28, Training: Experienced, Role: Tactical Support. 
+    	Armaments: (Mosin-Nagants, PPSh-41, M1895), *SVT-40s x2, *DP-28, Training: Elite, Role: Tactical Support. 
+    	Armaments: (Mosin-Nagants, PPSh-41, TT-33), *PPSh-41s x2, *ROKS-3, Training: Elite, Role: Tactical Support. 
+    	9 Command Points
+    	12 Command Points
+    	Equipped with heavier shells and improved ballistics, the FlaK 38 was built as a direct counter to the increasing threat of low-altitude fighter bombers. Based off the old FlaK 30, its new shells shredded enemy aircraft on impact. 
+    	First used by the Reichswehr, the versatile and compact leIG 18 is truly a multi-role weapon. Utilized extensively by the Gebirgsjägers and Fallschirmjägers as light artillery, it could convert to direct fire against enemy armor.
+    	First used by the Reichswehr, the versatile and compact leIG 18 is truly a multi-role weapon. Utilized extensively by the Gebirgsjägers and Fallschirmjägers as light artillery, it could convert to direct fire against enemy armor.
+    	First used by the Reichswehr, the versatile and compact leIG 18 is truly a multi-role weapon. Utilized extensively by the Gebirgsjägers and Fallschirmjägers as light artillery, it could convert to direct fire against enemy armor.
+    	First used by the Reichswehr, the versatile and compact leIG 18 is truly a multi-role weapon. Utilized extensively by the Gebirgsjägers and Fallschirmjägers as light artillery, it could convert to direct fire against enemy armor.
+    	First used by the Reichswehr, the versatile and compact leIG 18 is truly a multi-role weapon. Utilized extensively by the Gebirgsjägers and Fallschirmjägers as light artillery, it could convert to direct fire against enemy armor.
+    	First used by the Reichswehr, the versatile and compact leIG 18 is truly a multi-role weapon. Utilized extensively by the Gebirgsjägers and Fallschirmjägers as light artillery, it could convert to direct fire against enemy armor.
+    	The standard mortar of the Wehrmacht, the GrW 34 could consistently engage targets out to 2.4 km. Enhanced to hit out to 4.5 km, the 8 cm was also mounted on light vehicles by mechanized units who needed more mobile firepower.
+    	The core of the Wehrmacht field artillery, over 22,000 leFH 18 models were produced. Despite being outclassed in firepower by later artillery, the leFH 18 could fire faster and was considerably more accurate than its Allied counterparts.
+    	The core of the Wehrmacht field artillery, over 22,000 leFH 18 models were produced. Despite being outclassed in firepower by later artillery, the leFH 18 could fire faster and was considerably more accurate than its Allied counterparts.
+    	A semi-automatic Gewehr 43 fitted with the Zielfernrohr 43 telescopic sight has significantly improved rate-of-fire, but suffers from shorter range.
+    	Compared to similar weapons: (+ High ROF, + High Capacity, - Shorter Range).
+    	Veterancy 2
+    	Armaments: (G43-Zf4), Skill: Ace, Role: Sniper.
+    	Armaments: (K98-Zielacht), *G43-Zf4, Skill: Ace, Role: Sniper.
+    	Not Moving.
+    	Toggle ability. Detection Range: 25m. Delay: 10s. Attacking from camouflage grants increased damage, accuracy & penetration.
+    	Panzerspähwagen
+    	Our light vehicle crews are better able to coordinate & assault enemy positions!
+    	Light Vehicles now receive the Radio Net Aura around other Light Vehicles, increasing their reload speed & sight radius. Does not include Trucks.
+    	Jäger Tactics
+    	Light Vehicle build times decreased by -50%. Does not include Medics, Snipers, or Anti-Tank teams.
+    	Light Vehicle build times decreased by -50%. Does not include Trucks.
+    	Unconditional Aid
+    	Additional shipments from the Americans have allowed us to deploy vehicles even faster.
+    	Steady Driving
+    	Light Vehicle receive 50% less suppression. Does not include Trucks.
+    	Light Vehicle receive 50% less incoming suppression. Only applies to units with exposed gunners.
+    	Extra training has allowed for our vehicle crews to remain calm under heavy fire.
+    	Veterancy 2
+    	Veterancy 1
+    	Armaments: (Mosin-Nagants, PPSh-41, M1895), *PPSh-41s x2, *SVT-40s x2, *ROKS-3, Training: Elite, Role: Tactical Support. 
+    	Armaments: (Mosin-Nagants, PPSh-41), *PPSh-41s x2, *SVT-40s x2, *ROKS-3, Training: Elite, Role: Tactical Support. 
+    	Armaments: (Mosin-Nagants, PPSh-41), *PPDs x2, *M91/30-PU, Training: Experienced, Role: Tactical Support. 
+    	Requests for a high-explosive artillery strike from a B-4 Heavy Howitzer. The 122mm shells performs well against all targets, but there is significant delay between shells.
+    	Requests for a high-explosive artillery strike from a B-4 Heavy Howitzer. The massive 203mm shell will flatten anything the enemy can field.
+    	Left-click to select, left-click target. Fires 1 Round. Delay 10s. Effective vs. all targets. Has lower activation range.
+    	203mm Howitzer High-Explosive Strike
+    	203mm B-4 High-Explosive Strike
+    	The Officer calls in for a heavy 203mm artillery strike, highly effective versus any target.
+    	Veterancy 3
+    	Veterancy 4
+    	T-34/85 Model 1945 Medium Tank
+    	Red Banner T-34/85
+    	4-ya Gvardeiskaya Tankovaya Divisiya 'Krasnoye Znamya' T-34-85
+    	The addition of a larger turret and vastly more powerful ZiS-S-53 85mm gun to the robust and mobile T-34 makes it capable of knocking out medium tanks in one shot, and reliably penetrating heavier tanks.
+    	4th Guards 'Kantemirovskaya' T-34/85 Ace
+    	T-34/85 Ace can be deployed to the battlefield. This Officer specializes in frontline combat alongside infantry.
+    	T-34/85 Ace can be deployed to the battlefield. This Ace from a Red Banner division arrives at Veterancy 4, can capture points, and projects a sector-wide aura.
+    	Deploy 4th Guards Tank Division Ace x1. Click and select location to deploy.
+    	Vodka!
+    	Move quickly and focus on flank shots on enemy vehicles. The tank will move faster and be harder to hit.
+    	Using an ingenious technique of vodka mixed with fuel to keep the engine running, the tank is able to use mitigate fuel consumption.
+    	Order of the Red Banner (T-34/85 Ace)
+    	The Ace inspires nearby friendly forces, vehicles receive 15% faster fire rates, while infantry receive +10% increased accuracy within the sector.
+    	Loads and fires an armor-piercing round at the vehicle's treads or wheels in an attempt to immobilize the target.
+    	Can only field 1 T-34/85 Ace at a time.
+    	Can only field 1 Leytenánt Squad at a time.
+    	Can only field 1 Leytenánt Squad at a time.
+    	Can only field 1 Leytenánt Squad at a time.
+    	Can only field 1 Leytenánt Squad at a time.
+    	Can only field 1 Leytenánt Squad at a time.
+    	Can only field 1 Kapitan Squad at a time.
+    	Can only field 1 Mayór Squad at a time.
+    	Can only field 1 Mayór Squad at a time.
+    	Can only field 1 Polkovnik Squad at a time.
+    	5 Command Points
+    	The prestigious 'Order of the Red Banner' was one of the Red Army's highest awards that could be granted to an entire unit. The 4th Guards received this distinction after having liberated numerous cities under fascist occupation.
+    	67th Rifle Division Leytenánt Retinue
+    	67th Leytenánt
+    	1-ya Gvardeyskaya Artilleriyskaya Diviziya Mayór
+    	69-ya Motostrelkovaya Diviziya Leytenánt
+    	1st Breakthrough Artillery Division Mayór
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	Panzerjäger Tiger Ausf. B 'Jagdtiger'
+    	The 251/17 offered unrelenting firepower when stationary, with collapsible side panels allowing full traverse of the deadly 2 cm FlaK 38. Used extensively by the SS, the 251 ausf. C provided merciless fire against aircraft and infantry.
+    	The 251/17 offered unrelenting firepower when stationary, with collapsible side panels allowing full traverse of the deadly 2 cm FlaK 38. Used extensively by the SS, the 251 ausf. C provided merciless fire against aircraft and infantry.
+    	The 251/17 offered unrelenting firepower when stationary, with collapsible side panels allowing full traverse of the deadly 2 cm FlaK 38. Used extensively by the SS, the 251 ausf. C provided merciless fire against aircraft and infantry.
+    	The 251/17 offered unrelenting firepower when stationary, with collapsible side panels allowing full traverse of the deadly 2 cm FlaK 38. Used extensively by the SS, the 251 ausf. C provided merciless fire against aircraft and infantry.
+    	The 251/17 offered unrelenting firepower when stationary, with collapsible side panels allowing full traverse of the deadly 2 cm FlaK 38. Used extensively by the SS, the 251 ausf. C provided merciless fire against aircraft and infantry.
+    	Covered in virtually impenetrable armor and armed with the upgraded 8.8 cm KwK 45 L/71, the Tiger II is truly the ‘King’ of German armor. Although only 492 models ever entered active service, the tank was unrivaled on the field.
+    	Covered in virtually impenetrable armor and armed with the upgraded 8.8 cm KwK 45 L/71, the Tiger II is truly the ‘King’ of German armor. Although only 492 models ever entered active service, the tank was unrivaled on the field.
+    	Covered in virtually impenetrable armor and armed with the upgraded 8.8 cm KwK 45 L/71, the Tiger II is truly the ‘King’ of German armor. Although only 492 models ever entered active service, the tank was unrivaled on the field.
+    	Covered in virtually impenetrable armor and armed with the upgraded 8.8 cm KwK 45 L/71, the Tiger II is truly the ‘King’ of German armor. Although only 492 models ever entered active service, the tank was unrivaled on the field.
+    	Covered in virtually impenetrable armor and armed with the upgraded 8.8 cm KwK 45 L/71, the Tiger II is truly the ‘King’ of German armor. Although only 492 models ever entered active service, the tank was unrivaled on the field.
+    	Panzerkampfwagen VI Ausf. B ‘Tiger II’
+    	Panzerkampfwagen VI Ausf. B ‘Tiger II’
+    	Panzerkampfwagen VI Ausf. B ‘Tiger II’
+    	Despite rushed development in 1942 and an unsteady first year of service, the Tiger I gradually received valuable engine and drivetrain enhancements. By wars end, the iconic tank was as reliable as the mass-produced Panzer IV.
+    	Motor Verbesserungen
+    	Despite numerous early development issues, the ‘Tiger I’ was considered the most well-rounded heavy tank of the war. Eventually improved and as reliable as the common Panzer IV, roughly 1,355 ‘Tiger Is’ entered combat service.
+    	Failing to relieve Budapest in 1945 and pushed back to Vienna, ‘LSSAH’ was mustered to defend Berlin in April. Of the 1,600 men who arrived, only 800 survivors broke through encirclement to surrender to U.S. forces at Steyr on May 8th.
+    	The Panther shined as a command tank, using its powerful 7.5 cm KwK 42 to actively support allies. Filled with extra radios to coordinate operations with ground and air forces, its only downfall was a limited fifteen round capacity.
+    	The Panther shined as a command tank, using its powerful 7.5 cm KwK 42 to actively support allies. Filled with extra radios to coordinate operations with ground and air forces, its only downfall was a limited fifteen round capacity.
+    	Germany’s premier medium tank, the Panther merged sloped armor, agility and the capable 7,5 cm KwK 42 into a formidable machine. Able to dispatch medium tanks with a single shot, it roamed the battlefield virtually unchallenged.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	A conversion of the Pzkpfw. II, the Luchs was adept at its role as recon. The 2 cm KwK 30 was devastating to soft targets while its low weight and high max speed allowed the tank to flank around or evade heavier opponents.
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	The StuG III Ausführung E was designed to support infantry against emplacements and light armor. Essentially mobile artillery, the 7.5 cm StuK 37 gun could inflict considerable damage but suffered from poor armor penetration.
+    	The StuG III Ausführung E was designed to support infantry against emplacements and light armor. Essentially mobile artillery, the 7.5 cm StuK 37 gun could inflict considerable damage but suffered from poor armor penetration.
+    	The StuG III Ausführung E was designed to support infantry against emplacements and light armor. Essentially mobile artillery, the 7.5 cm StuK 37 gun could inflict considerable damage but suffered from poor armor penetration.
+    	The StuG III Ausführung E was designed to support infantry against emplacements and light armor. Essentially mobile artillery, the 7.5 cm StuK 37 gun could inflict considerable damage but suffered from poor armor penetration.
+    	The StuG III Ausführung E was designed to support infantry against emplacements and light armor. Essentially mobile artillery, the 7.5 cm StuK 37 gun could inflict considerable damage but suffered from poor armor penetration.
+    	The StuG III Ausführung E was designed to support infantry against emplacements and light armor. Essentially mobile artillery, the 7.5 cm StuK 37 gun could inflict considerable damage but suffered from poor armor penetration.
+    	The StuG III Ausführung E was designed to support infantry against emplacements and light armor. Essentially mobile artillery, the 7.5 cm StuK 37 gun could inflict considerable damage but suffered from poor armor penetration.
+    	Capable of destroying tanks at great range, the high velocity 7.5 cm StuK 40 turned the StuG III into a true multi-role assault gun. A low profile and additional armor significantly improved survivability against enemy medium tanks.
+    	Capable of destroying tanks at great range, the high velocity 7.5 cm StuK 40 turned the StuG III into a true multi-role assault gun. A low profile and additional armor significantly improved survivability against enemy medium tanks.
+    	Capable of destroying tanks at great range, the high velocity 7.5 cm StuK 40 turned the StuG III into a true multi-role assault gun. A low profile and additional armor significantly improved survivability against enemy medium tanks.
+    	Capable of destroying tanks at great range, the high velocity 7.5 cm StuK 40 turned the StuG III into a true multi-role assault gun. A low profile and additional armor significantly improved survivability against enemy medium tanks.
+    	Armaments: 7.5 cm KwK 40 L/48, Hull MG34, *Pintle MG42, Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. armor. 
+    	Armaments: 7.5 cm KwK 40 L/48, Hull MG34, *Pintle MG42, Armor: 80mm, Role: Infantry Support, Speed: 40 km/h. Effective at medium range vs. armor. 
+    	Armaments: 7.5 cm KwK 40 L/48, *MG42 (Pintle), Armor: 80mm, Role: Infantry Support, Speed: 40 km/h.
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. F1
+    	The versatile Panzer IV received multiple upgrades throughout the war to maintain frontline effectiveness. The 7.5 cm KwK 40 provided the Ausf. H with long range accuracy while integrated side-skirts improved survivability.
+    	The versatile Panzer IV received multiple upgrades throughout the war to maintain frontline effectiveness. The 7.5 cm KwK 40 provided the Ausf. H with long range accuracy while integrated side-skirts improved survivability.
+    	The rare successor of the Flakpanzer ‘Wirbelwind’, the Ostwind replaced the quad-barrelled 2 cm with a single, rapid-firing 3.7 cm FlaK 43. Efficient at dispatching fortifications or light vehicles, only 44 models actually finished production.
+    	The rare successor of the Flakpanzer ‘Wirbelwind’, the Ostwind replaced the quad-barrelled 2 cm with a single, rapid-firing 3.7 cm FlaK 43. Efficient at dispatching fortifications or light vehicles, only 44 models actually finished production.
+    	The rare successor of the Flakpanzer ‘Wirbelwind’, the Ostwind replaced the quad-barrelled 2 cm with a single, rapid-firing 3.7 cm FlaK 43. Efficient at dispatching fortifications or light vehicles, only 44 models actually finished production.
+    	The rare successor of the Flakpanzer ‘Wirbelwind’, the Ostwind replaced the quad-barrelled 2 cm with a single, rapid-firing 3.7 cm FlaK 43. Efficient at dispatching fortifications or light vehicles, only 44 models actually finished production.
+    	The rare successor of the Flakpanzer Wirbelwind, the Ostwind replaced the quad-barrelled 2 cm with a single, rapid-firing 3,7 cm FlaK 43. Efficient at dispatching light vehicles and fortifications, only 44 vehicles were completed.
+    	The rare successor of the Flakpanzer ‘Wirbelwind’, the Ostwind replaced the quad-barrelled 2 cm with a single, rapid-firing 3.7 cm FlaK 43. Efficient at dispatching fortifications or light vehicles, only 44 models actually finished production.
+    	Equipped with three different radios, the command Panzer IV provided outstanding coordination between infantry, armor and aircraft. Benefitting from the Ausf. J’s 7.5 cm KwK 40 L/48, it remained a threat in its own right.
+    	This command version of the Panzer IV carries extra radios for better coordination and control of nearby military forces.
+    	Merging the dependable 8 cm GrW 34 with the reputable 250 chassis, the Wehrmacht requested full production in 1943. A valuable asset, the Sdkfz. 250/7 was popular with armored units for its indirect fire support and versatility.
+    	Merging the dependable 8 cm GrW 34 with the reputable 250 chassis, the Wehrmacht requested full production in 1943. A valuable asset, the Sdkfz. 250/7 was popular with armored units for its indirect fire support and versatility.
+    	The SS called for full production of the Sdkfz. 250/7 in 1943, uniting the competent 250 chassis with the reputable 8 cm GrW 34. Admired by armored elements for its versatility and indirect fire support, it was considered irreplaceable.
+    	Merging the dependable 8 cm GrW 34 with the reputable 250 chassis, the Wehrmacht requested full production in 1943. A valuable asset, the Sdkfz. 250/7 was popular with armored units for its indirect fire support and versatility.
+    	Merging the dependable 8 cm GrW 34 with the reputable 250 chassis, the Wehrmacht requested full production in 1943. A valuable asset, the Sdkfz. 250/7 was popular with armored units for its indirect fire support and versatility.
+    	Sonderkraftfahrzeug 250/7
+    	Two flame projectors can be used to deadly effect against infantry in cover or in the open.
+    	Two flame projectors can be used to deadly effect against infantry in cover or in the open.
+    	In need of mobile anti-air support, the Wehrmacht combined the venerable 2 cm FlaK 38 with the reliable Sdkfz. 251 platform. Able to collapse its sides when stationary, the 251 Ausf. C allowed full gun traverse for maximum air coverage.
+    	In need of mobile anti-air support, the Wehrmacht combined the venerable 2 cm FlaK 38 with the reliable Sdkfz. 251 platform. Able to collapse its sides when stationary, the 251 Ausf. C allowed full gun traverse for maximum air coverage.
+    	In need of mobile anti-air support, the Wehrmacht combined the venerable 2 cm FlaK 38 with the reliable Sdkfz. 251 platform. Able to collapse its sides when stationary, the 251 Ausf. C allowed full gun traverse for maximum air coverage.
+    	In need of mobile anti-air support, the Wehrmacht combined the venerable 2 cm FlaK 38 with the reliable Sdkfz. 251 platform. Able to collapse its sides when stationary, the 251 Ausf. C allowed full gun traverse for maximum air coverage.
+    	In need of mobile anti-air support, the Wehrmacht combined the venerable 2 cm FlaK 38 with the reliable Sdkfz. 251 platform. Able to collapse its sides when stationary, the 251 Ausf. C allowed full gun traverse for maximum air coverage.
+    	Sonderkraftfahrzeug Ausf. C 251/17
+    	The primary half-track of the Wehrmacht, over 15,200 Sdkfz. 251 models served during the war. Robust and reliable, the ‘Hanomag’ was the base platform for an assortment of specialized variants.
+    	Robust and reliable, the Sdkfz. 251 offered adequate small-arms protection and infantry support with a mounted MG42. Gains veterancy from nearby allies.
+    	The primary half-track of the Wehrmacht, over 15,200 Sdkfz. 251 models served during the war. Robust and reliable, the ‘Hanomag’ was the base platform for an assortment of specialized variants.
+    	Uniting the 5 cm L/60 and a coaxial MG34 with an innovative eight-wheeled chassis, the Sdkfz. 234/2 augmented the Wehrmacht’s mobile recon units. Despite its max speed of ninety km/hr, the Puma suffered on cross-country terrain.
+    	Uniting the 5 cm L/60 and a coaxial MG34 with an innovative eight-wheeled chassis, the Sdkfz. 234/2 augmented the Wehrmacht’s mobile recon units. Despite its max speed of ninety km/hr, the Puma suffered on cross-country terrain.
+    	Uniting the 5 cm L/60 and a coaxial MG34 with an innovative eight-wheeled chassis, the Sdkfz. 234/2 augmented the Wehrmacht’s mobile recon units. Despite its max speed of ninety km/hr, the Puma suffered on cross-country terrain.
+    	Uniting the 5 cm L/60 and a coaxial MG34 with an innovative eight-wheeled chassis, the Sdkfz. 234/2 augmented the Wehrmacht’s mobile recon units. Despite its max speed of ninety km/hr, the Puma suffered on cross-country terrain.
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	An advanced four-wheel-drive scout car, the highly maneuverable Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Outfitted with 14.5 mm of frontal armor, it reliably protected its two-man crew from small arms.
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	A highly maneuverable and advanced four-wheel-drive scout car, the Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Its 14.5 mm frontal armor reliably protected its two-man crew from small arms.
+    	Panzerjäger Tiger Ausf. B “Jagdtiger”
+    	Panzerjäger Tiger Ausf. B “Jagdtiger”
+    	Panzerjäger Tiger Ausf. B “Jagdtiger”
+    	Panzerjäger Tiger Ausf. B “Jagdtiger”
+    	Sturmgeschütz III Ausf. G
+    	Sturmgeschütz III Ausf. G
+    	Sturmgeschütz III Ausf. G
+    	Sturmgeschütz III Ausf. G
+    	Sturmmörserwagen 606/4 'Sturmtiger' 
+    	Sturmmörserwagen 606/4 'Sturmtiger' 
+    	Sonderkraftfahrzeug 234/2 Puma
+    	Sonderkraftfahrzeug 234/2 Puma
+    	Panzerkampfwagen IV Ausf. J
+    	Panzerkampfwagen IV Ausf. J
+    	Panzerbefehlswagen IV Ausf. J
+    	Panzerbefehlswagen IV Ausf. J
+    	Panzerkampfwagen V Ausf. G ‘Panther’
+    	Panzerkampfwagen V Ausf. G ‘Panther’
+    	Panzerkampfwagen V Ausf. G ‘Panther’
+    	Panzerkampfwagen V Ausf. G ‘Panther’
+    	Abandoned Panther Ausf. G; re-crew with infantry
+    	Abandoned Panther Ausf. G; re-crew with infantry
+    	Abandoned vehicle; re-crew with infantry
+    	Abandoned vehicle; re-crew with infantry
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Flakpanzer IV/3.7 cm Ostwind
+    	Flakpanzer IV/3.7 cm Ostwind
+    	Opel Blitz 3A Lastwagen
+    	Panzerkampfwagen VI Ausf. B ‘Tiger II’
+    	Panzerkampfwagen VI Ausf. B ‘Tiger II’
+    	Panzerkampfwagen VI Ausf. B ‘Tiger II’
+    	Panzerkampfwagen VI Ausf. B ‘Tiger II’
+    	Sonderkraftfahrzeug 251/17
+    	Sonderkraftfahrzeug 251/17
+    	Sonderkraftfahrzeug 251 ‘Hanomag’
+    	Sonderkraftfahrzeug 251 ‘Hanomag’
+    	Sonderkraftfahrzeug 251 ‘Hanomag’
+    	Sonderkraftfahrzeug 251 ‘Hanomag’
