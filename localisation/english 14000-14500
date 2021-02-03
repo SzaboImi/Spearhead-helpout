@@ -1,0 +1,500 @@
+    	Sonderkraftfahrzeug 251/20 Ausf. D ‘Uhu’
+    	Sonderkraftfahrzeug 251/20 Ausf. D ‘Uhu’
+    	Panzerkampfwagen VI Ausf. E ‘Tiger I’
+    	Panzerkampfwagen VI Ausf. E ‘Tiger I’
+    	Panzerkampfwagen VI Ausf. E ‘Tiger I’
+    	Panzerkampfwagen VI Ausf. E ‘Tiger I’
+    	Sturmgeschütz III Ausf. G
+    	Sturmgeschütz III Ausf. G
+    	Sturmgeschütz III Ausf. E
+    	Sturmgeschütz III Ausf. E
+    	Sturmgeschütz III Ausf. E
+    	Sturmgeschütz III Ausf. E
+    	Sonderkraftfahrzeug 234/2 Puma
+    	Sonderkraftfahrzeug 234/2 Puma
+    	Panzerbefehlswagen IV Ausf. J
+    	Panzerkampfwagen IV Ausf. G
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. F1
+    	Panzerkampfwagen IV Ausf. H
+    	Panzerbefehlswagen IV Ausf. J
+    	Panzerkampfwagen V Ausf. G ‘Panther’
+    	Panzerkampfwagen V Ausf. G ‘Panther’
+    	Flakpanzer IV/3.7 cm 'Ostwind'
+    	Flakpanzer IV/3.7 cm 'Ostwind'
+    	Sonderkraftfahrzeug 250
+    	Sonderkraftfahrzeug 250
+    	Sonderkraftfahrzeug 250/7
+    	Sonderkraftfahrzeug 250/7
+    	Sonderkraftfahrzeug 251 ‘Hanomag’
+    	Sonderkraftfahrzeug 251 ‘Hanomag’
+    	Panzerspähwagen Sonderkraftfahrzeug 221
+    	Panzerspähwagen Sonderkraftfahrzeug 221
+    	Timed. Range: 20m. Duration 20s. Infantry receive 20% increased weapon accuracy, while vehicles reload 10% faster.
+    	Requests for a high-explosive barrage from M1A2 Field Howitzers. The 105mm rounds are able to destroy most targets.
+    	Requests for a high-explosive barrage from leFH Field Howitzers. The 10.5cm rounds are moderately effective against all but the heaviest of targets.
+    	Requests for a high-explosive barrage from leFH Field Howitzers. The 10.5cm rounds take longer to arrive on target, but are much more accurate.
+    	105mm Howitzer High-Explosive Barrage
+    	Requests for an incendiary barrage from 25-Pounder Howitzers. The incendiary rounds will burn infantry & structures, de-crew light vehicles, and impair armored targets.
+    	8.7cm Howitzer Incendiary Barrage
+    	8.7cm Howitzer High-Explosive Barrage
+    	Requests for a high-explosive barrage from 25-Pounder Howitzers. The 8.7cm rounds are nearly as effective as the more common 105mm, best used against less-armored targets.
+    	Left-click to select, left-click target. Fires 9 Rounds. Delay 5s. Effective vs. all targets.
+    	Requests for a high-explosive barrage from 4.2-Inch Mortars. The rounds can devastate infantry & structures, but will only do minor damage against armor.
+    	4.2-Inch Mortar High-Explosive Barrage
+    	8.7cm Howitzer High-Explosive Barrage
+    	8.7cm Howitzer Precision Barrage
+    	8.7cm Howitzer Rapid Barrage
+    	Requests for a high-explosive barrage from 25-Pounder Howitzers. The 8.7cm rounds take longer to arrive on target, but are much more accurate.
+    	Requests for a high-explosive barrage from 25-Pounder Howitzers. The 8.7cm rounds take longer to arrive on target, but are much more accurate.
+    	Requests for a high-explosive barrage from 25-Pounder Howitzers. The 8.7cm rounds arrive in quick succession, but are much less accurate.
+    	Left-click to select, left-click target. Fires 9 Rounds. Delay 3.5s. Effective vs. all targets.
+    	Left-click to select, left-click target. Fires 9 Rounds. Delay 10s. Effective vs. all targets.
+    	8.7cm Airburst Barrage
+    	Requests for an airburst barrage from 25-Pounder Howitzers. The 8.7cm rounds will detonate above the target, negating most cover, but reducing lethality versus armored vehicles.
+    	Requests for a high-explosive barrage from M1 Pack Howitzers. The 75mm rounds perform adequately against most targets, but will struggle against heavy armor.
+    	75mm Howitzer Barrage
+    	75mm Howitzer White Phosphorus Barrage
+    	Requests for a white phosphorus barrage from M1 Pack Howitzers. The 'Willy Pete' rounds will obscure vision, burn infantry & structures, de-crew light vehicles, and impair armored targets.
+    	Hawker Typhoon Hispano 20mm Autocannon Strafe
+    	A Hawker Typhoon will strafe the target location with its 20mm Hispano cannons.
+    	Hawker Typhoon Recon Patrol
+    	Hawker Typhoon Recon Patrol
+    	8.7cm Howitzer Airburst Barrage
+    	The Officer calls in an airburst barrage on the target location
+    	Veterancy 2
+    	8.7cm Incendiary Howitzer Barrage
+    	8.7cm Rapid Barrage
+    	8.7cm Howitzer Precision Barrage
+    	The Officer calls in a 8.7cm howitzer barrage on the target location
+    	The Officer calls in a 8.7cm howitzer barrage on the target location
+    	75mm White Phosphorus Barrage
+    	The Officer calls in for a white phosphorus smoke barrage, that obscures vision and severely burns targets.
+    	Concentration Barrage
+    	The Officer orders for the Headquarters' 25-Pounder Howitzers to fire on target.
+    	Sonderkraftfahrzeug 251/20 Ausf. D ‘Uhu’
+    	Sonderkraftfahrzeug 251 Ausf. D ‘Stuka zu Fuß’
+    	Sonderkraftfahrzeug 251 Ausf. D ‘Stuka zu Fuß’
+    	<locstring name="screen_name" value="14076" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Sonderkraftfahrzeug 4/1 ‘Panzerwerfer 42’
+    	Mounted with a unique 60 cm infrared searchlight, roughly sixty Sdkfz. 251/20 models saw service in late 1944. In tandem with IR equipped Panthers and ‘Vampir’ scopes on the Stg 44, the Uhu illuminated targets out to 1.5 km. 
+    	Commonly mounted on the reputable Sdkfz. 251, the Wurfrahmen 40 provided large area saturation with its six 300 mm rockets. Favored by Panzer formations for its mobility, it was extremely effective at leveling urban areas.
+    	Commonly mounted on the reputable Sdkfz. 251, the Wurfrahmen 40 provided large area saturation with its six 300 mm rockets. Favored by Panzer formations for its mobility, it was extremely effective at leveling urban areas.
+    	Sonderkraftfahrzeug 166 ‘Sturmpanzer IV’
+    	Sonderkraftfahrzeug 166 ‘Sturmpanzer IV’
+    	Sonderkraftfahrzeug 166 ‘Sturmpanzer IV’
+    	Sonderkraftfahrzeug 166 ‘Sturmpanzer IV’
+    	Sonderkraftfahrzeug 166 ‘Sturmpanzer IV’
+    	Sonderkraftfahrzeug 166 ‘Sturmpanzer IV’
+    	Sonderkraftfahrzeug 166 ‘Sturmpanzer IV’
+    	Sturmpanzer IV
+    	Known by its Allied nickname ‘Brummbär’, the Sturmpanzer integrated 100 mm of armor with the competent Panzer IV chassis. Outfitted with the 15 cm StuH 43 L/12, it could effortlessly demolish enemy soft targets.
+    	Known by its Allied nickname ‘Brummbär’, the Sturmpanzer integrated 100 mm of armor with the competent Panzer IV chassis. Outfitted with the 15 cm StuH 43 L/12, it could effortlessly demolish enemy soft targets.
+    	Known by its Allied nickname ‘Brummbär’, the Sturmpanzer integrated 100 mm of armor with the competent Panzer IV chassis. Outfitted with the massive 15 cm StuH 43 L/12, it could effortlessly demolish most ground targets.
+    	Known by its Allied nickname ‘Brummbär’, the Sturmpanzer integrated 100 mm of armor with the competent Panzer IV chassis. Outfitted with the 15 cm StuH 43 L/12, it could effortlessly demolish enemy soft targets.
+    	Panzerbefehlswagen Panther Sdkfz. 267
+    	Panzerbefehlswagen Panther Sdkfz. 267
+    	Panzerbefehlswagen Panther Sdkfz. 267
+    	Panzerbefehlswagen Panther Sdkfz. 267
+    	Based on a 1935 French design, the Soviet PM 38 120 mm was captured in large quantities by German forces. Superior in every category to then current service German mortars, the model provoked production of the 12 cm GrW 42.
+    	8.14 cm Granatwerfer 34
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	8.8 cm Panzerabwehrkanone 43
+    	Based off the vaunted FlaK 88 series, the PaK 43 was the heaviest mass produced AT gun fielded by the Wehrmacht. An effective range of 15,150 meters and a flat trajectory out to 914 m allowed the PaK 43 to annihilate any Allied vehicle.
+    	2 cm Flugzeugabwehrkanone 38
+    	2 cm Flugzeugabwehrkanone 38
+    	7.5 cm Panzerabwehrkanone 40
+    	7.5 cm Panzerabwehrkanone 40
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 42
+    	Maschinengewehr 34
+    	Maschinengewehr 34
+    	Maschinengewehr 34
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	7.5 cm leichtes Infanteriegeschütz 18
+    	2. SS-Panzer-Division Pz.Bfw. IV Ausf. F1
+    	2nd SS-Panzer Division Panzerbefehlswagen IV
+    	2. SS-Panzer Division Panzerbefehlswagen IV F1
+    	Deploy 2. SS-Panzer Division Panzerbefehlswagen IV x1. Click and select location to deploy.
+    	Sturmbannführer can be deployed to the battlefield. This Officer arrives in a Command Tank, and specializes in urban combat, the tank has high-explosive rounds by default.
+    	2nd SS-Panzer Division Hauptsturmführer
+    	2nd SS-Panzer Division Untersturmführer 
+    	Untersturmführer can be deployed to the battlefield. This Officer specializes in assaulting the enemy frontline.
+    	Deploy 2nd SS-Panzer Division Untersturmführer x1. Click and select location to deploy.
+    	Deploy 2nd SS-Panzer Division Hauptsturmführer x1. Click and select location to deploy.
+    	Hauptsturmführer can be deployed to the battlefield. This Officer specializes in a vast array of artillery fire support, equipped with an anti-tank pistol.
+    	Sonderkraftfahrzeug 251 ‘Hanomag’
+    	1. SS-Panzer-Division Sdkfz. 251/3 IV ‘Funkpanzerwagen’
+    	1. SS-Panzer 251/3 IV
+    	1st SS-Panzer Division Untersturmführer 
+    	Deploy 1st SS-Panzer Division Untersturmführer x1. Click and select location to deploy.
+    	Can only field (1) 1. SS-Panzer Sdkfz. 251/3 Funkpanzerwagen at a time.
+    	3 Command Points
+    	Deploy 1. SS-Panzer Division Panzerbefehlswagen Panther x1. Click and select location to deploy.
+    	1. SS-Panzer Division Panzerbefehlswagen Panther
+    	Deploy 1. SS-Panzer Division Sdkfz. 251/3 x1. Click and select location to deploy.
+    	2nd SS-Panzer Division Panzerbefehlswagen IV F1
+    	1. SS-Panzer Division Sdkfz. 251/3 ‘Funkpanzerwagen’
+    	Hauptsturmführer can be deployed to the battlefield. This Officer arrives in a Command Halftrack, and is able to quickly manuever across the battlefield.
+    	SS-Sturmgrenadiere Squad
+    	Unlocks the 3cm Gewehrsprenggate rifle grenade, a long-range explosive round.
+    	As it fought its way west ‘Das Reich’ expended seventy percent of its remaining equipment and men. At Prague, Dresden and Vienna it helped thousands of civilians flee the barbaric Red Army before surrendering to US forces on May 9th.
+    	Defensive Tactics
+    	Armaments: MG42 (Front/Rear), Armor: 12mm, Role: Tactical Support, Capacity: 12, Speed: 52.5 km/h.
+    	Untersturmführer can be deployed to the battlefield. This Officer specializes in forward reconnaissance and fire support.
+    	Untersturmführer can be deployed to the battlefield. This Officer specializes in forward reconnaissance and fire support.
+    	Deploy 3rd SS-Panzer Division Veteran Squad x1. Click and select location to deploy.
+    	3rd SS-Panzer Division Veterans can be deployed to the battlefield. This Officer specializes in forward reconnaissance and fire support.
+    	3rd SS-Panzer Division Veterans can be deployed to the battlefield. This Veteran squad can inspire nearby troops.
+    	3rd SS-Panzer Division Veterans
+    	Deploy 3rd SS-Panzer Division Hauptsturmführer x1. Click and select location to deploy.
+    	3rd SS-Panzer Division Hauptsturmführer
+    	3rd SS-Panzer Division Sturmbannführer Retinue 
+    	Gauleiter Retinue
+    	Can only 1 Gauleiter squad at a time.
+    	7 Command Points
+    	Deploy Gauleiter x1. Click and select location to deploy.
+    	Gauleiter
+    	Gauleiter can be deployed to the battlefield. This Officer specializes in a vast array of artillery fire support.
+    	Gauleiter can be deployed to the battlefield. This Officer arrives with a large group of Volkssturm forces.
+    	Veterancy 2
+    	Veterancy 2
+    	Veterancy 1
+    	Infiltrate Volkssturm Panzerjägers Squad
+    	Volkssturm Panzerjägers can be deployed to the battlefield. This anti-tank squad has an increased squad size of 5 soldiers, but lacks a close-quarters weapon.
+    	New unit - Volkssturm Panzerjägers - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Volkssturm Panzerjägers can be deployed to the battlefield. This rudimentary anti-tank squad lacks a default anti-tank weapon, but has access to powerful hollow-charge weapons.
+    	3 Command Points
+    	3 Command Points
+    	Fire Panzerfaust-100
+    	Panzerfaust-100 Assault
+    	Anti-Tank Rocket, fires three hollow-charge rockets at the target, deals extremely high damage.
+    	Volkssturm Panzerjäger
+    	Volkssturm Panzerjäger
+    	Armaments: (K98s), *VG-15s x2, *FmW 35, *Pzb. 39, *Panzerschreck, Skill: Poor, Role: Anti-Tank.
+    	Ordered to protect their homeland from the waves of Allied armor, the Volkssturm used blood to offset iron. Typically overrun and cut off from friendly lines by force, some units willingly stayed behind in an attempt to stall the Allied horde.
+    	Infantry receives 50% faster equipment recharge time, +10 sight radius, and 10% increased weapon accuracy around the squad.
+    	Feuer Frei! (Leutnant)
+    	Infantry receives 50% faster equipment recharge time, +10 increased sight radius, and 15% increased weapon accuracy around the squad.
+    	Infantry receives 50% faster equipment recharge time, 10% faster weapon cooldown, and 15% increased weapon reload speed around the squad.
+    	Infantry receive 33% faster experience gain, & 10% increased weapon accuracy. Crewed Weapons receive 15% increased movement speed.
+    	Infantry & Crewed Weapons receive 33% faster experience gain & 15% faster weapon reload speeds.
+    	Infantry receive 33% faster experience gain & 5% reduced hit chance. Crewed Weapons receive 20% increased weapon accuracy.
+    	Infantry receive 33% faster experience gain, 5% reduced hit chance, & + 10 increased sight radius.
+    	Infantry receive 33% faster experience gain, 33% increased camouflage detection range, and +10 increased sight radius.
+    	Awareness (Panzerbefehlswagen Panther)
+    	Vehicles receive + 20 increased sight radius, 15% increased movement speed, and 10% increased acceleration.
+    	Infantry receive 33% faster experience gain, 10% faster weapon cooldown, and +10 increased sight radius.
+    	Infantry receives 50% faster equipment recharge time, 5% reduced hit chance, and 10% faster weapon reload speeds around the squad.
+    	Vehicles receive 15% faster weapon cooldown, 15% increased weapon accuracy, and +15 sight radius around the unit.
+    	Infantry receives 50% faster equipment recharge time, 10% faster weapon cooldown, and 15% increased weapon reload speed around the squad.
+    	Infantry receives 50% faster equipment recharge time, 10% faster weapon cooldown, and 15% increased weapon reload speed around the squad.
+    	Infantry receives 50% faster equipment recharge time, & 15% increased weapon accuracy. Panzergrenadieres receive 15% faster weapon cooldown.
+    	Infantry receives 50% faster equipment recharge time, 5% reduced hit chance, and 15% increased weapon reload speed around the squad.
+    	Infantry receive 33% faster experience gain, 10% increased weapon accuracy, and 10% faster weapon cooldown.
+    	Left-click ability, left-click target area. Fires 1 Round. Delay 15s. Cannot be targeted in Command Sector. Capture points are neutralized if hit.
+    	38cm 'Siegfried' Railway Gun Strike
+    	The 21 cm Mörser 18 Heavy Howitzers fire a punishing salvo of 21cm rounds into the targeted area, preventing troop movement in the area for all but the very foolish.
+    	The 21 cm Mörser 18 Heavy Howitzers fire a punishing salvo of 21cm rounds into the targeted area, preventing troop movement in the area for all but the very foolish.
+    	Inspired by massive naval guns designed to engage enemy battleships, this railway gun has no issue eradicating any target on solid ground.
+    	10.5cm 'Feursturm' Incendiary Barrage
+    	Automatically attacks visible enemy units in the target area. Artillery rate of fire ramps up the longer the target is visible.
+    	Scorched Earth
+    	Crew is currently firing in longer bursts, dealing increased damage and leaving a trail of flame.
+    	Click to activate, Duration 20s. Ability leads to 25% increased weapon damage, and 33% longer burst duration.
+    	Scorched Earth
+    	Crew is currently firing in longer bursts, dealing increased damage and leaving a trail of flame.
+    	The vehicle crew is currently firing in longer bursts, dealing increased damage and leaving a trail of flame.
+    	Two flame projectors can be used to deadly effect against infantry in cover or in the open.
+    	Click and target position. Delay 5s. Cannot be used within command sector
+    	7 Command Points
+    	Right Flamethrower
+    	Right Flamethrower
+    	Right Flamethrower
+    	Left Flamethrower
+    	Accuracy is increased for 5 seconds when attacking an enemy unit out of camouflage.
+    	Unit receives 35% increased weapon accuracy for 5s when attacking in camouflage.
+    	Mechanisierte Tactics (Defensive/Mechanized)
+    	9. SS-Panzer-Division Grenadiere
+    	9. Panzer SS-Grenadiere
+    	Deploy 9. SS-Panzer Division Sdkfz. 251/3 x1. Click and select location to deploy.
+    	9. SS-Panzer Division Sdkfz. 251/3 ‘Funkpanzerwagen’
+    	9th SS-Panzer-Division Sdkfz. 251/3 IV ‘Funkpanzerwagen’
+    	9. SS-Panzer Sdkfz. 251/3 IV
+    	A ferocious defense of Caen and Falaise against the British reduced the 9th to fifty percent strength by July. Withdrawn to Arnhem, it annihilated the British 1st Airborne during Market Garden where it inflicted 7,167 casualties. 
+    	9th SS-Panzer Division Untersturmführer 
+    	Deploy 9th SS-Panzer Division Untersturmführer x1. Click and select location to deploy.
+    	10. SS-Panzer-Division Grenadiere
+    	10. SS-Panzer Grenadiere
+    	Can only field 2 sFH Howitzers at a time.
+    	<locstring name="screen_name" value="12719" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	15 cm schwere Feldhaubitze 18
+    	sFH 18 Artillery
+    	The 15cm sFH 18 is a devastatingly effective heavy artillery piece. Its big shells can deliver massive damage to almost any target.
+    	The 15cm sFH 18 'Immergrün' is a devastatingly effective heavy artillery piece. Its big shells can deliver massive damage to almost any target.
+    	Can only field (1) 9. SS-Panzer Sdkfz. 251/3 Funkpanzerwagen at a time.
+    	15cm Howitzer Smoke Barrage
+    	15cm Howitzer Barrage
+    	15cm Howitzer Half Barrage
+    	The 15cm sFH 18 crew will fire six 43.5kg high-explosive shells and deliver devastating damage at long range to any target in the vicinity.
+    	The 15cm sFH 18 crew will fire three 43.5kg high-explosive shells at half cost.
+    	Armaments: (K98s, MP40), *MP40s x2, *MG42 (100rd.), *GrB 39, *Panzerschreck, Skill: Experienced, Role: Static Defense.
+    	Our shattered armoured forces have been bolstered by vehicles from surrounding units.
+    	Light Vehicles have received a Fuel cost reduction of 5-10, while Tanks are now 10 Fuel cheaper. Applies to most vehicles, Kübelwagen receives a manpower discount instead.
+    	Unlocks the 9. SS-Panzer-Division, 10. SS-Panzer-Division, Pak 36, 2cm Flak 30, MG42 Pillbox, 15cm sFH, Sdkfz. (251, 251/17, 250/7, 251 Ausf. D), Pz. II Ausf. L, and Pz. IV Ausf. F1.
+    	Unlocks the Pak 36, 2cm Flak 30, MG42 Pillbox, and 15cm sFH.
+    	Unlocks the Sdkfz. (251, 251/17, 250/7, 251 Ausf. D), Pz. II Ausf. L, and Pz. IV Ausf. F1.
+    	An exceptional example of precision engineering, the MG34 was a design years ahead of its time. Praised by the SS for its stability, high rate-of-fire and ergonomic design, it reliably eliminated the endless enemy hordes of the Reich.
+    	An exceptional example of precision engineering, the MG34 was a design years ahead of its time. Praised by the SS for its stability, high rate-of-fire and ergonomic design, it reliably eliminated the endless enemy hordes of the Reich.
+    	An exceptional example of precision engineering, the MG34 was a design years ahead of its time. Praised by the SS for its stability, high rate-of-fire and ergonomic design, it reliably eliminated the endless enemy hordes of the Reich.
+    	An exceptional example of precision engineering, the MG34 was a design years ahead of its time. Praised by the SS for its stability, high rate-of-fire and ergonomic design, it reliably eliminated the endless enemy hordes of the Reich.
+    	Beloved by the SS for its distinct ‘buzzing’ sound and 1200 rounds-per-minute cyclic fire rate, the MG42 terrified Allied troops. Able to swap barrels in only eight seconds, veteran crews could remorselessly suppress and slaughter infantry.  
+    	Beloved by the SS for its distinct ‘buzzing’ sound and 1200 rounds-per-minute cyclic fire rate, the MG42 terrified Allied troops. Able to swap barrels in only eight seconds, veteran crews could remorselessly suppress and slaughter infantry.  
+    	The PaK 40 excelled as the mainstay of SS anti-tank forces, using its low silhouette and 2.5 km effective range to ambush enemy armor. A steady rate of fire allowed it to continuously engage all but the heaviest armor without failure.
+    	The PaK 40 excelled as the mainstay of SS anti-tank forces, using its low silhouette and 2.5 km effective range to ambush enemy armor. A steady rate of fire allowed it to continuously engage all but the heaviest armor without failure.
+    	The PaK 40 excelled as the mainstay of SS anti-tank forces, using its low silhouette and 2.5 km effective range to ambush enemy armor. A steady rate of fire allowed it to continuously engage all but the heaviest armor without failure.
+    	The PaK 40 excelled as the mainstay of SS anti-tank forces, using its low silhouette and 2.5 km effective range to ambush enemy armor. A steady rate of fire allowed it to continuously engage all but the heaviest armor without failure.
+    	The PaK 40 excelled as the mainstay of SS anti-tank forces, using its low silhouette and 2.5 km effective range to ambush enemy armor. A steady rate of fire allowed it to continuously engage all but the heaviest armor without failure.
+    	The ‘Puppchen’ could perforate 160 mm of armor out to 700 m with its 8.8 cm rocket. Preferred by the SS for the maneuverability, its mounted design offered higher accuracy compared to its conventional cousin, the Panzerschreck.
+    	The ‘Puppchen’ could perforate 160 mm of armor out to 700 m with its 8.8 cm rocket. Preferred by the SS for the maneuverability, its mounted design offered higher accuracy compared to its conventional cousin, the Panzerschreck.
+    	The ‘Puppchen’ could perforate 160 mm of armor out to 700 m with its 8.8 cm rocket. Preferred by the SS for the maneuverability, its mounted design offered higher accuracy compared to its conventional cousin, the Panzerschreck.
+    	The ‘Puppchen’ could perforate 160 mm of armor out to 700 m with its 8.8 cm rocket. Preferred by the SS for the maneuverability, its mounted design offered higher accuracy compared to its conventional cousin, the Panzerschreck.
+    	The ‘Puppchen’ could perforate 160 mm of armor out to 700 m with its 8.8 cm rocket. Preferred by the SS for the maneuverability, its mounted design offered higher accuracy compared to its conventional cousin, the Panzerschreck.
+    	The heavier cousin of the PaK 40, the PaK 43 is a dedicated anti-tank variant of the FlaK 88 series. Using the weapons 15,150 m effective range and flat trajectory out to 914 m, SS crews could effortlessly execute enemy armor.
+    	Capable of providing light artillery support or direct fire against enemy armor, the mobile leIG 18 was a true multi-role weapon. Initially employed by the Reichswehr, it saw substantial use in the early years by the then underequipped SS.
+    	Capable of providing light artillery support or direct fire against enemy armor, the mobile leIG 18 was a true multi-role weapon. Initially employed by the Reichswehr, it saw substantial use in the early years by the then underequipped SS.
+    	Capable of leveling opposition out to 2.4 km, the GrW 34 initially suffered at range compared to Soviet mortars. Regularly mounted on light vehicles to support mechanized units, the dependable 8 cm was the staple mortar of the mobile SS.
+    	Capable of leveling opposition out to 2.4 km, the GrW 34 initially suffered at range compared to Soviet mortars. Regularly mounted on light vehicles to support mechanized units, the dependable 8 cm was the staple mortar of the mobile SS.
+    	Capable of leveling opposition out to 2.4 km, the GrW 34 initially suffered at range compared to Soviet mortars. Regularly mounted on light vehicles to support mechanized units, the dependable 8 cm was the staple mortar of the mobile SS.
+    	Capable of leveling opposition out to 2.4 km, the GrW 34 initially suffered at range compared to Soviet mortars. Regularly mounted on light vehicles to support mechanized units, the dependable 8 cm was the staple mortar of the mobile SS.
+    	Able to fire faster and more accurately than its heavier Allied counterparts, the leFH 18 was also able to engage enemy armor with direct fire. Despite being gradually outclassed, it remained the standard fieldpiece of the SS until war’s end.
+    	The workhorse of the Waffen-SS, the dependable Opel not only transported troops to the front, but also supplies and weapons.
+    	The Sdkfz. 251/20 was designed to work in tandem with infrared equipped Panthers and ‘Vampir’ scopes on the Stg 44, using its 60 cm IR searchlight to illuminate targets out to 1.5 km. A rare and unique vehicle, only sixty ‘Uhu’ were produced.
+    	Capable of saturating large swaths of land with six 300 mm rockets, the Wurfrahmen 40 was also devastatingly effective against urban environments. Mounted on the mobile Sdkfz. 251, it was constantly requested for by SS Panzer forces.
+    	More agile than the larger 251 ‘Hanomag’, the Sdkfz. 250 offered a single squad the same protection and support. Gains veterancy from nearby allies.
+    	More agile than the larger 251 ‘Hanomag’, the Sdkfz. 250 offered a single squad the same protection and support. Gains veterancy from nearby allies.
+    	More agile than the larger 251 ‘Hanomag’, the Sdkfz. 250 offered a single squad the same protection and support. Gains veterancy from nearby allies.
+    	The 251/17 offered unrelenting firepower when stationary, with collapsible side panels allowing full traverse of the deadly 2 cm FlaK 38. Used extensively by the SS, the 251 Ausf. C provided merciless fire against aircraft and infantry.
+    	Opel Blitz 3A Lastwagen
+    	6 Command Points
+    	Infantry receives 50% faster equipment recharge time, 5% faster weapon cooldown, and 10% increased weapon accuracy around the squad.
+    	Infantry receives 50% faster equipment recharge time & 10% increased weapon accuracy. Light Vehicles receive 25% faster reload speeds.
+    	Infantry receives 50% faster equipment recharge time, & 15% increased weapon accuracy. Panzergrenadieres receive +10 Sight Radius.
+    	Infantry receive 33% faster experience gain, & 33% increased camouflage detection range. Light Vehicles receive 33% faster experience gain.
+    	Infantry receives 50% faster equipment recharge time, & 10% faster weapon reload speeds. Engineers receive 10% increased accuracy.
+    	Infantry receive 33% faster experience gain, & +10 increased sight radius. Crewed Weapons receive 20% increased accuracy.
+    	Infantry receives 50% faster equipment recharge time, & 15% increased weapon reload speed. Ostruppen receive 33% faster experience gain.
+    	Infantry receive 33% faster experience gain, & 10% increased weapon accuracy. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receives 50% faster equipment recharge time, & 10% faster weapon cooldown. Penals receive 33% reduced suppression.
+    	Armaments: (K98s, Luger), *MP34s x2, *StG44s x2, *G43-Zf4, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Can only field (1) Panzerbefehlswagen at a time.
+    	9. SS-Panzer-Division Pz.Bfw. IV Ausf. J
+    	Ordered to take Bastogne during the Ardennes campaign, ‘Hohenstaufen’ took horrendous losses. Refitted in early 1945, it narrowly escaped Soviet encirclement at Budapest before fighting its way west and surrendering to U.S. forces.
+    	Sturmbannführer can be deployed to the battlefield. This Officer arrives in a Command Tank, and specializes in urban combat, the tank has high-explosive rounds by default.
+    	Deploy 9. SS-Panzer Division Panzerbefehlswagen IV x1. Click and select location to deploy.
+    	9. SS-Panzer Division Panzerbefehlswagen IV J
+    	Vehicle crews undergo extensive weapons training, increasing familiarity, and accuracy with their vehicle's pintle weapon.
+    	Deploy 17th SS-Panzergrenadiere Division Untersturmführer x1. Click and select location to deploy.
+    	17th SS-Panzergrenadiere Division Untersturmführer 
+    	Deploy 17th SS-Panzergrenadiere Division Hauptsturmführer x1. Click and select location to deploy.
+    	17th SS-Panzergrenadiere Division Hauptsturmführer
+    	Veterancy 1
+    	2 Command Points
+    	2 Command Points
+    	2 Command Points
+    	2 Command Points
+    	2 Command Points
+    	Veterancy 2
+    	4 Command Points
+    	1st Airborne Division Captain
+    	Captain can be deployed to the battlefield. This Officer's aura is dependent on Hammer & Anvil.
+    	Deploy 1st Airborne Division Captain x1. Click and select location to deploy.
+    	1st Airborne Division Universal Carrier
+    	Armaments: Hull Vickers .303, Pintle Vickers K, Armor: 14.5mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium vs. infantry.
+    	Deploy a Forward Glider to the targeted sector. The headquarters provides additional Airborne units, support troops, and a retreat point.
+    	Forward Operations Glider
+    	Deploy a Forward Glider to the targeted sector. The glider provides additional Airborne units, support troops, and a retreat point.
+    	Scavenge
+    	The squad can scavenge supplies from dying enemies to increase for +10 Munitions via right-clicking. Recharge: 30s.
+    	3. Fallschirmjäger-Division Jäger
+    	3. Fallschirmjäger Jäger
+    	Armaments: (G43s, StG44), *MP40s x2, *MG15, *Panzerschreck, Skill: Experienced, Role: Assault.
+    	If this squad takes at least 2 losses, it will be replaced by 3. FJD Jägers (Max: 1).
+    	Additional troops are sent to replace Volksgrenadiere, Grenadiere, Pionere, and Fallschirmjäger infantry losses.
+    	Utility vehicle, (Traits: +Multiple MGs, + Thick Armor, - Slow): Armored transport vehicles that arrives with the Vickers K upgrade by default.
+    	M79 AP-T Shells
+    	Crew is issued armor-piercing solid-core ammunition for better armor penetration.
+    	Vehicle receives 25% increased main gun penetration at all ranges, damage reduced by 15%.
+    	Extra Range
+    	This vehicle's main gun receives +10 extended range when it is stationary.
+    	4 Command Points
+    	4 Command Points
+    	4 Command Points
+    	5 Command Points
+    	5 Command Points
+    	4 Command Points
+    	4 Command Points
+    	Cumbersome due to its tremendous weight, the ‘Sturmtiger’ delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the ‘Sturmtiger’ delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the ‘Sturmtiger’ delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the ‘Sturmtiger’ delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Cumbersome due to its tremendous weight, the Sturmtiger delivered unparalleled firepower with its massive 38 cm RW 61 L/5.4. An adaptation of a Kriegsmarine depth charge launcher, it could virtually obliterate an entire city block.
+    	Experts at tank brawling, this ace crew has been tempered by countless engagements. Using their legendary tank and combat experience, these men of the infamous ‘Death’s Head’ Division can mercilessly dispatch enemies of the Reich.
+    	Experts at tank brawling, this ace crew has been tempered by countless engagements. Using their legendary tank and combat experience, these men of the infamous ‘Death’s Head’ Division can mercilessly dispatch enemies of the Reich.
+    	Experts at tank brawling, this ace crew has been tempered by countless engagements. Using their legendary tank and combat experience, these men of the infamous ‘Death’s Head’ Division can mercilessly dispatch enemies of the Reich.
+    	Experts at tank brawling, this ace crew has been tempered by countless engagements. Using their legendary tank and combat experience, these men of the infamous ‘Death’s Head’ Division can mercilessly dispatch enemies of the Reich.
+    	Experts at tank brawling, this ace crew has been tempered by countless engagements. Using their legendary tank and combat experience, these men of the infamous ‘Death’s Head’ Division can mercilessly dispatch enemies of the Reich.
+    	Experts at tank brawling, this ace crew has been tempered by countless engagements. Using their legendary tank and combat experience, these men of the infamous ‘Death’s Head’ Division can mercilessly dispatch enemies of the Reich.
+    	3rd SS ‘Totenkopf’ Panzer Division Tiger Ace
+    	3. SS-Panzer-Division ‘Totenkopf’ Tiger Ace
+    	3rd-SS PzKpfw. VI Tiger Ace
+    	3rd-SS PzKpfw. VI Tiger Ace
+    	3rd-SS PzKpfw. VI Tiger Ace
+    	3rd-SS PzKpfw. VI Tiger Ace
+    	3rd-SS PzKpfw. VI Tiger Ace
+    	3rd-SS PzKpfw. VI Tiger Ace
+    	3rd-SS PzKpfw. VI Tiger Ace
+    	3rd-SS PzKpfw. VI Tiger Ace
+    	Panzerkampfwagen VI Ausf. E ‘Tiger I’
+    	The Tiger I was a true alpha predator, combining strong armor, maneuverability and firepower. Able to execute Allied tanks with a single shot from its famous 8.8 cm KwK 36 L/56, veteran crews forged almost mythical reputations.
+    	The Tiger I was a true alpha predator, combining strong armor, maneuverability and firepower. Able to execute Allied tanks with a single shot from its famous 8.8 cm KwK 36 L/56, veteran crews forged almost mythical reputations.
+    	Designed for faster production, the retrograde Ausf. J was meant to hastily replenish the shattered SS Panzer divisions. Kept frontline viable due to its unerring 7.5 cm KwK 40 L/48, it suffered from a sluggish hand cranked turret traverse.
+    	The Ausf. J was a retrograde design intended for fast production and rapid replacement of the demolished Wehrmacht Panzer divisions. Despite a slow hand cranked turret, it performed admirably with its precise 7.5 KwK 40 L/48.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	A modified Panzer IV Ausf. H chassis, the low profile, well armored Jagdpanzer excelled as a Panzerjäger. Armed with the venerable 7.5 cm PaK 39 L/48, only the heaviest Allied armor could survive encounters against this predator.
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Jagdpanzer IV
+    	Jagdpanzer IV
+    	Jagdpanzer IV
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	Sonderkraftfahrzeug 162 ‘Jagdpanzer IV’
+    	<locstring name="screen_name_short" value="14413" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name_short" value="14413" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Although considered less effective than the numerous StuGs, the Jagdpanzer IV remained a powerful hunter. Later upgraded with a heavier gun and Schürzen, the increased weight earned it the derisive nickname ‘Guderian’s Duck’.
+    	The pride of the Fatherland, the Panther was a medium tank only in name. Combining sloped armor, mobility and the excellent 7.5 cm KwK 42, it could go toe to toe with heavy tanks or stalk and brutalize medium tanks.
+    	The pride of the Fatherland, the Panther was a medium tank only in name. Combining sloped armor, mobility and the excellent 7.5 cm KwK 42, it could go toe to toe with heavy tanks or stalk and brutalize medium tanks.
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	Able to incinerate opposition out to 60 m with its Koebe Flammenwerfer, the Flamm Hetzer terrified enemy infantry. Carrying over 150 gallons of flame fuel in a vulnerable armored hide, an incendiary death awaited both enemy and crew.
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	Flammpanzer 38(t) ‘Hetzer’
+    	The increased armor and low profile of the StuG III allowed it to effectively compete against Allied tanks. A true multi-role assault gun, its high velocity 7.5 cm StuK 40 could easily defeat most enemy armor at long range.
+    	Designed as mobile artillery support for infantry, the StuG III Ausf. E could pulverize light armor and emplacements. Able to inflict substantial damage with its 7.5 cm StuK 37, it lacked adequate armor penetration to tackle heavier foes.
+    	Designed as mobile artillery support for infantry, the StuG III Ausf. E could pulverize light armor and emplacements. Able to inflict substantial damage with its 7.5 cm StuK 37, it lacked adequate armor penetration to tackle heavier foes.
+    	Designed as mobile artillery support for infantry, the StuG III Ausf. E could pulverize light armor and emplacements. Able to inflict substantial damage with its 7.5 cm StuK 37, it lacked adequate armor penetration to tackle heavier foes.
+    	Designed as mobile artillery support for infantry, the StuG III Ausf. E could pulverize light armor and emplacements. Able to inflict substantial damage with its 7.5 cm StuK 37, it lacked adequate armor penetration to tackle heavier foes.
+    	Designed as mobile artillery support for infantry, the StuG III Ausf. E could pulverize light armor and emplacements. Able to inflict substantial damage with its 7.5 cm StuK 37, it lacked adequate armor penetration to tackle heavier foes.
+    	Captured in considerable quantities, the reliable, easy to fix Sherman served primarily as a munitions carrier and recovery vehicle. Renamed the M4-748, it found increasing frontline use as the strength of the SS Panzer divisions waned.
+    	Captured in considerable quantities, the reliable, easy to fix Sherman served primarily as a munitions carrier and recovery vehicle. Renamed the M4-748, it found increasing frontline use as the strength of the SS Panzer divisions waned.
+    	Captured in considerable quantities, the reliable, easy to fix Sherman served primarily as a munitions carrier and recovery vehicle. Renamed the M4-748, it found increasing frontline use as the strength of the SS Panzer divisions waned.
+    	Panzerkampfwagen M4-748(a) Sherman Beutepanzer
+    	Panzerkampfwagen M4-748(a) Sherman Beutepanzer
+    	Sherman Beutepanzer
+    	Sherman Beutepanzer
+    	<locstring name="help_text" value="14456" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="help_text" value="14456" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	The adaptable Panzer IV underwent several redesigns during the war to maintain a frontline presence. The Ausf. H’s lethal 7.5 cm KwK 40 could punch holes in long range targets while integrated side-skirts enhanced survivability.
+    	The adaptable Panzer IV underwent several redesigns during the war to maintain a frontline presence. The Ausf. H’s lethal 7.5 cm KwK 40 could punch holes in long range targets while integrated side-skirts enhanced survivability.
+    	The adaptable Panzer IV underwent several redesigns during the war to maintain a frontline presence. The Ausf. H’s lethal 7.5 cm KwK 40 could punch holes in long range targets while integrated side-skirts enhanced survivability.
+    	The adaptable Panzer IV underwent several redesigns during the war to maintain a frontline presence. The Ausf. H’s lethal 7.5 cm KwK 40 could punch holes in long range targets while integrated side-skirts enhanced survivability.
+    	The adaptable Panzer IV underwent several redesigns during the war to maintain a frontline presence. The Ausf. H’s lethal 7.5 cm KwK 40 could punch holes in long range targets while integrated side-skirts enhanced survivability.
+    	Armed with the long-barreled KwK 40 L/43, the Ausf. G was still outmatched by contemporary Soviet armor. Unable to mount the Schürzen side armor, the old chassis lacked the improved survivability of later Panzer IV models.
+    	The outmoded Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outmoded Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outdated Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outmoded Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outdated Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outmoded Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outdated Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outmoded Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outdated Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	The outmoded Panzer IV Ausf. F1 suffered from low frontal armor and a low-velocity 7.5 cm KwK 37. Loaded with large quantities of HEAT and HE rounds to compensate, it excelled at exterminating fortifications and infantry.
+    	Designed to replace the Flakpanzer Wirbelwind, only 44 models of the unique Ostwind finished production. Swapping the quad-barrelled 2 cm for a single, stronger 3.7 cm FlaK 43, it could shred infantry, light vehicles and fortifications.
+    	Built to augment recon units, the ‘Luchs’ was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the ‘Luchs’ was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the ‘Luchs’ was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Built to augment recon units, the Luchs was based on the Pzkpfw. II chassis but with a lower weight and higher max speed. Using its agility and 2 cm KwK 30, it could swiftly evade or flank heavier threats and slaughter light targets.
+    	Equipped with the ten-tubed, rapid firing 15 cm Nebelwerfer 41, the Panzerwerfer was based on the 1941 Opel Maultier. Designed to drench large areas within 6.5 km, it could hammer enemy forces with a hail of devastating rocketfire.
+    	Equipped with the ten-tubed, rapid firing 15 cm Nebelwerfer 41, the Panzerwerfer was based on the 1941 Opel Maultier. Designed to drench large areas within 6.5 km, it could hammer enemy forces with a hail of devastating rocketfire.
+    	Equipped with the ten-tubed, rapid firing 15 cm Nebelwerfer 41, the Panzerwerfer was based on the 1941 Opel Maultier. Designed to drench large areas within 6.5 km, it could hammer enemy forces with a hail of devastating rocketfire.
+    	Equipped with the ten-tubed, rapid firing 15 cm Nebelwerfer 41, the Panzerwerfer was based on the 1941 Opel Maultier. Designed to drench large areas within 6.5 km, it could hammer enemy forces with a hail of devastating rocketfire.
+    	Equipped with the ten-tubed, rapid firing 15 cm Nebelwerfer 41, the Panzerwerfer was based on the 1941 Opel Maultier. Designed to drench large areas within 6.5 km, it could hammer enemy forces with a hail of devastating rocketfire.
+    	A nimble hunter, the Sdkfz. 234/2 mated an innovative eight-wheeled chassis with a 5 cm L/60 and coaxial MG34. Enhancing the agile recon units of the SS, the ‘Puma’ could reach a ninety km/hr max speed but suffered on softer terrain.
