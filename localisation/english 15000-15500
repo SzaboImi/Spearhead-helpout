@@ -1,0 +1,500 @@
+    	Infantry receives 33% reduced incoming suppression, & 15% faster reload speeds. Crewed Weapons receive 10% increased weapon accuracy.
+    	Infantry receives 50% faster equipment recharge time, 15% faster weapon cooldown. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receives 50% faster equipment recharge time, 15% faster weapon cooldown. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receives 50% faster equipment recharge time, 15% faster weapon cooldown. Crewed Weapons receive 25% faster reload speeds.
+    	<locstring name="help_text" value="15001" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Infantry receive 33% faster experience gain, & 5% reduced hit chance. Tanks receive 10% increased weapon accuracy.
+    	Infantry receive 33% faster capture rate, 15% faster weapon cooldown. Tanks receive 20% faster reload speed.
+    	<locstring name="help_text" value="15006" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Infantry receive 33% faster experience gain. Tanks receive 10% increased weapon accuracy, & 15% faster rotation speed.
+    	Infantry receive 33% faster experience gain. Tanks receive 10% increased weapon accuracy, & 15% faster rotation speed.
+    	Infantry receive 33% faster capture rate. Tanks receive 20% faster reload speed, and 15% increased movement speed.
+    	Infantry receive 33% faster capture rate. Tanks receive 20% faster reload speed, and 15% increased movement speed.
+    	Infantry receive 33% faster experience gain, & 5% reduced hit chance. Crewed Weapons receive 10% increased weapon accuracy.
+    	Infantry receives 50% faster equipment recharge time, 15% faster reload speeds. Crewed Weapons receive 20% increased movement speed.
+    	Infantry receives 50% faster equipment recharge time, 15% faster reload speeds. Crewed Weapons receive 20% increased movement speed.
+    	<locstring name="help_text" value="15013" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Infantry receive 33% faster capture rate, 15% faster weapon cooldown. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receive 33% faster capture rate, 15% faster weapon cooldown. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receive 33% faster experience gain. Tanks receive 10% increased weapon accuracy, & +20 increased sight radius.
+    	Infantry receive 33% faster experience gain. Tanks receive 10% increased weapon accuracy, & +20 increased sight radius.
+    	Infantry receive 33% faster capture rate. Tanks receive 20% faster reload speed, & 15% increased acceleration.
+    	Infantry receive 33% faster capture rate. Tanks receive 20% faster reload speed, & 15% increased acceleration.
+    	Infantry receives 33% reduced incoming suppression, 10% increased weapon accuracy, & 33% increased camouflage detection range.
+    	Infantry receives 33% reduced incoming suppression, 10% increased weapon accuracy, & 33% increased camouflage detection range.
+    	Infantry receives 50% faster equipment recharge time, 15% faster reload speeds, & 33% increased camouflage detection range.
+    	Infantry receives 50% faster equipment recharge time, 15% faster reload speeds, & 33% increased camouflage detection range.
+    	Infantry receives 33% reduced incoming suppression, & + increased sight radius. Crewed Weapons receive 10% increased weapon accuracy.
+    	Infantry receives 33% reduced incoming suppression, & +15 increased sight radius. Crewed Weapons receive 10% increased weapon accuracy.
+    	Infantry receives 50% faster equipment recharge time, 15% faster reload speeds. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receives 50% faster equipment recharge time, 20% increased weapon suppression. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receive 33% faster experience gain, & 10% increased weapon accuracy. Tanks receive +20 increased sight radius.
+    	Infantry receive 33% faster capture rate, & 15% faster reload speeds. Tanks receive 15% increased movement speed.
+    	Infantry receive 33% faster capture rate, & 15% faster reload speeds. Tanks receive 15% increased movement speed.
+    	Infantry receive 33% faster experience gain, & 5% reduced hit chance. Light Vehicles receive + 20 increased sight radius.
+    	Infantry receive 33% faster capture rate, 15% faster weapon cooldown. Light Vehicles receive + 15% increased weapon accuracy.
+    	Infantry receive 33% faster capture rate, 15% faster weapon cooldown. Light Vehicles receive + 15% increased weapon accuracy.
+    	Infantry receive 33% faster capture rate, 15% faster weapon cooldown. Light Vehicles receive + 15% increased weapon accuracy.
+    	Infantry receive 33% faster experience gain, & 5% reduced hit chance. Light Vehicles receive + 20 increased sight radius.
+    	4.2-Inch Smoke Mortar Barrage
+    	4.2-Inch High-Explosive Mortar Barrage
+    	Requests for a high-explosive barrage from 4.2-Inch Mortars. The rounds can devastate infantry & structures, but will only do minor damage against armor.
+    	The officer is authorized to call-in fire support from 4.2-Inch mortars.
+    	Lancaster Bombing Run
+    	The single Lancaster Bomber will conduct a high-speed bombing run, saturating the area with massive high-explosive bombs.
+    	Lancaster Bombing Run
+    	<locstring name="help_text" value="11452" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	5 Command Points
+    	1st Commando Lieutenant
+    	Lieutenant can be deployed to the battlefield. This Officer's aura is dependent on Hammer & Anvil.
+    	Deploy 1st Commando Brigade Lieutenant x1. Click and select location to deploy.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *Bren Mk. 1, *Lewis Gun, *L1A1-No. 32, *Boys AT, Skill: Experienced, Role: Frontline.
+    	Light infantry, can be armed with semi-automatic rifles, and US weaponry.
+    	Line infantry, (Traits: + Camouflage): Can be armed with semi-automatic rifles, and long-ranged weapons.
+    	KOYLIs
+    	King's Own Yorkshire Light Infantry Rifle Section
+    	Formed in 1755, the King's Own Yorkshire Light Infantry, or the 'Koylis' fought gallantly in Europe, North Africa, and the Pacific theaters. Incorporated into the Guards Armoured Division, it saw combat in Europe to the end of the war.
+    	7th Grenadier Guards
+    	7th Infantry Brigade Grenadier Guards Rifle Section
+    	Assault infantry, can be armed with semi-automatic rifles, and US weaponry.
+    	Armaments: (Lee-Enfields, Sten), *M1 Garands x2, *M1A1 Thompsons x2, *Bren, *M9 Bazooka, Skill: Experienced, Role: Assault.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2, *M1928A1 Thompsons x2, *Bren Mk. 2, *PIAT, Skill: Experienced, Role: Assault.
+    	Assault infantry, can be armed with automatic weapons for close quarters combat.
+    	The Coldstream Guard hold the honor of being the oldest serving regiment within the British Army, from the American Revolution, to the Napoleonic Wars. They are well-trained, and equipped with rapid-fire American firearms.
+    	Faithful since its 1715 formation, the Hussars served with distinction at Waterloo, under the Light Brigade in Crimea and in the Great War. Stationed in Egypt since 1936, the 11th was thrown into the fray once more against Italian forces in 1940.
+    	Forced out of Sicily in August 1943, the 15th was the chief defender at Salerno where it inflicted severe casualties. The linchpin of Germany’s Gustav and Winter Lines, the unit halted numerous Allied assaults from late 1943 until June 1944.
+    	Rebuilt as a Panzergrenadier division, ‘Großdeutschland’ suffered repeated losses as it retreated west after Kursk. Sent to East Prussia in late 1944, it narrowly escaped annihilation at Memel only to be obliterated at Pillau in April 1945.
+    	Transferred to Aachen in late 1944, the 246th repulsed repeated U.S. assaults for five days using well constructed strong-points. Despite its dogged defense, the 246th was eventually overrun and later reassigned to the Hürtgen Forest.
+    	Decimated again by heavy fighting at Hürtgen Forest, the 246th spent the rest of the war plugging gaps in Wehrmacht lines. Fighting until the end, it surrendered to U.S. forces after the capitulation of the Third Reich on May 8, 1945.
+    	Formed in 1941 as an Infanterie division, the 246th fought in the brutal battle for Smolensk before its destruction in mid 1944. Resurrected as Volksgrenadiere, some of its new recruits had received less than ten days of infantry training.
+    	Intended to be a reserve unit, the 500th was rushed east to capture Kharkov in late 1941. Fighting later in the Caucasus in 1942, Cuban in 1943 and Crimea in 1944, it drew its final breath during the defense of the Carpathians in early 1945.
+    	Wehrmacht Strafbataillone were filled with both civilian and military criminals, men who had lost their rights as citizens of the Third Reich. Considered disposable troops, they were continuously assigned nearly suicidal combat missions.
+    	Bewährungsbataillon 500 Straftruppen
+    	Bewährungsbataillon 500 Veteranen
+    	Unlike their Soviet counterparts, Wehrmacht Straftruppen could redeem themselves through service. Driven to regain their citizenship and tempered by countless near suicidal missions, these men became brutally efficient fighters.
+    	Reformed after its obliteration in Stalingrad, the 45th was slowly pushed across the Balkan states. Surrendering in the Alps in 1945, it had been used as engineers, infantry, tank hunters, weapon crews and mechanized assault troops.
+    	Created in 1943 to counter rising desertion, the Feldjägerkorps superseded the Feldgendarmerie. Known as ‘Hero snatchers’ for their brutal policing methods, these men could execute any SS or Wehrmacht personnel for duty violations.
+    	Built around remnants of the 47. Infanterie-Division, the unit was transferred in late 1944 for the defense of the Hürtgenwald. Considered too inexperienced to fight, the 47th helped inflict severe casualties on two major U.S. Army Corps.
+    	Building a system of interwoven defenses, 3rd FJD Pioniere transformed the bocage country of St.-Lô into a fortress. Turning every enclosed field into a deathtrap, no Allied unit was willing to enter what became known as ‘Hedgerow Hell’.
+    	3. Fallschirmjäger-Division Pioniere
+    	Expertly trained and led by excellent leadership, ninety percent of the 3rd Fallschirmjäger troops were airborne qualified. Well armed, it almost always arrived to the battlefield with six to twenty times more firepower than its enemies.
+    	The 3rd FJD used defense in depth to hold St. Lô and Normandy, only to be obliterated during the escape from the Falaise Pocket. Reformed in 1944, the unit fought in Market Garden and the Ardennes before surrendering in 1945.
+    	Fire 95mm High-Explosive (x3)
+    	10.5cm High-Explosive Howitzer Barrage
+    	Coordinated 25-Pounder Barrage
+    	M1928A1 Thompson SMG Shipment (x2)
+    	M1928A1 Thompson SMG Shipment (x2)
+    	Submachine Gun, Cal .45, M128A1 (x2)
+    	Type: Submachine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 11.43×23mm, Capacity: 20 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	The 9th SS recruited primarily from the Reichsarbeitsdienst, an organization designed to provide combat support via logistics and fortification construction. Engineering experts, these men built defenses that immobilized Allied advances.
+    	Raised in France in early 1943 as Panzergrenadiere, ‘Hohenstaufen’ was redesignated as a Panzer division in October. Rushed to Ukraine to stem the Soviet onslaught, it fought alongside its sister, the 10th SS-Panzer-Division ‘Frundsberg’.
+    	The 9th SS bore the name of a thirteenth century Germanic noble family and is best known for its actions during Market Garden. Facing the 10,000 man strong British 1st Airborne at Arnhem, the 9th inflicted over 7,000 casualties.
+    	In March 1944 ‘Hohenstaufen’ was tasked with rescuing the Wehrmacht’s 1. Panzerarmee from encirclement. After fighting for three days at Tarnopol, the 9th broke through Soviet lines and helped save over 200,000 Axis troops.
+    	Built in 1943, the 10th SS ‘Frundsberg’ was constantly transferred between the West and Ostfront. Fighting in Russia, Caen and Arnhem, its final act was a breakthrough of the Halbe Pocket before racing west to surrender to U.S. forces.
+    	Desperately needed on the Westfront, the 9th SS lost half of its armor to mechanical failures en route to Normandy. Thrown into the battles of Caen and Falaise, British forces reduced the unit’s combat strength to fifty-percent.
+    	Ordered to take Bastogne during the Ardennes campaign, ‘Hohenstaufen’ took horrendous losses. Refitted in early 1945, it narrowly escaped Soviet encirclement at Budapest before fighting its way west and surrendering to US forces.
+    	Desperately needed on the Westfront, the 9th SS lost half of its armor to mechanical failures en route to Normandy. Thrown into the battles of Caen and Falaise, British forces reduced the unit’s combat strength to fifty-percent.
+    	Trained primarily through trial by fire, ‘Toscana’ acted as anti-partisan and coastal defense troops in France until fall 1943. Shifted to Rome with only 3 active battalions, the 7th held vital airfields for two long, grueling days before disintegrating.
+    	Lacking heavy towed weaponry, the 3rd quickly collapsed at the Don. Pulled from Russia with less than 3,000 men and rebuilt in summer 1943, ‘Julia’ and many Alpini troops used the high mountains of Italy to bitterly resist Allied forces.
+    	Lacking heavy towed weaponry, the 3rd quickly collapsed at the Don. Pulled from Russia with less than 3,000 men and rebuilt in summer 1943, ‘Julia’ and many Alpini troops used the high mountains of Italy to bitterly resist Allied forces.
+    	Only 40,000 men of the 2nd Hungarian returned home after the loss at Stalingrad. Rebuilt in late 1944, the 2nd crippled multiple Soviet tank corps under Wehrmacht command before its collapse during the siege of its national capital.
+    	Like most Axis units in late war Hungary, the Szent László Division suffered heavy losses as it fought to stem the Red Tide. Pushed out of its homeland, the unit fought its way west to Austria where it surrendered to British forces.
+    	Despite the supplies and weaponry it received from Germany, the 3rd Romanian was still ill prepared to fight in Russia. Relying mainly on its outdated 37 and 47 mm AT guns, it could barely stop Soviet armored forces.
+    	Short on supplies and troops, the 3rd Romanian collapsed rapidly under the might of Operation Uranus. Barely escaping Russia’s armies or winter, the 3rd turned against its former German ally after the armistice with the Soviets in 1944.
+    	The 3rd Romanian had only a handful of modern AT guns to combat the endless waves of Soviet armor. Forced to adopt more unconventional tactics, its men used everything from grenades and AT mines to Molotov cocktails to fight back.
+    	Throw No. 73 'Thermos' HEAT Grenade
+    	SS-Fallschirmjäger-Bataillon 600 Scharfschütze
+    	SS-FJ-Bataillon 600 Scharfschütze
+    	SS-Fallschirmjäger-Bataillon 600 Pioniere
+    	SS-FJ-Bataillon 600 Pioneres
+    	SS-Fallschirmjäger-Bataillon 600 Jäger
+    	SS-FJ-Bataillon 600 Jägers
+    	SS-Fallschirmjäger-Bataillon 600 Aufklärer
+    	SS-FJ-Bataillon 600 Aufklärer
+    	Can only field (1) SS-Fallschirmjäger Scharfschütze at a time.
+    	Armaments: (K98s, MP40), *G43s x2, *MG15, *GrB. 39, *Fmw 41, Skill: Regular, Role: Engineer.
+    	Armaments: (K98s, MP40), *MP40s x2, *MG42, *Pzb. 39, *Panzerschreck, Skill: Experienced, Role: General Purpose.
+    	Veteran demolitionists, Pioniere of the 600th were an integral part of the unit‘s missions to disrupt enemy supply lines. Sent to hold the Oder in February 1945, their skills as engineers helped grind repeated Soviet advances to a complete halt.
+    	Created in September 1943 as SS-Fallschirmjäger-Bataillon 500, the unit recruited from both SS volunteers and SS-Bewährungsbataillone. Assigned Unternehmen Rösselsprung in June 1944, its task was to kill partisan leader Josip Broz Tito.
+    	Originally an air-transportable unit, the 91st was redesignated as an infantry division and sent to France in early 1944. Beginning the Normandy campaign with roughly 10,500 men, the 91st was reduced to little more than 800 by late June.
+    	PLACEHOLDER. BLITZER REEEEEE
+    	Armaments: (K98s, MP40), *MP40s x2, *MG34, *Panzerschreck, Skill: Experienced, Role: Frontline.
+    	Infiltrate SS-Fallschirmjäger-Bataillon 600 Scharfschütze
+    	Fallschirmjäger Scharfschütze can be deployed to the battlefield. These elite infantry units are excellent against infantry at all ranges.
+    	New unit - Fallschirmjäger Scharfschütze - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Fallschirmjäger Scharfschütze can be deployed to the battlefield. These elite snipers can inflict devastating losses behind enemy lines, with FG42 marksman rifles.
+    	Infiltrate SS-FJ-Bataillon 600 Aufklärer
+    	Aufklärers can be deployed to the battlefield. These elite infiltration teams are excellent at performing espionage.
+    	New unit - Aufklärers  - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	SS-FJ-Bataillon 600 Aufklärers can be deployed to the battlefield. These elite infiltration teams are excellent at reconnaissance
+    	Armaments: (MP40s, G43-Zf4), *G43s x2, *G43-Zf4, *MG42, Skill: Ace, Role: Infiltration.
+    	Light infantry, (Traits: + Interrogation, + Invisible on Minimap): Small, three-man team that excels at infiltration. Limit of 2 Squads.
+    	General purpose infantry, (Traits: + Interrogation): Unrelenting soldiers that can be armed for anti-tank combat.
+    	Armaments: (K98s, G43), *G43s x2, *G43-Zf4, *MG42, Skill: Ace, Role: Recon.
+    	Can only field (2) SS-FJ-Bataillon 600 Aufklärers at a time.
+    	Scout infantry, (Traits: + Interrogation, + Invisible on Minimap): Small, three-man team that excels at reconnaissance. Limit of 2.
+    	Armaments: (FG42-Zf4), Skill: Ace, Role: Sniper.
+    	Lieutenant can be deployed to the battlefield. This Officer specializes in tactical support.
+    	Deploy Lieutenant x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Deploy Captain x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Deploy Major x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Captain
+    	Lieutenant
+    	Major
+    	5 Command Points
+    	7 Command Points
+    	Can only field 1 Lieutenant Retinue at a time.
+    	Captain can be deployed to the battlefield. This Officer's specializes in providing fire support.
+    	Major can be deployed to the battlefield. This Officer's specializes in providing strategic support.
+    	Armaments: (K98s, Luger), *G43s x2, *MP40s x2, *Panzerschreck, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Armaments: (K98s, Luger), *G43s x2, *MP40s x2, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Armaments: (K98s, Luger), *G43s x2, *StG44s x2, Skill: Experienced, Role: Strategic Support.
+    	Armaments: (K98s, StG44), *MP717(r)s x2, *MP40s x2, *StG44s x2, *FmW 41, Skill: Experienced, Role: Tactical Support.
+    	Extensively trained to treat any wound their fanatical brethren sustained, medical personnel of the Waffen-SS ranged from field medics and stretcher bearers to professional surgeons and doctors.
+    	Rigorously trained and unerringly accurate, SS Scharfschütze were experts at ranged combat and survival. Often cut off and isolated behind enemy lines, many fought without support until they exhausted their ammunition or lives.
+    	Trained to actively stalk enemy armor, SS Panzerjäger employed hunter-killer tactics to locate and terminate armored threats. Fanatical, aggressive and armed with a Panzerschreck, few Allied vehicles were safe from these teams.
+    	Always short on armor, the 17th SS made prolific use of Panzerjäger teams to counter the Allies. Zealous, mobile and extremely adaptable, these men infiltrated the battlefield at key moments to ambush enemy armor when least expected.
+    	Bolstered by extra supplies, these troops can use abilities more frequently against Allied forces.
+    	Authorized by the Führer in late 1944, the Volkssturm was Nazi Germany’s final desperate outcry against defeat. Filled with anyone able to fight, it conscripted old men, women and even children for the futile last defense of the Third Reich.
+    	Using the familiar terrain of their homeland and issued powerful anti-tank weaponry, Volkssturm units trapped and destroyed countless enemy tanks. Surprisingly effective as Panzerjäger, even a single draftee posed a threat to Allied armor.
+    	An ad hoc organization intended to boost morale, the Volkssturm disheartened remaining SS and Wehrmacht troops. Poorly trained and often under equipped, many Volkssturm units surrendered while others fought to the last man standing.
+    	Despite continuously high losses, ‘Wallonien’ continued to request frontline service under the SS. Reinforced with fascist French and Spanish volunteers, the 28th SS fought courageously until the absolute end as a Panzergrenadier Division.
+    	28. SS-Freiwilligen-Grenadier-Div. Grenadiere
+    	Responsible for the rear of Army Group Center, the 8th waged a brutal war against civilians and partisans. Ordered to ‘clean’ the region by any and all means, the unit razed two dozen villages and butchered roughly 3,000 Soviet prisoners.
+    	Reorganized as a Panzer division in late 1943, ‘Hitlerjugend’ fought a brutal war of attrition against the Allies. Heavily indoctrinated and devoutly loyal, these ‘men’ threw themselves at enemy fire and fought to their dying breath.
+    	12. SS-Panzer-Division Panzergrenadiere
+    	The development of superior tank armor made the highly portable PaK 36 obsolete by 1940. Used by the SS until the end of the war, the rapid firing ‘door knocker’ was extremely effective as an armored car and light vehicle killer.
+    	Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times): Extra weapon capacity, specializes in defensive operations, and fire support.
+    	Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times): Frontline combat engineers, specializes in defensive operations, and fire support.
+    	Line infantry, (Traits: + Interrogation): Hardened troops that focus on offensive operations.
+    	Compared to similiar weapons: (+ High Accuracy, + High Damage, + High ROF, - Short Bursts).
+    	Sturmgewehr 44 Shipment (x2)
+    	Maschinenkarabiner 42 (x2)
+    	Commonly mistaken for the StG44, the MKb 42 is the predecessor to the iconic rifle, being issued a year earlier and serving to the end of the war.
+    	Despite its unarmored nature and susceptibility to heavy fire, the Kübelwagen was praised by the Wehrmacht for its utility and dependability. The equivalent of the Allies’ Jeep or GAZ-67, it ended the war with only a few modifications.
+    	An advanced four-wheel-drive scout car, the highly maneuverable Sdkfz. 221 was the workhorse of the Wehrmacht’s mechanized recon units. Outfitted with 14.5 mm of frontal armor, it reliably protected its two man crew from small arms.
+    	Strapped with the protection of a Panzer IV and armed with the 2 cm KwK 30, the Panzer II J was almost unstoppable against soft targets. Remarkably durable and effective, only 22 models of this heavy light tank ever completed production.
+    	A direct channel of communication with the SS-Führungshauptamt, this mobile radio allows commanders to call in additional SS-Kampfgruppen to supplement their force composition.
+    	Carbine, Cal .30, M2 (x2)
+    	Type: Carbine, Rate of Fire: Semi-Automatic, Cartridge: 7.62×33mm, Capacity: 30 Rounds, Quantity: 2. Effective at close range vs. infantry. 
+    	Compared to similar weapons: (+ Suppressive, + Large Magazine + Moving Accuracy, - Low Damage, Poor Accuracy).
+    	Lightweight, and compact, the M1 Carbine fired intermediate cartridges from a large magazine; perfect for close quarters.
+    	Fitted with a large 30-round magazine, and fire-selector, the M2 is capable of providing suppressive fire to assaulting infantry units.
+    	M1A1 Thompson SMGs (20rd.) Shipment (x2)
+    	M1A1 Thompsons (20rd.)
+    	Veterancy 1
+    	Left-click ability, left-click target position. Fires 6 Rounds.
+    	(PASSIVE) M1903A4 Springfield Sniper Package
+    	(PASSIVE) M1A1 Thompsons Package
+    	Riflemen receive the M1A1 Thompson SMGs w. 20 Round Magazine (Upgrade).
+    	Riflemen are able to requisition M1A1 Thompsons for increased close quarter effectiveness.
+    	Riflemen are able to requisition Grease Guns for increased close quarter effectiveness.
+    	Riflemen receive the M1903A4 Springfield Sniper Rifle (Upgrade).
+    	Riflemen are able to requisition M1903A4 Sniper Rifles for greatly increased long-ranged effectiveness.
+    	Rangers that are cut-off and behind enemy lines, establish forward camps that allow them to call-in additional troops & heavy weapons.
+    	Armaments: (M1 Carbines, M1911), *M1 Garands x2, *M3 Grease Guns x2, *M1A1 Thompsons x2, Skill: Experienced, Role: Strategic Support.
+    	Armaments: (Lee-Enfields, No. 2), Skill: Regular, Role: Medic.
+    	Armaments: (K98s, Luger), Skill: Regular, Role: Medic.
+    	Armaments: (M1 Carbines, M1911), Skill: Regular, Role: Medic.
+    	Call in a 240mm 'Black Dragon' Howitzer barrage to level the target area. A long barrage duration ensures the area is secure from most enemy counterattack.
+    	240mm 'Black Dragon' Barrage
+    	BL 14-Inch Mk VII Naval Barrage
+    	Call in a naval heavy bombardment to level the target area. A long barrage duration ensures the area is secure from most enemy counterattack.
+    	Left-click and left-click target area. Fires 8 Rounds. Delay 15s. Cannot be targeted in Command Sector.
+    	9 Command Points
+    	7 Command Points
+    	Medium Tank, M4A3(75)W HVSS
+    	Medium Tank, M4A3(75)W HVSS
+    	M4A3E8(76) Sherman 'Easy Eight'
+    	Medium Tank, M4A3(75)W HVSS
+    	The iconic M4 is America’s signature medium tank, designed for production ease and reliability. With its 75 mm gun and coaxial machine gun, the 'Sherman' was produced in great numbers as a breakthrough tank, finding better use as infantry support.
+    	Armaments: 75 mm M3 L/40, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: 75 mm M3 L/40, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 80mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium range vs. infantry & structures.
+    	Medium tank: (Traits: + Accurate, + Cheaper, - Poor Penetration, - Low Durability): Upgraded version of the M4A3, with superior armor & moving accuracy.
+    	Medium tank: (Traits: + Higher Armor, + High Mobility, - Poor Penetration, - Low Durability): Upgraded version of the M4A3, with superior armor & moving accuracy.
+    	7 Command Points
+    	The dependable 75mm Sherman was also manufactured with the HVSS suspension & additional updates found on the newer Easy-Eight tanks. This allowed the tank to fire more accurately on the move, and boasted superior armor plating.
+    	The dependable 75mm Sherman was also manufactured with the HVSS suspension & additional updates found on the newer Easy-Eight tanks. This allowed the tank to fire more accurately on the move, and boasted superior protection.
+    	The dependable 75mm Sherman was also manufactured with the HVSS suspension & additional updates found on the newer Easy-Eight tanks. This allowed the tank to fire more accurately on the move, and boasted superior protection.
+    	The dependable 75mm Sherman was also manufactured with the HVSS suspension & additional updates found on the newer Easy-Eight tanks. This allowed the tank to fire more accurately on the move, and boasted superior protection.
+    	The dependable 75mm Sherman was also manufactured with the HVSS suspension & additional updates found on the newer Easy-Eight tanks. This allowed the tank to fire more accurately on the move, and boasted superior protection.
+    	Armaments: (K98s, Luger), *MP40s x2, *G43s x2, *StG44s x2, Skill: Experienced, Role: Strategic Support.
+    	Armaments: (K98s, MP40), *G43s x2, *MG42, *Panzerschreck, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Armaments: (K98s, MP40), *MP40s x2, *G43s x2, *G43-Zf4, Skill: Experienced, Role: Tactical Support.
+    	Line infantry: Extremely versatile, use to support other infantry, or stage ambushes.
+    	Vehicles & Weapons
+    	<locstring name="brief_text" value="11832" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Utility vehicle, (Traits: + Highly Mobile, + Increases Munitions/Fuel Income, - Vulnerable): An unarmed supply truck that can secure territories for increased resource gain.
+    	Armaments: (Lee-Enfields, M1928A2 Thompson), *STEN Mk. IIS x2 (A), *M1A1 Thompsons x2 (H), *Bren Mk. 2 (A), *No. 2 Flamethrower (H), Skill: Ace, Role: Tactical/Strategic Support.
+    	Armaments: (Lee-Enfields, M1928A2 Thompson), *STEN Mk. IIS x2 (A), *M1A1 Thompsons x2 (H), *M9 Bazooka (A), *PIAT (H), Skill: Ace, Role: Strategic Support.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2 , *No. 2 Flamethrower, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *M1928A2 Thompsons x2, *Bren Mk. 2, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Armaments: (Lee-Enfields, STEN Mk. V), *Vickers K, *L1A1-No. 32, *Boys AT, Skill: Elite, Role: Tactical/Strategic Support.
+    	Armaments: (Lee-Enfields, Webley), *Lewis Gun, *Boys AT, Skill: Experienced, Role: Strategic Support.
+    	Armaments: (Lee-Enfields, Webley), *M1928A2 Thompsons x2, *PIAT, Skill: Experienced, Role: Strategic Support.
+    	Armaments: (Lee-Enfields, Webley), *STEN Mk. Vs x2 (A), *M1A1 Thompsons x2 (H), *Vickers K (A), *Bren Mk. 2 (H), Skill: Elite, Role: Strategic Support.
+    	Armaments: (Lee-Enfields, Webley), *M1 Carbines x2 , *M1928A2 Thompson x2, *Vickers K, Skill: Experienced, Role: Strategic Support.
+    	Left-click and target direction. Effective against armored vehicles & infantry. Requires sight radius.
+    	The 60-pound RP-3 rockets provide a spectacularly high explosive adjunct to the Sherman Firefly's considerable anti-armor capabilities.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 10.5cm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 10.5cm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 15cm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 15cm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 15cm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 15cm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 15cm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 15cm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Massive, Penetration: Extreme, Scatter: High, Cartridge: 203mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 152mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 122mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 122mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 122mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 122mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 122mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 140mm, Effective at very long range vs. all targets.
+    	Type: Howitzer, Blast Radius: Large, Penetration: High, Scatter: High, Cartridge: 155mm.
+    	Infantry receive 20% reduced incoming damage, & 25% reduce hit chance while in garrisoned cover.
+    	Fortified Positions
+    	Infantry receive 50% reduced incoming damage, & 50% reduced hit chance while in concrete garrisoned cover.
+    	Valentine Mk. XI Tank
+    	11th Armoured Division Cromwell Command Tank
+    	Guards Armored Division Cromwell Command Tank
+    	Valentine Command Tank
+    	<locstring name="screen_name" value="11078316" />
+    	Cromwell Command Tank
+    	Armaments: Hull Besa, *Pintle Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: QF 75 mm, Hull Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: Hull Besa, Armor: 76mm, Role: General Purpose, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: Hull Besa, Armor: 76mm, Role: Tactical Support, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: Hull Besa, Armor: 76mm, Role: Tactical Support, Speed: 64 km/h. Effective at medium range vs. armor. 
+    	Armaments: Besa (Coaxial/Hull), Armor: 76mm, Role: Tactical Support, Speed: 64 km/h. DOES NOT have a functioning main gun.
+    	The main workhorse tank of the British army, the Cromwell Mk. IV Cruiser Tank combines solid armor protection with a fast-firing 75mm cannon.
+    	Though nearly identical to a regular Cromwell Tank, the Command variant in reality did not a main gun; it merely had a dummy one to deter enemy forces.
+    	Royal Armoured Regiment Cromwell Command Tank
+    	Cromwell Command Tank can be deployed to the battlefield. This Officer's aura is dependent on Hammer & Anvil. Command Tanks are equipped with a dummy main gun.
+    	Armaments: Besa (Coaxial), Armor: 59mm, Role: Tactical Support, Speed: 24 km/h. DOES NOT have a functioning main gun.
+    	Referred as the 'Artillery Observation Post and Command Vehicle,' this command variant of the Valentine sported a dummy main gun, to make room for additional radio equipment.
+    	Valentine Command Tank can be deployed to the battlefield. This Officer's aura is dependent on Hammer & Anvil. Command Tanks are equipped with a dummy main gun.
+    	Valentine Mk. IX Tank
+    	Valentine IX Tank
+    	Armaments: QF 6-Pounder, Besa (Coaxial), Armor: 59mm, Role: Infantry Support, Speed: 24 km/h.
+    	The Valentine Mk. IX Tank under Soviet authority was praised for its combination of speed, reliability, and protection. Coupled with a 6-pounder main gun, the Stavka asked for its production to the war's end.
+    	Abandoned Valentine Mk. IX Tank; re-crew with infantry
+    	Valentine Mk. IX Tank
+    	Valentine Mk. IX Tank
+    	Light Tanks
+    	Discipline (Valentine)
+    	Discipline (Valentine)
+    	Keep Calm and Carry On! (Cromwell)
+    	Keep Calm and Carry On! (Cromwell)
+    	67-ya Gvardeyskaya Strelkovaya Diviziya Gvardeytsy
+    	67-ya Gv. sd. Gvardeytsy
+    	Armaments: (Mosin-Nagants/TT-33s, PPSh-41), *SVT-40s x2, *PTRS-41, *ROKS-3, *Panzerschreck, Skill: Experienced, Role: Anti-Tank.
+    	67th Guards Rifle Division Frontovik can be deployed to the battlefield. Demolition Teams excel at... what do you expect?
+    	Forward Deploy 67-ya Gv. sd. Gvardeytsy
+    	New unit - 67-ya Gv. sd. Gvardeytsy - available for deployment. This unit can be deployed from ambient buildings within FRIENDLY TERRITORY. Click and select location to deploy.
+    	67-ya Gv. sd. Gvardeytsy can be deployed to the battlefield. This squad excels at close quarters combat and anti-tank operations.
+    	Anti-tank/Assault infantry, (Traits: + Camouflage): Close-quarters infantry that are armed with powerful anti-tank weapons. Limit of 2 Squads.
+    	M4A2 Sherman Medium Tank
+    	Medium Tank, M4A2(75)
+    	Medium Tank, M4A2
+    	Medium Tank, M4A2
+    	Medium Tank, M4A2
+    	Medium Tank, M4A2
+    	Having fought in some of the Eastern Front's largest battles, veterans of the 'Vitebsk' division have rightfully earned the Order of the Red Banner. From close quarter fighting in Stalingrad, to anti-tank operations in Kursk; these men have seen it all.
+    	JU-87D MG151 2cm Autocannon Combat Patrol
+    	Two JU-87D planes will patrol the designated area, targeting enemy units with 2cm cannons.
+    	Armaments: (L1A1-No. 32), *Bren, Skill: Ace, Role: Sniper.
+    	Armaments: (De Lisle, Sten Mk. IIS), Skill: Ace, Role: Sniper.
+    	Infiltration/Sniper, concealed behind cover, team of one marksman and spotter to improve survivability. Limit of 1 Squad.
+    	Infiltration/Sniper, (Traits: + Camouflage, + High Detection Range, + Wire Cutters, + Invisible on Minimap): Armed with a suppressed De Lisle Carbine; does not generate a 'Unit Sniped' notification. Limit of 1 Squad.
+    	The 1st Commandos made use of the De Lisle Carbine for missions that require more subtlety & finesse. Despite shorter-ranged subsonic rounds, it is not reported as a sniper when being fired, and is able to suppress infantry.
+    	1 Command Point
+    	1 Command Point
+    	1 Command Point
+    	Captain Dispatched
+    	Based off the iconic Stokes Mortar of World War I, the Ordnance ML 3-Inch provides the infantry with organic, close-ranged artillery support. Initially suffering from poor range, it was eventually remedied and continued service well after the war.
+    	Based off the iconic Stokes Mortar of World War I, the Ordnance ML 3-Inch provides the infantry with organic, close-ranged artillery support. Initially suffering from poor range, it was eventually remedied and continued service well after the war.
+    	Based on the iconic First World War Stokes Mortar, the ML 3-inch provided British infantry with close-range indirect fire support. Initially handicapped by an abysmal range of 1,600 yards, it was gradually improved to match the German GrW 34.
+    	Based off the iconic Stokes Mortar of World War I, the Ordnance ML 3-Inch provides the infantry with organic, close-ranged artillery support. Initially suffering from poor range, it was eventually remedied and continued service well after the war.
+    	Based off the iconic Stokes Mortar of World War I, the Ordnance ML 3-Inch provides the infantry with organic, close-ranged artillery support. Initially suffering from poor range, it was eventually remedied and continued service well after the war.
+    	<locstring name="help_text" value="15337" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	As a response to the 
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	The standard mortar of the Red Army since 1941, the highly portable PM-41 was designed for the rapidly shifting battles of World War II. Despite having less explosive filling than most infantry mortars, it performed its duty well enough.
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	8.2 cm Granatewerfer 274/3(r)
+    	120-mm Polkovoy Minomot Obraztsa 1938 Goda
+    	120-mm Polkovoy Minomot Obraztsa 1938 Goda
+    	Based on a 1935 French design, the Soviet PM 38 120 mm was captured in large quantities by German forces. Superior in every category to then current service German mortars, the model provoked production of the 12 cm GrW 42.
+    	Based on a 1935 French design, the Soviet PM 38 120 mm was captured in large quantities by German forces. Superior in every category to then current service German mortars, the model provoked production of the 12 cm GrW 42.
+    	12 cm Granatewerfer 378(r) 
+    	12 cm Granatewerfer 378(r) 
+    	The American infantry's go-to for portable artillery fire, the cut-and-dry designation & looks of the M1 81mm Mortar was at odds with its near-endless variety of available specialized munitions, coupled with an equally vast range of fuze configurations. 
+    	The 120mm HM-38 mortar is a simple response to the age-old problem: how to give troops the most firepower while staying mobile? The answer: giving it wheels. 
+    	Through the simple addition of a wheeled carriage, the 120mm HM-38 Mortar was an outstanding success on the Eastern Front; raining down nearly field gun-sized rounds, and subsequently rolling away to avoid enemy counter-fire.
+    	Through the simple addition of a wheeled carriage, the 120mm HM-38 Mortar was an outstanding success on the Eastern Front; raining down nearly field gun-sized rounds, and subsequently rolling away to avoid enemy counter-fire.
+    	Through the simple addition of a wheeled carriage, the 120mm HM-38 Mortar was an outstanding success on the Eastern Front; raining down nearly field gun-sized rounds, and subsequently rolling away to avoid enemy counter-fire.
+    	Through the simple addition of a wheeled carriage, the 120mm HM-38 Mortar was an outstanding success on the Eastern Front; raining down nearly field gun-sized rounds, and subsequently rolling away to avoid enemy counter-fire.
+    	Through the simple addition of a wheeled carriage, the 120mm HM-38 Mortar was an outstanding success on the Eastern Front; raining down nearly field gun-sized rounds, and subsequently rolling away to avoid enemy counter-fire.
+    	Through the simple addition of a wheeled carriage, the 120mm HM-38 Mortar was an outstanding success on the Eastern Front; raining down nearly field gun-sized rounds, and subsequently rolling away to avoid enemy counter-fire.
+    	Through the simple addition of a wheeled carriage, the 120mm HM-38 Mortar was an outstanding success on the Eastern Front; raining down nearly field gun-sized rounds, and subsequently rolling away to avoid enemy counter-fire.
+    	Medium Tank, M4A3(105) HVSS
+    	Medium Tank, M4A3(75)
+    	Medium Tank, M4A2(75)
+    	Medium Tank, M4A3(75)
+    	Medium Tank, M4A2(75)
+    	Medium Tank, M4A3
+    	Medium Tank, M4A2
+    	Medium Tank, M4A3(75)
+    	Medium Tank, M4A2(75)
+    	Panzerfaust-30
+    	Type: Recoilless Gun, Cartridge: 150mm, Penetration: 220mm Steel, Effective at close range vs armor.
+    	Type: Recoilless Gun, Cartridge: 100mm, Penetration: 140mm Steel, Effective at close range vs armor.
+    	The Panzerfaust-30, or 'Faustpatrone' is an earlier model packing less of a punch, but still sees use throughout the war.
+    	Headhunter
+    	This unit has received advanced training, leading to 10% increased weapon accuracy, & +10 sight radius.
+    	Captain Dispatched
+    	Captain Dispatched
+    	2 Command Points
+    	Infiltrate 995th Engineer Company Engineers
+    	New unit - 92nd Infantry Division Riflemen - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	New unit - 995th Engineer Company Engineers - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	92nd Infantry Division Riflemen can be deployed to the battlefield. These men can be rapidly deployed to provide flank security.
+    	1 Command Point
+    	2 Command Points
+    	92nd Infantry Division Battlegroup
+    	Deploy 92nd Infantry Division 'Buffalo Soldiers' Riflemen Squads x2, Dodge WC51 Trucks x2, M8 Greyhound x1, M4A2 76mm Sherman x1. Click and select location to deploy.
+    	995th Engineer Company Engineers Mechanized Squad
+    	92nd Infantry Division Combat Group
+    	Deploy 995th Engineer Company Engineer Squad x1, Dodge WC51 Trucks x2. Click and select location to deploy.
+    	8 Command Points
+    	2 Command Points
+    	3 Command Points
+    	4 Command Points
+    	442nd Infantry Regiment Heavy Weapons Platoon
+    	The 'Nisei' Riflemen can be deployed to the battlefield. This battlegroup is best used to defend open flanks & repairing structures.
+    	Deploy 92nd Infantry Division 'Buffalo Soldiers' Riflemen Squad x1, Dodge WC51 Truck x1. Click and select location to deploy.
+    	The 442nd 'Nisei' Riflemen can be deployed to the battlefield. This battlegroup is best used to defend open flanks & repairing structures.
+    	The 'Buffalo Soldiers' can be deployed to the battlefield. This battlegroup is best used to replace heavy casualties.
+    	Deploy 442nd Infantry Regiment 'Nisei' Riflemen Squad x1, Dodge WC51 Trucks x2. Click and select location to deploy.
+    	Deploy 442nd Infantry Regiment 'Nisei' Riflemen Squad x1, M2HB .50 Cal x1, M1 81mm Mortar x1. Click and select location to deploy.
+    	442nd Infantry Regiment Anti-Tank Platoon
+    	Deploy 442nd Infantry Regiment 'Nisei' Riflemen Squad x1, M2HB .50 Cal x1, M1 57mm AT Gun x1. Click and select location to deploy.
+    	442nd Infantry Regiment Mechanized Squad
+    	5 Command Points
+    	442nd Infantry Regiment Anti-Tank Platoon
+    	442nd Infantry Regiment Field Artillery Combat Group
+    	Deploy 442nd Infantry Regiment 'Nisei' Riflemen Squad x1, M5 3-Inch AT Gun x1, M1 75mm Howitzer. Click and select location to deploy.
+    	442nd Infantry Regiment Fire Support Company
+    	2 Command Points
+    	Deploy 9th Infantry Regiment 'Nisei' Riflemen Squad x1, M2HB .50 Cal x1, M1 81mm Mortar x1. Click and select location to deploy.
+    	Free France's 1st Infantry Division can be deployed to the battlefield. This battlegroup is can provide reconnaissance, and light anti-tank support.
+    	1st Free France Division Machine Gun Team
+    	Deploy 1re Division Française Libre Fusilier x1, M5 Halftrack x1. Click and select location to deploy.
+    	Deploy 1re Division Française Libre Anti-Tank Squad x1, M3A1 Scout Car x1, M8 Greyhound x1. Click and select location to deploy.
+    	1st Free France Division Recon Platoon
+    	Deploy 9th Infantry Division Riflemen Squad x1, M3 Halftrack x1, M8A1 HMC x1, M4A3E8 75mm Sherman x1. Click and select location to deploy.
+    	9th Infantry Division Recon Platoon
+    	9th Infantry Division Infantry Support Group
+    	Deploy 9th Infantry Division Riflemen Squad x1, M3 Halftrack x1, M4A3E8 76mm Sherman x1, M10 Tank Destroyer. Click and select location to deploy.
+    	9th Infantry Division Tank Platoon
+    	3 Command Points
+    	5 Command Points
+    	4 Command Points
+    	6 Command Points
+    	8 Command Points
+    	1st Free France Division Reserve Battlegroup
+    	2 Command Points
+    	5 Command Points
+    	5 Command Points
+    	4 Command Points
+    	2nd Parachute Chasseurs Airborne Battlegroup.
+    	2nd Parachute Chasseurs Armored Battlegroup.
+    	Deploy 2e Régiment de Chasseurs Parachutistes Squads x2, M8 Greyhound x1, M4A2 75mm Sherman x1. Click and select location to deploy.
+    	6 Command Points
+    	The single Fw 200 'Condor' conduct a high-speed bombing run, saturating the area with massive high-explosive bombs.
+    	The single Fw 200 'Condor' will conduct a high-speed bombing run, saturating the area with massive high-explosive bombs.
+    	Nisei!
+    	Infantry receives 5% faster weapon cooldown, 5% increased accuracy, with 5% increased hit chance.
+    	Infantry receives 5% increased accuracy, with 5% increased hit chance.
+    	Hitlerjugend
+    	The 442nd Infantry Regiment became the most decorated unit the US had ever trained. Out of the original 4,000 men that had served, 14,000 men cycled through due to heavy casualties; their accolades included 9,486 Purple Hearts, 4,000 Bronze Stars, and 21 Medal of Honors.
+    	The 'Purple Heart' Battalion
+    	Armaments: (M3 Grease Guns, M1903A4-M73), *M1A1 Thompsons x2, *M1918A2 BAR x1/2, *M9 Bazooka/M6A3, *M18 Recoilless WP, Skill: Elite, Role: Assault. 
+    	Batalhão de Infantaria de Montanha
+    	Brazilian Mountain Infantry
+    	The Brazilian Mountain Infantry Battalion fought in the mountainous terrain of Italy. Having exhausted their ammunition, three men led a last-ditch bayonet charge into enemy lines Impressed with their bravery, the Germans buried them and declared them heroes.
+    	Armaments: (M3 Grease Guns, M1903A4-M73), *M1 Garands x2, *M1A1 Thompsons x2, *M1919A6, Skill: Elite, Role: Assault. 
+    	Armaments: (M3 Grease Guns, M1903A4-M73), *M1 Garands x2, *M1A1 Thompsons x2, *M1919A6, Skill: Elite, Role: Recon. 
+    	Light infantry, (Traits: + Camouflage, + Ignores Movement Penalties): Can be armed to effectively engage armor or infantry alike.
+    	Infiltrate Brazilian Mountain Infantry Battalion Squad
