@@ -1,0 +1,500 @@
+    	T-34-85 M1944 Srédniy tank
+    	T-34-85 M1944 Srédniy tank
+    	T-34-85 M1944 Srédniy tank
+    	T-34-85 M1944 Srédniy tank
+    	T-34-85 M1944 Srédniy tank
+    	T-34-85 
+    	T-34-85 
+    	T-34-85 M1944 Srédniy tank
+    	T-34-85 M1944 Srédniy tank
+    	M4C Sherman Srédniy tank
+    	M4C Sherman Srédniy tank
+    	M4C Sherman Srédniy tank
+    	M4C Sherman Srédniy tank
+    	M-10 Istrebitel' Tankov
+    	<locstring name="screen_name" value="19514" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Srédniy 'Samohodnaya Ustanovka' Istrebitel' Tankov SU-85
+    	SU-85
+    	SU-100
+    	Srédniy 'Samohodnaya Ustanovka' Istrebitel' Tankov SU-85
+    	Srédniy 'Samohodnaya Ustanovka' Istrebitel' Tankov SU-85
+    	SU-85
+    	KV-1C M1942 Tyazholyy Tank
+    	KV-1C M1942 Tyazholyy Tank
+    	KV-1C
+    	<locstring name="screen_name_short" value="19524" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="19522" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="19522" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="19522" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	KV-1C
+    	KV-1C
+    	KV-1C
+    	KV-2 Tyazholyy 'Shturmovóe Orúdiye' Tank
+    	<locstring name="screen_name" value="19532" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	KV-2
+    	IS-2 M1944 Tyazholyy Tank
+    	IS-2 M1944 Tyazholyy Tank
+    	IS-2
+    	<locstring name="screen_name" value="19535" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="screen_name" value="19535" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	IS-2
+    	IS-2
+    	Tyazholyy Samokhodka ISU-122
+    	ISU-122
+    	<locstring name="screen_name" value="19542" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	ISU-122
+    	Tyazholyy Shturmovóe Orúdiye 'Zveroboy' ISU-152
+    	Tyazholyy Shturmovóe Orúdiye 'Zveroboy' ISU-152
+    	ISU-152
+    	Tyazholyy Shturmovóe Orúdiye 'Zveroboy' ISU-152
+    	Tyazholyy Shturmovóe Orúdiye 'Zveroboy' ISU-152
+    	ISU-152
+    	ISU-152
+    	Tyazholyy Samokhodka 'Zveroboy' SU-152
+    	SU-152
+    	SU-152
+    	Tyazholyy Pekhotnyy Tank Mk. IV 'Cherchill'
+    	Tyazholyy Pekhotnyy Tank Mk. IV 'Cherchill'
+    	Tyazholyy Pekhotnyy Tank Mk. IV 'Cherchill'
+    	Following the decisive victory at Stalingrad, the newly-designated 75th Guards Rifle Division fought heroically in many of the 
+    	Having served with distinction at Stalingrad, the 75-ya Gvardeyskaya continued to participate in countless offensives. From Kursk, to the final battle in Berlin, the 75th ended the war as one of the most decorated units in the Red Army.
+    	A frequent trophy of war, captured MP40s provided automatic firepower to troops that would not otherwise have access to.
+    	Submachine Gun, Cal .45, M1A1 (x2)
+    	Schürzen
+    	Schürzen
+    	Schürzen
+    	Schürzen
+    	Schürzen
+    	Schürzen
+    	Shpagin (PPSh-41) (35rd.) (x4)
+    	Type: Submachine Gun, Rate of Fire: 900 rounds per minute, Cartridge: 7.62x25mm, Capacity: 35 Rounds, Quantity: 4. Effective at close range vs. infantry.
+    	Type: Anti-Material Rifle, Rate of Fire: Semi-Automatic, Cartridge: 14.5x114mm, Capacity: 5 Rounds. Quantity: 2. Effective at medium range vs. vehicles.
+    	PTRS-41 (x2)
+    	Mechanized infantry units supported by versatile armor.
+    	Increases the durability of the unit. Upgrade leads to +40 increased health.
+    	CH-42 Steel Cuirass
+    	Stalnoi Nagrudnik
+    	Increases the durability of the unit. Upgrade leads to +40 increased health, & +33% additional armor. Must be healed back to full health.
+    	Resembling a suit of medieval armor, the steel cuirass provided partial protection against shrapnel and small arms fire.
+    	16-ya Gvardeyskaya M1938
+    	16-ya Gvardeyskaya M1938
+    	3-ya Udarnaya Armiya HM-38
+    	3-ya Udarnaya Armiya 
+    	Additional weapon crews have been sent to the frontline to man the guns.
+    	Increases the survivability of the unit. Upgrade adds +3 extra squadmembers.
+    	ZiS-2 57mm Anti-Tank Gun
+    	ZiS-2 Anti-Tank Gun
+    	16-ya Gvardeyskaya ZiS-3
+    	16-ya Gvardeyskaya ZiS-2
+    	<locstring name="screen_name" value="19588" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	(PASSIVE) Recruiting Surplus
+    	Crewed Weapons receive Recruiting Surplus (Upgrade).
+    	Additional weapon crewmembers can be assigned to improve survivability.
+    	Crewed Weapons receive Stalnoi Nagrudnik (Upgrade).
+    	Additional weapon crewmembers can be assigned to improve survivability.
+    	(PASSIVE) Stalnoi Nagrudnik
+    	Body armor is issued to crews to improve survivability.
+    	1 Command Point
+    	Veterancy 2
+    	Deploy ODON Recon Squad x1, M3A1 Scout Car x1. Click and select location to deploy.
+    	Can only field (2) ODON Inzhener at a time.
+    	2 Command Points
+    	Veterancy 2
+    	Veterancy 3
+    	Vehicles can be withdrawn from the battle for a return of resources.
+    	Click and target owned vehicle. The units will be refunded by 75%.
+    	Click and target owned vehicle. The units will be refunded by 75%.
+    	Click and target owned vehicle. The units will be refunded by 75%.
+    	Vehicles
+    	Unlocks the SG-43.
+    	Unlocks the GAZ-67B.
+    	(PASSIVE) War Economy
+    	(PASSIVE) Foreign Aid
+    	Additional vehicles have arrived from our distant allies.
+    	DshK 38 Heavy Machine Gun
+    	Type: Heavy Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. Improves detection & sight radius.
+    	Type: Heavy Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 12.7x108mm, Effective at medium range vs. infantry & light vehicles. Improves detection & sight radius.
+    	Type: Machine Gun Nest, Rate of Fire: 600 rounds per minute, Feeding System: 50-Round Belt, Cartridge: 12.7x108mm, Effective at medium range vs. infantry & light vehicles. 
+    	The Machine Gun Nest provides highly-effective defensive fire from a dug-in position. The Maschinengewehr 42 effortlessly cuts through massed infantry, but needs to be reloaded frequently.
+    	An MG42 Heavy Machine Gun is emplaced inside and fires on a fixed arc to the front of the bunker. Can be used alongside a garrisoned weapon crew.
+    	Machine Gun Nests are excellent defensive positions, suited for locking down large, open areas. The DshK 38 is a powerful weapon able to tear through both armored vehicles and infantry.
+    	DshK 38 12.7mm Machine Gun Nest
+    	Bunker
+    	Defensive structure, versatile bunker that provides cover for infantry, and can be converted to additional support roles.
+    	Type: Bunker, Durability: Moderate, Armor Rating: Low, Provided Cover: Heavy, Firing Positions: 4.
+    	The Bunker is one of the most basic forms of defensive structures, able to be constructed with simple materials & raw manpower. These fortifications would be frequently employed to lockdown areas of strategic value.
+    	Forward Headquarters
+    	Forward Headquarters
+    	Cannot be used on Trenches.
+    	Left-click ability, left-click target position. Fires 6 Rounds.
+    	Raketenpanzerbüchse 54/1
+    	Raketenpanzerbüchse 54/1
+    	Raketenpanzerbüchse 54/1
+    	Sharing the same ammunition & magazine with their STENs, the 'Red Devils' made generous use of captured MP40s.
+    	Schweres Maschinengewehr 42
+    	Machine Gun, Cal .30 M1919A6
+    	Flamethrower, M2
+    	Fusil-mitrailleur Modèle 1924 M29
+    	Fusil-mitrailleur Modèle 1924 M29
+    	Fusil-mitrailleur Modèle 1924 M29
+    	Gun, Machine, Vickers GO, .303in
+    	RPD Light Machine Gun
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.92x57mm, Capacity: 97 Rounds. Effective at long range vs. infantry.
+    	Type: Machine Gun, Rate of Fire: 750 rounds per minute, Cartridge: 7.62x39mm, Capacity: 100 Rounds. Effective at medium range vs. infantry.
+    	Abandoned weapon. Right-click to equip squad. 
+    	One of the most iconic British weapon of the First World War, its astounding reliability led to its continued service over a century after its introduction.
+    	Arriving nearly at the end of the war, the RPD combines portability, suppression, and rate-of-fire within a single weapon platform.
+    	Arriving nearly at the end of the war, the RPD combines portability, suppression, and rate-of-fire within a single weapon platform.
+    	One of the most iconic British weapon of the First World War, its astounding reliability led to its continued service over a century after its introduction.
+    	SMLE No.4 Mk. I (T) (No.32)
+    	Type: Submachine Gun, Rate of Fire: 780 rounds per minute, Cartridge: 11.43×23mm, Capacity: 30 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	Type: Submachine Gun, Rate of Fire: 780 rounds per minute, Cartridge: 11.43×23mm, Capacity: 20 Rounds, Quantity: 2. Effective at close range vs. infantry.
+    	Vickers GO No.2 Mk.1 'Land Service'
+    	WASP Flamethrower
+    	Accurate to a fault, the Bren Mk.1 could land impressive shot at range, but was woefully inept at suppression.
+    	Mostly seen in the hands of the Home Guard, M1 Garands saw limited combat use within the Commandos, and an assortment of other units.
+    	Arriving via Lend Lease, the Bazooka saw limited issue to specialized units
+    	Arriving via Lend Lease, the Bazooka saw limited issue to specialized units; it would later replace the PIAT after the war.
+    	Forward Headquarters
+    	Upgrade leads to 25% increased health, and adds a 20m reinforcement radius. Unlocks the Retreat Point ability.
+    	The 1st SAS Recon can be deployed to the battlefield. The Recon Team specializes in providing fire support.
+    	Abandoned KV-2; re-crew with infantry
+    	2 Command Points
+    	Clinometer
+    	The machinegun is mounted with a clinometer to improve their targeting capabilities, increasing both accuracy, line of sight, and camouflage detection range.
+    	Loaded with the iconic drum magazine, the M1928A1 can generate a punishing hail of suppressive fire against enemy forces.
+    	(PASSIVE) 'The Tommy Gun'
+    	Rifle Sections receive the Submachine Gun, Cal .45, M128A1 (50rd.) (Upgrade).
+    	Veterancy 1
+    	(PASSIVE) Machine Gun, Cal .30 M1919A6
+    	6th Field Company RCE Engineers Section
+    	Bren Mk.1 Light Machine Gun
+    	Bren Mk.1 Light Machine Gun
+    	Compared to similar weapons: (+ High Accuracy, + High Damage, + Fires on the Move, - Low Capacity, - No Suppression).
+    	Bren Mk.1 Light Machine Gun
+    	Armaments: (Lee-Enfields, L1A1-No. 32), *M1 Garands x2, *Bren Mk. 1, *Lewis Gun, *Boys AT, Skill: Elite, Role: Frontline.
+    	QF 25-Pounder Howitzer Emplacement
+    	QF 25-Pdr. Howitzer Emplacement
+    	Armaments: QF 25-Pounder, Lee-Enfields, Crew: 3, Skill: Regular, Role: Artillery.
+    	Type: Howitzer, Blast Radius: Moderate, Penetration: High, Scatter: Moderate, Cartridge: 8.7cm, Effective at very long range vs. all targets.
+    	Can only field 2 QF 25-Pdr. Howitzers at a time.
+    	10 Command Points
+    	Provides mobile support vehicles and formidable anti-tank measures to supplement your forces.
+    	Provides mobile light vehicles and crewed weapons to supplement your forces.
+    	Provides access to fast-moving cruiser tanks, and sturdy infantry tanks.
+    	2-Inch Mortar Team
+    	Armaments: (2-Inch, Lee-Enfields, STEN Mk. II), Crew: 3, Skill: Regular, Role: Indirect Fire.
+    	Coordinated Fire
+    	<locstring name="screen_name" value="19687" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	9 Command Points
+    	105mm Breakthrough Artillery
+    	A barrage of 105mm artillery shells will be fired at the target location. The number of shells fired depends on your current stored munitions.
+    	Anti-tank mine, heavy explosive that can easily incapacitate enemy tanks.
+    	Anti-tank mine, can be used en-masse to destroy enemy tanks.
+    	Anti-tank mine, can be used en-masse to destroy enemy tanks.
+    	Prioritize Infantry
+    	Attacks infantry freely, but holds fire against vehicles and structures unless given an explicit order to fire.
+    	Toggle ability. Only affects the vehicle's main gun.
+    	Toggle ability. Only affects the vehicle's main gun.
+    	Toggle ability. Only affects the vehicle's main gun.
+    	Toggle ability. Only affects the unit with the anti-tank weapon.
+    	Toggle ability. Applies to all units in the squad. Camouflage Delay: 5s.
+    	Toggle ability. Only affects the vehicle's main gun.
+    	Toggle ability. Only affects the vehicle's main gun.
+    	AI Script - Brummbar
+    	AI Script - Elefant
+    	Can only field (2) 'Vitebsk' Gvardeytsy at a time.
+    	Forward Observation Posts
+    	Left-click ability and then left-click to select target location. Will be permanently disabled after picking up an anti-tank weapon, or camouflage training.
+    	An RGD-33 anti-personnel grenade has good distance and an effective blast pattern.
+    	Removes the need to upgrade Model 24 Grenade Assaults individually for each applicable squad. Locks out any other Grenade upgrades.
+    	Fire Eintossflammenwerfer 46
+    	Flamethrower, a single-use flamethrower that can quickly set enemies on fire.
+    	Left-click ability, left-click target or position. Effective at close range vs. infantry & emplacements.
+    	Type: Recoilless Gun, Cartridge: 150mm, Penetration: 220mm Steel, Effective at close range vs armor.
+    	Type: Flamethrower, Effective at close range vs. infantry & emplacements.
+    	Type: Flamethrower, Effective at close range vs. infantry & emplacements. Replaces the 'Brandflasche' ability.
+    	Eintossflammenwerfer 46
+    	The Panzerfaust (Tank Fist) is a single-use anti tank weapon that deals heavy damage to all but the heaviest of tanks.
+    	Designed as a cheap, single-use flamethrower, the weapon would see use within the Volkssturm and Fallschirmjägers.
+    	Veterancy 1
+    	Type: Flamethrower, Effective at close range vs. infantry & emplacements. Replaces the 'Blendkörper' ability.
+    	Soviet medium tank, (Traits: + Cheaper, - Poor Penetration): Provides an inexpensive, reliable infantry support tank over other German armor. Limit of 2.
+    	Veterancy 2
+    	Veterancy 2
+    	Throw Model 39 Impact Grenade
+    	Frag Grenade, the Model 39 'Egg Grenade', set to detonate immediately on impact.
+    	Crewed Weapons
+    	1 Command Point
+    	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *Pintle MG42, Armor: 130mm (Sloped), Role: General Purpose, Speed: 55 km/h.
+    	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *Pintle MG42, Armor: 130mm (Sloped), Role: General Purpose, Speed: 55 km/h.
+    	Panzerkampfwagen V Ausf. A ‘Panther’
+    	PzKpfw V Ausf. A
+    	Medium tank, (Traits: + Highly Mobile, + Thick Armor, + Extra Range): Combines excellent speed, durable armor, and a powerful main gun, use on the offensive, or to outmanoeuvre enemy forces. Limit of 2 Vehicles
+    	Medium tank, (Traits: + Thick Armor): Early variant of the Panther tank, slightly inferior mobility and armour. Limit of 2.
+    	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *Pintle MG42, Armor: 130mm (Sloped), Role: General Purpose, Speed: 55 km/h.
+    	The tank's powerful main gun fires a single round over an extreme range.
+    	Panzerkampfwagen V Ausf. A ‘Panther’
+    	Panzerkampfwagen V Ausf. A ‘Panther’
+    	Abandoned Panzer IV Ausf. J; re-crew with infantry
+    	Abandoned Panther Ausf. G; re-crew with infantry
+    	Abandoned Panther Ausf. A; re-crew with infantry
+    	Successor of the mechanically deficient Ausf. D, the Ausf. A boasted an improved suspension system, engine and turret. More reliable and highly effective in combat, the ‘Panther A’ showed the platform to be worthy of future refinement.
+    	Veterancy 2
+    	Armaments: (5 cm Pak 38, K98s, MP40), Crew: 5, Skill: Regular, Role: Anti-Tank.
+    	5 cm Panzerabwehrkanone 38
+    	Pak 38 5cm AT Gun
+    	5 cm Pak 38
+    	Anti-tank gun, (Traits: + Accurate, + High ROF, - Low Damage): Use to engage any sort of enemy vehicle or armor at long range.
+    	Designed before the war, the PaK 38 was one of the few early guns able to defeat sloped armor. Later replaced by more powerful weaponry, the capable 5 cm continued to serve Wehrmacht and Romanian forces until war’s end and beyond.
+    	(PASSIVE) The Desert Rats
+    	Having fought since North Africa, these grizzled veterans have brought their expertise to Europe.
+    	Stuarts, Valentines, Cromwells, & Churchills arrive with a random amount of experience. Does not include the Crocodile or AVRE.
+    	(PASSIVE) Hobart's Funnies
+    	Arriving in a menagerie of outlandish vehicles, Hobart's Funnies are eager to prove themselves in battle.
+    	Universal Carriers, Centaurs, Crocodiles, & AVREs receive 33% faster experience gain.
+    	2 Command Points
+    	(PASSIVE) Camouflage Nets
+    	Allows the M5A1 Stuart, and M4A3 Shermans to be called-in at cheaper costs.
+    	Allows the M5A1 Stuart, Valentine, Centaur, Cromwell, and M4A4 Shermans to be called-in at cheaper costs.
+    	(PASSIVE) Guards Armoured Division
+    	Shipment of American tanks and arms have reduced the strain on industry.
+    	Armaments: (M1903 Springfields, M3 Grease Gun), *M2 Carbines, *M3 Grease Guns x2, *M2 Flamethrower, *M1A1 Bazooka, Skill: Poor, Role: Assault. 
+    	995th Engineer Company Engineer Squad
+    	995th Co Engineers
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 102mm Steel, Effective at close range vs armor & emplacements.
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 102mm Steel, Effective at close range vs armor & emplacements.
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 102mm Steel, Effective at close range vs armor & emplacements.
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 102mm Steel, Effective at close range vs armor & emplacements.
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 102mm Steel, Effective at close range vs armor & emplacements.
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 102mm Steel, Effective at close range vs armor & emplacements.
+    	20. SS Waffen-Grenadier Division Panzer Kampfgruppe
+    	18 Command Points
+    	(PASSIVE) 'The Tommy Gun'
+    	(PASSIVE) Locked & Loaded
+    	Rifle Sections receive the STEN Mk. II (Upgrade), SMLE No.4 Mk. I (Telescopic) (Upgrade) regardless of Hammer or Anvil.
+    	Loaded with the iconic drum magazine, the M1928A1 can generate a punishing hail of suppressive fire against enemy forces.
+    	With weapons provided for any situation, there is nothing to stop the British Soldier on his way to victory.
+    	Armaments: (M1 Garands/M1911s, M3 Grease Gun), *M1A1 Carbines x2, *M1903A4-Z73, *M1919A6, *M18 Recoilless Rifle/WP, Skill: Experienced, Role: Frontline.
+    	5 Command Points
+    	9 Command Points
+    	Nearly identical to other American half-tracks, the M5 Half-track was almost exclusively produced for the purpose of Lend-Lease.
+    	Manufactured within a one-year period, the M5 Half-track was intended primarily as a Lend-Lease provision; it never saw combat usage with American forces.
+    	Armaments: (MAS-36s, STEN, Boys AT), Skill: Regular, Role: Anti-Tank.
+    	Can only field 2 French Anti-Tank Teams at a time.
+    	In exchange for anti-tank guns, France received a large shipment of Boys Anti-Tank rifles from Britain. While both anti-tank weapons quickly became obsolete, they were still effective versus lightly-armored targets.
+    	Deploy 16th Guards Airborne Squad x1 DshK 38 HMG x1, PM-41 82mm Mortar x1, T-70M x1. Click and target location to deploy.
+    	Infiltrate 2nd Parachute Chasseurs
+    	Free France's 2nd Parachute Chasseur Regiment can be deployed to the battlefield. These men can cause devastation behind enemy lines.
+    	82nd Airborne Anti-Tank Team
+    	82nd AB Anti-Tank Team
+    	The 'Kromuskit' fires M306 high-explosive rounds that can punch through structures and light armor, though lacks penetration against tanks.
+    	Armaments: (M1A1 Carbines, M1A1 Thompson, M18 Recoilless Rifle), Skill: Experienced, Role: Frontline.
+    	82nd Airborne Division Motorized Battlegroup.
+    	Free France's 2nd Parachute Chasseur Regiment can be deployed to the battlefield. This battlegroup can be used to quickly to harass enemy forces.
+    	Deploy 2e Régiment de Chasseurs Parachutistes Squads x2, Dodge WC51 x1. Click and select location to deploy.
+    	82nd Airborne Division Paratroopers can be deployed to the battlefield. This battlegroup can be used to quickly to harass enemy forces.
+    	Deploy 82nd Airborne Division Paratroopers Squads x2, Dodge WC51 x1, CCKW x1. Click and select location to deploy.
+    	Elite airborne forces to provide additional fire support.
+    	82nd Airborne Division Glider Fire Team
+    	Assault infantry, (Traits: + Camouflage, + Airdropped Upgrades): Highly-trained troops specializing in automatic weaponry.
+    	Designed for multi-purpose use, the M18 Recoilless Rifle 
+    	Inspired by German paratrooper forces, the Americans developed the M18 Recoilless Rifle to arm their airborne forces. The first shoulder-fired weapon of its kind, it provides formidable firepower against infantry & light armor.
+    	Waco CG-4
+    	The Waco CG-4 is a large troop and cargo transport glider, carrying infantry and battlefield materiel into combat zones.
+    	The Antonov A-7 Glider is a large troop and cargo transport glider, carrying infantry and battlefield materiel into combat zones.
+    	Waco CG-4
+    	Facing intense combat alongside their Airborne counterparts, the glider infantry received little recognition for their sacrifices. They were an involuntary unit, with less pay, and inferior equipment; many sought transfer to the Airborne, rarely the other way around.
+    	1st SAS Regiment Bren Commandos
+    	1st SAS Bren Commandos
+    	Infantry receive 50% reduced incoming damage, & 50% reduced hit chance while in entrenched garrisoned cover.
+    	Active Defense
+    	The squad is protected by the base's fortifications, negating suppression; and reducing incoming fire.
+    	sWs Halftracks can now use the Accelerate! ability without fuel cost.
+    	Sniper infantry, (Traits: + Camouflage, + High Detection Range, + Passive Healing, + Headhunter Passive + Amphibious Assault Passive): Useful for taking out specific infantry targets at extreme range. Limit of 2 Squads.
+    	Anti-tank infantry, (Traits: + Camouflage): Armed with a formidable Bazooka, these soldiers can take on all but the toughest of Germany's tanks. Limit of 2.
+    	Engineer infantry, (Traits: + Repair Tools, + Wire Cutters, + Faster Build Times): Poorly armed engineers better suited for repair duty than combat.
+    	82nd AB Assault Team
+    	The backbone of nearly any army, Engineers 
+    	Created before the United States itself, United States Army Engineers 
+    	Stepping ashore in 1944, the 995th Engineers were tasked to construct bridges for the 4th Armoured Division. A deceptively simple task, the 995th saw significant combat in France; earning multiple Bronze Stars, and the Distinguished Unit Citation.
+    	Sniper infantry, (Traits: + Camouflage, + High Detection Range): Two-man marksman team with improved survivability. Limit of 2.
+    	Assault/Paratrooper infantry, (Traits: + Fast Reinforce, + Passive Healing, + Camouflage, + Airdropped Upgrades): Aggressive airborne infantry specializing in close quarters.
+    	Armaments: (Lee-Enfields/No. 2, Sten), *M1A1 Thompsons x2, *L1A1-No. 32, *Bren Mk. 2, *Vickers K, *PIAT, *M9 Bazooka w. M6A3, Skill: Ace, Role: General Purpose.
+    	Armaments: (Lee-Enfields/M1911s, Bren Mk. 2),*Bren Mk. 1/2, *Vickers K, *MG34, Skill: Ace, Role: General Purpose.
+    	Throughout Her Majesty's forces, Bren Light Machine Gun granted advancing infantry unprecedented firepower. This principle of squad-based automatic fire would continue to see usage in future conflicts.
+    	Though uncommon, assault teams were organized with a higher number of Thompsons to dramatically increase close-quarters firepower.
+    	Finding service with various commando & airborne forces, the M1A1 Carbine proved to be an effective design.
+    	Infiltration infantry, (Traits: + Camouflage, + Passive Healing, + Invisible on Minimap, + Airdropped Weapons): Extremely skilled assault troops that can wipe out enemies at close range.
+    	1 Command Point
+    	1 Command Point
+    	1 Command Point
+    	Impact Mortar, similar in power to a rifle grenade, but with vastly superior range, and suppression.
+    	MG34
+    	Frequently captured by British forces, the MG34 saw extensive use by paratroopers operating behind enemy lines.
+    	Infiltration infantry, (Traits: + Fast Camouflage, + Passive Healing, + Invisible on Minimap, + Airdropped Weapons): Three-man commando team that can infiltrate behind enemy lines.
+    	Armaments: (M1 Garands/M1911s, M1941 Johnson LMG), *M1941 Johnson LMG, *M1918A2 BAR, *M1919A6, Skill: Ace, Role: Infiltration. 
+    	1st Special Service Force Fire Team
+    	1st Special Service Fire Team
+    	Armaments: (M1903A4-M73, M1A1 Thompson), Skill: Ace, Role: Scout.
+    	Pointman
+    	The sniper's spotter will not fire his Thompson unless ordered to attack.
+    	One of few guns able to penetrate sloped armor, the 5 cm was influential in the war’s early years. Easier to produce than most later weaponry, the PaK 38 served the SS until the absolute end as a lighter alternative to larger anti-tank guns
+    	One of few guns able to penetrate sloped armor, the 5 cm was influential in the war’s early years. Easier to produce than most later weaponry, the PaK 38 served the SS until the absolute end as a lighter alternative to larger anti-tank guns
+    	Another Panzer IV Ausf. H variant, the ‘Jagdpanzer IV’ joined the potent 7.5 cm PaK 39 L/48 with a low, well armored profile. Although deemed irrelevant due to the many StuGs already in service, it was a powerful and impressive hunter.
+    	Another Panzer IV Ausf. H variant, the ‘Jagdpanzer IV’ joined the potent 7.5 cm PaK 39 L/48 with a low, well armored profile. Although deemed irrelevant due to the many StuGs already in service, it was a powerful and impressive hunter.
+    	Another Panzer IV Ausf. H variant, the ‘Jagdpanzer IV’ joined the potent 7.5 cm PaK 39 L/48 with a low, well armored profile. Although deemed irrelevant due to the many StuGs already in service, it was a powerful and impressive hunter.
+    	Despite a halt on production by 1944 in favor of the Ausf. G, the ‘Panther A’ had already made its mark. The first tank to effectively fuse mobility, armor and firepower, the Ausf. A was considered to be the grandfather of the main battle tank.
+    	One of few guns able to penetrate sloped armor, the 5 cm was influential in the war’s early years. Easier to produce than most later weaponry, the PaK 38 served the SS until the absolute end as a lighter alternative to larger anti-tank guns.
+    	One of few guns able to penetrate sloped armor, the 5 cm was influential in the war’s early years. Easier to produce than most later weaponry, the PaK 38 served the SS until the absolute end as a lighter alternative to larger anti-tank guns.
+    	Reinforced with a stronger turret, suspension and engine, the Ausf. A combined the armor and firepower of a ‘Tiger’ with the mobility of the Panzer IV. Replacing the unreliable Ausf. D, the ‘Panther A’ was a dynamic and lethal opponent.
+    	Within its short lifespan, the Ausf. A proved more than worthy of further development. Replaced by the Ausf. G in 1944, remaining ‘Panther A’ models augmented their mightier sibling and later helped mitigate increased heavy Panzer losses.
+    	An upgrade to the beloved Cromwell IV, the Mk. V received enhancements to vision, mobility and engine performance. Reinforced with additional welded armour, the Mk. V could weather most engagements with the vaunted Panzers.
+    	An upgrade to the beloved Cromwell IV, the Mk. V received enhancements to vision, mobility and engine performance. Reinforced with additional welded armour, the Mk. V could weather most engagements with the vaunted Panzers.
+    	An upgrade to the beloved Cromwell IV, the Mk. V received enhancements to vision, mobility and engine performance. Reinforced with additional welded armour, the Mk. V could weather most engagements with the vaunted Panzers.
+    	Light Tank, Stuart Mk. VI
+    	Light Tank, Stuart Mk. VI
+    	Light Tank, Mk. VI
+    	Light Tank, Mk. VI
+    	Another product of Lend-Lease, the Mk. VI was identical to the M5A1 in all but name. Reserved primarily for flanking manoeuvres, the agile scout tank was used extensively by the British Army in the final stages of the Tunisian campaign.
+    	Another product of Lend-Lease, the Mk. VI was identical to the M5A1 in all but name. Reserved primarily for flanking manoeuvres, the agile scout tank was used extensively by the British Army in the final stages of the Tunisian campaign.
+    	Another product of Lend-Lease, the Mk. VI was identical to the M5A1 in all but name. Reserved primarily for flanking manoeuvres, the agile scout tank was used extensively by the British Army in the final stages of the Tunisian campaign.
+    	Another product of Lend-Lease, the Mk. VI was identical to the M5A1 in all but name. Reserved primarily for flanking manoeuvres, the agile scout tank was used extensively by the British Army in the final stages of the Tunisian campaign.
+    	Another product of Lend-Lease, the Mk. VI was identical to the M5A1 in all but name. Reserved primarily for flanking manoeuvres, the agile scout tank was used extensively by the British Army in the final stages of the Tunisian campaign.
+    	Light Tank, Stuart Mk. VI
+    	Light Tank, Stuart Mk. VI
+    	Light Tank, Stuart Mk. VI
+    	Light Tank, Mk. VI
+    	Light Tank, Mk. VI
+    	Light Tank, Mk. VI
+    	Anti-tank gun, (Traits: + Accurate, + High ROF, - Low Damage): Cost-effective gun that is better suited at taking out light-armored targets.
+    	2 Command Points
+    	2 Command Points
+    	1st Commando Brigade WC51 Truck
+    	1st Commando WC51 
+    	Formed from the old 87th Rifle Division in January 1942, the unit faced its first test at Kharkov that May. Losing over fifty-percent of its men in the intense battle, the 13th did manage to escape utter annihilation unlike most other Soviet units.
+    	Despite the unit’s desperate need for resupply and men, the Motherland’s need was greater. Filled with untrained conscripts and lacking maps or knowledge of the city, the 13th was ordered to hold the battered ruins of the once proud Stalingrad.
+    	Deemed ‘ready’ for combat, the 13th was sent across the Volga to reinforce a line held by a mere 15 tanks and few hastily formed combat groups. Within the first 24 hours the unit suffered 3,000 casualties, but successfully held the beachhead.
+    	Despite its disadvantages, the 13th proved its worth first at the Railroad and later in the perilous sixty-day defense for Pavlov’s House. Constantly short on rations and supplies in both fights, the Guardsmen fought until only a handful remained.
+    	No stranger to sacrifice, the 13th repeatedly distinguished itself in Stalingrad. Although only 320 men of the original 10,000 survived the chaotic struggle, what arose from the ashes was one of the Red Army’s most elite and respected units.
+    	Faithful guardians of the Soviet people, the 13th helped secure Kursk in 1943 and later liberate Ukraine. Under Operation Bagration the unit paved its way from Poland to Berlin with retribution before finally seizing the very heart of the Reich.
+    	American scout vehicle, (Traits: + Random Veterancy, + Versatile Gun, + Highly Mobile, + High Detection Range, - Easily Decrewed): Has transportation capability, useful for recon or conducting raids.
+    	1st Free French Fusiliers
+    	1re Division Française Libre Fusiliers
+    	Pionere Maintenance Team
+    	Deploy 1st SS-Panzer Division Untersturmführer x1. Click and select location to deploy.
+    	Deploy SS-Sturmpioneres Squads x2. Click and select location to deploy. Repair the Feldhauptquartier to restore functionality.
+    	Deploy Saperov Squads x2. Click and select location to deploy. Repair the Regimental Field Headquarters to restore functionality.
+    	Saperov can be deployed to the battlefield. This battlegroup is meant to repair destroyed base buildings.
+    	Deploy Sapper Sections x2. Click and select location to deploy. Repair the Field Headquarters to restore functionality.
+    	Sappers can be deployed to the battlefield. This battlegroup is meant to repair destroyed base buildings.
+    	Deploy Rear Echelon Squads x2. Click and select location to deploy. Repair the Barracks to restore functionality.
+    	Rear Echelon can be deployed to the battlefield. This battlegroup is meant to repair destroyed base buildings.
+    	Rear Echelon Maintenance Team
+    	Veterancy 3
+    	Crew Training
+    	Upgrade will be removed from the unit if abandoned.
+    	Vehicle crews install superior optics to improve their targeting capabilities by increasing line of sight.
+    	Deploy 16th Guards Airborne Squad x1 DshK 38 HMG x1, PM-41 82mm Mortar x1, T-70M x1. Click and target location to deploy.
+    	Deploy a Forward Operations Glider to the targeted sector. The headquarters provides additional Glider infantry, crewed weapons, vehicles, and a retreat point.
+    	Deploy 16th Guards Airborne Squad x1 DshK 38 HMG x1, PM-41 82mm Mortar x1, T-70M x1. Click and target location to deploy.
+    	Deploy 82nd AB Assault Team x1, and 82nd AB Fire Team x1. Click and target location to deploy.
+    	Will will repair all damaged structures & emplacements in the area.
+    	Dispatch Maintenance Teams to the Forward Assembly.
+    	New unit - 1st Special Service Commandos - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Nearby teams of mortars will automatically attack enemies in the target territory with a mix of high-explosive and white phosphorous shells. After a period of time flares will reveal enemy units in adjacent territories.
+    	Click and target territory. Requires line of sight. Delay: 10s. Duration 70s.
+    	Click and target territory. Requires line of sight. Delay: 10s. Duration 70s.
+    	Sturmbannführer can be deployed to the battlefield. This Officer arrives with a large group of Volkssturm forces.
+    	Sturmbannführer can be deployed to the battlefield. This Officer specializes in fire support & airstrikes.
+    	Ruchnaya Granata 42 Mass Production already selected.
+    	Built in 1923, the 46th spent most of its first life in Irkutsk. Still at a peacetime strength of 6,000 when the Fascists invaded the Motherland, the unit’s fresh recruits and depleted staff fell rapidly to veteran German troops at Smolensk in July 1941.
+    	Reformed after Smolensk at Ufa, the 46th was often used to ‘distract’ the enemy before a retreat or an assault. Fighting exclusively on the frontline in an attempt to stall the Fascisti, the unit was sacrificed again at Volkhov Pocket in mid 1942.
+    	Formed in early 1942, the 13-ya faced its first test at Kharkov that May. Losing over fifty-percent of its men in the ferocious battle, the unit did manage to retreat to the Volga and escape complete annihilation unlike most of the other Soviet units.
+    	Although the unit desperately needed resupply, the Motherland’s need was greater. Crossing the mighty Volga to reinforce the tentative beachhead to once proud Stalingrad, the 13th suffered over 3,000 casualties in the first 24 hours alone.
+    	Despite its disadvantages, the 13th proved its worth at the Railroad Station and in the perilous sixty-day defense for Pavlov’s House. Constantly short on rations and supplies in both fights, the Guardsmen fought until only a handful remained.
+    	No stranger to sacrifice, the 13th repeatedly distinguished itself in Stalingrad. Although only 320 men of the original 10,000 survived the chaotic struggle, what arose from the ashes was one of the Red Army’s most elite and respected units.
+    	Faithful guardians of the Soviet people, the 13th helped secure Kursk in 1943 and later liberate Ukraine. Under Operation Bagration the unit paved its way from Poland to Berlin with retribution before finally seizing the very heart of the Reich.
+    	Like many Wehrmacht units located in Normandy, the 91st was understrength and underequipped. Filled using young trainees, old reservists, recovering Ostfront veterans and conscripts, the 91st was ill prepared to fight against Allied forces.
+    	Transferred to Aachen in late 1944, the 246th repulsed repeated U.S. assaults for five days using well constructed strong-points. Despite its dogged defense, the 246th was eventually overrun and later reassigned to defend the Hürtgenwald.
+    	Decimated again by heavy fighting at Hürtgenwald, the 246th spent the rest of the war plugging gaps in Wehrmacht lines. Fighting until the absolute end, it surrendered to U.S. forces after the capitulation of the Third Reich on May 8, 1945.
+    	Using defense in depth and overwhelming firepower, the 3rd FJD held St.-Lô for a month against U.S. forces. Finally exhausting their supplies, the 3rd was pushed to the Falaise Pocket in August only to be obliterated in the breakout attempt.
+    	Reformed from scratch in September 1944, the 3rd FJD helped defend Arnhem during Operation Market Garden. Later fighting in the Hürtgenwald meat-grinder and the Ardennes offensive, the unit finally surrendered to U.S. forces in 1945.
+    	Fighting partisans for most of 1943, ‘Brandenburg’ was formed into a Panzergrenadier Division in late 1944. Fighting under Division ‘Großdeutschland’ until war’s end, most of the unit avoided capture and simply vanished without a trace.
+    	Cunning demolitionists, ‘Brandenburg’ Sprengtruppe were trained to use both Axis and Allied explosives to complete missions. Vital to the conquest of Europe, these men disabled and seized valuable enemy installations and infrastructure.
+    	Loaded with extra radio equipment, the Sd.Kfz. 261 broadcasts long-range orders direct from the 90th. Improving communication between vehicles, the ‘Kleiner Panzerfunkwagen’ gains vet from allies for its role in coordinating movements.
+    	Composed of multiple combat specialists, ‘Julia’ was some of the Italian Army’s finest. Versatile, highly motivated and self-sustaining, the 3rd used its portable weapons to combat Greek troops in 1941 and Soviet forces at the Don in fall 1942.
+    	First used by the Reichswehr, the versatile and compact leIG 18 was truly a multi-role weapon. Utilized extensively by the Gebirgsjäger and Fallschirmjäger as light artillery, it could also engage enemy armor with direct fire.
+    	First used by the Reichswehr, the versatile and compact leIG 18 was truly a multi-role weapon. Utilized extensively by the Gebirgsjäger and Fallschirmjäger as light artillery, it could also engage enemy armor with direct fire.
+    	First used by the Reichswehr, the versatile and compact leIG 18 was truly a multi-role weapon. Utilized extensively by the Gebirgsjäger and Fallschirmjäger as light artillery, it could also engage enemy armor with direct fire.
+    	First used by the Reichswehr, the versatile and compact leIG 18 was truly a multi-role weapon. Utilized extensively by the Gebirgsjäger and Fallschirmjäger as light artillery, it could also engage enemy armor with direct fire.
+    	First used by the Reichswehr, the versatile and compact leIG 18 was truly a multi-role weapon. Utilized extensively by the Gebirgsjäger and Fallschirmjäger as light artillery, it could also engage enemy armor with direct fire.
+    	First used by the Reichswehr, the versatile and compact leIG 18 was truly a multi-role weapon. Utilized extensively by the Gebirgsjäger and Fallschirmjäger as light artillery, it could also engage enemy armor with direct fire.
+    	First used by the Reichswehr, the versatile and compact leIG 18 was truly a multi-role weapon. Utilized extensively by the Gebirgsjäger and Fallschirmjäger as light artillery, it could also engage enemy armor with direct fire.
+    	First used by the Reichswehr, the versatile and compact leIG 18 was truly a multi-role weapon. Utilized extensively by the Gebirgsjäger and Fallschirmjäger as light artillery, it could also engage enemy armor with direct fire.
+    	Trading some mobility for protection, the ‘Sd.Kfz. 162’ received Schürzen and the longer 7.5 cm KwK 42 L/70 in fall 1944. Praised for its ability to withstand punishment, this Jagdpanzer could easily defeat all but the heaviest enemy tanks.
+    	Despite a halt on production by 1944 in favor of the Ausf. G, the ‘Panther A’ had already made its mark. The first tank to effectively fuse mobility, armor and firepower, the Ausf. A was considered to be the grandfather of the main battle tank.
+    	Multilingual clandestine operatives, ‘Brandenburger’ were trained to near perfection in sabotage, recon, marksmanship and various other skills. Formed as Sonderverband Brandenburg in 1939, the unit was instrumental in the conquest of Europe.
+    	A hybrid of cavalry and infantry, the talented men of the ‘Recce Corps’ formed the spearhead of the British Army throughout the war. Drilled to seize initiative with an aggressive spirit, scouts typified the motto ‘Only The Enemy In Front’.
+    	Recce Corps Marksman Team
+    	Already specialised in multiple skills, ‘Recce’ scouts were eventually sent through marksman school. Filling the gaps in the haphazardly rebuilt sniper program, these men often used the Boys AT rifle to punch through armour and infantry.
+    	Standing silently at the Buckingham Palace to this day, the venerable Grenadier Guard fought valiantly during the Battle of France and evacuation of Dunkirk, holding the line for others to withdraw back to Britain, and continuing to serve ever since.
+    	Formed under the orders of Queen Victoria at the turn of the twentieth century, in honor of Ireland’s war contributions. The Irish Guard have a brief but decorated service record, serving with distinction on the Western Front during both World Wars.
+    	Formed under the orders of Queen Victoria at the turn of the twentieth century, in honor of Ireland’s war contributions. The Irish Guard have a brief but decorated service record, serving with distinction on the Western Front during both World Wars.
+    	Formed under the orders of Queen Victoria at the turn of the twentieth century, in honor of Ireland’s war contributions. The Irish Guard have a brief but decorated service record, serving with distinction on the Western Front during both World Wars.
+    	Formed under the orders of Queen Victoria at the turn of the twentieth century, in honor of Ireland’s war contributions. The Irish Guard have a brief but decorated service record, serving with distinction on the Western Front during both World Wars.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	First put into service in 1942, the lightweight 6-Pounder quickly established a reputation for high accuracy. On par with most enemy AT guns, it could reliably penetrate or outright knock out any enemy tank short of Germany’s heaviest armour.
+    	Britain’s last foray into dedicated AT guns, the 17-Pounder rivalled the legendary 8.8 cm in most categories. Compensating for its lack of maneuverability with sheer power, this gun could give any German armour one for without problem.
+    	Britain’s last foray into dedicated AT guns, the 17-Pounder rivalled the legendary 8.8 cm in most categories. Compensating for its lack of maneuverability with sheer power, this gun could give any German armour one for without problem.
+    	Britain’s last foray into dedicated AT guns, the 17-Pounder rivalled the legendary 8.8 cm in most categories. Compensating for its lack of maneuverability with sheer power, this gun could give any German armour one for without problem.
+    	Britain’s last foray into dedicated AT guns, the 17-Pounder rivalled the legendary 8.8 cm in most categories. Compensating for its lack of maneuverability with sheer power, this gun could give any German armour one for without problem.
+    	Britain’s last foray into dedicated AT guns, the 17-Pounder rivalled the legendary 8.8 cm in most categories. Compensating for its lack of maneuverability with sheer power, this gun could give any German armour one for without problem.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Initially declared obsolete, the 2-inch slowly fought its way back into wartime service. Sacrificing range and some firepower for rate-of-fire, the highly compact mortar provided troops with rapid indirect fire support or battlefield illumination.
+    	Renamed Division Brandenburg in 1943 for its service, the unit was reorganized in late 1944 as Panzergrenadiere. Fighting under Division ‘Großdeutschland’ until war’s end, most of the unit avoided capture and simply vanished without a trace.
+    	Renamed Division Brandenburg in 1943 for its service, the unit was reformed under Division ‘Großdeutschland’ in late 1944. Fighting until war’s end as Panzergrenadiere, most of the unit avoided capture and vanished without a trace.
+    	The 17th SS forged a colored history, culminating in the ‘strangest battle of World War II’. Over 200 men from ‘GvB’ assaulted Castle Itter, which was defended by less than 30 Wehrmacht and U.S. forces and a defected Waffen-SS officer.
+    	Unable to kill Tito, the 500th was shifted to Lithuania in July 1944 to help the 3. Panzerarmee. Reduced to less than ninety men by August, the unit was pulled to Austria and absorbed into the newly built SS-Fallschirmjäger-Bataillon 600.
+    	With 360° of traverse, the FlaK 38 could hammer ground and air targets. Appearing more often in its quad barrelled Flakvierling version, the 2 cm gun was used prolifically as Germany was forced into a defensive role on both fronts.
+    	Mass produced for the versatile SS Panzergrenadiere and Sturmpioniere, the Sdkfz. 251/16 was armed with dual flame projectors. Able to reach targets at 35 m, the ‘Flammpanzerwagen’ could callously reduce enemies of the Reich to ash.
+    	The backbone of SS mechanized recon units, the four-wheel-drive Sdkfz. 221 was advanced for its time. Relying on mobility as its primary characteristic, it provided its two-man crew adequate small arms protection with 14.5 mm of armor.
+    	The backbone of SS mechanized recon units, the four-wheel-drive Sdkfz. 221 was advanced for its time. Relying on mobility as its primary characteristic, it provided its two-man crew adequate small arms protection with 14.5 mm of armor.
+    	The backbone of SS mechanized recon units, the four-wheel-drive Sdkfz. 221 was advanced for its time. Relying on mobility as its primary characteristic, it provided its two-man crew adequate small arms protection with 14.5 mm of armor.
+    	The backbone of SS mechanized recon units, the four-wheel-drive Sdkfz. 221 was advanced for its time. Relying on mobility as its primary characteristic, it provided its two-man crew adequate small arms protection with 14.5 mm of armor.
+    	The backbone of SS mechanized recon units, the four-wheel-drive Sdkfz. 221 was advanced for its time. Relying on mobility as its primary characteristic, it provided its two-man crew adequate small arms protection with 14.5 mm of armor.
+    	The offensive potential of the Sdkfz. 222 was realized by 1937, with full production starting late that year. Equipped with the deadly 2 cm KwK 30 L/55 and an additional crewman, it augmented the naturally aggressive SS recon units.
+    	Within its short lifespan, the Ausf. A proved more than worthy of further development. Replaced by the Ausf. G in 1944, remaining ‘Panther A’ models augmented their mightier sibling and later helped mitigate increased heavy Panzer losses.
+    	Within its short lifespan, the Ausf. A proved more than worthy of further development. Replaced by the Ausf. G in 1944, remaining ‘Panther A’ models augmented their mightier sibling and later helped mitigate increased heavy Panzer losses.
+    	AI Script - Jagdpanzer IV
+    	Zimmerit Coating
+    	Improved Optics
+    	Cleared Tracks
+    	Panther's movement speed increased by 10%.
+    	Placeholder.
