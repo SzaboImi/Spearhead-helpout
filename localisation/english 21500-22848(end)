@@ -1,0 +1,1348 @@
+      The officer orders nearby units to focus fire on a specified target, drastically decreasing its survivability.
+    	Improves scouting capability at long ranges. Replaces the default 'C' ability. 
+    	Effective vs. infantry. Target must already be suppressed. Replaces the default 'C' ability. 
+    	2 Command Points
+    	The officer deceives the enemy troops, making them believe they are fighting a much bigger force than they are.
+    	Effective vs. infantry. Replaces the default 'C' ability. 
+    	3 Command Points
+    	Effective vs. light vehicles. Replaces the default 'D' ability.
+    	76mm Precision Barrage
+    	Requests for a high-explosive barrage from GrW 34 8cm Mortars. The 8cm rounds have decent power & accuracy.
+    	Requests for a high-explosive barrage from PM-41 82mm Mortars. The 82mm rounds have decent power & accuracy.
+    	Requests for a fire-for-effect barrage from PM-41 82mm Mortars. The rounds will target all infantry and vehicles within radius.
+    	82mm Mortar Barrage
+    	82mm Fire-for-Effect Barrage
+    	82mm Rapid Barrage
+    	Requests for a time-on-target barrage from GrW 34 8cm Mortars. The rounds have shorter delay, and land in quick succession, but have increased scatter.
+    	Requests for a time-on-target barrage from PM-41 82mm Mortars. The rounds have shorter delay, and land in quick succession, but have increased scatter.
+    	Left-click to select, left-click target. Fires 8 Rounds. Delay 1.5s. Effective vs. infantry & emplacements.
+    	Left-click to select, left-click target. Fires 8 Rounds. Delay 3.5s. Effective vs. infantry & emplacements.
+    	82mm Rapid Barrage
+    	82mm Fire-for-Effect Barrage
+    	152mm Illumination Barrage
+    	IL-2 Recon Pass
+    	IL-2 Recon Pass
+    	2 Command Points
+    	122mm Assault Barrage
+    	Requests for an assault barrage from M-30 Field Howitzers. The 122mm rounds will be fired at any enemy within the sector, followed by a smokescreen to cover an advance.
+    	Requests for a covering barrage from leFH 18 Field Howitzers. Vehicles will be targeted with 122mm howitzer rounds, while infantry will be suppressed with 7.5cm light howitzers. Damaged vehicles will be covered by a volley of smoke shells.
+    	Requests for a covering barrage from M-30 Field Howitzers. Vehicles will be targeted with 122mm howitzer rounds, while infantry will be suppressed with 7.5cm light howitzers. Damaged vehicles will be covered by a volley of smoke shells.
+    	122mm Covering Barrage
+    	The officer is authorized to call-in assault barrages, which begins with a sector-wide 122mm barrage, followed up by a smokescreen for advancing infantry.
+    	The officer is authorized to call-in covering barrages, which fires 122mm rounds at vehicles, 76mm rounds at infantry, and covers friendly vehicles with smoke.
+    	122mm Covering Barrage
+    	Requests for a sector-wide barrage from M-30 Howitzers. The 122mm rounds will be fired at any enemy within the sector.
+    	122mm Sector Barrage
+    	122mm Breakthrough Barrage
+    	The officer is authorized to call-in breakthrough barrages, which fires more rounds depending on the player's current stored munition.
+    	10 Command Points
+    	Can only field 1 Kommissar Squad at a time.
+    	Can only field (1) Leytenánt at a time.
+    	13-ya Gvardeyskaya Strelkovaya Diviziya Kommissar
+    	13-ya Gvardeyskaya Strelkovaya Diviziya Leytenánt
+    	13-ya Gvardeyskaya Strelkovaya Diviziya Leytenánt
+    	13-ya Gvardeyskaya Strelkovaya Diviziya Kommissar
+    	Forward Deploy Belarusian Irregulars
+    	Belarusian Irregulars can be deployed to the battlefield. Irregulars are guerilla forces who excel at causing havoc behind enemy lines, and supporting ground troops.
+    	<locstring name="extra_text" value="12407" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Otdel'naya Diviziya Operativnogo Stabskapitän
+    	Stabskapitän can be deployed to the battlefield. This Officer specializes in infiltration, and strategic support.
+    	Deploy ODON Stabskapitän x1. Click and select location to deploy.
+    	2 Command Points
+    	Veterancy 2
+    	Veterancy 2
+    	Veterancy 2
+    	Armaments: (Mosin-Nagants, TT-33), *SVT-40s x2, *M1A1 Bazooka, Training: Ace, Role: Tactical Support. 
+    	Active; Planes will loiter, attacking targets of opportunity. Duration: 120s. Delay: 10s. Effective at all ranges vs. all targets.
+    	Active; Plane will loiter, attacking targets of opportunity. Duration: 180s. Delay: 5s. Effective at all ranges vs. all targets.
+    	Active; Plane will loiter, attacking targets of opportunity. Duration: 120s. Delay: 5s. Effective at all ranges vs. all targets.
+    	P-47 M2HB .50 Cal Machine Gun Sortie
+    	IL-2 Vya-23mm Autocannon Sortie
+    	IL-2 Vya-23mm Autocannon Overwatch
+    	IL-2 Vya-23mm Autocannon Sortie
+    	IL-2 Vya-23mm Autocannon Combat Patrol
+    	Two IL-2s will use their dual 23mm autocannons to fend off enemy targets, and suppress them.
+    	A single IL-2 will use its dual 23mm autocannons to fend off enemy targets, and suppress them.
+    	A single IL-2 will use its dual 23mm autocannons to fend off enemy targets, and suppress them.
+    	Effective vs. all targets. Replaces the default 'X' ability.
+    	7 Command Points
+    	8 Command Points
+    	Requests for a high-explosive barrage from M-30 Field Howitzers. The 122mm rounds arrive in quick succession, but are much less accurate.
+    	122mm Rapid Barrage
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 3.5s. Effective vs. all targets.
+    	7 Command Points
+    	122mm Precision Barrage
+    	122mm Precision Barrage
+    	Requests for a high-explosive barrage from M-30 Field Howitzers. The 122mm rounds take longer to arrive on target, but are much more accurate.
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 10s. Effective vs. all targets.
+    	The officer is authorized to call-in precision barrages, rounds have longer delay, but land much more accurately on target.
+    	The officer is authorized to call-in precision barrages, rounds have longer delay, but land much more accurately on target.
+    	P-47 'Thunderbolt' HVAR Rocket Sortie
+    	IL-2 Rocket Sortie
+    	IL-2 Rocket Overwatch
+    	IL-2 Rocket Combat Patrol
+    	Two IL-2s will patrol the area and attack vehicles with a high velocity aircraft rocket strike.
+    	A single IL-2 will patrol the area and attack vehicles with a high velocity aircraft rocket strike.
+    	A single IL-2 will patrol the area and attack vehicles with a high velocity aircraft rocket strike.
+    	A single, accurate shot from a 152mm gun will be fired at the target location.
+    	152mm Precision Shot
+    	9 Command Points
+    	Improves anti-infantry & emplacement capability at all ranges. Replaces the Smoke Round ability. 
+    	Although considered less effective than the numerous StuGs, the ‘Jagdpanzer IV’ remained a powerful hunter. Later upgraded with a heavier gun and Schürzen, the increased weight earned it the derisive nickname ‘Guderian’s Duck’.
+    	Composed of capable sharpshooters and scouts, SS Aufklärer both observed and harassed enemy forces. Often unsupported to minimize detection, they worked dangerously close to Allied lines to collect the most accurate intelligence possible.
+    	Built in Norway in early 1941, ‘Nord’ suffered staggering losses to the enemy and cold during the drive to Murmansk. Retrained by Finnish infantry and reformed as a full division, the 6th fought for 1,214 consecutive days in the subarctic taiga.
+    	Upgraded to a Gebirgs division in 1942, ‘Nord’ was transferred to the Westfront in 1944 after the Moscow Armistice. Refusing to accept defeat, most of the 6th fought to the death with less than a company surrendering to U.S. forces in 1945.
+    	6. SS-Gebirgs-Division ‘Nord’ Jäger
+    	8. SS-Kavallerie-Div. ‘Florian Geyer’ Grenadiere
+    	Pulled from the Ostfront meat-grinder in early 1944, the 8th was rebuilt in Croatia as SS ‘Florian Geyer’. Sent to reinforce Romania that fall but pushed back into Hungary, the unit drew its final breath after the fall of Budapest in early 1945.
+    	Composed of ‘Volksdeutsche’ recruits from Hungary, the 8th was ordered to ‘clean’ the rear of Army Group Centre during Barbarossa. Waging a brutal war against partisans and civilians, the unit razed villages and butchered all resistance.
+    	Raised as Panzergrenadiere in 1943 and led by 1st ‘LSSAH’ veterans, most of the 12th SS were Hitler Youth recruits born in 1926. Despite their young age, troops of the 12th SS ‘Hitlerjugend’ were extremely ruthless and sadistic fighters.
+    	12. SS-Panzer-Div. ‘Hitlerjugend’ Panzergrenadiere
+    	Reorganized as a Panzer division in late 1943, ‘Hitlerjugend’ fought a brutal war of attrition against the Allies. Heavily indoctrinated and devoutly loyal, these ‘men’ threw themselves at enemy fire and fought to their dying breath.
+    	Built from existing Estonian SS units in 1944, the 20th was hastily sent to defend Narva from the Soviet onslaught. Breaking enemy defenses at great cost, the unit was pulled in May and rebuilt as Waffen-Grenadiere to hold the Tannenberg Line.
+    	Supported by a lone Panther and filled using walking wounded, the ‘1st Estonian’ was the sole reason the Tannenberg Line endured. Withdrawn in fall 1944, most of the unit was released to stay and defend their homeland from the Reds.
+    	Authorized in early 1942, ‘Prinz Eugen’ filled its ranks using both volunteer and conscripted ‘Volksdeutsche’. Adopting a ‘Scorched Earth’ mentality, the unit traded blood for blood with the ‘regional dissidents’ in its ruthless war of attrition.
+    	Attached to SS-Fallschirmjäger-Bataillon 500 in 1944, the 7th failed to kill the infamous Broz Tito. Thrown against partisans and Red Army forces throughout 1944, the unit screened the Axis retreat before surrendering in Slovenia in 1945.
+    	13. Kroatische SS-Freiwilligen-Gebirgs-Div. Jäger
+    	Thought to be fearless, fanatical soldiers due to their faith, SS ‘Handschar’ was approved by Hitler in early 1943. Trained and indoctrinated in France, the unit subdued a minor mutiny before returning to purge Bosnia of the vile partisans.
+    	A merciless anti-guerilla formation, the 13th was thrown at Hungary in late 1944 despite rising desertion and overwhelming odds. Finally overrun in March 1945, remnants fought their way to Austria before surrendering to British forces.
+    	Despite a halt on production by 1944 in favor of the Ausf. G, the ‘Panther A’ had already made its mark. The first tank to effectively fuse mobility, armor and firepower, the Ausf. A was considered to be the grandfather of the main battle tank.
+    	Plant a small anti-personnel mine that triggers a flare launcher when detonated, which reveals the enemy position, & camouflaged units.
+    	Veterancy 3
+    	Can only field (1) Mayór at a time.
+    	Otdel'naya Diviziya Operativnogo Mayór
+    	69-ya Motostrelkovaya Diviziya Stabskapitän
+    	For its actions during 1944, the 69th earned the highest military award, the Order of the Red Banner, twice. Continuing the fight into Germany and Berlin, twenty-one of its soldiers were hailed Heroes of the Soviet Union.
+    	2 Command Points
+    	Lieutenant Retinue
+    	Lieutenant
+    	Armaments: (Lee-Enfields, STEN Mk. II), *M1928A2 Thompson x2, *Bren Mk. 2, *PIAT, Skill: Experienced, Role: Tactical Support.
+    	The Lieutenant is the vital connection between the fighting men and their superiors, providing invaluable support to the front. Gains veterancy from nearby allies. 
+    	Royal Fusiliers Lieutenant Retinue
+    	Grenadier Guard Lieutenant Retinue
+    	Veterancy 1
+    	Losses are to be expected. Britain will provide additional manpower to bolster friendly forces.
+    	Can only field 1 Sniper at a time.
+    	Infiltrate Sniper
+    	Sniper can be deployed to the battlefield. These elite snipers can inflict devastating losses behind enemy lines.
+    	New unit - Sniper - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Sniper can be deployed to the battlefield. This elite sniper is outfitted with a ghillie suit, for improved concealment.
+    	13-ya Kommissar can be deployed to the battlefield. This political officer can motivate troops to fight even harder.
+    	New unit - Lieutenant - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	Lieutenant can be deployed to the battlefield. This political officer can motivate troops to fight even harder.
+    	Forward Deploy Lieutenant
+    	Lieutenant can be deployed to the battlefield. This junior officer can motivate troops to fight even harder.
+    	Can only field (1) Lieutenant at a time.
+    	Veterancy2
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2, *M1928A2 Thompsons (50rd.) x2, Skill: Experienced, Role: Tactical Support.
+    	Veterancy 2
+    	Veterancy 2
+    	8.7cm Airburst Barrage
+    	The officer is authorized to call-in airburst barrages, which explodes above cover, shredding infantry and other light targets.
+    	Effective vs. infantry & light vehicles. Replaces the default 'D' ability.
+    	3-Inch Mortar Barrage
+    	Requests for a high-explosive barrage from 3-Inch Mortars. The 3-Inch rounds have decent power & accuracy.
+    	3-Inch Time-on-Target Barrage
+    	Requests for a time-on-target barrage from 3-Inch Mortars. The rounds land in extremely quick succession, with increased scatter.
+    	Requests for a precision barrage from 3-Inch Mortars. The rounds taking longer to arrive, but land much more accurately.
+    	3-Inch Precision Barrage
+    	4.2-Inch Precision Barrage
+    	Requests for a precision barrage from 4.2-Inch Mortars. The rounds taking longer to arrive, but land much more accurately.
+    	Requests for a time-on-target barrage from 4.2-Inch Mortars. The rounds land in extremely quick succession, with increased scatter.
+    	4.2-Inch Time-on-Target Barrage
+    	Requests for a high-explosive barrage from 4.2-Inch Mortars. The rounds can devastate infantry & structures, but will only do minor damage against armor.
+    	4.2-Inch Mortar High-Explosive Barrage
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 5s. Effective vs. infantry & emplacements.
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 3.5s. Effective vs. infantry & emplacements.
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 5s. Effective vs. infantry & emplacements.
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 7.5s. Effective vs. infantry & emplacements.
+    	8.7cm Smoke Barrage
+    	4 Command Points
+    	3 Command Points
+    	Hawker Typhoon Recon Sweep
+    	<locstring name="help_text" value="21634" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	Lieutenant can be deployed to the battlefield. This junior officer can motivate troops to fight even harder.
+    	Deploy 1st Polish Armoured Division Rifle Section x1, Universal Carrier x1. Click and select location to deploy.
+    	Deploy Lieutenant x1, Universal Carrier x1. Click and select location to deploy.
+    	Dispatch Lieutenant
+    	Lieutenant can be deployed to the battlefield. This battlegroup can be quickly dispatched to repair damaged vehicles.
+    	Veterancy 2
+    	Armaments: (Lee-Enfields, Webley), *M1928A2 Thompson x2, *M1A1 Bazooka, Skill: Experienced, Role: Strategic Support.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2, *Vickers K, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Veterancy 2
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2, *M1928A2 Thompsons (50rd.) x2, Skill: Experienced, Role: Tactical Support.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2, *M1928A2 Thompsons x2, Skill: Regular, Role: Tactical Support.
+    	79th Specialist Armoured Division Lieutenant Retinue
+    	7th Armoured Division Lieutenant Retinue
+    	Left-click ability, left-click target area. Fires 3 Rounds. Burn Time: 30s. Effective. vs infantry & structures.
+    	Requests for a white phosphorus barrage from M1 81mm Mortars. The 'Willy Pete' rounds will obscure vision, burn infantry & structures, de-crew light vehicles, and impair armored targets.
+    	75mm Howitzer White Phosphorus Barrage
+    	81mm White Phosphorus Barrage
+    	<locstring name="help_text" value="21370" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	<locstring name="help_text" value="21370" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	The officer is authorized to call-in white phosphorus barrages, rounds will obscure vision and burn enemy targets.
+    	3-Inch White Phosphorus Barrage
+    	3-Inch White Phosphorus Barrage
+    	Requests for a white phosphorus barrage from 3-Inch Mortars. The 'Willy Pete' rounds will obscure vision, burn infantry & structures, de-crew light vehicles, and impair armored targets.
+    	Hawker Typhoon Recon Air Patrol
+    	Hawker Typhoon Recon Air Patrol
+    	Dispatch Sappers
+    	Deploy Sapper Section x1, Universal Carrier x1. Click and select location to deploy.
+    	8.7cm Howitzer Super Charge Barrage
+    	Requests for a high-explosive barrage from 25-Pounder Howitzers. The 8.7cm rounds are nearly as effective as the more common 105mm, best used against less-armored targets.
+    	Requests for a super charge barrage from 25-Pounder Howitzers. The 8.7cm rounds are nearly as effective as the more common 105mm, best used against less-armored targets.
+    	Requests for a super charge barrage from 25-Pounder Howitzers. The super charge rounds are as powerful as 105mm rounds, but can be fired more quickly.
+    	The officer is authorized to call-in super charge barrages, which are more lethal, but can still be fired quickly.
+    	8.7cm Super Charge Barrage
+    	The officer is authorized to call-in time-on-target barrages, which land in extremely quick succession, with increased scatter.
+    	The officer is authorized to call-in rapid barrages, which land in extremely quick succession, with increased scatter.
+    	Hawker Typhoon Smoke Bomb Strike
+    	Requests for an incendiary barrage from 9.75-Inch Mortars. The incendiary rounds will burn infantry & structures, de-crew light vehicles, and impair armored targets.
+    	9.75-Inch Incendiary Barrage
+    	Effective vs. all targets. Replaces the default 'X' ability.
+    	Effective vs. all targets. Replaces the default 'C' ability.
+    	5.5-Inch Precision Shot
+    	A single, accurate shot from a Grille's heavy 15cm gun will be fired at the target location.
+    	A single, accurate shot from a 5.5-Inch howitzer will be fired at the target location.
+    	5.5-Inch Precision Shot
+    	A single, accurate shot from a 5.5-Inch howitzer will be fired at the target location.
+    	Sherman Vs arrive to the battlefield with additional armor.
+    	Increases survivability of the Sherman Tank.
+    	(PASSIVE) Improvised Armor
+    	Click to activate. Duration 60s. Troops receive 33% faster reload times, and 25% faster weapon cooldown while in cover. Does not apply to units within garrison cover.
+    	Tactical Advance
+    	Tactical Advance
+    	Troops receive 33% faster reload times, and 25% faster weapon cooldown while in cover.
+    	Forward Deploy 352. Stoßtruppen
+    	The 352. Stoßtruppen can be deployed to the battlefield. These elite assault troops can be quickly deployed onto the battlefield.
+    	The 352. Stoßtruppen can be deployed to the battlefield. These elite troops are heavily-armed, and have access to artillery support.
+    	Infiltrate Scharfschütze
+    	Scharfschütze can be deployed to the battlefield. This elite sniper can inflict devastating losses behind enemy lines.
+    	New unit - Scharfschütze - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Can only field (1) Scharfschütze at a time.
+    	Veterancy 2
+    	Veterancy 1
+    	Can only field 1 Panzer IV Command Tank at a time.
+    	Deploy 21. Panzer-Division Pz.Bfw. IV Besatzung x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Besatzung can be deployed to the battlefield. This Officer can be called in without a tank to call-in artillery support. Tank variant available within the Fahrzeughalle.
+    	Armaments: (Lugers, MP40), *MP40s x2, *MG34, Skill: Poor, Role: Tactical Support.
+    	Effective vs. vehicles. Replaces the 'Panzerfaust-100' ability.
+    	Armaments: (K98s, StG44), *G43-Zf4, *MG34 (100rd.), *PTRD, Skill: Elite, Role: Strategic Support.
+    	Major
+    	Major Retinue
+    	Armaments: (K98s, Luger), *Pzb. 783(r), *Panzerschreck, Skill: Elite, Role: Strategic Support.
+    	Armaments: (K98s, MP40), *MP38s x2, *ZB. vz 30, Skill: Regular, Role: Tactical Support.
+    	716. Infanterie-Division Major Retinue
+    	Veterancy 2
+    	Veterancy 2
+    	Veterancy 1
+    	Can only field (1) Major at a time
+    	716. Infanterie-Division Major
+    	Deploy Major x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Hauptmann can be deployed to the battlefield. This Officer specializes in leading from the front, inspiring troops and providing accurate artillery strikes.
+    	Major can be deployed to the battlefield. This Officer specializes in powerful strategic support, in the form of heavy artillery strikes.
+    	Request for a smoke barrage from GrW 34 Mortars. The smoke rounds block sight radius, and can injure infantry on direct impact.
+    	Request for a smoke barrage from M-30 Field Howitzers. The smoke rounds block sight radius, and can injure infantry on direct impact.
+    	Request for a smoke barrage from M2A1 Field Howitzers. The smoke rounds block sight radius, and can injure infantry on direct impact.
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 3s. Duration: 30s.
+    	10.5cm Fire-for-Effect Barrage
+    	Requests for a fire-for-effect barrage from M-30 Field Howitzers. The rounds will target all infantry and vehicles within radius.
+    	8 Command Points
+    	10.5cm Breakthrough Barrage
+    	The Officer calls in a 10.5cm howitzer barrage on the target location.
+    	The Officer calls in a 10.5cm howitzer barrage on the target location. The amount of rounds scales based on the player's current stored munition.
+    	The officer is authorized to call-in fire-for-effect barrages, rounds will fire while enemy targets remain in the area. HEAT rounds have improved armor-piercing, but less blast radius.
+    	The officer is authorized to call-in fire-for-effect barrages, rounds will fire while enemy targets remain in the area.
+    	8.8cm Covering Barrage
+    	Effective vs. vehicles & armour. Replaces the default 'X' ability.
+    	Effective vs. all targets. Replaces the default 'X' ability.
+    	The officer is authorized to call-in covering barrages, which fires 10.5cm rounds at vehicles, 7.5cm rounds at infantry, and covers friendly vehicles with smoke.
+    	The officer is authorized to call-in covering barrages, which fires 8.8cm armor-piercing rounds at vehicles, high-explosive rounds at infantry, and covers friendly vehicles with smoke.
+    	21cm Precision Shot
+    	A single shot from a massive 21cm gun will be fired at the target location.
+    	12 Command Points
+    	21cm Precision Shot
+    	A single, accurate shot from a Mörser 18 Heavy Howitzer will be fired at the target location.
+    	Left-click and left-click target area. Fires 1 Round. Delay: 10s.
+    	Effective vs. all stationary targets. Replaces the default 'D' ability.
+    	Frontline Repair Operations
+    	Damaged crewed weapons, and structures in connected friendly territory will be rapidly repaired.
+    	3 Command Points
+    	Festung Europa
+    	Festung Europa
+    	Click to activate. Duration: 60s. Does not include mortars.
+    	Counter-Battery
+    	When activated, automatically fire an off-map 10.5cm barrage at all visible enemy artillery.
+    	Forward Deploy 5. Jäger-Division Jäger
+    	The 5. Jäger can be deployed to the battlefield. These elite troops are heavily-armed, and have access to artillery support.
+    	New unit - 5. Jäger - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	The 5. Jäger can be deployed to the battlefield. These elite scout troops are excellent at long-ranged combat and reconnaissance.
+    	3 Command Points
+    	2 Command Points
+    	Forward Deploy 716. Ostruppen
+    	The 716. Ostruppen can be deployed to the battlefield. These reserve troops are best used to cover the frontline, or deal with enemy infiltration troops.
+    	New unit - 716. Ostruppen - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	Deploy MG42 x1, Pak 40 x1. Click and select location to deploy.
+    	Deploy MG42 x1, GrW 34 x1. Click and select location to deploy.
+    	Deploy MG34 x1, Pak 40 x1. Click and select location to deploy.
+    	Scout infantry, (Traits: + Passive Healing, + Camouflage, + Ignores Movement Penalties, + Cold Resist): Adept at providing reconnaissance, or marksmanship over long ranges. Limit of 2.
+    	Artillery zeroes in on isolated enemy units to destroy them. Automatically attacks all cut off enemy territories. Light mortars bombard all sighted frontline enemy sectors.
+    	Lightning Strike
+    	Recon planes will do a quick pass over friendly medium & heavy tanks, followed by 10.5cm howitzers firing on nearby enemies.
+    	Click to activate. Does not apply to command sectors.
+    	5 Command Points
+    	Effective vs. all targets. Replaces the default 'D' ability.
+    	Battle Phase 4
+    	Armaments: (K98s, Luger), *Pzb. 39, *GrB. 39, Skill: Experienced, Role: Strategic Support.
+    	246. Volksgrenadier-Division Major
+    	Veterancy 1
+    	Veterancy 2
+    	Requests for a time-on-target barrage from GrW 34 8cm Mortars. The rounds have shorter delay, and land in quick succession, but have increased scatter.
+    	8cm Rapid Barrage
+    	Requests for an airburst barrage from GrW 34 8cm Mortars. The rounds are more lethal versus infantry in non-garrison cover, but sacrifices penetration against armored targets.
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 1.5s. Effective vs. infantry.
+    	3 Command Points
+    	Effective vs. infantry. Replaces the default 'D' ability.
+    	The officer is authorized to call-in airburst barrages, rounds are more effective vs. infantry in non-garrison cover, but less effective versus all other targets.
+    	2 Command Points
+    	Forward Deploy Kettenhunde
+    	The Kettenhunde can be deployed to the battlefield. These elite troops are heavily-armed, and have access to artillery support.
+    	New unit - Kettenhunde - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	The Kettenhunde can be deployed to the battlefield. These veteran troops can lead from the front, inspiring friendly troops, and demoralizing enemies.
+    	(PASSIVE) Beutewaffe
+    	Volksgrenadieres, and Grenadieres receive the Scavenge ability. Adds +10 Munitions when right-clicking dying enemies.
+    	With at least a basic understanding of enemy equipment, infantry can loot dying enemy soldiers for useful equipment.
+    	Tactical Advance
+    	Fire & Maneuver
+    	Infantry units are ordered to advance cautiously, firing more aggressively when they approach cover.
+    	Panzerspähwagen II Ausf. L ‘Luchs’
+    	Panzerbefehlswagen II Ausf. L
+    	15. Pz. Bef. Wg. II Command
+    	15. Panzergrenadier-Division Pz.Bfw. II Ausf. L
+    	Armaments: 2 cm KwK 30, MG34 (Coaxial), Armor: 50mm, Role: Tactical Support, Speed: 60 km/h.
+    	Armaments: (Lugers, MP40), *G43s x2, *MP40s x2, *MG42, Skill: Elite, Role: Tactical Support.
+    	15. PzGren-Division StuG III Hauptmann
+    	15. Panzergrenadier-Division Leutnant
+    	15. Panzergrenadier-Division 
+    	15. PzGren-Division Pz.Bfw. IV Major
+    	Armaments: (Lugers, MP40), *MP40s x2, *MG34, Skill: Poor, Role: Tactical Support.
+    	Armaments: (Lugers, MP40), *MP40s x2, *MG42, Skill: Poor, Role: Strategic Support.
+    	Veterancy 2
+    	32cm Wurfkörper Flamm Barrage
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 7.5s. Effective vs. infantry & emplacements.
+    	Requests for an incendiary barrage from 28/32cm Nebelwerfer Rocket Launchers. The incendiary rounds will burn infantry & structures, de-crew light vehicles, and impair armored targets.
+    	28cm Wurfkörper Spreng Barrage
+    	Requests for a high-explosive barrage from 28/32cm Nebelwerfer Rocket Launchers. The 15cm Rockets will flatten any target it lands on, but suffers from high scatter.
+    	Requests for a high-explosive barrage from 28/32cm Nebelwerfer Rocket Launchers. The 28cm rockets will deal heavy damage to anything caught within the blast.
+    	12 Command Points
+    	28cm Nebelwerfer 41 Barrage
+    	The Officer calls in a 15cm high-explosive rocket barrage on the target location
+    	The Officer calls in a 28cm high-explosive rocket barrage on the target location
+    	10 Command Points
+    	11 Command Points
+    	15. Panzergrenadier-Division StuG III
+    	4 Command Points
+    	Can only field 1 15. PzGren-Division Pz.Bfw. IV Hauptmann at a time.
+    	Can only field 1 15. PzGren-Division Pz.Bfw. IV Major at a time.
+    	Can only field 1 StuG III Command Tank at a time.
+    	3 Command Points
+    	Can only field 1 15. PzGren-Division Pz.Bfw. II Leutnant at a time.
+    	Leutnant can be deployed to the battlefield. This Officer arrives in a Command Tank, and specializes in frontline armoured combat.
+    	Deploy Pz.Bfw. II Ausf. L x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	Major can be deployed to the battlefield. This Officer can be called in without a tank to call-in artillery support. Tank variant available in the command bar.
+    	Deploy Major x1. Click and select location to deploy. Abilities may require recharge before initial use.
+    	15. Panzergrenadier-Division Major
+    	Can only field 1 Panzer II Command Tank at a time.
+    	Infiltrate Protivotankovaya Zveno
+    	Protivotankovaya Zveno can be deployed to the battlefield. This anti-tank squad is equipped with anti-tank rifles, effective against light armor.
+    	New unit - Protivotankovaya Zveno - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	Can only field (2) Rekognostsirovky at a time.
+    	67-ya Gvardeyskaya Strelkovaya Diviziya Mayór
+    	Armaments: (Mosin-Nagants, SVT-40, TT-33), *PPSh-41s x2, *Panzerschreck, Training: Regular, Role: Strategic Support. 
+    	122mm Smoke Barrage
+    	Request for a smoke barrage from leFH 18 Field Howitzers. The smoke rounds block sight radius, and can injure infantry on direct impact.
+    	Request for a smoke barrage from M-30 Field Howitzers. The smoke rounds block sight radius, and can injure infantry on direct impact.
+    	IL-2 Smoke Bomb Strike
+    	IL-2 FAB-50 Bomb Strike
+    	Il-2 Sturmovik will strafe the target location with formidable 23mm cannons.
+    	5 Command Points
+    	5 Command Points
+    	Il-2 Sturmovik will strafe the target location with a cluster of anti-tank bombs.
+    	Effective vs. vehicles & emplacements. Replaces the default 'D' ability.
+    	Mayór can be deployed to the battlefield. This Officer specializes in air support, and anti-tank combat.
+    	Deploy 67-ya Gvardeyskaya Strelkovaya Diviziya Mayór x1. Click and select location to deploy.
+    	1-ya Gvardeyskaya Artilleriyskaya Diviziya Stabskapitän
+    	Armaments: (Mosin-Nagants, M1895), *PPSh-41s x2, SVT-40s x2, Training: Experienced, Role: Strategic\Tactical Support. 
+    	Armaments: (Mosin-Nagants, M1895), *PPSh-41s x2, SVT-40s x2, Training: Experienced, Role: Tactical Support. 
+    	Armaments: (Mosin-Nagants, M1895), *PPSh-41s x2, SVT-40s x2, Training: Experienced, Role: Tactical Support. 
+    	Deploy 1-ya Gvardeyskaya Artilleriyskaya Diviziya Stabskapitän x1. Click and select location to deploy.
+    	Mayór can be deployed to the battlefield. This Officer specializes in heavy artillery support.
+    	Veterancy 2
+    	Armaments: (Mosin-Nagants, PPSh-41), *PPDs x2, *M91/30-PU, Training: Experienced, Role: Tactical Support. 
+    	Armaments: (Mosin-Nagants, M1895), *SVT-40s x2, *PIAT, Training: Experienced, Role: Tactical Support. 
+    	Veterancy 2
+    	<locstring name="help_text" value="21749" mod="5548a070e3ea4fe1b827c7b94ceeeea4" />
+    	122mm Fire-for-Effect Barrage
+    	122mm Fire-for-Effect Barrage
+    	Requests for a fire-for-effect barrage from M-30 Field Howitzers. The rounds will target all infantry and vehicles within radius.
+    	Requests for a fire-for-effect barrage from M-30 Field Howitzers. The rounds will target all infantry and vehicles within radius.
+    	Requests for a fire-for-effect barrage from leFH Field Howitzers. The rounds will target all infantry and vehicles within radius.
+    	Deploy 1-ya Gvardeyskaya Artilleriyskaya Diviziya Leytenánt x1. Click and select location to deploy.
+    	69-ya Leytenánt can be deployed to the battlefield. This Officer specializes in inspiring friendly troops, and reconnaissance.
+    	New unit - Leytenánt - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	1-ya Gvardeyskaya Artilleriyskaya Diviziya Leytenánt
+    	Forward Deploy 1-ya Gvardeyskaya Leytenánt
+    	16-ya ad. sb. Shtrafniki Battlegroup
+    	The 16-ya ad. sb. Shtrafniki can be deployed to the battlefield. This battlegroup is perfect for replacing battlefield losses.
+    	Deploy 28. Waffen Grenadiere Squads x2. Click and select location to deploy. Arrives pre-equipped with MP34 submachine guns.
+    	Deploy 16-ya ad. sb. Shtrafniki Squads x2. Click and select location to deploy. Arrives pre-equipped with MP34 submachine guns.
+    	Deploy 16-ya ad. sb. Shtrafniki Squads x2. Click and select location to deploy. Arrives pre-equipped with ROKS-3 flamethrowers.
+    	4 Command Points
+    	Type: Recoilless Gun, Cartridge: 150mm, Penetration: 220mm Steel, Effective at close range vs armor.
+    	Type: Recoilless Gun, Cartridge: 150mm, Penetration: 220mm Steel, Effective at close range vs armor.
+    	Researching this upgrade will lock out any Panzerfaust upgrades. Does not apply to units that already have it upgraded.
+    	Veterancy 2
+    	Veterancy 1
+    	Unlocks Rudimentary Repair. Replaces the Merge Ability.
+    	Veterancy 2
+    	Veterancy 2
+    	Veterancy 2
+    	For the Rodina!
+    	3-ya Udarnaya Armiya Stabskapitän
+    	Veterancy 2
+    	Armaments: (Mosin-Nagants, SVT-40, TT-33), *PPSh-41s x2, *SVT-40-PU, Training: Experienced, Role: Tactical Support. 
+    	Deploy 3-ya Udarnaya Armiya Stabskapitän x1. Click and select location to deploy.
+    	Kapitan can be deployed to the battlefield. This Officer specializes in air support, and anti-tank combat.
+    	67-ya Gvardeyskaya Strelkovaya Diviziya Kapitan
+    	Left-click to select, left-click target. Fires 8 Rounds. Delay 3.5s. Effective vs. infantry & emplacements.
+    	Requests for a precision barrage from PM-41 82mm Mortars. The rounds taking longer to arrive, but land much more accurately.
+    	82mm Precision Barrage
+    	Effective vs. infantry & emplacements. Replaces the default 'D' ability.
+    	IL-2 FAB-50 Bomb Strike
+    	The IL-2 will make a high-speed bombing run, dropping a FAB-50 50kg bomb on the target.
+    	Armaments: (Mosin-Nagants, M1895), *PPSh-41s x2, *DP-28, Training: Elite, Role: Strategic\Tactical Support. 
+    	Losses are to be expected. The Motherland  will provide additional manpower to bolster friendly forces.
+    	Armaments: (Mosin-Nagants, SVT-40, TT-33), *PPSh-41s x2, *Panzerschreck, Training: Regular, Role: Strategic Support. 
+    	Armaments: (Mosin-Nagants, SVT-40, TT-33), *PPSh-41s x2, *Panzerschreck, Training: Regular, Role: Strategic Support. 
+    	Armaments: (Mosin-Nagants, SVT-40, TT-33), *PPSh-41s x2, *Panzerschreck, Training: Regular, Role: Strategic Support. 
+    	Armaments: (Mosin-Nagants, SVT-40, TT-33), *PPSh-41s x2, *PTRS-41, Training: Regular, Role: Strategic Support. 
+    	Armaments: (Mosin-Nagants, SVT-40, TT-33), *PPSh-41s x2, *PTRS-41, Training: Elite, Role: Strategic Support. 
+    	112-ya Tankovaya Brigada Mayór
+    	112-ya Tankovaya Brigada Mayór
+    	Deploy 112-ya Tankovaya Brigada Mayór x1. Click and select location to deploy.
+    	112-ya Tankovaya Brigada Stabskapitän
+    	Deploy 112-ya Tankovaya Brigada Kapitan x1. Click and select location to deploy.
+    	112-ya Tankovaya Brigada Maintenance Group
+    	The 305th Battalion Combat Engineers can be deployed to the battlefield. This battlegroup can be quickly dispatched to repair damaged vehicles.
+    	The 112-ya Tankovaya Brigada Saperi can be deployed to the battlefield. This battlegroup can be quickly dispatched to repair damaged vehicles.
+    	Deploy Saperi x1, ZiS-6 Truck x1. Click and select location to deploy.
+    	Infantry sections in friendly territories fight with utmost courage. After a period of time, Hawker Typhoons strafe enemies on the frontlines with rockets and machineguns.
+    	Infantry squads in friendly territories fight with utmost courage. After a period of time, Hawker Typhoons strafe enemies on the frontlines with rockets and machineguns.
+    	Infantry squads in friendly territories fight with utmost courage. After a period of time, Hawker Typhoons strafe enemies on the frontlines with rockets and machineguns.
+    	Infantry in friendly territories fight with utmost courage. After a period of time, two Stukas strafe enemies on the frontlines with 2cm autocannon fire.
+    	New unit - 17th SS-Panzerjägers - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	Armaments: (K98s, StG44), *MP717(r)s x2, *MP40s x2, *StG44s x2, *FmW 41, Skill: Experienced, Role: Tactical Support.
+    	Armaments: (K98s, StG44), *MP717(r)s x2, *MP40s x2, *StG44s x2, *FmW 41, Skill: Experienced, Role: Tactical Support.
+    	Armaments: (K98s, MP40s), *MP40s x2, *Pzb. 39, Skill: Experienced, Role: Tactical Support.
+    	Deploy 17. SS-Pz.Gren.-Div. StuG III Ausf. G Besatzung x1. Click and select location to deploy.
+    	Sturmbannführer can be deployed to the battlefield. This Officer can be called in without a tank to call-in artillery support. Tank variant available in the command bar.
+    	90. Grenadier-Division Pz.Gren Mechanized Assault Group
+    	The 90. Grenadier-Division Pz.Gren can be deployed to the battlefield. The squad can fire their weapons and benefits from the 'Mechanized Assault' passive while inside the vehicle. 
+    	Deploy 90. Grenadier-Division Pz.Gren Squad x1, Sdkfz. 250 Halftrack x1. Click and select location to deploy.
+    	The 90. Grenadier-Division Pz.Gren can be deployed to the battlefield. The squad can fire their weapons and benefits from the 'Mechanized Assault' passive while inside the vehicle. 
+    	Deploy 90. Grenadier-Division Pz.Gren Squad x1, Sdkfz. 250 Halftrack x1. Click and select location to deploy.
+    	9. SS-Panzer-Division Mechanized Assault Group
+    	The 9. SS-Panzer-Division Grenadieres can be deployed to the battlefield. The squad can fire their weapons and benefits from the 'Mechanized Assault' passive while inside the vehicle. 
+    	Deploy 90. Grenadier-Division Pz.Gren Squad x1, Sdkfz. 250 Halftrack x1. Click and select location to deploy.
+    	Deploy 9. Panzer SS-Grenadiere Squad x1, Sdkfz. 250 Halftrack x1. Click and select location to deploy.
+    	Armaments: (K98s, MP40), *MP40s x2, *MG34, Skill: Poor, Role: Tactical Support.
+    	Armaments: (K98s, MP40), *MP40s x2, *G43-Zf4, Skill: Regular, Role: Strategic/Tactical Support.
+    	Armaments: (K98s, MP40), *MP40s x2, *MG42, Skill: Poor, Role: Strategic Support.
+    	Deploy 9. SS-Panzer-Division Pz.Bfw. IV Besatzung x1. Click and select location to deploy.
+    	Deploy 9. SS-Panzer-Division Sdkfz. 251/3 IV Besatzung x1. Click and select location to deploy.
+    	Hauptsturmführer can be deployed to the battlefield. This Officer specializes in a mix of artillery and air support.
+    	17th SS-Panzergrenadiere Division Hauptsturmführer
+    	Hauptsturmführer can be deployed to the battlefield. This Officer can be called in without a tank to call-in artillery support. Halftrack variant available in the command bar.
+    	Flare Grenade Launcher
+    	The Nahverteidigungswaffe can be loaded with flare rounds, allowing it to illuminate the surrounding area.
+    	Flare Grenade Launcher
+    	The Nahverteidigungswaffe can be loaded with flare munitions, allowing it to illuminate the surrounding area.
+    	Left-click ability, left-click target area. Reveals for approximately 30s.
+    	Improves anti-infantry capability at close ranges. Locks out the Smoke Dischargers upgrade.
+    	Improves scouting capability at medium ranges. Locks out the Smoke Dischargers upgrade.
+    	Improves scouting capability at medium ranges. Locks out the Smoke Discharger, & Ambush Tactics upgrades.
+    	The weapon crew applies field modifications to improve loading speeds.
+    	Advanced Camouflage Netting
+    	Unit is invisible on the minimap when stationary.
+    	Unit is invisible on the minimap, and receives 15% reduced hit chance.
+    	Left-click ability, left-click target position. Fires 10 rounds.
+    	Autocannon Barrage
+    	Additional high-explosive rounds are issued for artillery bombardment.
+    	Additional high-explosive rounds are issued for harassing fire.
+    	Fire 2cm High Explosive Barrage
+    	Already upgraded with Improved Breech.
+    	Already upgraded with Targeting Optics.
+    	Armaments: (K98s, StG44), *MP717(r)s x2, *G43s x2, *MG42, *RPzB-54/1, Skill: Experienced, Role: Assault.
+    	15. Panzergrenadier-Division Pz.Bfw. II Ausf. L
+    	3 Command Points
+    	1000 XP Awarded!
+    	Left click and target friendly unit in HQ territory. Provides a flat 1000 experience points to any unit.
+    	Click to activate. Duration 360s. Delay: 10s. Replaces up to 3 squads, after a squad loses 3 soldiers. Does not apply to the Volkssturm, Aufklärers, or Officers.
+    	Forward Deploy 3. SS-Panzer-Division Veterans
+    	The 3. SS-Panzer-Division Veterans can be deployed to the battlefield. These elite troops are heavily-armed, and have access to artillery support.
+    	New unit - 3. SS-Panzer-Division Veterans - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	Deploy 3. SS-Panzer Division Untersturmführer x1. Click and select location to deploy.
+    	1st SS-Panzer Division Untersturmführer 
+    	3. SS-Panzer Division Untersturmführer 
+    	Untersturmführer can be deployed to the battlefield. This Officer specializes in leading Panzergrenadiere forces.
+    	Untersturmführer can be deployed to the battlefield. This Officer specializes in medium-ranged fire support.
+    	Armaments: (K98s, MP40), *G43s x2, *VG 1-5 x2, Skill: Experienced, Role: Tactical Support.
+    	Veterancy 1
+    	Armaments: (K98s, Luger), *MP34s x2, *StG44s x2, Skill: Elite, Role: Tactical/Strategic Support.
+    	Armaments: (K98s, MP40s, Luger), *MG42 (100rd.), *FmW 41, Skill: Poor, Role: Strategic Support.
+    	21cm High-Explosive Barrage
+    	Requests for a high-explosive barrage from Mörser 18 Heavy Howitzers. The 15cm rounds are highly effective against any target caught within its blasts.
+    	Left-click to select, left-click target. Fires 4 Rounds. Delay 5s. Effective vs. all targets.
+    	Left-click to select, left-click target. Fires 3 Rounds. Delay 5s. Effective vs. all targets.
+    	Requests for a high-explosive barrage from Mörser 18 Heavy Howitzers. The 21cm rounds will demolish anything caught within its path.
+    	A devastating barrage from 21cm guns will be fired at the target location.
+    	38cm Precision Shot
+    	38cm Precision Shot
+    	15 Command Points
+    	Additional Volkssturm are sent to replace combat losses suffered while the ability is active.
+    	Additional Ostruppen are sent to replace combat losses suffered while the ability is active.
+    	1. SS-Panzer-Division Pz.Bfw. IV Ausf. F1
+    	Compared to similiar weapons: (+ Suppressive, + Accurate, - Low ROF).
+    	Compared to similiar weapons: (+ High Damage, + Accurate + Moving Accuracy, - Low ROF).
+    	Hauptsturmführer can be deployed to the battlefield. This Officer arrives in a Command Halftrack, and is able to quickly maneuver across the battlefield.
+    	Untersturmführer can be deployed to the battlefield. This Officer arrives in a Command Halftrack, and is able to quickly maneuver across the battlefield.
+    	2 Command Points
+    	1. SS-Panzer Division Panzerbefehlswagen IV F1
+    	Haupsturmführer can be deployed to the battlefield. This Officer arrives in a Command Tank, and specializes in urban combat, the tank has high-explosive rounds by default.
+    	Deploy 1. SS-Panzer Division Panzerbefehlswagen IV x1. Click and select location to deploy.
+    	Haupsturmführer can be deployed to the battlefield. This Officer arrives in a Command Tank, and specializes in urban combat, the tank has high-explosive rounds by default.
+    	3 Command Points
+    	Can only field (1) 1. SS-Panzer Pz.Bfw. IV Ausf. F1 Besatzung at a time.
+    	Haupsturmführer can be deployed to the battlefield. This Officer arrives in a Command Tank, and specializes in urban combat, and can be deployed earlier than most other tanks.
+    	Can only field (1) 1. SS-Panzer Panzerbefehlswagen Ausf. F1 at a time.
+    	Deploy 9. SS-Panzer-Division Sdkfz. 251/3 IV Besatzung x1. Click and select location to deploy.
+    	Deploy 1. SS-Panzer-Division Sdkfz. 251/3 IV Besatzung x1. Click and select location to deploy.
+    	1. SS-Panzer-Division Sdkfz. 251/3 IV Besatzung
+    	Deploy 1. SS-Panzer-Division Pz.Bfw. F1 Besatzung x1. Click and select location to deploy.
+    	Besatzung can be deployed to the battlefield. This Officer can be called in without a tank to call-in artillery support. Tank variant available in the command bar.
+    	Deploy 1. SS-Panzer-Division Pz.Bfw. 267 Besatzung x1. Click and select location to deploy.
+    	1. SS-Panzer-Division Pz.Bfw. 267 Besatzung
+    	Can only field (1) 1. SS-Panzer Sdkfz. 267 at a time.
+    	Can only field (1) Pz.Bfw
+    	Can only field (1) 9. SS-Panzer Panzerbefehlswagen Ausf. H at a time.
+    	Can only field (1) 2. SS-Panzer Panzerbefehlswagen Ausf. F1 at a time.
+    	Can only field (1) 2. SS-Panzer Panzerbefehlswagen Ausf. H at a time.
+    	Can only 1 Untersturmführer squad at a time.
+    	Can only 1 Untersturmführer squad at a time.
+    	Can only field (1) 'Charlemagne' Hauptscharführer at a time.
+    	Can only field (1) Pz. Bef. Wg. IV at a time.
+    	Can only field (1) Besatzung at a time.
+    	Can only field (2) 'T-34 Beutepanzers" at a time.
+    	Can only field (1) 3. FJ Stabsfeldwebel at a time
+    	Can only field (2) 82nd AB Anti-Tank Teams at a time.
+    	Can only field (1) Lieutenant at a time
+    	Can only field (1) Captain at a time
+    	Can only field (1) Major at a time.
+    	Armaments: (K98s, MP40), *MP40s x2, *StG44s x2, Skill: Regular, Role: Tactical Support.
+    	Armaments: (Lugers, MP40), *MP40 IIs x2, *MG34, Skill: Poor, Role: Strategic/Tactical Support.
+    	Veterancy 2
+    	1. SS-Panzer-Division  Pz.Bfw. IV Ausf. F1 Besatzung
+    	1. SS-Panzer  Pz.Bfw. IV Ausf. F1 Besatzung
+    	Veterancy 2
+    	Veterancy 1
+    	Can only field (1) Valentine Command Crew at a time.
+    	Effective against armor. Replaces Smoke Rounds.
+    	Effective against armor. Replaces Canister Rounds.
+    	Overview: Submachine Guns
+    	Overview: Combat Patrol
+    	Compared to similar abilities: (+ Fast Reload, + High Accuracy, + Long Bursts, - Low ROF).
+    	Combat Patrols can inflict massive damage to the designated area, but are highly susceptible to anti-aircraft fire outside their attack zone.
+    	Compared to similar abilities: (+ High ROF, + Long Bursts, - Lower Penetration).
+    	Type: Combat Patrol, Cost: 180 MU, Duration: 120s, Recharge: 360s, Delay: 10s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	Two Fw 
+    	Two Fw 
+    	Highly versatile, this patrol can engage all targets with moderate effectiveness. However, it lacks specialized firepower against specific threats, and may not prioritize important targets.
+    	Armaments (Primary)
+    	Type: Autocannon, Rate of Fire: 780 rounds per minute, Penetration: 216/164/108, Damage: 70-80. Blast Radius: 1.25m.
+    	Type: Combat Patrol, Cost: 180 MU, Duration: 120s, Recharge: 360s, Delay: 10s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	Type: Combat Patrol, Cost: 180 MU, Duration: 120s, Recharge: 360s, Delay: 10s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	Overview: Strafe
+    	Type: Combat Patrol, Cost: 180 MU, Duration: 120s, Recharge: 360s, Delay: 10s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 45 MU, Recharge: 90s, Delay: 3.5s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 45 MU, Recharge: 90s, Delay: 3.5s, Radius: 30m. Replaces the tertiary ability slot.
+    	Strafes can provide powerful, accurate firepower onto an exact location, but can be destroyed by anti-aircraft if ordered to fly too close.
+    	Able to shred infantry, and damage tanks, very little can go wrong by using this strafe. However, it doesn't perform nearly as well its dedicated anti-infantry or anti-tank counterparts.
+    	Compared to similar abilities: (+ Accurate vs. Vehicles, + High Penetration, - Small Blast, - Inaccurate vs. Infantry).
+    	Type: Autocannon, Rate of Fire: 780 rounds per minute, Penetration: 216/164/108, Damage: 100-120. Blast Radius: 1.25m.
+    	Type: Strafe, Cost: 50 MU, Recharge: 120s, Delay: 3.5s, Radius: 30m. Replaces the primary ability slot.
+    	Type: Autocannon, Rate of Fire: 160 rounds per minute, Penetration: 360/280/200, Damage: 240-320. Blast Radius: 1m.
+    	Penetrating the thin top plating of enemy tanks, the 'Kanonenvogel' does a spectacular, if specific job of destroying enemy armour.
+    	Compared to similar abilities: (+ Accurate vs. Vehicles, + High Penetration, - Small Blast, - Inaccurate vs. Infantry).
+    	Overview: Smoke Barrage
+    	Type: Smoke Bombs, Penetration: 550/410/275, Damage: 80 (Yes, this can kill infantry). Blast Radius: 6.5m.
+    	Compared to similar abilities: (+ Accurate, + High Penetration, +/- Low Scatter, - Slow Arrival, - Can Be Shot Down).
+    	Smoke is an effective means of both attack & defense, allowing for control of what the enemy can see.
+    	Type: Bomb, Penetration: 1000, Damage: 560-640. Blast Radius: 20m, Quantity: 1.
+    	Compared to similar abilities: (+ Low Scatter, + High Penetration, - Slow Arrival, - Can Be Shot Down).
+    	Overview: Smoke Barrage
+    	Smoke is an effective means of both attack & defense, allowing for control of what the enemy can see.
+    	Overview: Dive Bomb
+    	Smoke is an effective means of both attack & defense, allowing for control of what the enemy can see.
+    	Dive bombing essentially serves as an accurate artillery strike, destroying key strategic targets with little danger from enemy fire.
+    	Compared to similar abilities: (+ High Damage, + High Penetration, - Expensive, - Slow Recharge).
+    	Compared to similar abilities: (+ De-Caps Points, + High Damage, + High Penetration, - Slow, - Expensive).
+    	Type: Strafe, Cost: 80 MU, Recharge: 120s, Delay: 3.5s, Radius: 30m. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 50 MU, Recharge: 120s, Delay: 3.5s, Radius: 30m. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 80 MU, Recharge: 120s, Delay: 3.5s, Radius: 18m. Replaces the secondary ability slot.
+    	Armed with a high-explosive bomb, the aircraft can flatten any stationary or slow-moving target caught in the blast.
+    	Type: Dive Bomb, Cost: 80 MU, Recharge: 120s, Delay: 8s, Radius: 20m. Replaces the secondary ability slot. Neutralizes capture points on direct hit.
+    	Compared to similar abilities: (+ Large Blast, + High Damage, - Long Delay, - Expensive, - Slow Recharge).
+    	With its Jericho sirens wailing through the air, the Stuka sends a massive, well-placed bomb towards the foe, inflicting serious damage to any foolish enough to not run.
+    	Type: Strafe, Cost: 80 MU, Recharge: 120s, Delay: 3.5s, Radius: 18m. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 60 MU, Recharge: 120s, Delay: 3.5s, Radius: 18m. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 60 MU, Recharge: 120s, Delay: 3s, Radius: 18m. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 60 MU, Recharge: 120s, Delay: 3s, Radius: 18m. Replaces the primary ability slot.
+    	Type: Bomb, Rate of Fire: 780 rounds per minute, Penetration: 216/164/108, Damage: 100-120. Blast Radius: 1.25m.
+    	Type: Bomb, Penetration: 2000, Damage: 560-640. Blast Radius: 18m, Quantity: 1.
+    	Type: Bomb, Penetration: 216, Damage: 100-120. Blast Radius: 12m, Quantity: 6.
+    	Compared to similar abilities: (+ Large Blast, +/- High Scatter, - Low Damage, - Lower Penetration).
+    	Armed with fragmentation bombs, this aircraft can unleash a lethal hail of shrapnel that can rip apart enemy infantry & structures, but little else.
+    	Type: Strafe, Cost: 180 MU, Recharge: 180s, Delay: 7.5s, Radius: 18m. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Large Blast, - Long Delay, - Expensive, - Slow Recharge).
+    	Type: Bomb, Penetration: 216, Damage: 100-120. Blast Radius: 11m, Quantity: 6.
+    	Type: Bomb, Penetration: 2500, Damage: 240-320. Blast Radius: 11m, Quantity: 6.
+    	Compared to similar abilities: (+ High Penetration, + Large Blast, - Long Delay, - Expensive, - Slow Recharge).
+    	Type: Strafe, Cost: 120 MU, Recharge: 120s, Delay: 2s, Radius: 18m. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ Area Denial, + Large Blast, - Low Penetration, - Low Individual Damage).
+    	Type: Bomb, Penetration: 550, Damage: 220-280. Blast Radius: 12m, Quantity: 6.
+    	A lone Fw 200 'Condor' can strafe the target location with a massive payload, obliterating any target in its path, assuming the enemy has not fled by then.
+    	Bringing meaning to 'scorched earth,' the aircraft can rapidly deliver incendiary bombs, devastating infantry, and slowing down tanks.
+    	The aircraft flies across the battlefield, revealing the map along a straight line; ideal for scouting out unknown threats. However, it leaves a very short window of time to survey enemy positions.
+    	The aircraft is ordered to circle around a specific location, revealing the area along the way. While this puts itself at increased risk of being shot down, it is ideal for keeping tabs on enemy movement.
+    	Armaments: (M1911s, M3 Grease Gun) *M1 Carbines x2, *M3 Grease Guns x2, *M1A1 Thompsons x2, *M1919A6, Skill: Regular, Role: Vehicle Crew.
+    	New unit - Veteran Tankers - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	The Veteran Tankers can be deployed to the battlefield. This crew is useful for crewing abandoned tanks, or providing repairs to friendly armour.
+    	4th AD Veteran Tankers
+    	Disembark
+    	The crew exits the vehicle.
+    	Forward Deploy 4th AD Veteran Tankers
+    	Rear Echelon Maintenance Group
+    	The Rear Echelon can be deployed to the battlefield. This battlegroup can be quickly dispatched to repair damaged vehicles.
+    	Deploy Rear Echelon Squad x1, M3 Halftrack x1. Click and select location to deploy.
+    	4th Armored Division Lieutenant
+    	4th Armored Division Captain
+    	4th Armored Division Major
+    	105mm Breakthrough Barrage
+    	The Officer calls in a 105mm howitzer barrage on the target location. The amount of rounds scales based on the player's current stored munition.
+    	A barrage of 105mm artillery shells will be fired at the target location. The number of shells fired depends on your current stored munitions.
+    	105mm Breakthrough Artillery
+    	Requests for a high-explosive barrage from 155mm 'Long Tom' Howitzers. The 155mm rounds are highly effective against any target caught within its blasts.
+    	155mm High-Explosive Barrage
+    	Requests for a high-explosive barrage from 183mm Calliope Rocket Launchers. The 183mm Rockets will pummel nearly any target into submission.
+    	183mm High-Explosive Barrage
+    	Left-click to select, left-click target. Fires 6 Rounds. Delay 7.5s. Effective vs. all targets.
+    	Left-click to select, left-click target. Fires 12 Rounds. Delay 7.5s. Effective vs. all targets.
+    	12 Command Points
+    	The Officer calls in a 183mm high-explosive rocket barrage on the target location
+    	Effective vs. vehicles. Replaces the default 'X' ability.
+    	The officer is authorized to call-in fire-for-effect barrages, which continuously fires 155mm armor-piercing rounds at vehicles within radius.
+    	11 Command Points
+    	Troops are ordered to hold ground at any cost, fighting bravely to prevent the enemy from advancing!
+    	Click to activate. Duration 180s. Delay: 10s. Replaces up to 2 squads, after a squad loses 3 soldiers. Does not apply to the 29th Riflemen, Snipers, or Officers.
+    	Click to activate. Duration 360s. Delay: 10s. Replaces up to 2 squads, after a squad loses 3 soldiers. Does not apply to the 29th Riflemen, Snipers, or Officers.
+    	On the Double!
+    	Tactical Movement
+    	SS-Scharfschütze can be deployed to the battlefield. This elite sniper can inflict devastating losses behind enemy lines.
+    	New unit - SS-Scharfschütze - available for deployment. This unit can be deployed from ambient buildings. Click and select location in line of sight to deploy.
+    	1st Infantry Division Motorized Group
+    	Riflemen can be deployed to the battlefield. This battlegroup can be quickly dispatched to reinforce the frontline.
+    	Deploy Riflemen Squad x1, M3 Halftrack x1. Click and select location to deploy.
+    	Forward Deploy Sniper
+    	Can only field (1) Snipers at a time.
+    	3 Command Points
+    	New unit - Sniper - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	Sniper can be deployed to the battlefield. This sniper can take out high-value targets from afar.
+    	Dodge WC51 (.50 cal Machine Gun)
+    	The Riflemen can be deployed to the battlefield. This battlegroup can be quickly dispatched to reinforce the frontline.
+    	WC51 can be deployed to the battlefield. This truck can quickly provide light anti-vehicle fire.
+    	Deploy WC51 Truck x1. Click and select location to deploy.
+    	2 Command Points
+    	81mm Smoke Barrage
+    	Request for a smoke barrage from M1 81mm Mortars. The smoke rounds block sight radius, and can injure infantry on direct impact.
+    	107mm Time-on-Target Barrage
+    	106.7mm Time-on-Target Barrage
+    	105mm Fire-for-Effect Barrage
+    	105mm Fire-for-Effect Barrage
+    	Requests for a fire-for-effect barrage from M2A1 Field Howitzers. The rounds will target all infantry and vehicles within radius.
+    	240mm 'Black Dragon' Howitzer Strike
+    	A single shot from a massive 240mm gun will be fired at the target location.
+    	240mm 'Black Dragon' Howitzer Strike
+    	A single, accurate shot from a 240mm Heavy Howitzer will be fired at the target location.
+    	A single, accurate shot from a 240mm Heavy Howitzer will be fired at the target location.
+    	A single, relatively accurate shot from a 240mm Heavy Howitzer will be fired at the target location.
+    	A single, accurate shot from a 'Long Tom's 155mm gun will be fired at the target location.
+    	155mm Precision Shot
+    	155mm Precision Shot
+    	15 Command Points
+    	106.7mm Fire-for-Effect Barrage
+    	Requests for a fire-for-effect barrage from M1 81mm Mortars. The rounds will target all infantry and vehicles within radius.
+    	Requests for a fire-for-effect barrage from M30 106.7mm Mortars. The rounds will target all infantry and vehicles within radius.
+    	106.7mm Mortar High-Explosive Barrage
+    	106.7mm Time-on-Target Barrage
+    	The officer is authorized to call-in fire support from 106.7mm mortars.
+    	106.7mm Mortar High-Explosive Barrage
+    	Requests for a high-explosive barrage from M30 106.7mm Mortars. The rounds can devastate infantry & structures, but will only do minor damage against armor.
+    	Requests for a rapid barrage from M30 106.7mm Mortars. The rounds have shorter delay, and land in quick succession, but have increased scatter.
+    	106.7mm Fire-for-Effect Barrage
+    	4th Armored Division M5A1 Command Tank
+    	4th Armored Division M5A1 Command Tank
+    	4th AD M5A1 Command Tank
+    	Armaments: 37 mm M6, M1919 .30 Cal (Coaxial/Hull), Armor: 45mm, Role: Tactical Support, Speed: 58 km/h.
+    	Can only field (1) M5A1 Command Tank at a time.
+    	2nd Mechanized Cavalry Group Major
+    	The officer is authorized to call-in fire support from 120mm mortars.
+    	Forward Deploy Anti-Tank Team
+    	New unit - Anti-Tank Team - available for deployment. This unit can be deployed from buildings within FRIENDLY TERRITORY. Click and select location in line of sight to deploy.
+    	Anti-Tank Team can be deployed to the battlefield. This anti-tank squad can ambush tanks that are caught without infantry support.
+    	Deploy M2HB .50 Cal x1, M1 57mm AT x1. Click and select location to deploy. Needs to be crewed before use.
+    	Deploy WC51 Truck x1, 3-Inch AT x1. Click and select location to deploy.
+    	Dodge WC51 (3-Inch Anti-Tank Gun)
+    	WC51 can be deployed to the battlefield. This truck can rapidly transport the anti-tank gun to the frontline.
+    	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M3 Grease Gun x2, *M2 Flamethrower, *M1A1 Bazooka, Skill: Regular, Role: Tactical Support.
+    	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M3 Grease Gun x2, *M1A1 Bazooka, Skill: Regular, Role: Tactical Support.
+    	Armaments: (M1 Carbines, M3 Grease Gun, M1A1 Thompson) *M3 Grease Guns x2, *M1919A6, Skill: Poor, Role: Strategic/Tactical Support.
+    	105mm Time- Barrage
+    	105mm Rapid Response Barrage
+    	105mm Rapid Response Barrage
+    	Calls down a rapid artillery barrage on the target location. The 105mm rounds arrive in quick succession, but are much less accurate.
+    	5th Ranger Battalion Mechanized Group
+    	Deploy 305th BN Engineer Squad x1, M3 Halftrack x1. Click and select location to deploy.
+    	Deploy 5th Ranger Assault Team x1, M3 Halftrack x1. Click and select location to deploy.
+    	The 305th Battalion Combat Engineers can be deployed to the battlefield. This battlegroup can be quickly dispatched to repair damaged vehicles.
+    	The 5th Battalion Rangers can be deployed to the battlefield. This battlegroup can be rapidly deployed to punch through enemy lines.
+    	Deploy M1 81mm Mortar x1, M1 57mm AT x1. Click and select location to deploy. Needs to be crewed before use.
+    	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M2 Carbines x2, *M1919A6, Skill: Elite, Role: Strategic/Tactical Support.
+    	M83 'Butterfly' Bombs
+    	M83 'Butterfly' Bombs
+    	The target area is scattered with M83 bombs. These mines explode on impact.
+    	Rear Echelon Maintenance Group
+    	Lieutenant can be deployed to the battlefield. This battlegroup can be quickly dispatched to provide support to the front.
+    	Mechanized Command Group
+    	Deploy Lieutenant Squad x1, M5 Halftrack x1. Click and select location to deploy.
+    	Guards Armoured Division Lieutenant Retinue
+    	11th Armoured Division Lieutenant Retinue
+    	Mechanized Command Group
+    	King's Own Yorkshire Light Infantry Mechanized Group
+    	KOYLIs can be deployed to the battlefield. This battlegroup can be quickly dispatched to reinforce the frontline.
+    	Deploy Lieutenant Squad x1, M5 Halftrack x1. Click and select location to deploy.
+    	Deploy KOYLI Section x1, Universal Carrier x1. Click and select location to deploy.
+    	2 Command Points
+    	3-Inch Fire-for-Effect Barrage
+    	3-Inch Fire-for-Effect Barrage
+    	Requests for a fire-for-effect barrage from 3-Inch Mortars. The rounds will target all infantry and vehicles within radius.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *M1928A2 Thompsons x2, *L1A1-No. 32, Skill: Regular, Role: Tactical Support.
+    	Armaments: (No. 2s, Webley), *M1 Carbines x2, *M1928A1 Thompsons x2, *Vickers K, Skill: Poor, Role: Tactical Support.
+    	Armaments: (No. 2s, STEN Mk. II), *STEN Mk. IIs x2, *Bren Mk.2, Skill: Poor, Role: Tactical Support.
+    	Royal Hamilton Light Infantry Lieutenant Retinue
+    	The Seaforth Highlanders Lieutenant Retinue
+    	Armaments: (Lee-Enfields, STEN Mk. II), *M1 Garands x2, *L1A1-No. 32, Skill: Regular, Role: Tactical Support.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2 , *M1919A6, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Armaments: (Lee-Enfields, STEN Mk. II), *STEN Mk. IIs x2 , *M1919A6, Skill: Regular, Role: Tactical/Strategic Support.
+    	Armaments: (Lee-Enfields, Webley), *M1 Carbines x2, *Boys AT, Skill: Regular, Role: Strategic Support.
+    	Additional Canadian forces are sent to replace combat losses suffered while the ability is active.
+    	Click to activate. Duration 360s. Delay: 10s. Replaces up to 3 squads, after a squad loses 3 soldiers. Does not apply to the 3rd Canadian (Infantry Section), Recce Teams, or Officers.
+    	If this squad is lost, it will be replaced by 3rd Canadian Infantry.
+    	If this squad is lost, it will be replaced by Volkssturm.
+    	Deploy Vickers x1, 6-Pounder AT x1. Click and select location to deploy. Needs to be crewed before use.
+    	Veterancy 2
+    	Left-click and left-click target area. Fires 4 Rounds. Delay 15s. Cannot be targeted in Command Sector.
+    	Call in a naval heavy bombardment to level the target area. The shell's large blast radius ensures the area is secure from enemy counterattack during the barrage.
+    	2 Command Points
+    	New unit - 1st Commando Lieutenant - available for deployment. This unit can be deployed from ambient buildings. Click and select location to deploy.
+    	(PASSIVE) Cloak & Dagger Operations
+    	Commando Troops have infiltrated the frontlines to sabotage the enemy!
+    	1st Commando units can construct the Hidden Encampment, buildable in enemy territory, deploys unique Commando units, and serves as a retreat point. 
+    	No Retreat, No Surrender!
+    	Paradrop 1st Airborne Captain
+    	1st Airborne Captain can be paradropped into the battlefield. The Officer can setup a beacon to call-in additional airborne troops.
+    	New unit - 1st Airborne Captain - available for deployment. This unit is dropped by air at the target location. Dropping into areas with a number of large objects increases the risk of a deadly landing.
+    	Deploy 3-Inch Mortar x1, M1 75mm Pack Howitzer x1. Click and select location to deploy. Needs to be crewed before use.
+    	Click and target location to deploy. Can be toggled to act as a retreat point.
+    	Deploy 1st Airborne Fire Team x1, Vickers HMG, Anti-Tank Unit (H/A) x1. Click and target location to deploy. Can be toggled to act as a retreat point.
+    	Hawker Typhoon Frag Bombing Run
+    	Hawker Typhoon 7.7mm Machine Gun Strafe
+    	Hawker Typhoon will strafe the target location with its rapid-fire 7.7mm machineguns.
+    	Hawker Typhoon 20mm Autocannon Sortie
+    	A single Hawker Typhoon targets the designated area with automatic 20mm 'Hispano' cannons.
+    	Active; Plane will loiter, attacking targets of opportunity. Duration: 120s. Effective at all ranges vs. infantry & vehicles.
+    	Type: Combat Patrol, Cost: 180 MU, Duration: 120s, Recharge: 360s, Delay: 10s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	Type: Combat Patrol, Cost: 80 MU, Duration: 120s, Recharge: 120s, Delay: 10s, Radius: 50m, Quantity: 1 Plane. Replaces the secondary ability slot.
+    	5 Command Points
+    	Hawker Typhoon 20mm Autocannon Sortie
+    	Hawker Typhoon 20mm Autocannon Overwatch
+    	Hawker Typhoon 20mm Autocannon Combat Patrol
+    	A single P-47 will use its dual .50 cal machine guns to fend off enemy infantry and suppress them.
+    	A single Hawker Typhoon will use its dual 20mm autocannons to fend off enemy targets and suppress them.
+    	Two Hawker Typhoons will use their dual 20mm autocannons to fend off enemy targets and suppress them.
+    	A single Hawker Typhoon will patrol the area and attack vehicles with a powerful rocket strike.
+    	Hawker Typhoon Rocket Sortie
+    	Hawker Typhoon Rocket Overwatch
+    	A single Hawker Typhoon will patrol the area and attack vehicles with a powerful rocket strike.
+    	Two Hawker Typhoons will patrol the area and attack vehicles with a powerful rocket strike.
+    	Hawker Typhoon Rocket Combat Patrol
+    	Armaments: (Lee-Enfields, STEN Mk. V), *STEN Mk. Vs x2 (A), *M1A1 Thompsons x2 (H), *L1A1-No. 32 (A), *Bren Mk. 1 (H), Skill: Elite, Role: Tactical/Strategic Support.
+    	Herzen aus Eisen! (Beobachtungspanzerwagen)
+    	Vehicles receive 15% faster weapon cooldown, 15% increased weapon accuracy, and +15 sight radius around the unit.
+    	Tanks receive 20% reload speeds, 25% reduced incoming suppression, & 10% increased acceleration.
+    	Infantry receive 15% faster weapon cooldown, & 20% increased weapon suppression. Crewed Weapons receive 25% faster reload speeds
+    	Herzen aus Eisen!
+    	Infantry receive 33% reduced incoming suppression & 5% reduced hit chance. Crewed Weapons receive 20% increased accuracy.
+    	Infantry receive 33% reduced incoming suppression & 5% reduced hit chance. Crewed Weapons receive 20% increased accuracy.
+    	Vernichtungskrieg (Major)
+    	Vernichtungskrieg (Major)
+    	Vernichtungskrieg (Major)
+    	Vernichtungskrieg (Major)
+    	Infantry receive 15% faster weapon cooldown, & receive 50% reduced incoming suppression. Crewed Weapons receive 15% increased movement speed.
+    	Infantry receive 15% faster weapon cooldown, & receive 50% reduced incoming suppression. Crewed Weapons receive 15% increased movement speed.
+    	Infantry receive 15% faster weapon cooldown, & 20% increased weapon suppression. Vehicles receive + 15 sight radius.
+    	Infantry receive 15% faster weapon cooldown, & 20% increased weapon suppression. Vehicles receive + 15 sight radius.
+    	Infantry receive 15% faster reload speeds, & 25% faster experience gain. Crewed Weapons receive 25% faster reload speed
+    	Infantry receive 10% increased weapon accuracy, & 15% faster reload speeds. Crewed Weapons receive 15% increased movement speed.
+    	Infantry receive 10% increased weapon accuracy, & 15% faster reload speeds. Crewed Weapons receive 15% increased movement speed.
+    	Infantry receive 5% reduced hit chance, & 50% reduced incoming suppression. Vehicles receive 15% increased movement speed.
+    	Infantry receive 5% reduced hit chance, & 50% reduced incoming suppression. Vehicles receive 15% increased movement speed.
+    	Infantry receive 25% faster experience gain, & + 10 increased sight radius. Tanks receive +20 increased sight radius.
+    	Infantry receive 25% faster experience gain, & + 10 increased sight radius. Tanks receive +20 increased sight radius.
+    	Valour (Lieutenant)
+    	Infantry receive + 10 sight radius, and 33% increased camouflage detection range. Crewed Weapons receive 10% increased weapon accuracy.
+    	Infantry receive + 10 sight radius, and 33% increased camouflage detection range. Crewed Weapons receive 10% increased weapon accuracy.
+    	Infantry receive 15% faster reload speeds, and 20% increased weapon suppression. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receive 15% faster reload speeds, and 20% increased weapon suppression. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receive + 10 sight radius, & 33% faster de-cap rate. Crewed Weapons receive 5% reduced hit chance.
+    	Infantry receive + 10 sight radius, & 33% faster de-cap rate. Crewed Weapons receive 5% reduced hit chance.
+    	Infantry receive + 10 sight radius, & 33% faster de-cap rate. Crewed Weapons receive 5% reduced hit chance.
+    	Infantry receive + 10 sight radius, & 20% faster construction rate. Crewed Weapons receive 5% reduced hit chance.
+    	Infantry receive 15% faster reload speeds, and 20% increased weapon suppression. Crewed Weapons receive + 10 sight radius.
+    	Infantry receive 15% faster reload speeds, and 20% increased weapon suppression. Crewed Weapons receive + 10 sight radius.
+    	Infantry receive + 10 sight radius, & 20% faster construction rate. Crewed Weapons receive 5% reduced hit chance.
+    	Infantry receive + 10 sight radius, & 20% faster construction rate. Crewed Weapons receive 33% reduced incoming suppression.
+    	Infantry receive + 10 sight radius, & 20% faster construction rate. Crewed Weapons receive 33% reduced incoming suppression.
+    	Infantry receive 15% faster reload speeds, and 20% increased weapon suppression. Crewed Weapons receive 20% increased movement speed.
+    	Infantry receive + 10 sight radius, and 33% increased camouflage detection range. Light Vehicles receive 15% increased weapon accuracy.
+    	Infantry receive 15% faster reload speeds, and 20% increased weapon suppression. Light Vehicles receive 20% faster reload speed
+    	15. PzGren Beobachtungspanzerwagen
+    	15. Beobachtungspanzerwagen
+    	The aircraft drops across
+    	Type: Combat Patrol, Cost: 180 MU, Duration: 180s, Recharge: 360s, Delay: 10s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	The anti-tank planes can strike fear into enemy armour with its armor-piercing autocannons. While it has a longer duration, the planes will only target vehicles; they have very limited anti-infantry capability.
+    	Compared to similar abilities: (+ High ROF, + Long Bursts, - Lower Penetration).
+    	Compared to similar abilities: (+ High Penetration, + High Accuracy, + Long Duration, +/- Only Targets Infantry, - Small AoE).
+    	Type: Autocannon, Rate of Fire: 780 rounds per minute, Penetration: 216/164/108, Damage: 100-120. Blast Radius: 1.25m.
+    	Type: Autocannon, Rate of Fire: 160 rounds per minute, Penetration: 360/280/200, Damage: 165-250. Blast Radius: 0.25m.
+    	Type: Strafe, Cost: 45 MU, Recharge: 90s, Delay: 3.5s, Radius: 30m. Replaces the primary ability slot.
+    	Type: Strafe, Cost: 30 MU, Recharge: 120s, Delay: 1s. Replaces the secondary ability slot.
+    	Line-of-Sight
+    	Compared to similar abilities: (+ High ROF, + Long Bursts, - Lower Penetration).
+    	Compared to similar abilities: (+ High Speed, + Quick Coverage, - Low Durability, - Thin Armor).
+    	Overview: Recon Run
+    	Recon is useful when it comes to preparing for an attack, & surveying enemy forces, without putting your troops at too much risk.
+    	Radius: 80m, Cone: 120 Degrees, Camouflage Detection: None.
+    	Type: Strafe, Cost: 30 MU, Recharge: 120s, Delay: 1s. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 60 MU, Recharge: 120s, Delay: 2s. Replaces the secondary ability slot.
+    	Type: Patrol, Cost: 60 MU, Duration: 60s, Recharge: 120s, Delay: 2s. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 35 MU, Recharge: 120s, Delay: 1s. Replaces the secondary ability slot.
+    	Type: Smoke Barrage, Cost: 35 MU, Recharge: 120s, Delay: 0.125s. Replaces the secondary ability slot.
+    	The aircraft can rapidly drop smoke bombs along a straight line to cover a retreat or advance. However, the smoke generated covers a much smaller area than a regular barrage.
+    	Type: Dive Bomb, Cost: 80 MU, Recharge: 120s, Delay: 8s, Radius: 18m. Replaces the secondary ability slot. Neutralizes capture points on direct hit.
+    	Type: Dive Bomb, Cost: 60 MU, Recharge: 120s, Delay: 8s, Radius: 18m. Replaces the secondary ability slot. Neutralizes capture points on direct hit.
+    	Plunging straight towards the earth, the Stuka delivers a bomb precisely on target. The bomb's explosion is condensed, but is much more effective against armored targets.
+    	Type: Bomb, Penetration: 2000, Damage: 560-640. Blast Radius: 12m, Quantity: 1.
+    	Type: Dive Bomb, Cost: 60 MU, Recharge: 120s, Delay: 8s, Radius: 12m. Replaces the secondary ability slot. Neutralizes capture points on direct hit.
+    	Compared to similar abilities: (+ High Damage, + High Penetration, - Smaller Blast, - Long Delay, - Slow Recharge).
+    	Type: Strafe, Cost: 50 MU, Recharge: 90s, Delay: 3.5s, Radius: 30m. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Durability, + Thick Armor, + Long Bursts, - Lower Damage, Lower Penetration).
+    	Type: Autocannon, Rate of Fire: 780 rounds per minute, Penetration: 216/164/108, Damage: 70-80. Blast Radius: 1.25m.
+    	Type: Autocannon, Rate of Fire: 650 rounds per minute, Penetration: 260/190/130, Damage: 70-80. Blast Radius: 1.25m.
+    	Type: Combat Patrol, Cost: 120 MU, Duration: 180s, Recharge: 240s, Delay: 10s, Radius: 50m, Quantity: 1 Plane. Replaces the secondary ability slot.
+    	Type: Combat Patrol, Cost: 90 MU, Duration: 180s, Recharge: 240s, Delay: 10s, Radius: 50m, Quantity: 1 Plane. Replaces the secondary ability slot.
+    	Type: Rockets, Penetration: 260/190/130, Damage: 70-80. Blast Radius: 1.25m.
+    	Type: Rockets, Penetration: 1100, Damage: 336-756. Blast Radius: 6m, Quantity: 2 (Per Attack).
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Moderate Blast, - Low ROF, - Slow Recharge).
+    	Type: Combat Patrol, Cost: 120 MU, Duration: 180s, Recharge: 300s, Delay: 10s, Radius: 50m, Quantity: 1 Plane. Replaces the secondary ability slot.
+    	The bane of any tank's existence, these aircraft fire rockets at the vehicle's thin top plating. Overwatch increases the loiter duration, but comes with a higher risk of enemy retaliation.
+    	Highly versatile, this patrol can engage all targets with moderate effectiveness. Overwatch increases the loiter duration, but comes with a higher risk of enemy retaliation.
+    	Highly versatile, this patrol can engage all targets with moderate effectiveness. Combat Patrols drastically increase the loiter's damage potential in a short time, but is extremely costly, and slow to recharge.
+    	The bane of any tank's existence, these aircraft fire rockets at the vehicle's thin top plating. Combat Patrols drastically increase the loiter's damage potential in a short time, but is extremely costly, and slow to recharge.
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Moderate Blast, - Low ROF, - Slow Recharge).
+    	Effective vs. all targets. Replaces the default 'X' ability.
+    	Type: Combat Patrol, Cost: 160 MU, Duration: 120s, Recharge: 360s, Delay: 10s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	Compared to similar abilities: (+ High Durability, + Thick Armor, + Long Bursts, - Lower Damage, Lower Penetration, - Expensive, - Slow Recharge).
+    	Type: Combat Patrol, Cost: 220 MU, Duration: 120s, Recharge: 360s, Delay: 10s, Radius: 50m, Quantity: 2 Planes. Replaces the secondary ability slot.
+    	Type: Strafe, Cost: 80 MU, Recharge: 90s, Delay: 2s, Radius: 30m. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Penetration, + Cheap, +/- High Scatter, - Low Individual Damage, - Small Blast).
+    	Armed with small anti-tank bombs, the aircraft 
+    	Type: Bomb, Penetration: 216, Damage: 100-120. Blast Radius: 12m, Quantity: 12.
+    	Type: Bomb, Penetration: 1000, Damage: 150-180. Blast Radius: 0.5m, Quantity: 12.
+    	Death by a thousand papercuts, this aircraft is armed with small, but numerous anti-tank bombs. While simple to land a few hits, larger targets require most bombs to impact; also, does little against infantry.
+    	Type: Patrol, Cost: 60 MU, Duration: 60s, Recharge: 120s, Delay: 2s. Replaces the secondary ability slot.
+    	Type: Patrol, Cost: 80 MU, Duration: 60s, Recharge: 120s, Delay: 2s. Replaces the secondary ability slot.
+    	Type: Patrol, Cost: 80 MU, Duration: 60s, Recharge: 120s, Delay: 2s. Replaces the secondary ability slot.
+    	Compared to similar abilities: (+ Thick Armor, + High Durability, - Slower Speed, - Expensive).
+    	Type: Bomb, Penetration: 1000, Damage: 560-640. Blast Radius: 20m, Quantity: 4.
+    	Compared to similar abilities: (+ De-Caps Points, + High Damage, + High Penetration, - Slow, - Expensive).
+    	Type: Strafe, Cost: 120 MU, Recharge: 180s, Delay: 2s, Radius: 18m. Replaces the primary ability slot.
+    	Armed with four high-explosive bombs, this aircraft is guaranteed to cause massive damage to wherever the bombs land.
+    	The bane of any tank's existence, these aircraft fire rockets at the vehicle's thin top plating. While undeniably powerful, the rockets are relatively inaccurate against anything other than tanks.
+    	The aircraft rakes the target position with rapid machinegun fire, easily cutting down infantry, but little else.
+    	Like a feeding frenzy of sharks, aircraft will quickly run down and tear apart any man-sized target in the vicinity. However, the planes can't do much against any vehicle or hard cover.
+    	Type: Strafe, Cost: 45 MU, Recharge: 90s, Delay: 2s, Radius: 30m. Replaces the primary ability slot.
+    	Type: Autocannon, Rate of Fire: 780 rounds per minute, Penetration: 215/164/108, Damage: 70-80. Blast Radius: 1.25m.
+    	Compared to similar abilities: (+ High ROF, + Long Bursts, - Lower Damage, - Lower Penetration).
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Moderate Blast, - Low ROF, - Slow Recharge).
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Moderate Blast, - Low ROF, - Expensive, - Slow Recharge).
+    	Type: Bomb, Penetration: 2500, Damage: 240-320. Blast Radius: 11m, Quantity: 18.
+    	Type: Bomb, Penetration: 2500, Damage: 240-320. Blast Radius: 11m, Quantity: 18.
+    	Type: Strafe, Cost: 280 MU, Recharge: 360s, Delay: 15s, Radius: 18m. Replaces the primary ability slot.
+    	Type: Bomb (INC/HE), Penetration: 550/2500, Damage: 220-280/240-320. Blast Radius: 12/11m, Quantity: 18.
+    	Type: Strafe, Cost: 80 MU, Recharge: 90s, Delay: 2s, Radius: 30m. Replaces the primary ability slot.
+    	Armed with high-explosive, anti-tank rockets, this plane can take on any tank on the battlefield. However, poor accuracy, and low rate-of-fire gives it a significant chance of missing the target.
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Moderate Blast, - Low ROF,).
+    	The bane of any tank's existence, these aircraft fire rockets at the vehicle's thin top plating. Overwatch increases the loiter duration, but comes with a higher risk of enemy retaliation.
+    	The bane of any tank's existence, these aircraft fire rockets at the vehicle's thin top plating. However, it only targets vehicles, and ignores any infantry targets.
+    	Click and drag to select the direction of the strafe. Effective at all ranges vs. infantry & emplacements.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Crewed Weapons receive 25% faster reload speeds.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown Crewed Weapons receive 20% increased movement speed.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown Crewed Weapons receive 20% increased movement speed.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Tanks receive 15% increased movement speed.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Tanks receive 15% increased movement speed.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Tanks receive 10% increased weapon accuracy.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Tanks receive 10% increased weapon accuracy.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown Tanks receive +20 increased sight radius.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown Tanks receive +20 increased sight radius.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Tanks receive 20% faster reload speed.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Vehicles receive 15% increased movement speed
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Vehicles receive 15% increased movement speed
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown. Light Vehicles receive +15 sight radius.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown. Light Vehicles receive + 15 sight radius.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Light Vehicles receive 15% increased weapon accuracy.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Light Vehicles receive 15% increased weapon accuracy.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Crewed Weapons receive 20% increased accuracy.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Crewed Weapons receive 20% increased accuracy.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown. Light Vehicles receive 25% faster reload speeds.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown. Light Vehicles receive 25% faster reload speeds.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Tanks receive 25% reduced incoming suppression.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Tanks receive 25% reduced incoming suppression.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Crewed Weapons receive 5% reduced hit chance.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Crewed Weapons receive 5% reduced hit chance.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown. Crewed Weapons receive + 10 sight radius.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown. Crewed Weapons receive +10 sight radius.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Crewed Weapons receive 10% increased weapon accuracy.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Crewed Weapons receive 10% increased weapon accuracy.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Light Vehicles receive 15% increased weapon accuracy.
+    	Infantry receive 15% increased weapon accuracy, and 33% reduced suppression. Light Vehicles receive 15% increased weapon accuracy.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown. Tanks receive 10% increased weapon accuracy.
+    	Infantry receive 10% reduced hit chance, and 5% faster weapon cooldown. Tanks receive 10% increased weapon accuracy.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Tanks receive 15% increased movement speed.
+    	Infantry receive 50% faster point capture time, and gain 33% more experience. Tanks receive 15% increased movement speed.
+    	12 Command Points
+    	Type: Sector Barrage, Cost: 45 MU, Recharge: 90s, Delay: 3.5s, Radius: 30m. Replaces the secondary ability slot.
+    	Type: Sector Barrage, Cost: 180 MU, Recharge: 240s, Delay: 6s, Radius: 30-35m (Around Target), Rounds: ~38 (inc. Smoke). Replaces the secondary ability slot.
+    	Overview: Sector Barrage
+    	Sector Barrages can saturate an entire line with devastating firepower, the smaller the sector, the more concentrated the damage.
+    	Compared to similar abilities: (+ Shorter Delay, + High ROF, + Concealment, - Lower Penetration).
+    	Type: Autocannon, Rate of Fire: 780 rounds per minute, Penetration: 216/164/108, Damage: 70-80. Blast Radius: 1.25m.
+    	Type: High Explosive, Rate of Fire: 780 rounds per minute, Penetration: 216/164/108, Damage: 70-80. Blast Radius: 1.25m.
+    	Type: High Explosive, Rate of Fire: 15-20 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Armaments (Secondary)
+    	Type: Smoke, Rate of Fire: 40-60 rounds per minute, Cartridge: 8cm, Penetration: 78, Damage: 50-60. Blast Radius: 6.5m.
+    	Compared to similar abilities: (+ High Round Count, + High ROF, + Concealment, - Lower Penetration).
+    	Type: Sector Barrage, Cost: 220 MU, Recharge: 240s, Delay: 10s, Radius: 30-35m (Around Target), Rounds: ~38 (inc. Smoke). Replaces the secondary ability slot.
+    	Type: Sector Barrage, Cost: 220 MU, Recharge: 240s, Delay: 10s, Radius: 15m (Around Target), Rounds: ~60 (inc. Smoke). Replaces the secondary ability slot.
+    	Compared to similar abilities: (+ High Round Count, + High ROF, + Concealment, - Lower Penetration, - Expensive).
+    	Type: High-Explosive, Rate of Fire: 40-120 rounds per minute, Cartridge: 7.5cm, Penetration: 280, Damage: 120-160. Blast Radius: 6m.
+    	Type: Sector Barrage, Cost: 200 MU, Recharge: 240s, Delay: 10s, Radius: 15m (Around Target), Rounds: ~60 (inc. Smoke). Replaces the secondary ability slot.
+    	Type: Sector Barrage, Cost: 200 MU, Recharge: 240s, Delay: 10s, Radius: 15m (Around Target), Rounds: ~25 (inc. Smoke). Replaces the secondary ability slot.
+    	Type: Sector Barrage, Cost: 200 MU, Recharge: 240s, Delay: 10s, Radius: 15m (Around Target), Rounds: ~25. Replaces the secondary ability slot.
+    	Compared to similar abilities: (+ High Damage, + High Penetration, + High ROF, - Smaller AoE, - Low Round Count, - Expensive).
+    	Type: Armor-Piercing, Rate of Fire: 15-20 rounds per minute, Cartridge: 8.8cm, Penetration: 510, Damage: 560-650. Blast Radius: 1.5m.
+    	Armaments
+    	Overview: Barrage
+    	Barrages are excellent at clearing out enemy defenses or massed formations, though usually lacking in accuracy.
+    	Compared to similar abilities: (+ 5 Rounds Per 100 Extra Munitions, + High Round Count, + High ROF, - Lower Penetration, - Slow Recharge, - Expensive).
+    	Type: Sector Barrage, Cost: 180 MU, Recharge: 240s, Delay: 6s, Radius: 30-35m (Around Target), Rounds: 10-30 (scales on munition). Replaces the primary ability slot.
+    	Type: Barrage, Cost: 200 MU, Recharge: 240s, Delay: 5s, Radius: 25m, Rounds: 10-30 (scales on munition). Replaces the primary ability slot.
+    	Type: Barrage, Cost: 200 MU, Recharge: 240s, Delay: 5s, Radius: 7m, Rounds: ~27. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ Area Denial, + Higher Accuracy, + High Round Count, + High ROF, - Lower Penetration, - Slow Recharge, - Expensive).
+    	Overview: Flare Barrage
+    	Flare Barrages are perfect for revealing small areas and camouflaged units within the fog of war as they cannot be shot down.
+    	Compared to similar abilities: (+ Higher Accuracy, + High Round Count, + High ROF, - Lower Penetration, - Slow Recharge, - Expensive).
+    	Compared to similar abilities: (All Flare Barrage abilities behave mostly the same).
+    	Radius: 50m, Duration: 4-6s (Per Round), Camouflage Detection: All Units.
+    	Type: Barrage, Cost: 200 MU, Recharge: 240s, Delay: 5s, Radius: 25m, Rounds: 10-30 (scales on munition). Replaces the secondary ability slot.
+    	Type: Flare Barrage, Cost: 50 MU, Recharge: 180s, Delay: 3s, Radius: 50m, Rounds: 4. Replaces the secondary ability slot.
+    	Type: Incendiary, Rate of Fire: 15-20 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: Barrage, Cost: 180 MU, Recharge: 180s, Radius: 15m, Rounds: 3. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ Area Denial, + Large AoE, + High Penetration,  - Low Damage, - Low Round Count, - Expensive).
+    	Type: Incendiary, Rate of Fire: 15-20 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: Incendiary, Rate of Fire: 15-20 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 120-180 (Direct), 2-4 (Burn, Per 1.65s). Blast Radius: 8m.
+    	Compared to similar abilities: (+ High Accuracy, + High ROF, - Lower Penetration, - Lower Round Count, - Slow Recharge).
+    	Type: Barrage, Cost: 120 MU, Recharge: 180s, Delay: 10s, Radius: 8m, Rounds: 6. Replaces the primary ability slot.
+    	The officer is authorized to call-in rapid barrages, which land in extremely quick succession, with increased scatter.
+    	Type: Barrage, Cost: 120 MU, Recharge: 180s, Delay: 3.5s, Radius: 25m, Rounds: 6. Replaces the primary ability slot.
+    	Type: High Explosive, Rate of Fire: 30-40 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Compared to similar abilities: (+ Short Delay, + Very High ROF, - Lower Penetration, - High Scatter, - Lower Round Count, - Slow Recharge).
+    	Type: High Explosive, Rate of Fire: 15-20 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 15-20 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 180-240 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: Barrage, Cost: 50 MU, Recharge: 180s, Delay: 5s, Radius: 10m, Rounds: 4. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Accuracy, + High ROF, - Low Penetration, - Lower Round Count, - Slow Recharge).
+    	Type: High Explosive, Rate of Fire: 20-25 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 20-25 rounds per minute, Cartridge: 12cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 20-25 rounds per minute, Cartridge: 12cm, Penetration: 400, Damage: 120-160. Blast Radius: 12m.
+    	Type: Barrage, Cost: 50 MU, Recharge: 180s, Delay: 2.5s, Radius: 20m, Rounds: 4. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 180 MU, Recharge: 180s, Delay: 7.5s, Radius: 25m, Rounds: 6. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Very High ROF, - Long Delay, - High Scatter, - Lower Round Count, - Slow Recharge).
+    	Type: High Explosive, Rate of Fire: 20-25 rounds per minute, Cartridge: 12cm, Penetration: 400, Damage: 120-160. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 160-240 rounds per minute, Cartridge: 12cm, Penetration: 400, Damage: 120-160. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 160-240 rounds per minute, Cartridge: 15cm, Penetration: 700, Damage: 240-320. Blast Radius: 12m.
+    	Type: Barrage, Cost: 50 MU, Recharge: 180s, Delay: 2.5s, Radius: 20m, Rounds: 4. Replaces the primary ability slot.
+    	Overview: Precision Strike
+    	Type: High Explosive, Cartridge: 15cm, Penetration: 1200, Damage: 560-640. Blast Radius: 18m.
+    	Precision Strikes are accurately-placed artillery strikes that can take out key targets. Precise, but lacking in raw firepower.
+    	Type: Barrage, Cost: 80 MU, Recharge: 180s, Delay: 4s, Radius: 7m, Rounds: 1. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Accuracy, + High Damage, + High Penetration, - Low Round Count, - Slow Recharge).
+    	Type: Precision Strike, Cost: 80 MU, Recharge: 180s, Delay: 4s, Radius: 7m, Rounds: 1. Replaces the primary ability slot.
+    	Type: Sector Barrage, Cost: 180 MU, Recharge: 240s, Delay: 6s, Radius: 30-35m (Around Target), Rounds: ~38 (inc. Smoke). Replaces the secondary ability slot.
+    	Type: Sector Barrage, Cost: 180 MU, Recharge: 240s, Delay: 6s, Radius: 35m (Around Target), Rounds: ~38 (inc. Smoke). Replaces the secondary ability slot.
+    	Type: Sector Barrage, Cost: 180 MU, Recharge: 240s, Delay: 6s, Radius: 35m (Around Target), Rounds: 2-3. Replaces the secondary ability slot.
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Large AoE, - Low ROF, - Low Round Count, - Expensive).
+    	Armaments
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 15cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 15cm, Penetration: 900, Damage: 560-640. Blast Radius: 18m.
+    	Armaments (Primary)
+    	Type: Barrage, Cost: 200 MU, Recharge: 240s, Delay: 5s, Radius: 7m, Rounds: ~27. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 200 MU, Recharge: 240s, Delay: 10s, Radius: 25m, Rounds: 4. Replaces the primary ability slot.
+    	Armaments
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 15cm, Penetration: 900, Damage: 560-640. Blast Radius: 18m.
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 21cm, Penetration: 900, Damage: 560-640. Blast Radius: 18m.
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 21cm, Penetration: 900, Damage: 1100-1200. Blast Radius: 18m.
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 21cm, Penetration: 2000, Damage: 1100-1200. Blast Radius: 24m.
+    	Compared to similar abilities: (+ Large AoE, + Very High Damage, + Very High Penetration, - Lower Accuracy, - Low Round Count, - Slow Recharge).
+    	Type: Precision Strike, Cost: 200 MU, Recharge: 240s, Delay: 10s, Radius: 25m, Rounds: 4. Replaces the primary ability slot.
+    	21cm Precision Strike
+    	Type: Precision Strike, Cost: 180 MU, Recharge: 240s, Delay: 10s, Radius: 20m, Rounds: 1. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Penetration, + Very High Damage, + Very High ROF, - Long Delay, - High Scatter, - Lower Round Count, - Slow Recharge).
+    	Type: High Explosive, Rate of Fire: 160-240 rounds per minute, Cartridge: 28cm, Penetration: 800, Damage: 420-560. Blast Radius: 12m.
+    	Type: Barrage, Cost: 180 MU, Recharge: 180s, Delay: 7.5s, Radius: 35m, Rounds: 6. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ Area Denial, + Large AoE, + High Penetration,  - Low Damage, - Low Round Count, - Expensive).
+    	Type: Incendiary, Rate of Fire: 120 rounds per minute, Cartridge: 32cm, Penetration: 550, Damage: 120-180 (Direct), 2-4 (Burn, Per 1.65s). Blast Radius: 8m.
+    	Type: Incendiary, Rate of Fire: 120 rounds per minute, Cartridge: 32cm, Penetration: 550, Damage: 45-60 (Direct), 2-4 (Burn, Per 1.65s). Blast Radius: 10m.
+    	Type: Precision Strike, Cost: 240 MU, Recharge: 240s, Delay: 15s, Radius: 10m, Rounds: 1. Replaces the primary ability slot.
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 38cm, Penetration: 2000, Damage: 1125-1875. Blast Radius: 42m.
+    	Compared to similar abilities: (+ Very Large AoE, + Very High Damage, + Very High Penetration, - Lower Accuracy, - Low Round Count, - Slow Recharge).
+    	Type: HEAT, Rate of Fire: 15-20 rounds per minute, Cartridge: 7.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: HEAT, Rate of Fire: 15-20 rounds per minute, Cartridge: 7.5cm, Penetration: 400, Damage: 224-384. Blast Radius: 3m.
+    	Type: HEAT, Rate of Fire: 20-30 rounds per minute, Cartridge: 7.5cm, Penetration: 400, Damage: 224-384. Blast Radius: 3m.
+    	Compared to similar abilities: (+ Area Denial, + Higher Accuracy, + High Round Count, + High ROF, - Lower Penetration, - Slow Recharge, - Expensive).
+    	Type: Barrage, Cost: 200 MU, Recharge: 120s, Delay: 5s, Radius: 7m, Rounds: ~27. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 35 MU, Recharge: 120s, Delay: 5s, Radius: 7m, Rounds: ~27. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ Area Denial, + Higher Accuracy, + High Round Count, + Higher Penetration, - Lower Penetration).
+    	Type: Barrage, Cost: 35 MU, Recharge: 120s, Delay: 5s, Radius: 7m, Rounds: 6. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ Area Denial, + High Round Count, - Low Damage - Low Penetration).
+    	Type: Barrage, Cost: 35 MU, Recharge: 120s, Delay: 3.5s, Radius: 7m, Rounds: 6. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 120 MU, Recharge: 180s, Delay: 5s, Radius: 8m, Rounds: 6. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 35 MU, Recharge: 180s, Delay: 5s, Radius: 8m, Rounds: 6. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Accuracy, + High ROF, - Lower Penetration, - Lower Damage, - Lower Round Count).
+    	Type: High Explosive, Rate of Fire: 30-40 rounds per minute, Cartridge: 7.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 30-40 rounds per minute, Cartridge: 7.5cm, Penetration: 280, Damage: 120-160. Blast Radius: 6m.
+    	Type: Barrage, Cost: 120 MU, Recharge: 180s, Delay: 10s, Radius: 8m, Rounds: 4. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Accuracy, + High Damage, + High Penetration, - Small AoE, - Lower Round Count).
+    	Type: High Explosive, Rate of Fire: 30-40 rounds per minute, Cartridge: 7.5cm, Penetration: 280, Damage: 120-160. Blast Radius: 6m.
+    	Type: Armor-Piercing, Rate of Fire: 30-40 rounds per minute, Cartridge: 8.8cm, Penetration: 510, Damage: 560-650. Blast Radius: 1.5m.
+    	Type: Barrage, Cost: 120 MU, Recharge: 180s, Delay: 10s, Radius: 8m, Rounds: 4. Replaces the 'Panzerfaust-100' ability slot.
+    	Compared to similar abilities: (+ High Accuracy, + High Damage, + High Penetration, - Small AoE, - Lower Round Count).
+    	Type: Barrage, Cost: 35 MU, Recharge: 90s, Delay: 1.5s, Radius: 16m, Rounds: 4. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Damage, + High Penetration, - Small AoE, - Lower Round Count).
+    	Compared to similar abilities: (+ Larger AoE, - Lower Penetration, - Lower Damage,).
+    	Type: Armor-Piercing, Rate of Fire: 30-40 rounds per minute, Cartridge: 8.8cm, Penetration: 510, Damage: 560-650. Blast Radius: 1.5m.
+    	Type: Airburst, Rate of Fire: 30-40 rounds per minute, Cartridge: 8.8cm, Penetration: 510, Damage: 560-650. Blast Radius: 1.5m.
+    	Type: Airburst, Rate of Fire: 60 rounds per minute, Cartridge: 8cm, Penetration: 35, Damage: 70-80. Blast Radius: 9m.
+    	Type: Barrage, Cost: 35 MU, Recharge: 90s, Delay: 1.5s, Radius: 16m, Rounds: 4. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 35 MU, Recharge: 120s, Delay: 3.5s, Radius: 16m, Rounds: 4. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 35 MU, Recharge: 120s, Delay: 3.5s, Radius: 7m, Rounds: ~18. Replaces the primary ability slot.
+    	Type: High Explosive, Rate of Fire: 20-30 rounds per minute, Cartridge: 8cm, Penetration: 78, Damage: 100-120. Blast Radius: 6m.
+    	Compared to similar abilities: (+ Area Denial, + Higher Accuracy, + Higher Damage, + Higher Penetration, - Low Penetration).
+    	Compared to similar abilities: (+ Area Denial, + Higher Accuracy, + Higher Damage, + Higher Penetration, - Low Round Count).
+    	Type: Barrage, Cost: 25 MU, Recharge: 90s, Delay: 5s, Radius: 8m, Rounds: 6. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Accuracy, - Low Damage - Low Penetration, - Low Round Count).
+    	Compared to similar abilities: (+ Short Delay, + Very High ROF, - Low Penetration, - High Scatter, - Low Damage, - Lower Round Count).
+    	Type: Barrage, Cost: 25 MU, Recharge: 90s, Delay: 1.5s, Radius: 20m, Rounds: 6. Replaces the primary ability slot.
+    	Type: High Explosive, Rate of Fire: 30 rounds per minute, Cartridge: 8cm, Penetration: 78, Damage: 100-120. Blast Radius: 6m.
+    	Type: Barrage, Cost: 50 MU, Recharge: 120s, Delay: 5s, Radius: 10m, Rounds: 10. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ No Delay, + High Accuracy, + High Penetration, - Very Slow Projectile Speed, - Low Damage).
+    	Type: High Explosive, Rate of Fire: 30 rounds per minute, Cartridge: 8cm, Penetration: 78, Damage: 100-120. Blast Radius: 6m.
+    	Type: High Explosive, Penetration: 1000, Damage: 100-120. Blast Radius: 5m.
+    	Passives & Tips:
+    	Tanks: Tank Shock ability no longer require Veterancy to use.
+    	Tanks: Panzer IVs & StuG IIIs arrive with a random amount of experience.
+    	Tip: Hulldown Tanks on the defensive with infantry, & NEVER send Tanks to attack without any other support.
+    	Specialization: Tanks/Infantry. Stronger against Infantry & Mechanized doctrines. Weaker against Tank Destroyer, Artillery, and Airborne doctrines.
+    	Structures: Pillboxes receive the MG42 GPMG (Upgrade).
+    	Specialization: Infantry/Tank Destroyers. Stronger against Tanks & Mechanized doctrines. Weaker against Infantry, Artillery, and Airborne doctrines.
+    	Tip: Do not be afraid to mix Ostruppen with better trained units, or crewed weapons.
+    	Tip: Ost Division is lacking in Field Artillery, but their Officers have access to very powerful artillery strikes.
+    	Infantry: Crewed Weapons & Infantry arrive with a random amount of experience.
+    	Crewed Weapons: Weapon teams arrive with a random amount of experience. 
+    	Volksgrenadiers, Grenadieres, and Officiers automatically camouflage themselves at Veterancy 1 whilst in cover.
+    	Volksgrenadiers, Grenadieres, and Officiers automatically camouflage themselves at Veterancy 1 whilst in cover.
+    	Infantry: Volksgrenadiers, Grenadieres, and Officiers receive passive camouflage in cover (Veterancy 1).
+    	Tip: Send infantry with your tanks! Sending tanks alone without any support is extremely dangerous.
+    	Tip: Support advancing tanks with infantry or other units! Tanks can easily be ambushed due to low sight radius.
+    	Infantry: Volksgrenadieres, & Grenadieres can use Scavenge. Adds +10 Munitions when right-clicking dying enemies.
+    	Stronger vs. Infantry & Mechanized. Weaker vs. Tank Destroyer, Artillery, & Airborne. Only ONE Division can be chosen.
+    	Stronger vs. Infantry, Artillery & Defensive. Weaker vs. Mechanized, & Tanks. Only ONE Division can be chosen.
+    	Stronger vs. Infantry & Mechanized. Weaker vs. Tank Destroyer, Artillery, & Airborne. Only ONE Division can be chosen.
+    	Stronger vs. Anti-Tank, Tanks & Mechanized. Weaker vs. Artillery, & Airborne. Only ONE Division can be chosen.
+    	Tip: Straf Division lacks powerful anti-tank in its doctrine roster. Consider more anti-tank units within the default army roster.
+    	Tip: Despite being assault troops, Straf troops can build most defensive structures, and can repair.
+    	Stronger vs Infantry, Mechanized ,& Airborne. Weak vs. Anti-Tank, Defensive, & Tank. Only ONE Division can be chosen.
+    	Tanks: All Medium Tanks have increased combat effectiveness near friendly armour.
+    	Tanks: All Medium Tanks receive free Smoke Dischargers.
+    	Tip: Leichte Division excels with Light Vehicles, but Rocket Artillery, and Tank support are encouraged later in the battle.
+    	Tip: While your Infantry is more effective overall, avoid fighting Allied Infantry at close range without specialized Upgrades.
+    	Stronger vs Infantry, Mechanized ,& Airborne. Weak vs. Anti-Tank, Defensive, & Tank. Only ONE Division can be chosen in a single match.
+    	Stronger vs Infantry, & Anti-Tank. Weak vs. Tank, & Mechanized. Only ONE Division can be chosen.
+    	Stronger vs Infantry, Defensive, & Anti-Tank. Weak vs. Tank, Mechanized, & Artillery. Only ONE Division can be chosen.
+    	Tips: Fallschirmjäger-Division has a wide array of troops, the costliest unit may not always be the best choice.
+    	Tips: Use airstrikes, flak guns, and the Raketenwerfer to soften up armoured targets.
+    	Tips: Doctrinal Infantry can build Beacons & Forward Encampments to infiltrate more unique units behind enemy lines.
+    	Tanks: Medium & Heavy Tank build times decreased by -25%.
+    	Tanks: Medium & Heavy Tanks receive the Panzer Ace (Upgrade), and most receive default Schnellnebelkerzen 39.
+    	Stronger vs Infantry, Airborne, & Anti-Tank. Weak vs. Tank, Mechanized, & Artillery. Only ONE Division can be chosen in a single match.
+    	Stronger vs Infantry, Airborne, & Anti-Tank. Weak vs. Tank, Mechanized, & Artillery. Only ONE Division can be chosen in a single match.
+    	Stronger vs. Infantry, Tank, & Mechanized. Weaker vs. Tank Destroyer, Artillery, & Airborne. Only ONE set of Tactics can be chosen.
+    	Stronger vs. Anti-Tank, Tank, & Mechanized. Weaker vs. Artillery, Infantry, & Airborne. Only ONE set of Tactics can be chosen.
+    	Stronger vs. Anti-Tank, Tank, & Mechanized. Weaker vs. Artillery, Infantry, & Airborne. Only ONE set of Tactics can be chosen.
+    	Stronger vs. Tank, & Defensive. Weaker vs. Artillery, & Airborne. Only ONE set of Tactics can be chosen.
+    	Stronger vs. Anti-Tank, Tank, & Defensive. Weaker vs. Artillery, & Airborne. Only ONE set of Tactics can be chosen.
+    	Stronger vs. Infantry, Airborne, & Defensive. Weaker vs. Tank, Artillery & Mechanized. Only ONE set of Tactics can be chosen.
+    	Infantry: Infantry & Officiers passively camouflage in cover, & are undetectable on the minimap (Veterancy 1).
+    	Stronger vs. Infantry, & Defensive. Weaker vs. Tank, & Artillery. Only ONE set of Tactics can be chosen in a single match.
+    	Tips: Jäger Tactics' Doctrinal Infantry are effective against other infantry. Use the Doctrinal Pak 36 or 2cm Flak to counter light vehicles.
+    	Tips: Use Infiltration abilities, and disrupt enemy activity , buying time to acquire late-game units such as the Panther tank.
+    	Infantry: All Infantry units with the Panzerfaust-100 upgrade will receive it by default.
+    	Tip: Panzerjäger Tactics has access to very potent assault infantry, use them to pressure the enemy.
+    	Tip: Panzerjäger Tactics has access to very potent assault infantry, use them to pressure the enemy.
+    	Assault Guns: StuG III Ausf. Gs are replaced by the cheaper, & more versatile Ausf. F8 variant.
+    	Infantry: SS-Sturmpioneres, SS-Sturmgrenadiers, & Officiers receive First Aid Training (Passivee).
+    	Infantry: Infantry gain 1.5% increased accuracy, with 0.1% increased hit chance per friendly death within 20m. Effect lasts for 15s.
+    	Tip: Reinforce your Volkssturm forces with more skilled infantry and crewed weapons.
+    	Tip: The Tiger Ace, unlike other heavy tanks, can be deployed earlier, without the Schwere Panzerabteilungen (Upgrade).
+    	Infantry: SS-Stoßtruppen receive the Satchel Charge (Upgrade), SS-Sturmgrenadieres receive the Model 24 Assault (Upgrade).
+    	Vehicles: sWs Halftracks can now use the Accelerate! ability without fuel cost.
+    	Tip: The StG44 is an effective choice for most of the Doctrinal Infantry; Stoßtruppen can acquire StG44 (x4) upgrade without veterancy.
+    	Stronger vs. Infantry, Mechanized, & Tanks. Weaker vs. Anti-Tank, Artillery, & Airborne. Only ONE Division can be chosen.
+    	Stronger vs. Infantry, Mechanized, & Tanks. Weaker vs. Anti-Tank, Artillery, & Airborne. Only ONE Division can be chosen.
+    	Stronger vs. Infantry, Defensive, & Artillery. Weaker vs. Tank, Anti-Tank, & Mechanized. Only ONE Division can be chosen.
+    	Stronger vs. Infantry, Defensive, & Artillery. Weaker vs. Tank, Anti-Tank, & Mechanized. Only ONE Division can be chosen.
+    	Stronger vs. Infantry, & Defensive. Weaker vs. Tank, & Anti-Tank. Only ONE Division can be chosen.
+    	Stronger vs. Infantry, Defensive, & Artillery. Weaker vs. Tank, Anti-Tank, & Mechanized. Only ONE Division can be chosen.
+    	Stronger vs. Infantry, Defensive, & Artillery. Weaker vs. Tank, Anti-Tank, & Mechanized. Only ONE Division can be chosen.
+    	Stronger vs. Infantry, & Defensive. Weaker vs. Tank, & Mechanized. Only ONE Division can be chosen.
+    	Infantry: Default Infantry can build Tank Traps, PMD-6 Mine Fields, POMZ Flare Mines, and TM-35 Mines.
+    	Crewed Weapons: Crewed Weapons receive Recruiting Surplus (Upgrade).
+    	Tip: Shtrafniki can be used very aggressively, yet still survive due to their high squad count.
+    	Infantry/Crewed Weapon: Both unit types receive 50% faster build time.
+    	Infantry: Prizyvniki to be called-in at 160MP, and grants access to a suppression-breaking sprint.
+    	Tip: Support your Prizyvniki with other unit types. While powerful in numbers, they can be countered relatively easily.
+    	Infantry: Doctrinal Infantry can construct Forward Encampments, producing unique units behind enemy lines.
+    	Crewed Weapons: Crewed Weapons receive Stalnoi Nagrudnik (Upgrade).
+    	Tip: Udarnaya Diviziya has powerful close range infantry, but most of the roster is tailored to more open battlefields.
+    	Tip: Istrebitel Tankovaya has very potent close-quarters Infantry, meant to support Vehicles moving through urban areas.
+    	Tip: Istrebitel Tankovaya has very potent close-quarters infantry, meant to support vehicles moving through urban areas.
+    	Tip: Istrebitel Tankovaya has very potent close-quarters infantry, meant to support vehicles moving through urban areas.
+    	Tip: Most Tank Destroyers can be equipped with anti-infantry rounds for emergencies, or limited assaults.
+    	Tip: Tank Destroyers are generally more fragile than the Tanks they are meant to destroy. Fire and move.
+    	Vehicles: Light Vehicles to be called-in at cheaper costs.
+    	Tip: Do not rely solely on ODON Infantry for combat, reinforcing them after heavy casualties can quickly drain resources.
+    	Allows nearly all Soviet tanks be called-in at cheaper costs.
+    	Tanks: Nearly all Tanks can be called-in at cheaper costs.
+    	Tip: Tanks are prone to getting ambushed; it is ill-advised to send them without support.
+    	Tip: Try to engage German Tanks at closer range, where their accuracy & armour is less pronounced.
+    	Stronger vs. Infantry, Anti-Tank, & Defensive. Weaker vs. Tank, Artillery, & Mechanized. Only ONE Company can be chosen.
+    	Stronger vs. Infantry, Mechanized, & Airborne. Weaker vs. Tank, Defensive, & Anti-Tank. Only ONE Company can be chosen.
+    	Stronger vs. Infantry, Artillery, & Defensive. Weaker vs. Tank, Anti-Tank, & Mechanized. Only ONE Company can be chosen.
+    	Stronger vs. Artillery, & Defensive. Weaker vs. Tank, & Airborne. Only ONE Company can be chosen.
+    	Stronger vs. Infantry, Anti-Tank, & Defensive. Weaker vs. Tank, Artillery, & Mechanized. Only ONE Company can be chosen.
+    	Stronger vs. Infantry, Mechanized, & Defensive. Weaker vs. Tank, Artillery, & Anti-Tank. Only ONE Company can be chosen.
+    	Stronger vs. Tank, & Mechanized. Weaker vs. Infantry, & Defensive. Only ONE Company can be chosen.
+    	Riflemen receive the M9 Bazooka Rocket Launcher w. M6A3 (Upgrade), Rear Echelon receive the M18 Recoilless Rifle (Upgrade).
+    	The United States revolutionized anti-tank weapon designs with the Bazooka; many nations adopted the weapon or imitated the design.
+    	(PASSIVE) Rocket Warfare
+    	Tanks: Tanks receive the On The Double! ability, which doesn't require fuel.
+    	Tip: Mines are an extremely underrated tool for damaging or outright destroying enemy tanks.
+    	Tip: Tank Destroyers are fragile, but mobile; use them aggressively to outmanuever slower German tanks.
+    	Vehicles: Light Vehicles (other than the CCKW) can now capture territory. WC51s can reinforce units.
+    	Vehicles: Light Vehicles can be called-in at cheaper costs.
+    	Tip: Mechanized Company is very powerful early in the battle, but remember to invest into Tanks & Artillery.
+    	Infantry: Paratrooper Infantry replenish casualties 75% faster, but cost 33% more manpower to reinforce. 
+    	Tip: Avoid taking heavy casualties with Paratroopers. Frequently reinforcing them will quickly drain resources.
+    	Tip: The M10 Tank Destroyer is useful for providing mobile anti-tank support to your Paratrooper forces.
+    	Tanks: The M5A1 Stuart, and M4A3 Shermans can be called-in at cheaper costs.
+    	Tip: 
+    	Tip: Use the Transfer Order ability to free up population, or to replace Tanks that are no longer useful.
+    	Infantry/Crewed Weapons: Both unit types receive 50% faster build times. Does not include howitzers.
+    	Tip: Avoid fighting German Infantry at max range with your own Infantry; try to move in closer, or suppress them first.
+    	Tip: Rifle Company lacks heavier Artillery with Counter-Barrage; use Officer Artillery strikes to make up for this.
+    	Infantry: Infantry arrive with a random veterancy. Does not include Rangers, Crewed Weapons, or Recon Teams.
+    	Tip: Use the vehicle dispatch abilities (WC51/M3 Halftrack) to provide a quick counter to enemy light vehicles.
+    	Stronger vs. Infantry, Mechanized, & Tank. Weaker vs.  Anti-Tank, Defensive, & Artillery. Only ONE Regiment can be chosen.
+    	Stronger vs. Infantry, Artillery, & Defensive. Weaker vs.  Infiltration, Airborne, & Tank. Only ONE Regiment can be chosen.
+    	Stronger vs. Infantry, Anti-Tank, & Defensive. Weaker vs.  Artillery, Mechanized, & Tank. Only ONE Regiment can be chosen.
+    	Stronger vs. Infantry, & Anti-Tank. Weaker vs. Mechanized, & Artillery. Only ONE Regiment can be chosen.
+    	Stronger vs. Infantry, & Defensive. Weaker vs. Artillery, & Anti-Tank. Only ONE Regiment can be chosen.
+    	Stronger vs. Infantry, & Defensive. Weaker vs. Artillery, & Anti-Tank. Only ONE Regiment can be chosen.
+    	Stronger vs. Infantry, Mechanized, & Defensive. Weaker vs. Artillery, Anti-Tank, & Airborne. Only ONE Regiment can be chosen.
+    	Type: High Explosive, Rate of Fire: 20-30 rounds per minute, Cartridge: 82mm, Penetration: 78, Damage: 100-120. Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 20-30 rounds per minute, Cartridge: 82mm, Penetration: 78, Damage: 100. Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 30 rounds per minute, Cartridge: 82mm, Penetration: 78, Damage: 100. Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 30-40 rounds per minute, Cartridge: 76mm, Penetration: 280, Damage: 120-160. Blast Radius: 6m.
+    	Type: Armor-Piercing, Rate of Fire: 20-30 rounds per minute, Cartridge: 7.5cm, Penetration: 400, Damage: 224-384. Blast Radius: 3m.
+    	Type: Armor-Piercing, Rate of Fire: 20-30 rounds per minute, Cartridge: 76mm, Penetration: 440, Damage: 360-420. Blast Radius: 1.5m.
+    	Compared to similar abilities: (+ Area Denial, + Higher Accuracy, + Higher Damage, + Higher Penetration, - Low Round Count, - Small AoE).
+    	Type: Barrage, Cost: 45 MU, Recharge: 120s, Delay: 3.5s, Radius: 7m, Rounds: 6. Replaces the primary ability slot.
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 203mm, Penetration: 2500, Damage: 940-1120. Blast Radius: 22m.
+    	Type: High Explosive, Cartridge: 152mm, Penetration: 1200, Damage: 560-640. Blast Radius: 18m.
+    	Type: Barrage, Cost: 120 MU, Recharge: 180s, Delay: 7.5s, Radius: 35m, Rounds: 16. Replaces the primary ability slot.
+    	Type: High Explosive, Rate of Fire: 160-240 rounds per minute, Cartridge: 132mm, Penetration: 480, Damage: 180-240. Blast Radius: 8m.
+    	Type: Smoke, Rate of Fire: 40-60 rounds per minute, Cartridge: 82mm, Penetration: 78, Damage: 50-60. Blast Radius: 6.5m.
+    	Type: High Explosive, Rate of Fire: 12-15 rounds per minute, Cartridge: 122mm, Penetration: 550, Damage: 320-480. Blast Radius: 14m.
+    	Compared to similar abilities: (+ Shorter Delay, + Higher Damage, + Concealment, - Lower ROF, - Lower Penetration).
+    	Type: High-Explosive, Rate of Fire: 40-120 rounds per minute, Cartridge: 76mm, Penetration: 280, Damage: 120-160. Blast Radius: 6m.
+    	Compared to similar abilities: (+ High Round Count, + Higher Damage, + Concealment, - Lower ROF, - Lower Penetration, - Expensive).
+    	Compared to similar abilities: (+ Area Denial, + Higher Accuracy, + High Round Count, + Higher Damage, - Lower ROF, - Lower Penetration, - Slow Recharge, - Expensive).
+    	Type: Incendiary, Rate of Fire: 15-20 rounds per minute, Cartridge: 122mm, Penetration: 550, Damage: 120-180 (Direct), 2-4 (Burn, Per 1.65s). Blast Radius: 8m.
+    	Compared to similar abilities: (+ High Accuracy, + Higher Damage, - Slower ROF, - Lower Penetration, - Lower Round Count, - Slow Recharge).
+    	Compared to similar abilities: (+ Short Delay, + Very High ROF, - Lower Penetration, - High Scatter, - Lower Round Count, - Slow Recharge).
+    	Compared to similar abilities: (+ Short Delay, + High ROF, - Lower Penetration, - High Scatter, - Lower Round Count, - Slow Recharge).
+    	Type: High Explosive, Rate of Fire: 90-120 rounds per minute, Cartridge: 122mm, Penetration: 550, Damage: 320-480. Blast Radius: 14m.
+    	Type: High Explosive, Rate of Fire: 20-25 rounds per minute, Cartridge: 120mm, Penetration: 400, Damage: 120-160. Blast Radius: 12m.
+    	8.7cm Incendiary Barrage
+    	Type: Incendiary, Rate of Fire: 15-20 rounds per minute, Cartridge: 8.7cm, Penetration: 550, Damage: 120-180 (Direct), 2-4 (Burn, Per 1.65s). Blast Radius: 8m.
+    	Type: Barrage, Cost: 180 MU, Recharge: 180s, Radius: 15m, Rounds: 5. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 120 MU, Recharge: 180s, Radius: 15m, Rounds: 5. Replaces the secondary ability slot.
+    	Compared to similar abilities: (+ Area Denial, + Large AoE, + High Penetration,  - Low Damage, - Low Round Count, - Expensive).
+    	Compared to similar abilities: (+ Area Denial, + Large AoE, + High Penetration,  - Low Damage, - Low Round Count, - Only Targets Buildings).
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 9-Inch, Penetration: 2000, Damage: 1100-1200. Blast Radius: 24m.
+    	Type: High Explosive, Rate of Fire: 20-30 rounds per minute, Cartridge: 3-Inch, Penetration: 78, Damage: 100-120. Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 30 rounds per minute, Cartridge: 3-Inch, Penetration: 78, Damage: 100-120. Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 20-30 rounds per minute, Cartridge: 3-Inch, Penetration: 78, Damage: 100-120. Blast Radius: 6m.
+    	Type: Barrage, Cost: 60 MU, Recharge: 180s, Radius: 12m, Rounds: 6. Replaces the primary ability slot.
+    	Type: White Phosphorus, Rate of Fire: 20-30 rounds per minute, Cartridge: 3-Inch, Penetration: 78, Damage: 60-80 (Direct), 0.75 (Burn, Per 0.15s). Blast Radius: 6m.
+    	Type: White Phosphorus, Rate of Fire: 20 rounds per minute, Cartridge: 3-Inch, Penetration: 78, Damage: 60-80 (Direct), 0.75 (Burn, Per 0.15s). Blast Radius: 6m.
+    	Compared to similar abilities: (+ Area Denial, + High Accuracy, - Low Damage - Low Penetration, - Slow Recharge, - Expensive).
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Large AoE, - Low ROF, - Low Round Count, - Expensive).
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 9-Inch, Penetration: 2000, Damage: 1100-1200. Blast Radius: 24m.
+    	Type: Barrage, Cost: 280 MU, Recharge: 360s, Delay: 15s, Radius: 25m, Rounds: 4. Replaces the primary ability slot.
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 14-Inch, Penetration: 2800, Damage: 1300-1500. Blast Radius: 26m.
+    	Type: High Explosive, Rate of Fire: 400 rounds per minute, Cartridge: 8.7cm, Penetration: 450, Damage: 200-260. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 40-60 rounds per minute, Cartridge: 8.7cm, Penetration: 450, Damage: 200-260. Blast Radius: 12m.
+    	Type: Airburst, Rate of Fire: 15-20 rounds per minute, Cartridge: 8.7cm, Penetration: 350, Damage: 200-260. Blast Radius: 16m.
+    	Compared to similar abilities: (+ Area Denial, + Large AoE, + High Penetration, - Low Damage, - Low Round Count, - Expensive).
+    	Type: Airburst, Rate of Fire: 20-30 rounds per minute, Cartridge: 8.7cm, Penetration: 350, Damage: 200-260. Blast Radius: 16m.
+    	Compared to similar abilities: (+ Large AoE, + High Penetration, - Lower Penetration, - Low Round Count, - Slow Recharge).
+    	Type: Barrage, Cost: 120 MU, Recharge: 180s, Delay: 10s, Radius: 15m, Rounds: 6. Replaces the primary ability slot.
+    	Type: White Phosphorus, Rate of Fire: 20 rounds per minute, Cartridge: 3-Inch, Penetration: 78, Damage: 60-80 (Direct), 0.75 (Burn, Per 0.15s). Blast Radius: 6m.
+    	Type: White Phosphorus, Rate of Fire: 20-30 rounds per minute, Cartridge: 75mm, Penetration: 280, Damage: 60-80 (Direct), 0.75 (Burn, Per 0.15s). Blast Radius: 6m.
+    	Compared to similar abilities: (+ Area Denial, + High Accuracy, - Low Damage - Low Penetration, - Slow Recharge, - Expensive).
+    	Type: White Phosphorus, Rate of Fire: 20-30 rounds per minute, Cartridge: 75mm, Penetration: 280, Damage: 60-80 (Direct), 0.75 (Burn, Per 0.15s). Blast Radius: 5m.
+    	Compared to similar abilities: (+ Area Denial, + High Accuracy, - Low Damage - Low Penetration, - Slow Recharge, - Expensive).
+    	Compared to similar abilities: (+ Area Denial, + High Accuracy, - Low Damage, - Slow Recharge, - Expensive).
+    	Type: Precision Strike, Cost: 80 MU, Recharge: 180s, Delay: 4s, Radius: 7m, Rounds: 1. Replaces the secondary ability slot.
+    	Type: High Explosive, Cartridge: 5.5-Inch, Penetration: 1200, Damage: 560-640. Blast Radius: 18m.
+    	Faithful since its 1715 formation, the Hussars served with distinction at Waterloo, under the Light Brigade in Crimea and in the Great War. Stationed in Egypt since 1936, the 11th was thrown into the fray once more against Italian forces in 1940.
+    	Type: Barrage, Cost: 180 MU, Recharge: 240s, Delay: 5s, Radius: 7m, Rounds: ~27. Replaces the primary ability slot.
+    	Type: Armor-Piercing, Rate of Fire: 20-30 rounds per minute, Cartridge: 5.5-Inch, Penetration: 510, Damage: 560-650. Blast Radius: 1.5m.
+    	Type: Armor-Piercing, Rate of Fire: 7-9 rounds per minute, Cartridge: 5.5-Inch, Penetration: 510, Damage: 560-650. Blast Radius: 1.5m.
+    	Type: High Explosive, Rate of Fire: 20-25 rounds per minute, Cartridge: 4.2-Inch, Penetration: 400, Damage: 120-160. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 20-25 rounds per minute, Cartridge: 4.2-Inch, Penetration: 400, Damage: 120-160. Blast Radius: 12m.
+    	Type: White Phosphorus, Rate of Fire: 20 rounds per minute, Cartridge: 81mm, Penetration: 78, Damage: 60-80 (Direct), 0.75 (Burn, Per 0.15s). Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 20-30 rounds per minute, Cartridge: 81mm, Penetration: 78, Damage: 100-120. Blast Radius: 6m.
+    	Compared to similar abilities: (+ Area Denial, + Extra Damage vs. Structures , - Delayed Explosion).
+    	Type: Barrage, Cost: 35 MU, Recharge: 120s, Delay: 3.5s, Radius: 7m, Rounds: 6. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ Area Denial, + Extra Damage vs. Structures , + High Penetration, - Delayed Explosion).
+    	Type: High Explosive, Rate of Fire: 30-40 rounds per minute, Cartridge: 75mm, Penetration: 280, Damage: 120-160. Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 480 rounds per minute, Cartridge: 75mm, Penetration: 280, Damage: 120-160. Blast Radius: 6m.
+    	Type: Barrage, Cost: 35 MU, Recharge: 120s, Delay: 5s, Radius: 18m, Rounds: 6. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 20 MU, Recharge: 90s, Delay: 1.5s, Radius: 20m, Rounds: 6. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 20 MU, Recharge: 90s, Delay: 5s, Radius: 8m, Rounds: 6. Replaces the primary ability slot.
+    	Type: High Explosive, Rate of Fire: 20-30 rounds per minute, Cartridge: 60mm, Penetration: 60, Damage: 80-100. Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 40 rounds per minute, Cartridge: 60mm, Penetration: 60, Damage: 80-100. Blast Radius: 6m.
+    	Type: High Explosive, Rate of Fire: 480 rounds per minute, Cartridge: 60mm, Penetration: 60, Damage: 80-100. Blast Radius: 6m.
+    	Type: Barrage, Cost: 220 MU, Recharge: 240s, Delay: 7.5s, Radius: 35m, Rounds: 16. Replaces the primary ability slot.
+    	Type: Barrage, Cost: 220 MU, Recharge: 240s, Delay: 7.5s, Radius: 35m, Rounds: 12. Replaces the primary ability slot.
+    	Compared to similar abilities: (+ High Penetration, + High Damage, + Very High ROF, - Long Delay, - High Scatter, - Slow Recharge, - Expensive).
+    	Type: High Explosive, Rate of Fire: 10-15 rounds per minute, Cartridge: 240mm, Penetration: 2800, Damage: 1300-1500. Blast Radius: 26m.
+    	Type: High Explosive, Cartridge: 155mm, Penetration: 1200, Damage: 560-640. Blast Radius: 18m.
+    	Type: Armor-Piercing, Rate of Fire: 7-9 rounds per minute, Cartridge: 155mm, Penetration: 510, Damage: 560-650. Blast Radius: 1.5m.
+    	Type: High Explosive, Rate of Fire: 20-25 rounds per minute, Cartridge: 106.7mm, Penetration: 400, Damage: 120-160. Blast Radius: 12m.
+    	Compared to similar abilities: (+ Area Denial, + High Round Count, + High Damage, - Low Penetration).
+    	Compared to similar abilities: (+ Area Denial, + High Round Count, + High Damage, - Low ROF, - Low Penetration).
+    	Type: High Explosive, Rate of Fire: 30-40 rounds per minute, Cartridge: 105mm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 30-40 rounds per minute, Cartridge: 105mm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 15-20 rounds per minute, Cartridge: 105mm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 15-20 rounds per minute, Cartridge: 105mm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 15-20 rounds per minute, Cartridge: 10.5cm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 15-20 rounds per minute, Cartridge: 105mm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: High Explosive, Rate of Fire: 15-20 rounds per minute, Cartridge: 105mm, Penetration: 550, Damage: 240-320. Blast Radius: 12m.
+    	Type: Airburst, Rate of Fire: 20-30 rounds per minute, Cartridge: 105mm, Penetration: 350, Damage: 200-260. Blast Radius: 16m.
+    	Type: Strafe, Cost: 120 MU, Recharge: 180s, Delay: 3.5s, Radius: 18m. Replaces the secondary ability slot.
+    	Compared to similar abilities: (+ High ROF, + Long Bursts, - Lower Damage, - Low Penetration).
+    	Type: Machinegun, Rate of Fire: 780 rounds per minute, Penetration: 215/164/108, Damage: 70-80. Blast Radius: 1.25m.
+    	Type: Machinegun, Rate of Fire: 600 rounds per minute, Penetration: 215/164/108, Damage: 70-80. Blast Radius: 1.25m.
+    	Type: Machinegun, Rate of Fire: 600 rounds per minute, Penetration: 9/6/3, Damage: 30-35.
+    	Type: Smoke Bombs, Penetration: 550/410/275, Damage: 80 (Yes, this can kill infantry). Blast Radius: 6.5m.
+    	Compared to similar abilities: (+ Accurate, + High Penetration, +/- High Scatter, - Delay).
+    	Type: Smoke Barrage, Cost: 35 MU, Recharge: 120s, Delay: 3s. Replaces the secondary ability slot.
+    	Request for a smoke barrage from M2A1 105mm Field Howitzers. The smoke rounds block sight radius, and can injure infantry on direct impact.
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Tips are recommendations, not 
+    	Already upgraded with bulldozer.
+    	Already selected an equipment upgrade.
+    	Already selected an equipment upgrade.
+    	Already selected an equipment upgrade.
+    	$5548a070e3ea4fe1b827c7b94ceeeea4:22832
+    	Already selected a grenade upgrade.
+    	Pinned
+    	Pinned
+    	Already selected a grenade upgrade.
+    	Already selected a grenade upgrade.
+    	Already selected an equipment upgrade.
+    	Stationary
+    	In Supply
+    	Load Sprgr.43 High-Explosive Round
+    	Load Sprgr. L/5 High-Explosive Round
+    	Load Sprgr. 34 High-Explosive Round
+    	Load Sprgr. 42 High-Explosive Round
+    	Load Sprgr. 43 High-Explosive Round
+    	Load Sprgr. L/4,5 High-Explosive Round
+    	4 Command Points
