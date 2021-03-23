@@ -1,0 +1,500 @@
+    	Already upgraded with PPSh-41s.
+    	M1919A6 LMG Shipment
+    	Weapon Inventory Full. 
+    	Rifle, Cal .30, Automatic, M1918A2
+    	Carbine, Cal .30, M1 (x2)
+    	Rifle, Cal .30, M1 'Garand' (x2)
+    	Type: Carbine, Rate of Fire: Semi-Automatic, Cartridge: 7.62×33mm, Capacity: 15 Rounds, Quantity: 2. Effective at close range vs. infantry. 
+    	Type: Rifle, Rate of Fire: Semi-Automatic, Cartridge: 7.62x63mm, Capacity: 8 Rounds, Quantity: 2. Effective at medium range vs. infantry. 
+    	Type: Automatic Rifle, Rate of Fire: 650 rounds per minute, Cartridge: 7.62x63mm, Capacity: 20 Rounds. Effective at medium range vs. infantry. 
+    	Weapon Inventory Full. 
+    	2 Weapon Inventory Space
+    	No inventory Space
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Weapon Inventory Full. 
+    	Rocket Launcher, M9 'Bazooka'
+    	M9 'Bazooka' Rocket Launcher Shipment (2x)
+    	Lend Lease M1A1 'Bazooka' Rocket Launcher
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 82mm Steel, Effective at close range vs armor & emplacements.
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 82mm Steel, Quantity: 2, Effective at close range vs armor & emplacements.
+    	Type: Rocket Launcher, Cartridge: 57mm, Penetration: 76mm Steel, Effective at close range vs armor & emplacements.
+    	The M9 Bazooka was created to combat heavier German armor, such as the Panther and Tiger. Rear hits are still advised.
+    	Nicknamed after a musical instrument, the Bazooka provides infantry a dependable, mid-range anti-tank weapon.
+    	One of the first shoulder-fired rocket launchers, the 'Bazooka' provides a means to defend against medium and heavy armor.
+    	One of the first shoulder-fired rocket launchers, the 'Bazooka' provides a means to defend against medium and heavy armor.
+    	Initially developed as a portable light machine gun, the M1918A2 served mostly as an automatic rifle. 
+    	Designed for the battlefields of World War I, the M1918A2 is a versatile automatic rifle that performs admirably in most infantry firefights.
+    	The M1 Carbine's light weight and small frame allowed for soldiers to fire exceptionally well while on the move, and in close quarters.
+    	Lightweight, and compact, the M1 Carbine fired intermediate cartridges from a large magazine; perfect for close quarters.
+    	The Garand's semi-automatic capability granted a distinct advantage in close quarters over the K98, while still being as effective at range.
+    	Arguably the most successful semi-automatic rifle of the war, the M1 Garand provides American soldiers unprecedented combat effectiveness across all ranges. 
+    	Veterancy 1
+    	Veterancy 1
+    	IS-2 M1943 Heavy Tank
+    	IS-2 M1943 Heavy Tank
+    	Powerful but slow loading 122mm gun is good against all targets. The Model 1943 did not have a machine gun turret, and had inferior armor compared to later variants.
+    	Armaments: (M1 Carbines, M3 Grease Gun, M9 Bazooka), Skill: Regular, Role: Anti-Tank.
+    	Anti-Tank Team
+    	The M18 smoke grenade discharges a smoke cloud, blocking the vision in the area.
+    	Left-click ability, left-click target. Smoke lasts for about 30s.
+    	The M18 smoke grenade discharges a smoke cloud, blocking the vision in the area.
+    	Left-click ability, left-click target. Smoke lasts for about 30s.
+    	2 Weapon Inventory Space
+    	Nearby squads are ordered to focus their fire on the specified target. Enemy units are more susceptible to being hit, but will retaliate ferociously.
+    	The Hauptmann is unable to move while the ability is active. Infantry retreat to the nearest retreat point or HQ.
+    	The Hauptmann acts as a retreat point, allowing other soldiers to retreat to his position.
+    	Hauptmann Retinue
+    	The German Army called for a versatile command structure, all men were expected to know the responsibilities of their superiors should they fall in combat. Gains veterancy from nearby allies. 
+    	Armaments: (K98s, MP40), *MG30, *MG42, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Can only field (1) Leutnant at a time
+    	Can only field (1) Hauptmann at a time
+    	Veterancy 2
+    	Stabskapitän Retinue
+    	Officer, (Sector Aura: +5% Reduced Hit Chance, +33% Capture Rate, +10% Accuracy), able to coordinate field artillery, and provide long range support. Limit of 1 Squad.
+    	Armaments: (Mosin-Nagants, M1895), *SVT-40s x2, *Maxim-Tokarev, Training: Experienced, Role: Strategic\Tactical Support. 
+    	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
+    	The Browning M1919A6 was created in response to the German MG42 and provides mobile fire support.
+    	The Browning M1919A6 was created in response to the German MG42 and provides mobile fire support.
+    	Type: Machine Gun, Rate of Fire: 600 rounds per minute, Cartridge: 7.62x63mm, Effective at medium range vs. infantry. 
+    	Infantry Company
+    	Already upgraded with an M1918A2 BAR.
+    	The squad will halt the retreat of any nearby squads. This does NOT cancel his squad from retreating.
+    	Load BR-365P Armor-Piercing Rounds
+    	Click to activate, duration 20s.
+    	Switch to firing BR-365P Armor-Piercing Rounds, which have increased accuracy and armor penetration
+    	Veterancy 2
+    	Veterancy 3
+    	Use equipped smoke dischargers to block the enemy's line of sight.
+    	Smoke blocks line of sight. Use smoke to reposition or cover a retreat.
+    	Veterancy 2
+    	SS-Hauptsturmführer Retinue
+    	Waffen-SS Hauptsturmführer
+    	Waffen-SS Hauptsturmführer
+    	Waffen-SS Hauptsturmführer
+    	Waffen-SS Hauptsturmführer
+    	Veterancy 2
+    	Veterancy 3
+    	SS-Standartenführer Retinue
+    	Armaments: (K98s, Sturmpistole), *MP34s x2, *G43-Zf4, Skill: Experienced, Role: Tactical/Strategic Support.
+    	Armaments: K98, Luger, *MP40, Training: Experienced, Role: Strategic Support. Direct Combat is not advised.
+    	The Hauptsturmführer (Captain) is the most ubiquitous position held by Waffen-SS officers, fostering a reputation of both bravery and lethality in combat. Gains veterancy from nearby allies. 
+    	The "Colonel" provides strategical support and inspiration to nearby men.
+    	Veterancy 3
+    	Load V-patronen Armor Piercing Rounds
+    	Load B-30 Armor Piercing Rounds
+    	Crew switches to armor-piercing, hardened steel core ammunition for better armor penetration.
+    	Primary defensive structure.
+    	Click and target position. 
+    	Flares are able to illuminate a designated area, revealing enemy positions. While it has a relatively small radius, flares cannot be shot down, and will also detect camouflaged units.
+    	10.5cm Illumination Barrage
+    	Left-click ability, left-click target area. Effective against Infantry and Team Weapons.
+    	The Model 39 Eierhandgranate often referred to as the "egg" grenade can kill or injure infantry in a 4m radius.
+    	Model 39 Grenade
+    	Left-click ability, left-click target squad. Effective against infantry.
+    	Snipe Turret Gunner
+    	Armaments: (K98s, MP40), *G43s x2, *G43-Zf4, *MG42, Skill: Regular, Role: Frontline.
+    	Armaments: K98, MG42, Training: Regular, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (K98s/Lugers, MP40), *MP40s x2, *MP717(r)s x2, *G43s x2, *FmW 35, Skill: Elite, Role: Assault.
+    	Armaments: (MG42, K98s, MP40), Crew: 5, Skill: Regular, Role: Suppression.
+    	Armaments: (12 cm GrW 378 (r), K98s, MP40), Crew: 4, Skill: Regular, Role: Indirect Fire.
+    	Armaments: K98, *MG34, *Pzb. 39, Training: Varied, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (K98s), *K98-Trench x2, *G.259(r)s x2, *MG34, *Pzb. 39, Skill: Poor, Role: Static Defense.
+    	Armaments: (K98s, StG44), *StG44s-Zf4 x2, *G43-Zf4, *MG42, *RPzB-54/1, Skill: Experienced, Role: Frontline.
+    	Armaments: (K98s, MP40), *MP40s x2, *FmW 35, *Pzb. 39, Skill: Regular, Role: Engineer.
+    	Armaments: (G43-Zf4), Skill: Ace, Role: Sniper.
+    	Armaments: (K98s, MP40, Luger), Training: Experienced, Role: Support. Effective at long range vs. static targets and defenses.
+    	Armaments: (Mosin-Nagants, M1895), *ROKS-35, *PPSh-41s x2, Skill: Poor, Role: Engineer.
+    	Armaments: (Mosin-Nagants, PPSh-41) *SVT-40s x2, *PPSh-41s x2, *DP-28, Skill: Poor, Role: Assault.
+    	Armaments: Mosin-Nagant, *DP-28, *SVT-40, Training: Poor, Role: General Purpose. Effective at medium range vs. infantry.
+    	Armaments: (12.7 mm DShK, Mosin-Nagants, PPSh-41), Crew: 6, Skill: Regular, Role: Suppression.
+    	Armaments: (M1910 Maxim, Mosin-Nagants, PPSh-41), Crew: 6, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	Armaments: (120 mm HM-38, Mosin-Nagants, PPSh-41), Crew: 5, Skill: Regular, Role: Indirect Fire.
+    	Armaments: (82 mm PM-41, Mosin-Nagants, PPSh-41), Crew: 5, Skill: Regular, Role: Indirect Fire.
+    	Armaments: (K98s, MG34s), MG42, DP28, Training: None, Role: Guerilla. Effective at medium range vs. infantry.
+    	Armaments: (K98s, Panzerschrecks x2), M1 Bazooka, Training: None, Role: Anti-Armor. Effective at medium range vs. armor.
+    	Armaments: (K98s, PTRS-41s x2), Pzb. 39, Training: None, Role: Anti-Armor. Effective at long range vs. light vehicles.
+    	Armaments: (SVT-40), Training: None, Role: Guerilla. Effective at medium range vs. infantry.
+    	Armaments: (PPSh-41), Training: None, Role: Assault. Effective at close range vs. infantry.
+    	Armaments: (K98s), *SVT-40, *PPSh-41, Training: None, Role: Guerilla. Effective at medium range vs. infantry.
+    	Armaments: (K98s, PPS-43), *SVT-40s x2, *PPS-43s x2, *ROKS-3, *PIAT, Skill: Poor, Role: Guerilla.
+    	Armaments: (Mosin-Nagant M91/30-PU, Mosin-Nagant), *Mosin-Nagant M91/30-PU, Skill: Elite, Role: Sniper.
+    	Kommissars are stern political officers in charge of enforcing discipline and patriotism, ensuring their troops are ready to make the ultimate sacrifice. Gains veterancy from nearby allies. 
+    	Armaments: (Mosin-Nagants, PPSh-41, M1895), *PPSh-41s x2, *ROKS-3, Training: Elite, Role: Tactical Support. 
+    	Stabskapitäns (Staff Captains) maintain an iron grip on their subordinates and often have to make life-or-death decisions at a moment's notice. Gains veterancy from nearby allies. 
+    	Armaments: (Mosin-Nagants), *ROKS-35 x1/2, *PPSh-41s x2, Training: Varied, Role: Distraction. Effective at medium range vs. infantry.
+    	Armaments: (SVT-40s, PPSh-41), *ROKS-35, *DP-28, *PPSh-41s x2, Training: Elite, Role: Assault. Effective at close range vs. infantry.
+    	Armaments: (M1 Garands, M3A1 Grease Gun), *M1 Carbines x2, *M1A1 Thompsons x2, *M2 Flamethrower, *M9 Bazooka, Skill: Poor, Role: Assault.
+    	Armaments: (M1 Garands, M1A1 Thompson), *M1918 BAR, *M1919A6 Browning, *M1A1 Thompsons x2, *M9 Bazooka, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
+      Armaments: (M1903 Springfields/M1911s, M1A1 Thompson), *M1 Garands x2, *M1A1 Thompsons x2, *M1903A4-M73, *M1919A6 Browning, *M18 Recoilless, Skill: Elite, Role: Scout. 
+      Armaments: (M1 Carbines, M3A1 Grease Gun), *M1 Garands x2, *M3 Grease Guns x2, *M1918A2 BAR, Skill: Poor, Role: Engineer.
+    	Armaments: (M1A1 Carbines/M1911s, M1A1 Thompson (20rd.)), *M1 Garands x2, *M1A1 Thompsons (20rd.) x2, M1903A4-M73, Skill: Ace, Role: Recon.
+    	Armaments: (M1 Carbines, M1C Garand), Training: Experienced, Role: Recon. Effective at long range vs. infantry.
+    	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M1A1 Thompsons x2, *M2 Flamethrower, *M18 Recoilless Rifle, Skill: Experienced, Role: Tactical Support.
+    	The Captain is an experienced field officer in charge of the company, having to weigh between completing the unit's mission, and the lives of his men. Gains veterancy from nearby allies. 
+    	The Lieutenant bridges the line between the enlisted men and the officers, providing their men both stern leadership, and tactical support. Most are the same, or younger age than the men the are leading. Gains veterancy from nearby allies. 
+    	Armaments: (M1 Garands, M1 Carbine, M1A1 Thompson) *M1903A4-M73, *M1919A6, Skill: Experienced, Role: Strategic/Tactical Support.
+    	Armaments: (M1 Garands, M3 Grease Gun), *M1 Carbines, *M3 Grease Guns x2, *M2 Flamethrower, *M9 Bazooka w. M6A3, Skill: Experienced, Role: Assault. 
+    	Armaments: M3 Grease, *M1918 BAR, *M2 Flamethrower, Training: Experienced, Role: Assault. Effective at close range vs. infantry.
+    	Armaments: (M1 Carbines, M1911), *M3 Grease Guns x2, *M1A1 Thompsons x2, Skill: Poor, Role: Strategic Support.
+    	The Major's past experience leading from the front, and authority allows him to call-in an unprecedented amount of battlefield support. Gains veterancy from nearby allies. 
+    	Armaments: StG44, *FmW 35, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
+    	Armaments: K98, *G43, *MG34, Training: Experienced, Role: Recon. Effective at long range vs. infantry.
+    	Armaments: (K98s, StG44), *MG42, *G43-Zf4, Skill: Experienced, Role: Frontline.
+    	Armaments: (K98s, StG44), *G43-Sturm x2, *G43-Zf4, *MG42, *Panzerschreck, Skill: Experienced, Role: Recon.
+    	Armaments: (MG42 GPMG, K98, MP40), Skill: Regular, Role: Suppression.
+    	Armaments: (MG34, K98s, MP40), Crew: 5, Skill: Regular, Role: Suppression.
+    	Armaments: 8.1 cm GrW 34 Mortar, MP40, Crew: 4, Skill: Regular, Role: Indirect Fire.
+    	HQ
+    	Field Medic Squad
+    	16-ya Armiya Detashement Shtrafnoy Batal'on Shtrafniki
+    	'Independent thinkers', vicious criminals, and former prisoners of war serving time for minor offenses. These Shtrafbat (Penal) legions are used as sacrificial soldiers, to clear minefields and draw enemy fire. They were never expected to redeem themselves.
+    	Combat experience leads to 5% increased accuracy.
+    	Combat experience leads to 5% increased accuracy and 5% reduced hit chance.
+    	Combat experience leads to 5% increased accuracy and 5% reduced hit chance.
+    	Combat experience leads to 2.5% increased accuracy and 2.5% reduced hit chance.
+    	Combat experience reaches its peak at a total of 20% increased accuracy and 15% reduced hit chance.
+    	Combat experience leads to 10% increased accuracy, 6% reduced suppression, 6% faster reload times.
+    	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times.
+    	Combat experience leads to 20% increased accuracy, 5% reduced hit chance, 12% reduced suppression, 20% faster ability recharge time.
+    	Combat experience leads to 40% increased accuracy, 12.5% reduced hit chance, 24% reduced suppression, 40% faster ability recharge time.
+    	Combat experience reaches its peak at a total of 40% increased accuracy, 15% reduced hit chance, 30% reduced suppression, 30% faster reload times.
+    	Armaments: 15 cm StuH 43 L/12, MG34 (Hull), *MG42 Pintle), Armor: 100mm, Role: Assault, Speed: 24 km/h.
+    	Armaments: 8.8 cm Pak 43/2 L/71, *MG34 (Hull), Armor: 240mm, Role: Tank Destroyer, Speed: 30 km/h.
+    	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Speed: 76 km/h. Direct combat is not advised.
+    	Armaments: 8 cm GrW 34, Armor: 14.5mm, Role: Indirect Fire, Speed: 76 km/h. Effective vs. static infantry and structures.
+    	Armaments: MG42 (Frontal/Rear), Armor: 12mm, Role: Transport, Capacity: 12, Speed: 52.5 km/h.
+    	Armaments: 3.7 cm FlaK 43 L/89, Hull MG34, Armor: 50mm, Role: Anti-Aircraft, Speed: 38 km/h. Effective at medium range vs. infantry & aircraft. 
+    	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *Pintle MG42, Armor: 160mm (Sloped), Role: General Purpose, Speed: 55 km/h.
+    	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Coaxial MG34, Armor: 80mm, Role: Infantry Support, Speed: 42 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: 7.5 cm KwK 40 L/48, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 80mm, Role: Tactical Support, Speed: 42 km/h.
+    	Armaments: 7.5 cm KwK 37 L/24, Hull MG34, Armor: 80mm, Role: Infantry Support, Speed: 42 km/h. Effective at medium range vs. infantry & structures.
+    	Armaments: 15 cm NbW 41, MG42 (Pintle), Armor: 20mm, Role: Indirect Fire, Speed: 40 km/h.
+    	Armaments: 5 cm KwK 39/1 L/60, MG42 (Coaxial), Armor: 32mm, Role: Tank Destroyer, Speed: 80 km/h.
+    	Armaments: MG42 (Pintle), *2 cm KwK 30 L/55, Armor: 14.5mm, Role: Recon, Speed: 80 km/h.
+    	Armaments: 7.5 cm KwK 37 L/24, *MG42 (Pintle), Armor: 80mm, Role: Infantry Support, Speed: 40 km/h.
+    	Armaments: 7.5 cm KwK 40 L/48, *Pintle MG42, Armor: 82mm, Role: Tank Destroyer, Speed: 40 km/h. Effective at long range vs. armor. 
+    	Armaments: 8.8 cm KwK 36 L/56, Hull MG34, Coaxial MG34, *Pintle MG42, Armor: 125mm, Role: General Purpose, Speed: 45 km/h. Effective at long range vs. armor. 
+    	Armaments: 8.8 cm KwK 36 L/56, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 125mm, Role: General Purpose, Speed: 45 km/h.
+    	Toggle from High Explosive to Armor Piercing rounds. Increased Penetration.
+    	The 75mm M48 High Explosive round is effective against infantry and other soft targets.
+    	Toggle from Armor Piercing to High Explosive rounds. Increased Area of Effect.
+    	The 75mm M61 Armor Piercing round has a better chance of penetrating the armor of enemy tanks.
+    	Increases the durability of the unit. Upgrade leads to +20 increased health, & 5% increased armor value.
+    	Equips the tank with armor side skirts improving its durability.
+    	Armored Skirts
+    	Increases the durability of the unit. Upgrade leads to 25% increased health.
+    	Increases the durability of the unit. Upgrade leads to 25% increased health.
+    	Increases the durability of the unit. Upgrade leads to 30% increased armor.
+    	Equips the tank with armor side skirts improving its durability.
+    	Equips the tank with armor side skirts improving its durability.
+    	Equips the tank with armor side skirts improving its durability.
+    	Fallschirmjäger-Division (Versatile/Airborne)
+    	Leichte-Division (Assault/Mechanized)
+    	Provides access to Luftwaffe Field Division Abilities.
+    	Relay Beacon
+    	Already upgraded with an Machinegewehr 34 LMG.
+    	Adds a Gewehr 43 rifle with "K43" ddx ZF4 Scope to the squad. The optics allow for increased range and sight radius.
+    	Gewehr 43 rifles for increased firepower. Interrogation of enemy casualties to reveal positions.
+    	Armaments: M2HB .50 Cal (Pintle), Armor: None, Role: Recon, Speed: 86 km/h.
+    	Armaments: 3-inch M1918, Armor: 60mm, Role: Tank Destroyer, Speed: 51 km/h.
+    	Armaments: M2HB .50 Cal (Pintle), M9 Bazooka (Crew), Armor: 14.5mm, Role: Recon, Speed: 88.5 km/h.
+    	With its signature reverse-mount air-cooled M2 brownings, the A1 was popular for close action support and road patrols. Deadly on unarmored targets, it saw Allied action from European Italy to the Pacific liberation of the Philippines.
+    	The M21 mounts the M1 81mm mortar on the chassis of a lightly armored half-track. The mortar can fire a variety of barrage rounds.
+    	Armaments: M1A2 Autocannon, Pintle M2HB .50 Cal, Armor: 12mm, Role: Anti-Aircraft, Speed: 72 km/h. Effective at medium range vs. infantry & aircraft. Fires in a large arc from the rear against ground targets.
+    	Armaments: 81mm M1 Mortar, Armor: 8mm, Role: Indirect Fire, Speed: 72 km/h.
+    	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: 90mm M3, Armor: 70mm, Role: Tank Destroyer, Speed: 48 km/h.
+    	Armaments: 105 mm M52, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 51mm, Role: Infantry Support, Speed: 48 km/h.
+    	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
+    	Armaments: 75 mm M3 L/40, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 51mm, Role: Infantry Support, Speed: 48 km/h.
+    	Armaments: 76 mm M1, M1919 .30 Cal (Coaxial/Hull), *M2HB .50 Cal (Pintle), Armor: 80mm, Role: General Purpose, Speed: 48 km/h.
+    	Armaments: 37 mm M6, M1919 .30 Cal (Coaxial/Hull), Armor: 45mm, Role: Infantry Support, Speed: 58 km/h.
+    	Armaments: 105 mm M2, Pintle M2HB .50 Cal, Armor: 51mm, Role: Artillery, Speed: 39 km/h. Effective at long range vs. infantry & structures.
+    	Armaments: 37 mm M6, M1919 .30 Cal (Coaxial), M2HB .50 Cal (Pintle), Armor: 14.5mm, Role: Recon, Speed: 88.5 km/h.
+    	Armaments: 75 mm M2, Armor: 40mm, Role: Indirect Fire, Speed: 58 km/h.
+    	Left-click to select ability, left-click on target. Effective at short range vs. vehicles & crewed weapons.
+    	The US-made Sticky Bomb is an improvised anti-tank grenade made by loading explosives into a sock, and covered in tar to stick to vehicles. . Meant to immobilize rather than cause any serious damage.
+    	Throw Sticky Bomb
+    	Bring a squad up to full strength. Cannot merge with Sniper Squads.
+    	Left-click on target squad. Merged infantry use the weapons of the target squad.
+    	Bring a squad up to full strength by filling their ranks with another squad. Cannot merge with Sniper Squads.
+    	Can only field (2) Anti-Tank Teams at a time.
+    	Bazooka teams are considered the first line of defense against enemy tanks, though being assigned the role was typically considered a death sentence. The M9 Bazooka is a dependable anti-tank rocket launcher, though tends to be less accurate when fired at a distance.
+    	The US M2 Anti-Personnel Mine is cheap and can be planted quickly. While the mine can be triggered by infantry or vehicles, the mine is not effective against vehicles.
+    	Type: Anti-Personnel Mine, Filling: 154g TNT, Penetration: Low, Effective vs. infantry. 
+    	Type: Anti-Personnel Mine, Filling: 154g TNT, Penetration: Low, Pressure Plate: Infantry, Effective vs. infantry.
+    	Armaments: Passengers, Armor: None, Role: Transport, Capacity: 6, Speed: 86 km/h.
+    	Truck, Cargo, ¾, 4x4 Weapons Carrier, WC51
+    	Dodge’s military contract has its roots in the 1916 “Pancho Villa” Expedition, America’s first motorized campaign. Recognizing the need for mobile attacks, Dodge designed the WC-51 to carry heavy weapon squads in WW2. 
+    	M2 Anti-Personnel Mines
+    	Anti-Personnel M16s are based off the German S-Mine, they are randomly planted in a large radius; includes warning points on boundaries of radius.
+    	Effective against infantry.
+    	Anti-Personnel M16s are based off the German S-Mine, they are randomly planted in a large radius; includes warning points on boundaries of radius.
+    	M16 'Bouncing Betty' Mine Field
+    	Sandbags
+    	Sandbags
+    	Sandbags
+    	Sandbags
+    	Trench
+    	Type: Bunker, Durability: Moderate, Armor Rating: Low, Provided Cover: Heavy, Firing Positions: 5, includes machineguns, & anti-tank guns. 
+    	This trench provides good protection to infantry, snipers, mortars, and heavy machine guns. Can be crossed by tanks.
+    	Fortified Trench
+    	This fortified trench provides good protection to infantry, snipers, mortars, and heavy machine guns.
+    	Can only field (2) Snipers at a time.
+    	Armaments: (G43-Zf4), *StG44-Zf4, Skill: Ace, Role: Sniper.
+    	Sniper infantry, (Traits: + Camouflage, + High Detection Range): Excellent at eliminating priority infantry targets at range, or other snipers with ease. Limit of 2 Squads.
+    	German snipers are well trained, armed with accurate G43 rifles with high-quality optics, and issued specially made ammunition for improved hit probability. They can spot camouflaged troops at very long distances.
+    	SS-Scharfschütze
+    	Requires Tankoviy Battalion Command.
+    	Already upgraded with a Gewehr 43.
+    	Already upgraded with Sturmgewehr 44s.
+    	Already upgraded with a Machinegewehr 42.
+    	Left-click to target. Low damage, but better range than thrown grenade.
+    	Soldiers fire a 30mm high-explosive Gewehrsprenggranate rifle grenade.
+    	Soldiers fire a 30mm high-explosive Gewehrsprenggranate rifle grenade.
+    	Fire Gewehrsprenggranate 30
+    	Costs 1 Command Point to unlock.
+    	Costs 1 Command Point to unlock.
+    	Costs 3 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 1 Command Point to unlock.
+    	Costs 3 Command Points to unlock.
+    	Costs 3 Command Point to unlock.
+    	Costs 5 Command Points to unlock.
+    	Costs 1 Command Point to unlock.
+    	22mm High-Explosive Rifle Grenade
+    	Improves anti-infantry capability at long ranges. Replaces the current grenade ability.
+    	Rifle grenades provides longer range over regular grenades, at the cost of a smaller payload.
+    	Panzerfaust upgrade
+    	Panzerfaust-100
+    	Type: Recoilless Gun, Cartridge: 150mm, Penetration: 220mm Steel, Effective at close range vs armor.
+    	The Panzerfaust is a single-use anti-tank weapon that deals heavy damage.
+    	Armaments: Flamethrower, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: Infantry Support, Speed: 48 km/h. Effective at medium range vs. infantry & structures.
+    	Bulldozer equipped Sherman M4A3 armed with a flamethrower for destroying buildings and infantry.
+    	The M4A3 Sherman Bulldozer tank is equipped with a 105mm howitzer for engaging infantry and structures. Barriers can be created or destroyed with the bulldozer blade.
+    	M4A3 'Zippo' Medium Tank
+    	Armaments: 122 mm D25-T, Hull DT, Coaxial DT, *Pintle DShK, Armor: 120mm, Role: General Purpose, Speed: 37 km/h. Effective at long range vs. armor. 
+    	Armaments: 125 mm D25-T, Hull DT, Coaxial DT, Armor: 100mm, Role: General Purpose, Speed: 37 km/h. Effective at long range vs. armor. 
+    	Armaments: 152.4 mm ML-20S, *DShK (Pintle), Armor: 105mm, Role: Infantry Support, Speed: 37 km/h.
+    	Armaments: 132 mm BM-13-16, Armor: None, Role: Indirect Fire, Speed: 45 km/h.
+    	Armaments: 76.2 mm M1941 ZiS-5, DT (Coaxial/Hull/Rear), Armor: 90mm, Role: General Purpose, Speed: 35 km/h.
+    	Armaments: 152 mm M10, DT (Hull/Rear), Armor: 90mm, Role: Infantry Support, Speed: 25.6 km/h.
+    	Armaments: ATO-41, 45 mm M1932, DT (Hull/Rear), Armor: 90mm, Role: Infantry Support, Speed: 35 km/h.
+    	Armaments: Front M2HB .50 Cal, Rear M1919 .30 Cal, Passengers, Armor: 13mm, Role: Recon, Capacity: 6, Speed: 89 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: Pintle M2HB .50 Cal, Passengers, Armor: 12mm, Role: Transport, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: Pintle M2HB .50 Cal, Passengers, *M45 Quad Mount, Armor: 12mm, Role: Transport, Capacity: 10, Speed: 72 km/h. Effective at medium range vs. infantry & light vehicles.
+    	Armaments: 76 mm M1, Hull M1919 .30 Cal, *Pintle M2HB .50 Cal, Armor: 51mm, Role: General Purpose, Speed: 48 km/h. Effective at medium range vs. armor. 
+    	Armaments: 76.2 mm ZIS-3Sh, Armor: 30mm (Sloped), Role: Infantry Support, Speed: 45 km/h.
+    	Armaments: 85 mm M1939 D-5T, Armor: 45mm, Role: Tank Destroyer, Speed: 51 km/h. Effective at long range vs. armor. 
+    	Armaments: 76.2 mm M1940 F-34, DT (Coaxial/Hull), Passengers, Armor: 65mm (Sloped), Role: Infantry Support, Speed: 53 km/h.
+    	Armaments: 85 mm M1939 D-5T, DT (Coaxial/Hull), Armor: 85mm (Sloped), Role: General Purpose, Speed: 53 km/h.
+    	Armaments: 45 mm M1938, DT (Coaxial), Armor: 50mm (Sloped), Role: Recon, Speed: 45 km/h.
+    	Armaments: Passengers, Armor: None, Role: Transport, Capacity: 12, Speed: 55 km/h. Transports infantry, crewed weapons, and large guns.
+    	Armaments: 76.2 mm M1942 ZiS-3, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank. Effective at long range vs. infantry & emplacements. 
+    	Armaments: 45 mm M1938, Mosin-Nagant, Crew: 6, Training: Regular, Role: Anti-Tank.  Effective at medium range vs. light vehicles & emplacements.
+    	Anti-tank gun, (Traits: + Accurate, + High Damage, - Slow Reload): Use to engage any sort of enemy vehicle or armor at long range.
+    	Armaments: (7.5 cm Pak 40, K98s, MP40), Crew: 5, Skill: Regular, Role: Anti-Tank.
+    	Armaments: M2HB .50 Cal HMG, M1 Garand, Crew: 5, Training: Regular, Role: Suppression. Effective vs. massed infantry.
+    	Armaments: (60 mm M2, M1 Garands, M3A1 Grease Gun), Crew: 3, Skill: Regular, Role: Indirect Fire.
+    	Armaments: (57 mm M1, M1 Garands, M3A1 Grease Gun) Crew: 5, Skill: Regular, Role: Anti-Tank.
+    	Armaments: 8.8 cm Raketenwerfer 43, K98, Crew: 5, Skill: Regular, Role: Anti-Tank. 
+    	Favored by Wehrmacht light units for its low weight, the ‘Puppchen’ fired the same 8.8 cm rocket as its conventional cousin, the Panzerschreck. More accurate due to its mounted design, it could penetrate 160 mm of armor out to 700 m.
+    	Armaments: (7.5 cm le.IG 18, K98s, MP40), Crew: 5, Skill: Regular, Role: Artillery.
+    	Armaments: 5 cm KwK 39/1 L/60, MG42 (Coaxial), Armor: 32mm, Role: Tank Destroyer, Speed: 80 km/h.
+    	Armaments: 8.8 cm KwK 43 L/71, MG34 (Coaxial/Hull), *MG42 Pintle, Armor: 280mm (Sloped), Role: General Purpose, Speed: 41 km/h.
+    	Armaments: 2 cm KwK 30, MG34 (Coaxial), Armor: 50mm, Role: Recon, Speed: 60 km/h.
+    	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), *MG42 (Pintle), Armor: 160mm (Sloped), Role: General Purpose, Speed: 55 km/h.
+    	Armaments: 7.5 cm KwK 42 L/70, MG34 (Coaxial/Hull), Armor: 160mm (Sloped), Role: Tactical Support, Speed: 55 km/h.
+    	Armaments: 3.7 cm FlaK 43 L/89, MG34 (Hull), Armor: 50mm, Role: Anti-Aircraft, Speed: 38 km/h.
+    	Armaments: MG34 (Pintle), Armor: None, Role: Utility, Speed: 80 km/h.
+    	Armaments: 12.8 cm PaK 44 L/55, MG34 (Hull), Armor: 310mm (Sloped), Role: Tank Destroyer, Speed: 34 km/h.
+    	Armaments: 7.5 cm Pak 39 L/48, *Periscope MG34 (Pintle) Armor: 95mm (Sloped), Role: Tank Destroyer, Speed: 42 km/h.
+    	Armaments: Wurfrahmen 40, MG42 (Pintle), Armor: 12mm, Role: Indirect Fire, Speed: 40 km/h.
+    	Armaments: None, Armor: 12mm, Role: Surveillance, Speed: 52.5 km/h.
+    	Armaments: 2 cm Flak 38, Armor: 14.5mm, Role: Anti-Aircraft, Speed: 52.5 km/h. Effective at medium range vs. infantry & aircraft.
+    	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Capacity: 5, Speed: 76 km/h. Direct combat is not advised.
+    	The Sdkfz 250 Halftrack is a fast-moving light vehicle that can garrison one squad of infantry. The units stationed inside can fire out of the halftrack while benefiting from its protection.
+    	Sonderkraftfahrzeug 250 Half-track
+    	Use the full might of the Third Reich's air forces, and elite Fallschirmjägers to outmaneuver and outmatch your enemies.
+    	Allows access to air supply drops, paratroopers, and airstrikes. Only ONE Division can be chosen in a single match.
+    	Adopt mechanized tactics to outmaneuver and destroy your enemy.
+    	Click and select location within HQ territory to deploy.
+    	A cargo plane will deliver available fuel to the target location, varying in amount based on availability. The cargo plane is highly vulnerable to anti-air units.
+    	Luftwaffe Supply Drop
+    	A cargo plane will deliver available fuel to the target location, varying in amount based on availability. The cargo plane is highly vulnerable to anti-air units.
+    	Call-in 5th Fallschirmjäger Battalion Paratroopers
+    	Armaments: FG42, Panzerschreck, Training: Experienced, Role: Assault. Effective at medium range vs. infantry.
+    	Elite Paratrooper infantry who can deploy behind enemy lines. These units are very disciplined, combining excellent offense and defense but with a high cost.
+    	3rd Fallschirmjägers Divsion Paratrooper Squad
+    	Can only field 2 Fallschirmjager Squads at a time.
+    	Requires the Luftwaffe Feld Division.
+    	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Speed: 76 km/h. Direct combat is not advised.
+    	The Sdkfz 250 Halftrack is a fast-moving light vehicle that can garrison one squad of infantry. The units stationed inside can fire out of the halftrack while benefiting from its protection.
+    	SdKfz 250 Half-track
+    	Armaments: None, Passengers, Armor: 14.5mm, Role: Transport, Capacity: 5, Speed: 76 km/h. Direct combat is not advised.
+    	Lighter but just as versatile, the Sdkfz. 250 was built to supplement the 251 ‘Hanomag’. Modified throughout the war to perform various tasks, it was an invaluable asset of the Wehrmacht’s highly mechanized recon formations.
+    	Sonderkraftfahrzeug 250
+    	Requisition SdKfz 250 Half-tracks to the frontline. These vehicles are fast, light, and allow for troops to fire from within.
+    	Costs 1 Command Point to unlock.
+    	Costs 1 Command Point to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	All infantry are ordered to move at their fastest available speed for the duration of the ability. Timed ability, affecting all player infantry. Duration: 20s
+    	All infantry are ordered to move at their fastest available speed for the duration of the ability. Timed ability, affecting all player infantry. Duration: 20s
+    	Costs 3 Command Points to unlock.
+    	Slightly improves the speed of all vehicle units and allows them to decapture points very rapidly.
+    	Provides access to Leitchte Divsion Abilities.
+    	Relay Beacon
+    	New units available in the Forward Supply Station & Mobile Radio (Built by SS-Sturmpioneres). Only ONE Kampfgruppe can be chosen in a single match.
+    	Requires Puma Dispatch from the Leichte Division.
+    	Requires the Infantrie Division.
+    	Requires 250 Halftrack Dispatch from the Leichte Division.
+    	Costs 1 Command Point to unlock.
+    	Costs 3 Command Points to unlock.
+    	Call-in Sturmpanzer IVs
+    	Requisition Sturmpanzer IV Assault Guns to the frontline. They are short-range heavy assault guns designed for smashing infantry, buildings, and the occasional tank.
+    	Costs 2 Command Points to unlock.
+    	Requisition Panzer II Ausf. L Light Tanks to the frontline. These are light reconnaissance tanks with a 2cm rapid-firing cannon can tackle infantry and light vehicles.
+    	Call-in Panzer II Ausf. L 'Luchs' Light Tank
+    	Requires Infantrie Division.
+    	Costs 3 Command Points to unlock.
+    	Requistions a Panzer IV Command Tank. The crew's radio equipment allows them to better coordinate with troops within the same territory.
+    	Costs 2 Command Points to unlock.
+    	Click to activate, Duration 15s. Ability leads to 30% faster movement speed, 50% reduced hit chance, 30% reduced sight radius, and 20% reduced weapon accuracy while moving.
+    	Duration 15s.
+    	Accelerate
+    	Costs 2 Command Points to unlock.
+    	Requisition StuG III Ausf. E Tanks to the frontline. StuG IIIs are effective mobile artillery pieces, designed to support infantry forces against almost any obstacle they encounter.
+    	Call-in StuG III Ausf. E Tanks
+    	The JU-87D will patrol overhead with its two MG-17 machine guns to target enemy infantry and suppress them.
+    	The JU-87D will patrol overhead with its two MG-17 machine guns to target enemy infantry and suppress them.
+    	Costs 3 Command Points to unlock.
+    	Costs 6 Command Points to unlock.
+    	JU-87D Strafing Run
+    	JU-87D Close Air Support
+    	JU-87D Bombing Strike
+    	Heinkel Strategic Bombing
+    	Costs 2 Command Points to unlock.
+    	Defensive structure. The 20mm flak emplacement is equally effective against aircraft, infantry and light vehicles.
+    	Right-click to re-crew. Minimum capture size is 2, maximum is 3.
+    	Type: Machine Gun, Rate of Fire: 1200 rounds per minute, Cartridge: 7.92x57mm, Effective at medium range vs. infantry. 
+    	Flak 38 2cm Anti-Aircraft Gun
+    	Call-in SdKfz 251/17 Flak Half-tracks
+    	Requisition SdKfz 251/17 Flak Half-tracks to the frontline. These vehicles serve as mobile anti-aircraft platforms.
+    	SD2 'Butterfly' Bombs
+    	The target area is scattered with SD2 bombs. These mines explode on impact.
+    	The target area is scattered with SD2 bombs. These mines explode on impact.
+    	Costs 2 Command Points to unlock.
+    	The target area is scattered with SD2 bombs. Each bomb is set to explode directly on impact.
+    	SD2 'Butterfly' Bombs
+    	Load V-patronen Armor Piercing Rounds
+    	Combat experience leads to 10% increased accuracy, 6% reduced suppression, 6% faster reload times and 6% more weapon suppression.
+    	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
+    	Combat experience leads to 10% increased accuracy, 5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
+    	Combat experience leads to 5% increased accuracy, 2.5% reduced hit chance, 6% reduced suppression, 6% faster reload times, and 6% more weapon suppression.
+    	Combat experience reaches its peak at a total of 40% increased accuracy, 15% reduced hit chance, 30% reduced suppression, 30% more weapon suppression, and 30% faster reload times.
+    	Pinned
+    	The .30 cal M1919A4 Browning machine gun can suppress large groups of infantry. Easier to deploy than other team MGs.
+    	M1919A4 .30 cal Machine Gun Team
+    	Toggle on/off
+    	Hit the dirt and take up strong firing positions. The squad has improved cover and accuracy, the M1919A6 Browning LMG will suppress enemies.
+    	Get up and become mobile, M1919A6 Browning LMG can no longer suppress.
+    	Pinned.
+    	Setup Light Machine Gun
+    	Can only field 2 M1919 Machine Gun Squads a time.
+    	Currently Unreleased Doctrine
+    	Disabled.
+    	Volksgrenadiere
+    	Combat veterans, recovering wounded and raw recruits, Volksgrenadiere were formed to replace the heavy losses sustained on the Ostfront. Varied in experience but well-armed, they were issued large quantities of deadly automatic weapons.
+    	Armaments: (K98s, MP40), *MP40s x2, *FmW 35, *Panzerschreck, Skill: Regular, Role: Assault.
+    	Battle Phase 2
+    	Can only field 2 leFH 18 Howitzers at a time.
+    	Can only field 2 leFH 18 Howitzers at a time.
+    	Ost Division
+    	Can only field 2 ML-20 Howitzers at a time.
+    	Provides access to Airborne Company Abilities.
+    	Relay Beacon
+    	Airborne Company (Assault/Airborne)
+    	Take advantage of Allied air superiority to wreak havoc upon enemy lines. 
+    	Allows access to airdropped weapons, paratroopers, and airstrikes. Only ONE Company can be chosen in a single match.
+    	P-47 Strafting Run
+    	A P-47 will drop incendiary bombs on the target location.
+    	Costs 3 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 1 Command Point to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 3 Command Points to unlock.
+    	Costs 1 Command Point to unlock.
+    	Left-click target. Deals damage over time, effective against infantry.
+    	A bomber will drop incendiary bombs on the target location.
+    	B-17 Incendiary Bomb
+    	Allows access to white phosphorus smoke, reconnaissance tools, and armored vehicles. Only ONE Company can be chosen in a single match.
+    	Mechanized Company (Assault/Mechanized)
+    	Armaments: (M1 Garands/M1911s, M1A1 Thompson), *M1A1 Thompons x2, *M2 Carbines, x2, *M9 Bazooka w. M6A3, *M2 Flamethrower, Skill: Experienced, Role: Assault.
+    	Provides access to Cavalry Company Abilities.
+    	Relay Beacon
+    	Costs 2 Command Points to unlock.
+    	Requisition 5th Infantry Division Mechanized Troops. The 'Red Devils' are armed with Thompson Submachine Guns and are trained for close-quarters combat and taking out or crippling enemy vehicles and tanks.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 1 Command Point to unlock.
+    	Costs 1 Command Point to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Riflemen squads now have increased line of sight when out of combat, stopped, and in cover or garrisoned.
+    	Costs 1 Command Point to unlock.
+    	Mechanized Company
+    	Commander
+    	Commander
+    	Requires the Mechanized Company.
+    	Airborne Company.
+    	Call-in 5th Infantry Division Riflemen
+    	Can only field 2 leFH 18 Howitzers at a time.
+    	Armaments: 7.5 cm Pak 40, K98, Crew: 5, Skill: Regular, Role: Anti-Tank.
+    	Increase Zoom
+    	Reset Zoom
+    	The squad is given additional concealment training, coupled with their camouflage uniforms, allows them to blend in with their environment.
+    	Concealment Training
+    	Ambushing enemy units while camouflaged will briefly increase the squads damage.
+    	Veterancy 1
+    	The Flammenwerfer 35 is an excellent trench-clearing weapon, reducing enemies to screaming torches from an extended range.
+    	The Flammenwerfer 35 is an excellent trench-clearing weapon, reducing enemies to screaming torches from an extended range.
+    	Flamethrowers add a risk of explosive death to the soldiers if hit by incoming projectiles.
+    	Flamethrowers add a risk of explosive death to the soldiers if hit by incoming projectiles.
+    	Type: Flamethrower, Effective at close range vs. infantry & emplacements.
+    	Veterancy 1
+    	Flammenwerfer 35 Flamethrower
+    	Converted Battlegroup Headquarters or Mechanized Regiment Headquarters.
+    	Tankovaya Diviziya (Assault/Tank)
+    	Use the might of the Soviet Union’s war machine to overwhelm the enemy with tanks.
+    	Stronger vs. Infantry, Mechanized, & Defensive. Weaker vs. Anti-Tank, Artillery, & Airborne. Only ONE Division can be chosen.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 2 Command Points to unlock.
+    	Costs 1 Command Point to unlock.
+    	Costs 1 Command Point to unlock.
+    	Costs 1 Command Point to unlock.
+    	Panzer-Division (Assault/Tanks)
+    	Ost-Division (Defensive/Anti-Tank)
+    	Armor Company (Assault/Tank)
+    	Rifle Company (Versatile/Infantry)
+    	Defensive Tactics
+    	Panzer Tactics (Assault/Tanks)
+    	Panzerjäger Tactics (Versatile/Anti-Tank)
+    	Propaganda Tactics (Versatile/Infantry)
+    	Jäger Tactics (Versatile/Infiltration)
+    	Artilleriyskaya Diviziya (Assault/Artillery)
+    	Infantry Doctrine
+    	Support Corps
+    	Istrebitel Tankovaya Diviziya (Assault/Anti-Tank)
